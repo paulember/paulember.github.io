@@ -66,7 +66,7 @@
     {
         "oID": "9",
         "team": "Anaheim Angels (1997-2004)",
-        "nickname": "Angels",
+        "nickname": "A Angels",
         "team_2": "California Angels (1961-present)",
         "team_3": "Los Angeles Angels (1961-present)",
         "": null
@@ -90,7 +90,7 @@
     {
         "oID": "12",
         "team": "Atlanta Braves (1876-present)",
-        "nickname": "Braves",
+        "nickname": "A Braves",
         "team_2": "na",
         "team_3": "na",
         "": null
@@ -138,7 +138,7 @@
     {
         "oID": "18",
         "team": "Boston Braves (1876-1952)",
-        "nickname": "Braves",
+        "nickname": "B Braves",
         "team_2": "na",
         "team_3": "Atlanta Braves (1876-present)",
         "": null
@@ -178,7 +178,7 @@
     {
         "oID": "23",
         "team": "Brooklyn Dodgers (1884-1957)",
-        "nickname": "Dodgers",
+        "nickname": "B Dodgers",
         "team_2": "na",
         "team_3": "Los Angeles Dodgers (1884-present)",
         "": null
@@ -210,7 +210,7 @@
     {
         "oID": "27",
         "team": "California Angels (1961-present)",
-        "nickname": "Angels",
+        "nickname": "C Angels",
         "team_2": "Anaheim Angels (1997-2004)",
         "team_3": "Los Angeles Angels (1961-present)",
         "": null
@@ -242,7 +242,7 @@
     {
         "oID": "31",
         "team": "Chicago White Stockings (Cubs 1876-1887)",
-        "nickname": "White Stockings",
+        "nickname": "White Stockings (Cubs)",
         "team_2": "na",
         "team_3": "na",
         "": null
@@ -410,7 +410,7 @@
     {
         "oID": "52",
         "team": "Kansas City Athletics (1955-1967)",
-        "nickname": "Athletics",
+        "nickname": "KC Athletics",
         "team_2": "na",
         "team_3": "Oakland Athletics (1901-present)",
         "": null
@@ -450,7 +450,7 @@
     {
         "oID": "57",
         "team": "Los Angeles Angels (1961-present)",
-        "nickname": "Angels",
+        "nickname": "LA Angels",
         "team_2": "California Angels (1961-present)",
         "team_3": "Anaheim Angels (1997-2004)",
         "": null
@@ -458,7 +458,7 @@
     {
         "oID": "58",
         "team": "Los Angeles Dodgers (1884-present)",
-        "nickname": "Dodgers",
+        "nickname": "LA Dodgers",
         "team_2": "na",
         "team_3": "na",
         "": null
@@ -482,7 +482,7 @@
     {
         "oID": "61",
         "team": "Milwaukee Braves (1953-1965)",
-        "nickname": "Braves",
+        "nickname": "M Braves",
         "team_2": "na",
         "team_3": "Atlanta Braves (1876-present)",
         "": null
@@ -530,7 +530,7 @@
     {
         "oID": "67",
         "team": "New York Giants (1883-1957)",
-        "nickname": "Giants",
+        "nickname": "NY Giants",
         "team_2": "na",
         "team_3": "San Francisco Giants (1883-present)",
         "": null
@@ -578,7 +578,7 @@
     {
         "oID": "73",
         "team": "Oakland Athletics (1901-present)",
-        "nickname": "Athletics",
+        "nickname": "O Athletics",
         "team_2": "na",
         "team_3": "na",
         "": null
@@ -586,7 +586,7 @@
     {
         "oID": "74",
         "team": "Philadelphia Athletics (1901-1954)",
-        "nickname": "Athletics",
+        "nickname": "P Athletics",
         "team_2": "na",
         "team_3": "Oakland Athletics (1901-present)",
         "": null
@@ -634,7 +634,7 @@
     {
         "oID": "80",
         "team": "San Francisco Giants (1883-present)",
-        "nickname": "Giants",
+        "nickname": "SF Giants",
         "team_2": "na",
         "team_3": "na",
         "": null
@@ -722,7 +722,7 @@
     {
         "oID": "91",
         "team": "Washington Senators (1901-1960)",
-        "nickname": "Senators",
+        "nickname": "Senators (01-60)",
         "team_2": "na",
         "team_3": "Minnesota Twins (1901-present)",
         "": null
@@ -730,7 +730,7 @@
     {
         "oID": "92",
         "team": "Washington Senators (1961-1971)",
-        "nickname": "Senators",
+        "nickname": "Senators (61-71)",
         "team_2": "na",
         "team_3": "Texas Rangers (1961-present)",
         "": null
