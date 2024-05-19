@@ -1,4 +1,4 @@
-export const wineData = [
+[
   {
     id: "1",
     style: "Airen",
