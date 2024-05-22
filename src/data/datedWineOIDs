@@ -1,90 +1,90 @@
 [
     {
-        "game_date": "4/1/2024",
+        "oid": "4/1/2024",
         "red_oid": "1421",
         "white_oid": "2000",
         "split_oid": "1038"
     },
     {
-        "game_date": "4/2/2024",
+        "oid": "4/2/2024",
         "red_oid": "2076",
         "white_oid": "757",
         "split_oid": "1648"
     },
     {
-        "game_date": "4/3/2024",
+        "oid": "4/3/2024",
         "red_oid": "1413",
         "white_oid": "1000",
         "split_oid": "638"
     },
     {
-        "game_date": "4/4/2024",
+        "oid": "4/4/2024",
         "red_oid": "1302",
         "white_oid": "405",
         "split_oid": "622"
     },
     {
-        "game_date": "4/5/2024",
+        "oid": "4/5/2024",
         "red_oid": "1126",
         "white_oid": "1271",
         "split_oid": "997"
     },
     {
-        "game_date": "4/6/2024",
+        "oid": "4/6/2024",
         "red_oid": "76",
         "white_oid": "573",
         "split_oid": "212"
     },
     {
-        "game_date": "4/7/2024",
+        "oid": "4/7/2024",
         "red_oid": "492",
         "white_oid": "89",
         "split_oid": "369"
     },
     {
-        "game_date": "4/8/2024",
+        "oid": "4/8/2024",
         "red_oid": "1291",
         "white_oid": "1978",
         "split_oid": "1031"
     },
     {
-        "game_date": "4/9/2024",
+        "oid": "4/9/2024",
         "red_oid": "1339",
         "white_oid": "246",
         "split_oid": "345"
     },
     {
-        "game_date": "4/10/2024",
+        "oid": "4/10/2024",
         "red_oid": "1219",
         "white_oid": "799",
         "split_oid": "1848"
     },
     {
-        "game_date": "4/11/2024",
+        "oid": "4/11/2024",
         "red_oid": "502",
         "white_oid": "212",
         "split_oid": "1463"
     },
     {
-        "game_date": "4/12/2024",
+        "oid": "4/12/2024",
         "red_oid": "1071",
         "white_oid": "166",
         "split_oid": "46"
     },
     {
-        "game_date": "4/13/2024",
+        "oid": "4/13/2024",
         "red_oid": "2055",
         "white_oid": "430",
         "split_oid": "937"
     },
     {
-        "game_date": "4/14/2024",
+        "oid": "4/14/2024",
         "red_oid": "737",
         "white_oid": "1481",
         "split_oid": "1561"
     },
     {
-        "game_date": "4/15/2024",
+        "oid": "4/15/2024",
         "red_oid": "775",
         "white_oid": "284",
         "split_oid": "1866"
