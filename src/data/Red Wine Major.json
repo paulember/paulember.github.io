@@ -1,0 +1,30 @@
+[
+    {
+        "Key": "1",
+        "Wine": "Cabernet Sauvignon"
+    },
+    {
+        "Key": "2",
+        "Wine": "Merlot"
+    },
+    {
+        "Key": "3",
+        "Wine": "Tempranillo"
+    },
+    {
+        "Key": "4",
+        "Wine": "Syrah"
+    },
+    {
+        "Key": "5",
+        "Wine": "Malbec"
+    },
+    {
+        "Key": "6",
+        "Wine": "Pinot Noir"
+    },
+    {
+        "Key": "7",
+        "Wine": "Zinfandel"
+    }
+]
