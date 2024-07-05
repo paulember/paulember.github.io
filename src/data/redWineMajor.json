@@ -1,30 +1,30 @@
 [
     {
-        "Key": "1",
-        "Wine": "Cabernet Sauvignon"
+        "oid": "1",
+        "pick_1": "Cabernet Sauvignon"
     },
     {
-        "Key": "2",
-        "Wine": "Merlot"
+        "oid": "2",
+        "pick_1": "Merlot"
     },
     {
-        "Key": "3",
+        "oid": "3",
         "pick_1": "Tempranillo"
     },
     {
-        "Key": "4",
-        "Wine": "Syrah"
+        "oid": "4",
+        "pick_1": "Syrah"
     },
     {
-        "Key": "5",
-        "Wine": "Malbec"
+        "oid": "5",
+        "pick_1": "Malbec"
     },
     {
-        "Key": "6",
-        "Wine": "Pinot Noir"
+        "oid": "6",
+        "pick_1": "Pinot Noir"
     },
     {
-        "Key": "7",
-        "Wine": "Zinfandel"
+        "oid": "7",
+        "pick_1": "Zinfandel"
     }
 ]
