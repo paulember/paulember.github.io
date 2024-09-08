@@ -1,30 +1,30 @@
 [
     {
         "oid": "1",
-        "pick_1": "Cabernet Sauvignon"
+        "wine_oid": "4"
     },
     {
         "oid": "2",
-        "pick_1": "Merlot"
+        "wine_oid": "14"
     },
     {
         "oid": "3",
-        "pick_1": "Tempranillo"
+        "wine_oid": "16"
     },
     {
         "oid": "4",
-        "pick_1": "Syrah"
+        "wine_oid": "21"
     },
     {
         "oid": "5",
-        "pick_1": "Malbec"
+        "wine_oid": "30"
     },
     {
         "oid": "6",
-        "pick_1": "Pinot Noir"
+        "wine_oid": "31"
     },
     {
         "oid": "7",
-        "pick_1": "Zinfandel"
+        "wine_oid": "35"
     }
 ]
