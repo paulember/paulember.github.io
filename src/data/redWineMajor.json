@@ -1,27 +1,27 @@
 [
     {
         "oid": "1",
-        "wine_oid": "4"
+        "pick_1": "4"
     },
     {
         "oid": "2",
-        "wine_oid": "14"
+        "pick_1": "14"
     },
     {
         "oid": "3",
-        "wine_oid": "16"
+        "pick_1": "16"
     },
     {
         "oid": "4",
-        "wine_oid": "21"
+        "pick_1": "21"
     },
     {
         "oid": "5",
-        "wine_oid": "30"
+        "pick_1": "30"
     },
     {
         "oid": "6",
-        "wine_oid": "31"
+        "pick_1": "31"
     },
     {
         "oid": "7",
