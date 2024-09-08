@@ -1,24 +1,24 @@
 [
     {
-        "oid": "4/1/2024",
+        "oid": 252,
         "red_oid": "1421",
         "white_oid": "2000",
         "split_oid": "1038"
     },
     {
-        "oid": "4/2/2024",
+        "oid": 253,
         "red_oid": "2076",
         "white_oid": "0757",
         "split_oid": "1648"
     },
     {
-        "oid": "4/3/2024",
+        "oid": 254,
         "red_oid": "1413",
         "white_oid": "1000",
         "split_oid": "0638"
     },
     {
-        "oid": "4/4/2024",
+        "oid": 255,
         "red_oid": "1302",
         "white_oid": "0405",
         "split_oid": "0622"
