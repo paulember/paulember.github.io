@@ -1,30 +1,30 @@
 [
     {
-        "Key": "1",
-        "Wine": "Airén"
+        "oid": "1",
+        "pick_1": "1"
     },
     {
-        "Key": "2",
-        "Wine": "Chardonnay"
+        "oid": "2",
+        "pick_1": "9"
     },
     {
-        "Key": "3",
-        "Wine": "Sauvignon Blanc"
+        "oid": "3",
+        "pick_1": "13"
     },
     {
-        "Key": "4",
-        "Wine": "Trebbiano Toscano"
+        "oid": "4",
+        "pick_1": "20"
     },
     {
-        "Key": "5",
-        "Wine": "Gruner Veltliner"
+        "oid": "5",
+        "pick_1": "25"
     },
     {
-        "Key": "6",
-        "Wine": "Pinot Gris"
+        "oid": "6",
+        "pick_1": "28"
     },
     {
-        "Key": "7",
-        "Wine": "Riesling"
+        "oid": "7",
+        "pick_1": "32"
     }
 ]
