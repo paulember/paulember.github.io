@@ -1,7 +1,7 @@
 [
     {
         "Date": "24-11-11",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "0",
         "AwayTeam": "na",
         "HomeTeam": "na",
@@ -62,7 +62,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "1",
         "AwayTeam": "Giants",
         "HomeTeam": "Reds",
@@ -123,7 +123,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "2",
         "AwayTeam": "Braves",
         "HomeTeam": "Nationals",
@@ -184,7 +184,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "3",
         "AwayTeam": "Phillies",
         "HomeTeam": "Cubs",
@@ -245,7 +245,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "4",
         "AwayTeam": "Senators",
         "HomeTeam": "White Sox",
@@ -306,7 +306,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "5",
         "AwayTeam": "Brewers",
         "HomeTeam": "Blue Jays",
@@ -367,7 +367,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "6",
         "AwayTeam": "Yankees",
         "HomeTeam": "Senators",
@@ -428,7 +428,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "7",
         "AwayTeam": "Reds",
         "HomeTeam": "Pirates",
@@ -489,7 +489,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "8",
         "AwayTeam": "Indians",
         "HomeTeam": "Red Sox",
@@ -550,7 +550,7 @@
     },
     {
         "Date": "24-11-10",
-        "": "Niekro",
+        "Series": "Niekro",
         "id": "9",
         "AwayTeam": "White Sox",
         "HomeTeam": "Rangers",
