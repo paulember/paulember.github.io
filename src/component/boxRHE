@@ -6,6 +6,7 @@ function BoxRHE({game, dataGames_24}) {
 
 
   let linkSABR = "https://sabr.org/gamesproject";
+  let linkAuthor = "https://sabr.org/gamesproject";
   let awayRHELine = [0, 0, 0];
   let homeRHELine = [0, 0, 0];
   let linkBox = "https://sabr.org/gamesproject";
@@ -15,6 +16,7 @@ function BoxRHE({game, dataGames_24}) {
   
     if (vennGame) {
       linkSABR = vennGame.LinkSabr;
+      linkAuthor = vennGame.Author;
       awayRHELine = [
         vennGame.AwayRunsScored || 0, 
         vennGame.AwayHits || 0, 
@@ -41,8 +43,8 @@ function BoxRHE({game, dataGames_24}) {
     let homeTeamData = null;
     
     try {
-      let awayTeamData = await getTeamData(game, 'AWAY')
-      let homeTeamData = await getTeamData(game, 'HOME')
+      let awayTeamData = await getTeamData(game, dataGames_24,'AWAY')
+      let homeTeamData = await getTeamData(game, dataGames_24,'HOME')
       setAwayTeam(awayTeamData.nickname);
       setHomeTeam(homeTeamData.nickname);
       
@@ -60,11 +62,21 @@ function BoxRHE({game, dataGames_24}) {
   }
   const headLine = titleWithDashes.replace(/-/g, ' ');
   
+  let authorWithDashes = linkAuthor.replace("https://sabr.org/authors/", "");
+  if (authorWithDashes.endsWith('/')) {
+    authorWithDashes = authorWithDashes.slice(0, -1);
+  }
+  const byLine = authorWithDashes.replace(/-/g, ' ');
+  
+
   return (
     <>
       <h4>
         <a href={linkSABR} target="_blank" rel="noreferrer"> {headLine} </a>
+      <br></br>
+      author: <a href={linkAuthor} target="_blank" rel="noreferrer"> {byLine} </a>
       </h4>
+      
       <table class="statTable td-statBox alignRight">
         <tr>
           <td class="alignLeft">{awayTeam} &emsp;</td>
