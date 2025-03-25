@@ -1,14 +1,29 @@
 import "./styles.css";
 import SearchableDropdown from "./searchableDropdown";
 import Modal from "./Modal";
-import { wineData } from "./data/wineData";
+import SplashDiv from "./component/splash";
+import {TastingNotesButtons, BottleHistoryTable} from "./component/modalHelpers";
+import {getBaseScoreMiss, getBaseScoreHit, getBaseScoreLabel, getJulianDate} from "./component/scoring";
+
+import useFetchWine from "./component/useFetchWine";
+import {GetGroup5Pick3, GetGroup7Pick2, GetRedMajor}  from './component/getGroupPicks';
+import GetDatedWineOIDs from './component/getDatedWineOIDs';
+import getWineOIDfunc from './component/getWineOIDfunc';
+import getRedWineKey from './component/getRedWineKey';
+import buildWineTable from './component/wineTables';
+
 import { vennCriteria } from "./data/vennCategory";
 import { vennGames } from "./data/vennCategory";
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
-const gameTotal = 21;
+const gameTotal = 20;
+
 
 export default function App() {
+  const { wineData, loading, error } = useFetchWine();
+  
+
   const [style, setStyle] = useState(null);
   const [startButtonLabel, setStartButtonLabel] = useState("Start");
   const [startMsg, setStartMsg] = useState(" <-- click 'Tasting' to start");
@@ -17,9 +32,19 @@ export default function App() {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const [game, setGame] = useState(null);
+  const [LSLastGame, setLSLastGame] = useState(0);
   const [wineScore, setWineScore] = useState(99);
-  const [WineScoreLabel, setWineScoreLabel] = useState(null);
+  const [wineScoreLabel, setWineScoreLabel] = useState(null);
   const [dusanBottle, setDusanBottle] = useState(null);
+  const [dusanNotes, setDusanNotes] = useState(null);
+  const [dusanLink, setDusanLink] = useState(null);
+
+  const [LSTotalNotes, setLSTotalNotes] = useState(0);
+  const [LSTotalScore, setLSTotalScore] = useState(0);
+  const [LSBalthazarCount, setLSBalthazarCount] = useState(0);
+  const [LSTastingCount, setLSTastingCount] = useState(0);
+
+  const [tastingButton, setTastingButton] = useState("sofaSommStart");
 
   const [gameBottle, setGameBottle] = useState(0);
   const [gameSpills, setGameSpills] = useState(0);
@@ -28,6 +53,7 @@ export default function App() {
   const [vennKey, setVennKey] = useState([Array(6).fill(null)]);
 
   const [vennLabel, setVennLabel] = useState([Array(6).fill(null)]);
+  const [vennBackIcon, setVennBackIcon] = useState([Array(6).fill(null)]);
   const [wineNotes, setWineNotes] = useState([Array(5).fill(null)]);
 
   const [venntdClass, setVenntdClass] = useState([Array(6).fill(null)]);
@@ -37,13 +63,130 @@ export default function App() {
   const [divBlockNone, setDivBlockNone] = useState("divDisplayNone");
 
   const [bottleHistory, setBottleHistory] = useState([]);
+  const [tastingFocus, setTastingFocus] = useState("Preference: None");
+
+  const gameStartRed = 5;
+  const gameStartWhite = 15;
+  
+  const keyDate = getJulianDate(new Date());
+
+  const pick72 = getWineOIDfunc(keyDate, "red").toString().slice(0, 2);
+
+
+
+  
+
+  const pick72white = getWineOIDfunc(keyDate, "white");
+  const pick72red = getWineOIDfunc(keyDate, "red");
+  const pick72split = getWineOIDfunc(keyDate, "split");
+
+  const [pick72_mystery_bottle_indice, setPick72_mystery_bottle_indice] = useState (null);
+
+  const pick53redA =  getWineOIDfunc(keyDate, "red").toString().slice(2, 3);
+  const pick53redB =  getWineOIDfunc(keyDate, "red").toString().slice(3, 4);
+
+  const pick72redA = getWineOIDfunc(keyDate, "red").toString().slice(0, 1);
+  const pick72redB = getWineOIDfunc(keyDate, "red").toString().slice(1, 2);
+  const pick72whiteA = getWineOIDfunc(keyDate, "white").toString().slice(0, 1);
+  const pick72whiteB = getWineOIDfunc(keyDate, "white").toString().slice(1, 2);
+  const pick72splitA = getWineOIDfunc(keyDate, "split").toString().slice(0, 1);
+  const pick72splitB = getWineOIDfunc(keyDate, "split").toString().slice(1, 2);
+
+
+  const [redA_Key,setRedA_Key] = useState("1") ;
+  const [dataRedWineTable, setDataRedWineTable] = useState(Array(7).fill(null));
+  const [dataWhiteWineTable, setDataWhiteWineTable] = useState(Array(7).fill(null));
+  
+  const [bottleForRedNotes123, setBottleForRedNotes123] = useState(null);
+  const [bottleForRedNotes456, setBottleForRedNotes456] = useState(null);
+  const [bottleForWhiteNotes123, setBottleForWhiteNotes123] = useState(null);
+  const [bottleForWhiteNotes456, setBottleForWhiteNotes456] = useState(null);
+  const [bottleForSplitNotes123, setBottleForSplitNotes123] = useState(null);
+  const [bottleForSplitNotes456, setBottleForSplitNotes456] = useState(null);
+
+ 
+
+  useEffect(() => {
+
+   
+    
+    const fetchMajorRedWineData = async () => {
+      try {
+        const response = await fetch("https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/redWineMajor.json"); 
+        if (!response.ok) {
+          throw new Error("Failed to redwine url fetch data");
+        }
+        const data = await response.json();
+        const elements = 7;
+        const filteredItems = Array.from({ length: elements }, (_, i) =>
+        data[i]?.pick_1 ?? null
+      ).filter((item) => item !== null);
+        
+        console.log("fetch good setDataRedWine Table: " + filteredItems);
+        setDataRedWineTable(filteredItems)
+
+
+      } catch (error) {
+        console.error("Error fetching redwine url JSON:", error);
+      }
+    };
+ 
+    const fetchMajorWhiteWineData = async () => {
+      try {
+        const response = await fetch("https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/whiteWineMajor.json"); 
+        if (!response.ok) {
+          throw new Error("Failed to whitewine url fetch data");
+        }
+        const data = await response.json();
+
+        const filteredItems = [data[0].pick_1, data[1].pick_1,data[2].pick_1, data[3].pick_1,
+                          data[4].pick_1, data[5].pick_1,data[6].pick_1];
+        
+        console.log("fetch good setDataWhiteWine Table: " + filteredItems);
+        setDataWhiteWineTable(filteredItems)
+
+
+      } catch (error) {
+        console.error("Error fetching whitewine url JSON:", error);
+      }
+    };
+ 
+    
+    fetchMajorRedWineData();
+    fetchMajorWhiteWineData();
+
+    }, []);
+
+  const redB_Key = getRedWineKey("2")     
+    
+  
+
+
+  
+
+  //  const redA_Key2 = "test";
+
+  
+  
+    //const [redA_Key,setRedA_Key] = useState(getRedWineKey(5));
+   // setRedA_Key(getRedWineKey(2));
+
+  //setRedA_Key("2");
+  // } getRedWineKey("2")
+  
+  // const redB_Key = getRedWineKey(pick72redB)
+  
+  // etGetRedMajor(pick72redB);
+
+
+
+
 
   const appendBottleHistory = (selectedStyle) => {
     setBottleHistory((bottleHistory) => [...bottleHistory, selectedStyle]);
   };
 
   const [selectWineDisabled, setSelectWineDisabled] = useState(true);
-  let nextId = 0;
 
   function WineSelection({ winePropValue }) {
     try {
@@ -78,7 +221,7 @@ export default function App() {
             <tr>
               <td class={winetdClass[3]}> {selectedWine.tastingNote4} </td>
               <td class="td-wineMiss"> </td>
-              <td class={winetdClass[4]}> {selectedWine.tastingNote5} </td>
+              <td class={winetdClass[4]}> {selectedWine.tastingNote4} </td>
             </tr>
           </table>
         </>
@@ -90,7 +233,9 @@ export default function App() {
   }
 
   function BuildSelectionRow(val) {
-    setSelectWineDisabled(false);
+    if (game != null) {
+      setSelectWineDisabled(false);
+    }
     setSelectedStyle(null);
     setDropStyle(val);
   }
@@ -101,43 +246,49 @@ export default function App() {
     return vennGames.find((vennSet) => vennSet.id == game) || null;
   }
 
-  function handleClick() {
-    setGame((prevGame) => (prevGame % gameTotal) + 1);
+  function handleClickGameRed (){
+      setTastingFocus("Preference: Red Wine");
+
+      localStorage.setItem("LastGame", gameStartRed);
+      handleClickNext();
   }
 
-  function handleClickTastingNote(i) {
-    const matchingWines = wineData.filter(
-      (wine) =>
-        wine.tastingNote1 === vennLabel[i] ||
-        wine.tastingNote2 === vennLabel[i] ||
-        wine.tastingNote3 === vennLabel[i] ||
-        wine.tastingNote4 === vennLabel[i] ||
-        wine.tastingNote5 === vennLabel[i]
-    );
+  function handleClickGameWhite (){
+    setTastingFocus("Preference: White Wine");
 
-    const matchingWinesLength = matchingWines.length;
-    let wineMatchList =
-      "\nWine Styles Known for " + vennLabel[i] + " Tasting Notes: \n \n";
+    localStorage.setItem("LastGame", gameStartWhite);
+    handleClickNext();
+  }
 
-    for (let j = 0; j < matchingWinesLength; j++) {
-      wineMatchList = wineMatchList + matchingWines[j].style;
-      wineMatchList = wineMatchList + "\n";
+  function handleClickNext() {
+    setLSLastGame(localStorage.getItem("LastGame"));
+    setGame(localStorage.getItem("LastGame"));
+
+    if (game % 10 === 0 & game > 0) {
+      setGame((prevGame) => (prevGame % gameTotal) + 1);
+      setTastingFocus("Prefererence: None");
+      window.location.href = window.location.href;
     }
-    alert(wineMatchList);
 
-    console.log("mw2 1 ");
+    setGame((prevGame) => (prevGame % gameTotal) + 1);
 
-    console.log(wineMatchList);
-    console.log("label ");
-    console.log(vennLabel[i]);
+    setLSTastingCount(localStorage.getItem("TastingCount"));
+    setLSBalthazarCount(localStorage.getItem("BalthazarCount"));
+    setLSTotalScore(localStorage.getItem("TotalScore"));
+    setLSTotalNotes(localStorage.getItem("TotalNotes"));
+  }
+
+  function handleClickHelp() {
+    window.location.href = window.location.href;
   }
 
   useEffect(() => {
     if (game !== null) {
       if (game > 0) {
         setStartMsg("");
-        setStartButtonLabel("Tasting: ");
+        setStartButtonLabel("TastingNEW: ");
       }
+
       let newVennKey = [
         [getVennGame(game).venn_0],
         [getVennGame(game).venn_1],
@@ -152,6 +303,7 @@ export default function App() {
       for (let i = 0; i < 6; i++) {
         tempArray[i] = "td-vennMiss";
       }
+
       setVenntdClass([
         tempArray[0],
         tempArray[1],
@@ -167,30 +319,68 @@ export default function App() {
       setWineScore(99);
       setGameBottle(0);
       setGameSpills(0);
+
+      setLSTotalNotes(localStorage.getItem("TotalNotes"));
+      setLSTotalScore(localStorage.getItem("TotalScore"));
+      setLSBalthazarCount(localStorage.getItem("BalthazarCount"));
+      setLSTastingCount(localStorage.getItem("TastingCount"));
+
+      if (LSTotalNotes == null) {
+        localStorage.setItem("TotalNotes", 0);
+        setLSTotalNotes(localStorage.getItem("TotalNotes"));
+      }
+      if (LSTotalScore == null) {
+        localStorage.setItem("TotalScore", 0);
+        setLSTotalScore(localStorage.getItem("TotalScore"));
+      }
+      if (LSBalthazarCount == null) {
+        localStorage.setItem("BalthazarCount", 0);
+        setLSBalthazarCount(localStorage.getItem("BalthazarCount"));
+      }
+      if (LSTastingCount == null) {
+        localStorage.setItem("TastingCount", 0);
+        setLSTastingCount(0);
+      }
+
+      setBottleForRedNotes123(wineData[pick72redA].style);
+      setBottleForRedNotes456(wineData[pick72redB].style)
+      setBottleForWhiteNotes123(wineData[pick72whiteA].style);
+      setBottleForWhiteNotes456(wineData[pick72whiteB].style)
+      setBottleForSplitNotes123(wineData[pick72splitA].style);
+      setBottleForSplitNotes456(wineData[pick72splitB].style)
+
+      setPick72_mystery_bottle_indice(13);
+
+ 
+
+
       setDusanBottle(null);
       setBottleHistory([]);
       setShowHideBottleDiv("Show ");
       setDivBlockNone("divDisplayNone");
+      setTastingButton("sofaSommTitle");
     }
   }, [game]);
 
+useEffect(() => {
+
+
+
+}, [dataRedWineTable]);
+
+
   useEffect(() => {
-    if (vennKey[0] === undefined) {
-      vennKey[0] = null;
-    }
-    if (vennKey[1] === undefined) {
-      vennKey[1] = null;
-    }
-    if (vennKey[2] === undefined) {
-      vennKey[2] = null;
+    for (let i = 0; i <= 2; i++) {
+      if (vennKey[i] === undefined) {
+        vennKey[i] = null;
+      }
     }
     if (vennKey[0] !== null && vennKey[1] !== null && vennKey[2] !== null) {
-      // Initialize vennCriteria as an empty array
-
-      const criteria = [];
-      const labels = [];
-      const los = [];
-      const his = [];
+      
+      const criteria = new Array(6).fill(null);
+      const labels = new Array(6).fill(null);
+      const los = new Array(6).fill(null);
+      const his = new Array(6).fill(null);
 
       const wineDataLength = wineData.length;
       const dusanArray = new Array(wineDataLength).fill(0);
@@ -199,10 +389,8 @@ export default function App() {
         criteria[i] =
           vennCriteria.find((vennSet) => vennSet.key == vennKey[i]) || null;
 
-        if ((criteria[i].label == null) | (criteria[i].label == undefined)) {
-          labels[i] = criteria[i].key;
-          los[i] = criteria[i].key;
-          his[i] = criteria[i].key;
+        if (!criteria[i].label) {
+          labels[i] = los[i] = his[i] = criteria[i].key;
         } else {
           labels[i] = criteria[i].label;
           los[i] = criteria[i].lo;
@@ -210,57 +398,38 @@ export default function App() {
         }
 
         for (let j = 0; j < wineDataLength; j++) {
-          if (wineData[j].tastingNote1 == labels[i]) {
-            dusanArray[j]++;
+          for (let k = 1; k <= 5; k++) {
+              if (wineData[j][`tastingNote${k}`] === labels[i]) {
+                  dusanArray[j]++;
+              }
           }
-          if (wineData[j].tastingNote2 == labels[i]) {
-            dusanArray[j]++;
-          }
-          if (wineData[j].tastingNote3 == labels[i]) {
-            dusanArray[j]++;
-          }
-          if (wineData[j].tastingNote4 == labels[i]) {
-            dusanArray[j]++;
-          }
-          if (wineData[j].tastingNote5 == labels[i]) {
-            dusanArray[j]++;
-          }
-        }
+        }      
 
-        let largestNumber = dusanArray[0];
-        let largestIndex = 0;
-        for (let k = 1; k < dusanArray.length; k++) {
-          if (dusanArray[k] > largestNumber) {
-            largestNumber = dusanArray[k];
-            largestIndex = k;
-          }
-        }
+        const largestIndex = dusanArray.reduce(
+          (acc, cur, idx) => (cur > dusanArray[acc] ? idx : acc),
+          0
+        );
+        
+        const largestNumber = dusanArray[largestIndex];
 
-        setDusanBottle(
-          wineData[largestIndex].style +
-            "(" +
-            largestNumber +
-            ") - " +
-            wineData[largestIndex].tastingNote1 +
-            ", " +
-            wineData[largestIndex].tastingNote2 +
-            ", " +
-            wineData[largestIndex].tastingNote3 +
-            ", " +
-            wineData[largestIndex].tastingNote4 +
-            ", " +
-            wineData[largestIndex].tastingNote5
+        setDusanBottle(wineData[largestIndex].style);
+        setDusanLink(
+          "https://winefolly.com/grapes/" + wineData[largestIndex].style
+        );
+
+
+        setDusanNotes(
+          `(${largestNumber}) - ${[
+            wineData[largestIndex].tastingNote1,
+            wineData[largestIndex].tastingNote2,
+            wineData[largestIndex].tastingNote3,
+            wineData[largestIndex].tastingNote4,
+            wineData[largestIndex].tastingNote5,
+          ].join(", ")}`
         );
       }
 
-      setVennLabel([
-        labels[0],
-        labels[1],
-        labels[2],
-        labels[3],
-        labels[4],
-        labels[5]
-      ]);
+      setVennLabel(labels);
     }
   }, [vennKey]);
 
@@ -270,73 +439,71 @@ export default function App() {
         wineData.find((wine) => wine.style == selectedStyle) || null;
 
       if (selectedWine !== null) {
-        const tastingNotes = [];
-
         appendBottleHistory(selectedStyle);
-        tastingNotes[0] = selectedWine.tastingNote1;
-        tastingNotes[1] = selectedWine.tastingNote2;
-        tastingNotes[2] = selectedWine.tastingNote3;
-        tastingNotes[3] = selectedWine.tastingNote4;
-        tastingNotes[4] = selectedWine.tastingNote5;
-
-        setWineNotes([
-          tastingNotes[0],
-          tastingNotes[1],
-          tastingNotes[2],
-          tastingNotes[3],
-          tastingNotes[4]
-        ]);
+        const tastingNotes = [
+          selectedWine.tastingNote1,
+          selectedWine.tastingNote2,
+          selectedWine.tastingNote3,
+          selectedWine.tastingNote4,
+          selectedWine.tastingNote5
+        ];
+        setWineNotes(tastingNotes);
         setGameBottle(gameBottle + 1);
       }
     }
   }, [selectedStyle]);
 
   useEffect(() => {
-    switch (true) {
-      case wineScore > 94:
-        setWineScoreLabel("Exceptional");
-        break;
-      case wineScore > 89:
-        setWineScoreLabel("Superior");
-        break;
-      case wineScore > 84:
-        setWineScoreLabel("Very Good");
-        break;
-      case wineScore > 79:
-        setWineScoreLabel("Good");
-        break;
-      case wineScore > 74:
-        setWineScoreLabel("Above Average");
-        break;
-      case wineScore > 69:
-        setWineScoreLabel("Meh");
-        break;
-      case wineScore > 64:
-        setWineScoreLabel("flawed");
-        break;
-      case wineScore > 59:
-        setWineScoreLabel("...drinkable");
-        break;
-      default:
-        setWineScoreLabel("Are you a Bot?");
-    }
+    setWineScoreLabel(getBaseScoreLabel(wineScore))
   }, [wineScore]);
 
-  const openModal = () => {
-    const notesGood = venntdClass.filter((value) => value === "td-vennMatch")
-      .length;
-    setGameNotesAcquired(notesGood);
+  useEffect(() => {
+    ``;
+  }, [wineScoreLabel]);
 
+  const openModal = () => {
+    localStorage.setItem("LastGame", game);
+    if (LSTastingCount == null) {
+      localStorage.setItem("TastingCount", 1);
+      setLSTastingCount(1);
+    } else {
+      setLSTastingCount((prevCount) => parseInt(prevCount) + parseInt(1));
+    }
     setIsModalOpen(true);
   };
 
   const closeModal = () => {
+    localStorage.setItem(
+      "TotalNotes",
+      parseInt(LSTotalNotes) + parseInt(gameNotesAcquired)
+    );
+
+    if (gameNotesAcquired > 5) {
+      if (isNaN(LSBalthazarCount)) {
+        localStorage.setItem("BalthazarCount", 1);
+      } else {
+        localStorage.setItem(
+          "BalthazarCount",
+          parseInt(LSBalthazarCount) + parseInt(1)
+        );
+      }
+    }
+
+    localStorage.setItem(
+      "TotalScore",
+      parseInt(LSTotalScore) + parseInt(wineScore)
+    );
+    localStorage.setItem("TastingCount", LSTastingCount);
+
     setIsModalOpen(false);
-    handleClick();
+    handleClickNext();
   };
 
   useEffect(() => {
     if (gameBottle > 5) {
+      let baseScore = getBaseScoreMiss(gameNotesAcquired);
+      console.log("baseScore: " + baseScore)
+      setWineScore(baseScore - gameSpills * 2);
       openModal();
     }
   }, [gameBottle]);
@@ -348,76 +515,44 @@ export default function App() {
         matchCount++;
       }
     }
+    setGameNotesAcquired(matchCount);
     if (matchCount > 5) {
-      setWineScore(Math.round((wineScore + 99) / 2));
-      openModal();
+      let baseScore = getBaseScoreHit(gameBottle);
+      setWineScore(baseScore - gameSpills * 3);
+      if (gameBottle < 6) {
+        openModal();
+      }
     }
   }, [venntdClass]);
 
   useEffect(() => {
-    setWineScore(wineScore - 2);
-  }, [gameSpills]);
-
-  useEffect(() => {
-    const temptdWineArray = [];
-    for (let i = 0; i < 5; i++) {
-      temptdWineArray[i] = "td-wineMiss";
-    }
-    setWinetdClass([
-      temptdWineArray[0],
-      temptdWineArray[1],
-      temptdWineArray[2],
-      temptdWineArray[3],
-      temptdWineArray[4],
-      temptdWineArray[5]
-    ]);
-    const matchingElements = vennLabel.filter((value) =>
-      wineNotes.includes(value)
-    );
-
-    let matchLength = matchingElements.length;
-
-    console.log("wineScore In: " + wineScore);
-    console.log("wineScore matches: " + matchLength);
-
-    const tempArray = Array.from(venntdClass);
-
+    const initialWineArray = Array(5).fill("td-wineMiss");
+    const initialVennArray = Array.from(venntdClass);
+  
+    const matchingElements = vennLabel.filter(value => wineNotes.includes(value));
+    const matchLength = matchingElements.length;
+  
     if (matchLength < 1) {
       setGameSpills(gameSpills + 1);
     }
-
-    setWineScore(wineScore - (6 - matchLength));
-
-    for (let i = 0; i < matchLength; i++) {
-      for (let j = 0; j < 6; j++) {
-        if (vennLabel[j] == matchingElements[i]) {
-          tempArray[j] = "td-vennMatch";
+  
+    matchingElements.forEach(match => {
+      vennLabel.forEach((label, index) => {
+        if (label === match) {
+          initialVennArray[index] = "td-vennMatch";
         }
-      }
-      for (let k = 0; k < 5; k++) {
-        if (wineNotes[k] == matchingElements[i]) {
-          temptdWineArray[k] = "td-wineMatch";
+      });
+      wineNotes.forEach((note, index) => {
+        if (note === match) {
+          initialWineArray[index] = "td-wineMatch";
         }
-      }
-    }
-
-    setVenntdClass([
-      tempArray[0],
-      tempArray[1],
-      tempArray[2],
-      tempArray[3],
-      tempArray[4],
-      tempArray[5]
-    ]);
-
-    setWinetdClass([
-      temptdWineArray[0],
-      temptdWineArray[1],
-      temptdWineArray[2],
-      temptdWineArray[3],
-      temptdWineArray[4]
-    ]);
+      });
+    });
+  
+    setVenntdClass(initialVennArray);
+    setWinetdClass(initialWineArray);
   }, [wineNotes]);
+  
 
   function SelectButton({ value, onSelectWineClick }) {
     return (
@@ -427,46 +562,179 @@ export default function App() {
     );
   }
 
+  function SplashBtnDiv() {
+    if (game == null) {
+      return (
+        <div>
+          <h3> Welcome to Sofa Sommelier! </h3>Red
+         
+          <p> Click &nbsp;            
+            <button class="buttonContinue" onClick={handleClickNext}>
+              Continue
+          
+            </button> to start or resume your tasting or read on for more details.  </p>
+  
+          If you prefer to focus on Red or White Click the appropriate button and your first FIVE tastings will be curated as chosen.   
+          <p></p>
+          
+          <div>
+          <button class="buttonWhite" onClick={handleClickGameWhite}>
+              White
+          </button>
+         
+          <button class="buttonRed" onClick={handleClickGameRed}>
+              Red
+          </button> 
+         
+          <button class="buttonContinue" onClick={handleClickNext}>
+              Red & White
+          </button>
+
+          <div>
+     
+      
+      <div>julianToday: {keyDate}</div>
+      <div>72r: {pick72red}</div>
+      <div>72w: {pick72white}</div>
+      <div>72s: {pick72split}</div>
+
+      <div>72rA: {pick72redA}</div>
+      <div>redA_Key: {redA_Key}</div>
+      <div>redB_Key: {redB_Key}</div>
+
+      <div>bottle 123: {bottleForRedNotes123}</div>    
+      <div>bottle 456: {bottleForSplitNotes456}</div>
+      
+
+      <div>redArray_Key: {dataRedWineTable[0]}</div>    
+      <div>redArray_Key: {dataRedWineTable[1]}</div>
+      <div>redArray_Key: {dataRedWineTable[2]}</div>
+      <div>redArray_Key: {dataRedWineTable[3]}</div>
+      <div>redArray_Key: {dataRedWineTable[4]}</div>
+      <div>redArray_Key: {dataRedWineTable[5]}</div>
+      <div>redArray_Key: {dataRedWineTable[6]}</div>
+      <div>redArray_Key: {dataRedWineTable[7]}</div>
+      
+      <div>whiteArray_Key: {dataWhiteWineTable[0]}</div>    
+      <div>whiteArray_Key: {dataWhiteWineTable[1]}</div>
+      <div>whiteArray_Key: {dataWhiteWineTable[2]}</div>
+      <div>redArray_Key: {dataWhiteWineTable[3]}</div>
+      <div>redArray_Key: {dataWhiteWineTable[4]}</div>
+      <div>redArray_Key: {dataWhiteWineTable[5]}</div>
+      <div>redArray_Key: {dataWhiteWineTable[6]}</div>
+      <div>redArray_Key: {dataWhiteWineTable[7]}</div>
+    
+      <div>72rB: {pick72redB}</div>
+      <div>53rA: {pick53redA}</div>
+      <div>53rB: {pick53redB}</div>
+
+      <div> TestTest3_53  <GetGroup5Pick3 oid={pick53redA} />  and  <GetGroup5Pick3 oid={pick53redB} />TestEnd3   </div>
+      
+     
+      
+
+      TestSPlashEnd1
+      </div>
+
+          </div>
+          <SplashDiv game={game} />
+        </div>
+      );
+    }
+  }
+
   function handleWineSelection({ dropStyle }) {
     setSelectedStyle(dropStyle);
   }
 
   function toggleBottleDiv() {
-    if (divBlockNone != "divDisplayNone") {
-      setShowHideBottleDiv("Show ");
-      setDivBlockNone("divDisplayNone");
-      console.log("toggle display none: " + divBlockNone);
-    } else {
-      setShowHideBottleDiv("Hide ");
-      setDivBlockNone("divDisplayBlock");
-    }
+    setShowHideBottleDiv(divBlockNone !== "divDisplayNone" ? "Show" : "Hide");
+    setDivBlockNone(divBlockNone !== "divDisplayNone" ? "divDisplayNone" : "divDisplayBlock");
   }
-
+  
   return (
-    <div>
+    <div class="h1-background-bottle-glass">
       <div>
         <p>
-          <h2 class="sofaSommTitle">
+          <h2 class="sofaSommTitle ">
             {" "}
             <b>
               {" "}
-              <i> Sofa Somm </i>
+              <i> Sofa Somm </i>   
               &emsp;&emsp;
             </b>
-            <button class="sofaSommTitle" onClick={handleClick}>
+            <button class={tastingButton} onClick={handleClickNext}>
               {" "}
               {startButtonLabel} {game}
+            </button>
+            &emsp;
+            <button class="sofaSommHelp" onClick={handleClickHelp}>
+              about
             </button>
           </h2>
         </p>
       </div>
+      <div>
+        <SplashBtnDiv />
+      </div>
 
       <div>
-        <b> Find these Tasting Notes </b>
+        <b> Find Wines that Match these Tasting Notes </b>
+      </div>[wineNotes]
+  <div>
+
+
+<div>  TestTest1_array  {dataRedWineTable} TestEnd1</div>
+   
+ 
+
+
+      </div>
+      <div> pick72 {pick72} </div>
+      <div> pick72redA {pick72redA} </div>
+      <div> pick72redB {pick72redB} </div>
+
+
+   
+      
+      ################### 
+      <div> pick72white {pick72white} </div>
+      <div> pick72whiteA {pick72whiteA} </div>
+      <div> pick72whiteB {pick72whiteB} </div>
+      <div> getMysteryNotesFromDates123white {bottleForWhiteNotes123} </div> 
+      <div> getMysteryNotesFromDates456white {bottleForWhiteNotes456} </div>
+      ####################
+      <div> pick72red {pick72red} </div>
+      <div> getMysteryNotesFromDates123red {bottleForRedNotes123} </div> 
+      <div> getMysteryNotesFromDates456red {bottleForRedNotes456} </div>
+
+      <div> pick72split {pick72split} </div>
+      <div> getMysteryNotesFromDates123split {bottleForSplitNotes123} </div> 
+      <div> getMysteryNotesFromDates456split {bottleForSplitNotes456} </div>
+      
+      <div> ++++mystery bottle indice= {pick72_mystery_bottle_indice} ++++
+       
+      TestEnd2
+
       </div>
       <div>
+      TestTest3_53  <GetGroup5Pick3 oid={pick53redA} />  and  <GetGroup5Pick3 oid={pick53redB} />TestEnd3
+      
+     
+      </div>
+    
+      <div>
+      
+    
+      TestEnd4
+
+      </div>
+      <div>  redOID:  <GetDatedWineOIDs oid={keyDate} oidType="red" /> TestEnd1</div>
+      
+     
+      <div>
         <div>
-          <table>
+          <table class="notesTable">
             <tr>
               <td class={venntdClass[0]}> {vennLabel[0]} </td>
               <td class={venntdClass[1]}> {vennLabel[1]} </td>
@@ -480,9 +748,7 @@ export default function App() {
           </table>
         </div>
       </div>
-
       <div>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </div>
-
       <div id="dropdownIn">
         <SearchableDropdown
           width="100"
@@ -500,25 +766,42 @@ export default function App() {
           />
         </div>
       </div>
-
       <WineSelection winePropValue={selectedStyle} />
       <div>________________________________________</div>
-
       <div>
         <table>
-          <tr class>
+          <tr>
             {" "}
             <td class="td-bottleHistory"> Bottles Opened </td>{" "}
           </tr>
-
-          <tr class="td-bottleHistory"> Bottle 1: {bottleHistory[0]} </tr>
-          <tr class="td-bottleHistory"> Bottle 2: {bottleHistory[1]} </tr>
-          <tr class="td-bottleHistory"> Bottle 3: {bottleHistory[2]} </tr>
-          <tr class="td-bottleHistory"> Bottle 4: {bottleHistory[3]} </tr>
-          <tr class="td-bottleHistory"> Bottle 5: {bottleHistory[4]} </tr>
-          <tr class="td-bottleHistory"> Bottle 6: {bottleHistory[5]} </tr>
+          <BottleHistoryTable bottleHistory={bottleHistory} />
         </table>
       </div>
+
+      <div>
+        <table>
+          <tr>
+            <td class="td-bottleHistory"> Sommelier Credentials </td>
+          </tr>
+        </table>
+        <table class="sofaJPG">
+          <tr>
+            Sofa Somm Rating: {(LSTotalScore / LSTastingCount).toFixed(1)}
+          </tr>
+          <tr>
+            Balthazars: {LSBalthazarCount} &emsp; Rate:{" "}
+            {((LSBalthazarCount / LSTastingCount) * 100).toFixed(0)}%
+          </tr>
+          <tr>
+            Notes/Tasting: {(LSTotalNotes / LSTastingCount).toFixed(1)} &nbsp;
+            Total Notes: {LSTotalNotes}
+          </tr>
+          <tr>
+            SommPoints: {LSTotalScore} &nbsp; Tastings: {LSTastingCount}
+          </tr>
+        </table>
+      </div>
+
       <Modal isOpen={isModalOpen} onClose={closeModal}>
         <h2 class="sofaSommTitle">
           <b>
@@ -535,7 +818,7 @@ export default function App() {
             <td class="td-modalWineScore">
               {" "}
               <b> Wine Score </b> &nbsp;
-              <b>{wineScore} </b> &emsp; {WineScoreLabel}
+              <b>{wineScore} </b> &emsp; {wineScoreLabel}
             </td>
           </tr>
         </table>
@@ -549,59 +832,17 @@ export default function App() {
         <p></p>
         <div>
           <table>
-            <div>
-              Tasting #{game} - Notes Found: {gameNotesAcquired}
-              <div class="button_container">
-                <button
-                  class={venntdClass[0]}
-                  onClick={() => handleClickTastingNote(0)}
-                >
-                  {" "}
-                  {vennLabel[0]}
-                </button>
-                <button
-                  class={venntdClass[1]}
-                  onClick={() => handleClickTastingNote(1)}
-                >
-                  {" "}
-                  {vennLabel[1]}
-                </button>
-                <button
-                  class={venntdClass[2]}
-                  onClick={() => handleClickTastingNote(2)}
-                >
-                  {" "}
-                  {vennLabel[2]}
-                </button>
-              </div>
-              <div class="button_container">
-                <button
-                  class={venntdClass[3]}
-                  onClick={() => handleClickTastingNote(3)}
-                >
-                  {" "}
-                  {vennLabel[3]}
-                </button>
-                <button
-                  class={venntdClass[4]}
-                  onClick={() => handleClickTastingNote(4)}
-                >
-                  {" "}
-                  {vennLabel[4]}
-                </button>
-                <button
-                  class={venntdClass[5]}
-                  onClick={() => handleClickTastingNote(5)}
-                >
-                  {" "}
-                  {vennLabel[5]}
-                </button>
-              </div>
-              Click Tasting Notes for Bottle Info
-            </div>
+          <div>
+            <TastingNotesButtons
+              game={game}
+              gameNotesAcquired={gameNotesAcquired}
+              venntdClass={venntdClass}
+              vennLabel={vennLabel}
+              wineData={wineData}
+            />
+          </div>
           </table>
         </div>
-        ----------------------------------
         <div>
           <button onClick={() => toggleBottleDiv()}>
             {showHideBottleDiv} Bottle Details
@@ -610,25 +851,36 @@ export default function App() {
         <div class={divBlockNone}>
           <table>
             <tr>
-              <td class="td-bottleHistory"> Dusan Bottle: {dusanBottle} </td>
+              <td class="td-bottleHistory">
+                {" "}
+                Magnum Bottle:{" "}
+                <a href={dusanLink} target="_blank" rel="noreferrer">
+                  {dusanBottle}{" "}
+                </a>{" "}
+                {dusanNotes}{" "}
+              </td>
             </tr>
-            <tr>
-              {" "}
-              <td class="td-bottleHistory"> Bottles Opened </td>{" "}
-            </tr>
-            <tr class="td-bottleHistory"> Bottle 1: {bottleHistory[0]} </tr>
-            <tr class="td-bottleHistory"> Bottle 2: {bottleHistory[1]} </tr>
-            <tr class="td-bottleHistory"> Bottle 3: {bottleHistory[2]} </tr>
-            <tr class="td-bottleHistory"> Bottle 4: {bottleHistory[3]} </tr>
-            <tr class="td-bottleHistory"> Bottle 5: {bottleHistory[4]} </tr>
-            <tr class="td-bottleHistory"> Bottle 6: {bottleHistory[5]} </tr>
+            <BottleHistoryTable bottleHistory={bottleHistory} />
           </table>
+        </div>
+        <p></p>
+        <div>
+          *** If you enjoy SofaSomm please try our Baseball Game{" "}
+          <a
+            href="https://starting9.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Starting9{" "}
+          </a>{" "}
+          ***
         </div>
         <p></p>
         <p></p>
         <p></p>
         <p></p>.<p></p>.<p></p>.
       </Modal>
+      <Analytics />
     </div>
   );
 }
