@@ -1,7 +1,7 @@
 export const wineData = [
   {
     id: "1",
-    style: "Airen",
+    style: "###URLAirenURL###",
     tastingNote1: "Apple",
     tastingNote2: "Pineapple",
     tastingNote3: "Grapefruit",
