@@ -11,7 +11,7 @@
   },
   {
     "id": 1,
-    "style": "Bordeaux Blend",
+    "style": "ZZBordeaux Blend",
     "tastingNote1": "Black Currant",
     "tastingNote2": "Black Cherry",
     "tastingNote3": "Graphite",
@@ -280,7 +280,7 @@
     "returnColumn\\r": "Sauvignon Blanc"
   },
   {
-    "id": 28,
+    "id": 48,
     "style": "Sherry",
     "tastingNote1": "Jackfruit",
     "tastingNote2": "Saline",
@@ -331,7 +331,7 @@
   },
   {
     "id": 33,
-    "style": "Viognier",
+    "style": "AAViognier",
     "tastingNote1": "Tangerine",
     "tastingNote2": "Peach",
     "tastingNote3": "Mango",
