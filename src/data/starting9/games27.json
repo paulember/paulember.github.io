@@ -303,7 +303,7 @@
     "A7_Name": "Lord",
     "A8_Name": "Hinchman",
     "A9_Name": "Joss",
-    "A10_Name": "z",
+    "A10_Name": "none",
     "A1_Pos": "lf",
     "A2_Pos": "3b",
     "A3_Pos": "ss",
@@ -313,7 +313,7 @@
     "A7_Pos": "cf",
     "A8_Pos": "rf",
     "A9_Pos": "p",
-    "A10_Pos": "z",
+    "A10_Pos": "dh",
     "H1_Name": "Stone",
     "H2_Name": "Jones",
     "H3_Name": "Hartzell",
@@ -323,7 +323,7 @@
     "H7_Name": "Williams",
     "H8_Name": "Criger",
     "H9_Name": "Powell",
-    "H10_Name": "z",
+    "H10_Name": "none",
     "H1_Pos": "lf",
     "H2_Pos": "1b",
     "H3_Pos": "rf",
@@ -333,7 +333,7 @@
     "H7_Pos": "2b",
     "H8_Pos": "c",
     "H9_Pos": "p",
-    "H10_Pos": "z"
+    "H10_Pos": "dh"
   },
   {
     "Date": "2025-07-07",
@@ -359,7 +359,7 @@
     "A7_Name": "Fernandez",
     "A8_Name": "House",
     "A9_Name": "Mossi",
-    "A10_Name": "z",
+    "A10_Name": "none",
     "A1_Pos": "2b",
     "A2_Pos": "cf",
     "A3_Pos": "rf",
@@ -369,7 +369,7 @@
     "A7_Pos": "ss",
     "A8_Pos": "c",
     "A9_Pos": "p",
-    "A10_Pos": "z",
+    "A10_Pos": "dh",
     "H1_Name": "Hinton",
     "H2_Name": "O'Connell",
     "H3_Name": "Johnson",
@@ -379,7 +379,7 @@
     "H7_Name": "Zipfel",
     "H8_Name": "Cottier",
     "H9_Name": "Daniels",
-    "H10_Name": "z",
+    "H10_Name": "none",
     "H1_Pos": "lf",
     "H2_Pos": "3b",
     "H3_Pos": "ss",
@@ -389,7 +389,7 @@
     "H7_Pos": "1b",
     "H8_Pos": "2b",
     "H9_Pos": "p",
-    "H10_Pos": "z"
+    "H10_Pos": "dh"
   },
   {
     "Date": "2025-07-07",
