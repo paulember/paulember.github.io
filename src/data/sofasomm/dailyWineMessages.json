@@ -1,4 +1,18 @@
-[
+[ 
+  {
+    "date": "Jul14",
+    "openingMessage": "test 0714",
+    "whitePostgameMsg": "w0714",
+    "redPostgameMsg": "",
+    "comboPostgameMsg": ""
+  },
+  {
+    "date": "Jul15",
+    "openingMessage": "test 0715",
+    "whitePostgameMsg": "",
+    "redPostgameMsg": "r0715",
+    "comboPostgameMsg": "c0715"
+  },
   {
     "date": "Jul24",
     "openingMessage": "National Tequila Day",
