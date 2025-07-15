@@ -1,5 +1,11 @@
 [ 
-  {
+   {
+    "date": "Jul15",
+    "openingMessage": "🍷🍷🍷 ",
+    "whitePostgameMsg": "",
+    "redPostgameMsg": "r0715",
+    "comboPostgameMsg": ""
+  },{
     "date": "Jul18",
     "openingMessage": "HAPPY FRIDAY!!!",
     "whitePostgameMsg": "",
