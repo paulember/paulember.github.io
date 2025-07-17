@@ -15,7 +15,8 @@
     "tastingNote2": "Black Cherry",
     "tastingNote3": "Graphite",
     "tastingNote4": "Chocolate",
-    "tastingNote5": "Dried Herbs"
+    "tastingNote5": "Dried Herbs",
+    "wfBottleLink": "https://winefolly.com/wines/bordeaux-blend-red/"
   },
   {
     "id": "2",
@@ -42,7 +43,8 @@
     "tastingNote2": "Lime",
     "tastingNote3": "Yellow Apple",
     "tastingNote4": "Chamomile",
-    "tastingNote5": "Almond"
+    "tastingNote5": "Almond",
+    "wfBottleLink": "https://winefolly.com/wines/cava/"
   },
   {
     "id": "5",
@@ -51,7 +53,8 @@
     "tastingNote2": "Starfruit",
     "tastingNote3": "Lime Peel",
     "tastingNote4": "White Flowers",
-    "tastingNote5": "Chalk"
+    "tastingNote5": "Chalk",
+    "wfBottleLink": "https://winefolly.com/wines/chablis/"
   },
   {
     "id": "6",
@@ -60,7 +63,8 @@
     "tastingNote2": "Black Pepper",
     "tastingNote3": "Crushed Gravel",
     "tastingNote4": "Wet Loam",
-    "tastingNote5": "Chocolate"
+    "tastingNote5": "Chocolate",
+    "wfBottleLink": "https://winefolly.com/tips/say-hello-to-french-hybrids-from-chambourcin-to-vidal-blanc/"
   },
   {
     "id": "7",
@@ -69,7 +73,8 @@
     "tastingNote2": "Yellow Apple",
     "tastingNote3": "Cream",
     "tastingNote4": "Almond",
-    "tastingNote5": "Toast"
+    "tastingNote5": "Toast",
+    "wfBottleLink": "https://winefolly.com/wines/champagne/"
   },
   {
     "id": "8",
@@ -96,7 +101,8 @@
     "tastingNote2": "White Peach",
     "tastingNote3": "White Cherry",
     "tastingNote4": "Almond",
-    "tastingNote5": "Toast"
+    "tastingNote5": "Toast",
+    "wfBottleLink": "https://winefolly.com/wines/cremant/"
   },
   {
     "id": "11",
@@ -151,7 +157,7 @@
     "tastingNote3": "Bay Leaf",
     "tastingNote4": "Tobacco",
     "tastingNote5": "Chili Pepper",
-    "field8": "https://winefolly.com/deep-dive/guide-to-nero-davola-wine/"
+    "wfBottleLink": "https://winefolly.com/deep-dive/guide-to-nero-davola-wine/"
   },
   {
     "id": "17",
@@ -187,8 +193,7 @@
     "tastingNote2": "Lemon Zest",
     "tastingNote3": "Cantaloupe",
     "tastingNote4": "Raw Almond",
-    "tastingNote5": "Crushed Gravel",
-    "field8": "https://winefolly.com/grapes/pinot-gris/"
+    "tastingNote5": "Crushed Gravel"
   },
   {
     "id": "21",
@@ -215,7 +220,8 @@
     "tastingNote2": "Honeydew",
     "tastingNote3": "Pear",
     "tastingNote4": "Lager",
-    "tastingNote5": "Cream"
+    "tastingNote5": "Cream",
+    "wfBottleLink": "https://winefolly.com/wines/prosecco/"
   },
   {
     "id": "24",
@@ -234,7 +240,7 @@
     "tastingNote3": "Dill",
     "tastingNote4": "Vanilla",
     "tastingNote5": "Leather",
-    "field8": "https://winefolly.com/wines/rioja-red/"
+    "wfBottleLink": "https://winefolly.com/wines/rioja-red/"
   },
   {
     "id": "26",
@@ -310,7 +316,7 @@
   },
   {
     "id": "34",
-    "style": "Zinfanadel",
+    "style": "Zinfandel",
     "tastingNote1": "Blackberry",
     "tastingNote2": "Strawberry",
     "tastingNote3": "Raisin",
