@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": "0",
     "style": "Albariño",
     "tastingNote1": "Lemon Zest",
     "tastingNote2": "Grapefruit",
@@ -9,7 +9,7 @@
     "tastingNote5": "Saline"
   },
   {
-    "id": 1,
+    "id": "1",
     "style": "Bordeaux Blend",
     "tastingNote1": "Black Currant",
     "tastingNote2": "Black Cherry",
@@ -18,7 +18,7 @@
     "tastingNote5": "Dried Herbs"
   },
   {
-    "id": 2,
+    "id": "2",
     "style": "Cabernet Franc",
     "tastingNote1": "Strawberry",
     "tastingNote2": "Raspberry",
@@ -27,7 +27,7 @@
     "tastingNote5": "Chili Pepper"
   },
   {
-    "id": 3,
+    "id": "3",
     "style": "Cabernet Sauvignon",
     "tastingNote1": "Black Cherry",
     "tastingNote2": "Black Currant",
@@ -36,7 +36,7 @@
     "tastingNote5": "Graphite"
   },
   {
-    "id": 4,
+    "id": "4",
     "style": "Cava",
     "tastingNote1": "Quince",
     "tastingNote2": "Lime",
@@ -45,7 +45,7 @@
     "tastingNote5": "Almond"
   },
   {
-    "id": 5,
+    "id": "5",
     "style": "Chablis",
     "tastingNote1": "Quince",
     "tastingNote2": "Starfruit",
@@ -54,7 +54,7 @@
     "tastingNote5": "Chalk"
   },
   {
-    "id": 6,
+    "id": "6",
     "style": "Chambourcin",
     "tastingNote1": "Black Cherry",
     "tastingNote2": "Black Pepper",
@@ -63,7 +63,7 @@
     "tastingNote5": "Chocolate"
   },
   {
-    "id": 7,
+    "id": "7",
     "style": "Champagne",
     "tastingNote1": "Citrus",
     "tastingNote2": "Yellow Apple",
@@ -72,7 +72,7 @@
     "tastingNote5": "Toast"
   },
   {
-    "id": 8,
+    "id": "8",
     "style": "Chardonnay",
     "tastingNote1": "Lemon",
     "tastingNote2": "Yellow Apple",
@@ -81,7 +81,7 @@
     "tastingNote5": "Starfruit"
   },
   {
-    "id": 9,
+    "id": "9",
     "style": "Chenin Blanc",
     "tastingNote1": "Quince",
     "tastingNote2": "Yellow Apple",
@@ -90,7 +90,7 @@
     "tastingNote5": "Honey"
   },
   {
-    "id": 10,
+    "id": "10",
     "style": "Crémant",
     "tastingNote1": "Lemon",
     "tastingNote2": "White Peach",
@@ -99,7 +99,7 @@
     "tastingNote5": "Toast"
   },
   {
-    "id": 11,
+    "id": "11",
     "style": "Grillo",
     "tastingNote1": "Grapefruit",
     "tastingNote2": "Citrus Blossom",
@@ -108,7 +108,7 @@
     "tastingNote5": "Saline"
   },
   {
-    "id": 12,
+    "id": "12",
     "style": "Grüner Veltliner",
     "tastingNote1": "Starfruit",
     "tastingNote2": "Gooseberry",
@@ -117,7 +117,7 @@
     "tastingNote5": "Crushed Gravel"
   },
   {
-    "id": 13,
+    "id": "13",
     "style": "Malbec",
     "tastingNote1": "Raspberry",
     "tastingNote2": "Blackberry",
@@ -126,7 +126,7 @@
     "tastingNote5": "Cocoa"
   },
   {
-    "id": 14,
+    "id": "14",
     "style": "Merlot",
     "tastingNote1": "Cherry",
     "tastingNote2": "Chocolate",
@@ -135,7 +135,7 @@
     "tastingNote5": "Vanilla"
   },
   {
-    "id": 15,
+    "id": "15",
     "style": "Nebbiolo",
     "tastingNote1": "Cherry",
     "tastingNote2": "Rose",
@@ -144,16 +144,17 @@
     "tastingNote5": "White Pepper"
   },
   {
-    "id": 16,
+    "id": "16",
     "style": "Nero d’Avola",
     "tastingNote1": "Black Cherry",
     "tastingNote2": "Blueberry",
     "tastingNote3": "Bay Leaf",
     "tastingNote4": "Tobacco",
-    "tastingNote5": "Chili Pepper"
+    "tastingNote5": "Chili Pepper",
+    "field8": "https://winefolly.com/deep-dive/guide-to-nero-davola-wine/"
   },
   {
-    "id": 17,
+    "id": "17",
     "style": "Norton",
     "tastingNote1": "Black Currant",
     "tastingNote2": "Black Cherry",
@@ -162,7 +163,7 @@
     "tastingNote5": "Chocolate"
   },
   {
-    "id": 18,
+    "id": "18",
     "style": "Picpoul",
     "tastingNote1": "Green Apple",
     "tastingNote2": "Citrus Blossom",
@@ -171,7 +172,7 @@
     "tastingNote5": "Saline"
   },
   {
-    "id": 19,
+    "id": "19",
     "style": "Pinot Blanc",
     "tastingNote1": "Pear",
     "tastingNote2": "Peach",
@@ -180,16 +181,17 @@
     "tastingNote5": "Crushed Gravel"
   },
   {
-    "id": 20,
-    "style": "Pinot Gris / Pinot Grigio",
+    "id": "20",
+    "style": "Pinot Gris",
     "tastingNote1": "White Peach",
     "tastingNote2": "Lemon Zest",
     "tastingNote3": "Cantaloupe",
     "tastingNote4": "Raw Almond",
-    "tastingNote5": "Crushed Gravel"
+    "tastingNote5": "Crushed Gravel",
+    "field8": "https://winefolly.com/grapes/pinot-gris/"
   },
   {
-    "id": 21,
+    "id": "21",
     "style": "Pinot Noir",
     "tastingNote1": "Raspberry",
     "tastingNote2": "Cherry",
@@ -198,7 +200,7 @@
     "tastingNote5": "Rose"
   },
   {
-    "id": 22,
+    "id": "22",
     "style": "Port",
     "tastingNote1": "Plum",
     "tastingNote2": "Dried Cherry",
@@ -207,7 +209,7 @@
     "tastingNote5": "Cinnamon"
   },
   {
-    "id": 23,
+    "id": "23",
     "style": "Prosecco",
     "tastingNote1": "Green Apple",
     "tastingNote2": "Honeydew",
@@ -216,7 +218,7 @@
     "tastingNote5": "Cream"
   },
   {
-    "id": 24,
+    "id": "24",
     "style": "Riesling",
     "tastingNote1": "Lime",
     "tastingNote2": "Green Apple",
@@ -225,16 +227,17 @@
     "tastingNote5": "White Flowers"
   },
   {
-    "id": 25,
+    "id": "25",
     "style": "Rioja (Red)",
     "tastingNote1": "Cherry",
     "tastingNote2": "Plum",
     "tastingNote3": "Dill",
     "tastingNote4": "Vanilla",
-    "tastingNote5": "Leather"
+    "tastingNote5": "Leather",
+    "field8": "https://winefolly.com/wines/rioja-red/"
   },
   {
-    "id": 26,
+    "id": "26",
     "style": "Sancerre",
     "tastingNote1": "Gooseberry",
     "tastingNote2": "Grapefruit",
@@ -243,7 +246,7 @@
     "tastingNote5": "Flint"
   },
   {
-    "id": 27,
+    "id": "27",
     "style": "Sauvignon Blanc",
     "tastingNote1": "Gooseberry",
     "tastingNote2": "Honeydew",
@@ -252,7 +255,7 @@
     "tastingNote5": "Passion Fruit"
   },
   {
-    "id": 28,
+    "id": "28",
     "style": "Sémillon",
     "tastingNote1": "Lemon",
     "tastingNote2": "Beeswax",
@@ -261,8 +264,8 @@
     "tastingNote5": "Saline"
   },
   {
-    "id": 29,
-    "style": "Syrah / Shiraz",
+    "id": "29",
+    "style": "Syrah",
     "tastingNote1": "Blueberry",
     "tastingNote2": "Plum",
     "tastingNote3": "Graphite",
@@ -270,7 +273,7 @@
     "tastingNote5": "Black Pepper"
   },
   {
-    "id": 30,
+    "id": "30",
     "style": "Tempranillo",
     "tastingNote1": "Cherry",
     "tastingNote2": "Dried Fig",
@@ -279,7 +282,7 @@
     "tastingNote5": "Dill"
   },
   {
-    "id": 31,
+    "id": "31",
     "style": "Trebbiano Toscano",
     "tastingNote1": "White Peach",
     "tastingNote2": "Lemon",
@@ -288,7 +291,7 @@
     "tastingNote5": "Basil"
   },
   {
-    "id": 32,
+    "id": "32",
     "style": "Verdejo",
     "tastingNote1": "Lime",
     "tastingNote2": "Honeydew",
@@ -297,7 +300,7 @@
     "tastingNote5": "White Peach"
   },
   {
-    "id": 33,
+    "id": "33",
     "style": "Gewürztraminer",
     "tastingNote1": "Cantaloupe",
     "tastingNote2": "Rose",
@@ -306,8 +309,8 @@
     "tastingNote5": "Honey"
   },
   {
-    "id": 34,
-    "style": "Zinfandel",
+    "id": "34",
+    "style": "Zinfanadel",
     "tastingNote1": "Blackberry",
     "tastingNote2": "Strawberry",
     "tastingNote3": "Raisin",
