@@ -8,57 +8,71 @@
   },
       {
     "date": "Jul16",
-    "openingMessage": "🍷0716🍷",
+    "openingMessage": "🍺🍻🍷🥂🍸🍹🍾🥃🧃🧋☕🫖🥤",
     "whitePostgameMsg": "",
     "redPostgameMsg": "r0718",
     "comboPostgameMsg": ""
   },
   {
     "date": "Jul18",
-    "openingMessage": "HAPPY FRIDAY 🍷🍷🍷",
+    "openingMessage": "HAPPY FRIDAY 🍸",
     "whitePostgameMsg": "",
     "redPostgameMsg": "r0718",
     "comboPostgameMsg": ""
   },
   {
     "date": "Jul20",
-    "openingMessage": "Sunday FUNDAY 🍷🍷🍷",
+    "openingMessage": "Sunday FUNDAY🥂🥂🥂",
+    "whitePostgameMsg": "",
+    "redPostgameMsg": "r0718",
+    "comboPostgameMsg": ""
+  },
+  {
+    "date": "Jul21",
+    "openingMessage": "stupid munday 😞😢🥺😤",
     "whitePostgameMsg": "",
     "redPostgameMsg": "r0718",
     "comboPostgameMsg": ""
   },
   {
     "date": "Jul24",
-    "openingMessage": "National Tequila Day",
+    "openingMessage": "National Tequila Day 🍸",
     "whitePostgameMsg": "",
     "redPostgameMsg": "",
     "comboPostgameMsg": ""
   },
   {
     "date": "Jul25",
-    "openingMessage": "Happy Wine and Cheese Day",
+    "openingMessage": "Happy Wine & Cheese Day 🧀",
     "whitePostgameMsg": "",
     "redPostgameMsg": "",
     "comboPostgameMsg": ""
   },
   {
     "date": "Jul27",
-    "openingMessage": "National Scotch Day",
+    "openingMessage": "National Scotch Day 🥃",
     "whitePostgameMsg": "",
     "redPostgameMsg": "",
     "comboPostgameMsg": ""
   },
   {
+    "date": "Jul28",
+    "openingMessage": "stupid munday 😢",
+    "whitePostgameMsg": "",
+    "redPostgameMsg": "r0718",
+    "comboPostgameMsg": ""
+  },
+  {
     "date": "Aug01",
     "openingMessage": "",
-    "whitePostgameMsg": "Happy Albarino Day",
+    "whitePostgameMsg": "Happy Albarino Day🥂",
     "redPostgameMsg": "",
     "comboPostgameMsg": ""
   },
   {
     "date": "Aug13",
     "openingMessage": "",
-    "whitePostgameMsg": "Happy Prosecco Day",
+    "whitePostgameMsg": "Happy Prosecco Day 🍾",
     "redPostgameMsg": "",
     "comboPostgameMsg": ""
   }
