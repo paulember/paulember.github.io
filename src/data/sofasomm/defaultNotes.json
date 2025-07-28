@@ -1,4 +1,18 @@
 {
-redNotes: ["cherry", "tobacco", "plum", "pepper", "leather", "oak"],
-whiteNotes: ["vanilla", "gooseberry", "citrus", "melon", "floral", "honey"]
+  "redNotes": {
+    "note[0]": "cherry",
+    "note[1]": "tobacco",
+    "note[2]": "plum",
+    "note[3]": "pepper",
+    "note[4]": "leather",
+    "note[5]": "oak"
+  },
+  "whiteNotes": {
+    "note[0]": "vanilla",
+    "note[1]": "gooseberry",
+    "note[2]": "citrus",
+    "note[3]": "melon",
+    "note[4]": "floral",
+    "note[5]": "honey"
+  }
 }
