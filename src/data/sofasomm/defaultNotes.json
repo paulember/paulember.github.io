@@ -6,7 +6,11 @@
     "note[2]": "plum",
     "note[3]": "pepper",
     "note[4]": "leather",
-    "note[5]": "oak"
+    "note[5]": "oak0",
+    "note[6]": "oak1",
+    "note[7]": "oak2",
+    "note[8]": "oak3",
+    "note[9]": "oak4"
   },
   {
     "style": "white",
@@ -15,6 +19,10 @@
     "note[2]": "citrus",
     "note[3]": "melon",
     "note[4]": "floral",
-    "note[5]": "honey"
+    "note[5]": "honey",
+    "note[6]": "oak1w",
+    "note[7]": "oak2w",
+    "note[8]": "oak3w",
+    "note[9]": "oak4w"
   }
 ]
