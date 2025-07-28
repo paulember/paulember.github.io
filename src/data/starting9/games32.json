@@ -166,8 +166,7 @@
     "H7_Pos": "2b",
     "H8_Pos": "c",
     "H9_Pos": "p",
-    "H10_Pos": "dh",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "H10_Pos": "dh"
   },
   {
     "Date": "2025-08-04",
@@ -224,7 +223,7 @@
     "H8_Pos": "c",
     "H9_Pos": "cf",
     "H10_Pos": "p",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "gameMessage": "qoute_test2"
   },
   {
     "Date": "2025-08-04",
@@ -337,7 +336,7 @@
     "H8_Pos": "c",
     "H9_Pos": "p",
     "H10_Pos": "dh",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "gameMessage": "#"
   },
   {
     "Date": "2025-08-04",
@@ -393,8 +392,7 @@
     "H7_Pos": "lf",
     "H8_Pos": "ss",
     "H9_Pos": "c",
-    "H10_Pos": "p",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "H10_Pos": "p"
   },
   {
     "Date": "2025-08-04",
@@ -451,7 +449,7 @@
     "H8_Pos": "c",
     "H9_Pos": "p",
     "H10_Pos": "dh",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "gameMessage": "qoute_test3"
   },
   {
     "Date": "2025-08-04",
@@ -507,8 +505,7 @@
     "H7_Pos": "ss",
     "H8_Pos": "c",
     "H9_Pos": "p",
-    "H10_Pos": "dh",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "H10_Pos": "dh"
   },
   {
     "Date": "2025-08-04",
@@ -565,6 +562,6 @@
     "H8_Pos": "2b",
     "H9_Pos": "p",
     "H10_Pos": "dh",
-    "gameMessage": "I also led the league in strikeouts with a hundred and forty-something - Mike Schmidt"
+    "gameMessage": "qoute_test4"
   }
 ]
