@@ -1,28 +1,28 @@
 [
   {
-    "style": "red",
-    "note[0]": "cherry",
-    "note[1]": "tobacco",
-    "note[2]": "plum",
-    "note[3]": "pepper",
-    "note[4]": "leather",
-    "note[5]": "oak0",
-    "note[6]": "oak1",
-    "note[7]": "oak2",
-    "note[8]": "oak3",
-    "note[9]": "oak4"
+    "style": "white",
+    "note[0]": "Lime",
+    "note[1]": "White Peach",
+    "note[2]": "Thyme",
+    "note[3]": "Grapefruit",
+    "note[4]": "Saline",
+    "note[5]": "Lemon",
+    "note[6]": "Citrus Blossom",
+    "note[7]": "Peach",
+    "note[8]": "Honeydew",
+    "note[9]": "Green Apple"
   },
   {
-    "style": "white",
-    "note[0]": "vanilla",
-    "note[1]": "gooseberry",
-    "note[2]": "citrus",
-    "note[3]": "melon",
-    "note[4]": "floral",
-    "note[5]": "honey",
-    "note[6]": "oak1w",
-    "note[7]": "oak2w",
-    "note[8]": "oak3w",
-    "note[9]": "oak4w"
+    "style": "red",
+    "note[0]": "Chocolate",
+    "note[1]": "Blackberry",
+    "note[2]": "Vanilla",
+    "note[3]": "Black Cherry",
+    "note[4]": "Leather",
+    "note[5]": "Black Currant",
+    "note[6]": "Dill",
+    "note[7]": "Chili Pepper",
+    "note[8]": "Cherry",
+    "note[9]": "Sweet Tobacco"
   }
 ]
