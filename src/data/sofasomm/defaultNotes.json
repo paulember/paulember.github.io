@@ -1,5 +1,6 @@
-{
-  "redNotes": {
+[
+  {
+    "style": "red",
     "note[0]": "cherry",
     "note[1]": "tobacco",
     "note[2]": "plum",
@@ -7,7 +8,8 @@
     "note[4]": "leather",
     "note[5]": "oak"
   },
-  "whiteNotes": {
+  {
+    "style": "white",
     "note[0]": "vanilla",
     "note[1]": "gooseberry",
     "note[2]": "citrus",
@@ -15,4 +17,4 @@
     "note[4]": "floral",
     "note[5]": "honey"
   }
-}
+]
