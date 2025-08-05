@@ -1,121 +1,75 @@
 [
   {
     "date": "AAA00",
-    "openingMessage": "🍺🍻🍷🥂🍸🍹🍾🥃🧃🧋☕🫖🥤",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "🍺🍻🍷🥂🍸🍹🍾🥃🧃🧋☕🫖🥤"
   },
   {
     "date": "Jul21",
-    "openingMessage": "stupid munday 😞😢🥺😤",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "stupid munday 😞😢🥺😤"
   },
   {
     "date": "Jul24",
-    "openingMessage": "National Tequila Day 🍸",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "National Tequila Day 🍸"
   },
   {
     "date": "Jul25",
-    "openingMessage": "Happy Wine and Cheese Day 🧀",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "Happy Wine and Cheese Day 🧀"
   },
   {
     "date": "Jul27",
-    "openingMessage": "National Scotch Day🥃",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "National Scotch Day🥃"
   },
   {
     "date": "Jul29",
-    "openingMessage": "",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "R",
-    "comboPostgameMsg": ""
+    "redPostgameMsg": "R"
   },
   {
     "date": "Aug01",
-    "openingMessage": "",
-    "whitePostgameMsg": "Happy Albarino Day",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
-  },
-  {
-    "date": "Aug30",
-    "openingMessage": "Sunday FUNDAY🥂🥂🥂",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "whitePostgameMsg": "Happy Albarino Day"
   },
   {
     "date": "Aug07",
     "openingMessage": "National IPA Day",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "comboPostgameMsg": "Go Eagles 🦅🏈"
   },
   {
-    "date": "Aug8",
-    "openingMessage": "International Beer Day",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "date": "Aug08",
+    "openingMessage": "International Beer Day"
   },
   {
     "date": "Aug11",
-    "openingMessage": "M💩NDAY",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "M💩NDAY"
   },
   {
     "date": "Aug13",
-    "openingMessage": "",
-    "whitePostgameMsg": "Happy Prosecco Day",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "whitePostgameMsg": "Happy Prosecco Day"
   },
   {
     "date": "Aug15",
-    "openingMessage": "HAPPY FRIDA🍸",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "HAPPY FRIDA🍸"
   },
   {
     "date": "Aug16",
-    "openingMessage": "National Rum Day",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "National Rum Day"
   },
   {
     "date": "Aug18",
-    "openingMessage": "",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "Happy Pinot Noir Day 🍷",
-    "comboPostgameMsg": ""
+    "redPostgameMsg": "Happy Pinot Noir Day 🍷"
   },
   {
     "date": "Aug25",
-    "openingMessage": "Whiskey Sour Day",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "",
-    "comboPostgameMsg": ""
+    "openingMessage": "Whiskey Sour Day"
   },
   {
     "date": "Aug30",
-    "openingMessage": "",
-    "whitePostgameMsg": "",
-    "redPostgameMsg": "International Cabernet Sauvignon Day 🍷",
-    "comboPostgameMsg": ""
+    "redPostgameMsg": "International Cabernet Sauvignon Day 🍷"
+  },
+  {
+    "date": "Aug31",
+    "openingMessage": "Sunday FUNDAY🥂🥂🥂"
+  },
+  {
+    "date": "Sep04",
+    "openingMessage": "Go Eagles 🦅🏈"
   }
 ]
