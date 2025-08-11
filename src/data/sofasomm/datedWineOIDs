@@ -1346,13 +1346,13 @@
     {
         "oid": "225",
         "red_oid": "1899",
-        "white_oid": "3153",
+        "white_oid": "0704",
         "split_oid": "0337"
     },
     {
         "oid": "226",
         "red_oid": "0225",
-        "white_oid": "0704",
+        "white_oid": "3153",
         "split_oid": "0841"
     },
     {
