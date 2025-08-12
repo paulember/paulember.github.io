@@ -1,4 +1,42 @@
-{
-redNotes: ["cherry", "tobacco", "plum", "pepper", "leather", "oak"],
-whiteNotes: ["vanilla", "gooseberry", "citrus", "melon", "floral", "honey"]
-}
+[
+  {
+    "style": "white",
+    "note[0]": "Lime",
+    "note[1]": "White Peach",
+    "note[2]": "Thyme",
+    "note[3]": "Grapefruit",
+    "note[4]": "Saline",
+    "note[5]": "Lemon",
+    "note[6]": "Citrus Blossom",
+    "note[7]": "Peach",
+    "note[8]": "Honeydew",
+    "note[9]": "Grapefruit",
+    "note[10]": "Saline",
+    "note[11]": "Lemon",
+    "note[12]": "Citrus Blossom",
+    "note[13]": "Thyme",
+    "note[14]": "Peach",
+    "note[15]": "Honeydew",
+    "note[16]": "Green Apple"
+  },
+  {
+    "style": "red",
+    "note[0]": "Chocolate",
+    "note[1]": "Blackberry",
+    "note[2]": "Vanilla",
+    "note[3]": "Black Cherry",
+    "note[4]": "Leather",
+    "note[5]": "Black Currant",
+    "note[6]": "Dill",
+    "note[7]": "Chili Pepper",
+    "note[8]": "Cherry",
+    "note[9]": "Black Cherry",
+    "note[10]": "Leather",
+    "note[11]": "Black Currant",
+    "note[12]": "Dill",
+    "note[13]": "Vanilla",
+    "note[14]": "Chili Pepper",
+    "note[15]": "Cherry",
+    "note[16]": "Sweet Tobacco"
+  }
+]
