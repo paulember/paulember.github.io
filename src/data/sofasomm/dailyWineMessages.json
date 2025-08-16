@@ -42,7 +42,8 @@
   },
   {
     "date": "Aug13",
-    "whitePostgameMsg": "Happy Prosecco Day"
+    "whitePostgameMsg": "Happy Prosecco Day",
+    "oRideWhite": "3153"
   },
   {
     "date": "Aug15",
@@ -54,7 +55,8 @@
   },
   {
     "date": "Aug18",
-    "redPostgameMsg": "Happy Pinot Noir Day 🍷"
+    "redPostgameMsg": "Happy Pinot Noir Day 🍷",
+    "oRideRed": "9469"
   },
   {
     "date": "Aug25",
@@ -62,7 +64,9 @@
   },
   {
     "date": "Aug30",
-    "redPostgameMsg": "International Cabernet Sauvignon Day 🍷"
+    "redPostgameMsg": "International Cabernet Sauvignon Day 🍷",
+    "oRideRed": "0057",
+    "notes": "oRideRed Does not work for redWineMajor5.json"
   },
   {
     "date": "Aug31",
