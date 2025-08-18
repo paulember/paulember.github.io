@@ -56,7 +56,7 @@
   {
     "date": "Aug18",
     "redPostgameMsg": "Happy Pinot Noir Day 🍷",
-    "oRideRed": "9469"
+    "oRideRED": "9469"
   },
   {
     "date": "Aug25",
@@ -65,7 +65,7 @@
   {
     "date": "Aug30",
     "redPostgameMsg": "International Cabernet Sauvignon Day 🍷",
-    "oRideRed": "0057",
+    "oRideRED": "0057",
     "notes": "oRideRed Does not work for redWineMajor5.json"
   },
   {
