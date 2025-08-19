@@ -6,7 +6,12 @@
     "tastingNote2": "Grapefruit",
     "tastingNote3": "Honeydew",
     "tastingNote4": "Nectarine",
-    "tastingNote5": "Saline"
+    "tastingNote5": "Saline",
+    "tastingNote[0]": "Lemon Zest",
+    "tastingNote[1]": "Grapefruit",
+    "tastingNote[2]": "Honeydew",
+    "tastingNote[3]": "Nectarine",
+    "tastingNote[4]": "Saline"
   },
   {
     "id": "1",
@@ -16,6 +21,11 @@
     "tastingNote3": "Graphite",
     "tastingNote4": "Chocolate",
     "tastingNote5": "Dried Herbs",
+    "tastingNote[0]": "Black Currant",
+    "tastingNote[1]": "Black Cherry",
+    "tastingNote[2]": "Graphite",
+    "tastingNote[3]": "Chocolate",
+    "tastingNote[4]": "Dried Herbs",
     "wfBottleLink": "https://winefolly.com/wines/bordeaux-blend-red/"
   },
   {
@@ -25,7 +35,12 @@
     "tastingNote2": "Raspberry",
     "tastingNote3": "Green Bean",
     "tastingNote4": "Crushed Gravel",
-    "tastingNote5": "Chili Pepper"
+    "tastingNote5": "Chili Pepper",
+    "tastingNote[0]": "Strawberry",
+    "tastingNote[1]": "Raspberry",
+    "tastingNote[2]": "Green Bean",
+    "tastingNote[3]": "Crushed Gravel",
+    "tastingNote[4]": "Chili Pepper"
   },
   {
     "id": "3",
@@ -34,7 +49,12 @@
     "tastingNote2": "Black Currant",
     "tastingNote3": "Cedar",
     "tastingNote4": "Baking Spices",
-    "tastingNote5": "Graphite"
+    "tastingNote5": "Graphite",
+    "tastingNote[0]": "Black Cherry",
+    "tastingNote[1]": "Black Currant",
+    "tastingNote[2]": "Cedar",
+    "tastingNote[3]": "Baking Spices",
+    "tastingNote[4]": "Graphite"
   },
   {
     "id": "4",
@@ -44,6 +64,11 @@
     "tastingNote3": "Yellow Apple",
     "tastingNote4": "Chamomile",
     "tastingNote5": "Almond",
+    "tastingNote[0]": "Quince",
+    "tastingNote[1]": "Lime",
+    "tastingNote[2]": "Yellow Apple",
+    "tastingNote[3]": "Chamomile",
+    "tastingNote[4]": "Almond",
     "wfBottleLink": "https://winefolly.com/wines/cava/"
   },
   {
@@ -54,6 +79,11 @@
     "tastingNote3": "Lime Peel",
     "tastingNote4": "White Flowers",
     "tastingNote5": "Chalk",
+    "tastingNote[0]": "Quince",
+    "tastingNote[1]": "Starfruit",
+    "tastingNote[2]": "Lime Peel",
+    "tastingNote[3]": "White Flowers",
+    "tastingNote[4]": "Chalk",
     "wfBottleLink": "https://winefolly.com/wines/chablis/"
   },
   {
@@ -64,6 +94,11 @@
     "tastingNote3": "Crushed Gravel",
     "tastingNote4": "Wet Loam",
     "tastingNote5": "Chocolate",
+    "tastingNote[0]": "Black Cherry",
+    "tastingNote[1]": "Black Pepper",
+    "tastingNote[2]": "Crushed Gravel",
+    "tastingNote[3]": "Wet Loam",
+    "tastingNote[4]": "Chocolate",
     "wfBottleLink": "https://winefolly.com/tips/say-hello-to-french-hybrids-from-chambourcin-to-vidal-blanc/"
   },
   {
@@ -74,6 +109,11 @@
     "tastingNote3": "Cream",
     "tastingNote4": "Almond",
     "tastingNote5": "Toast",
+    "tastingNote[0]": "Citrus",
+    "tastingNote[1]": "Yellow Apple",
+    "tastingNote[2]": "Cream",
+    "tastingNote[3]": "Almond",
+    "tastingNote[4]": "Toast",
     "wfBottleLink": "https://winefolly.com/wines/champagne/"
   },
   {
@@ -83,7 +123,12 @@
     "tastingNote2": "Yellow Apple",
     "tastingNote3": "Butter",
     "tastingNote4": "Vanilla",
-    "tastingNote5": "Starfruit"
+    "tastingNote5": "Starfruit",
+    "tastingNote[0]": "Lemon",
+    "tastingNote[1]": "Yellow Apple",
+    "tastingNote[2]": "Butter",
+    "tastingNote[3]": "Vanilla",
+    "tastingNote[4]": "Starfruit"
   },
   {
     "id": "9",
@@ -92,7 +137,12 @@
     "tastingNote2": "Yellow Apple",
     "tastingNote3": "Pear",
     "tastingNote4": "Chamomile",
-    "tastingNote5": "Honey"
+    "tastingNote5": "Honey",
+    "tastingNote[0]": "Quince",
+    "tastingNote[1]": "Yellow Apple",
+    "tastingNote[2]": "Pear",
+    "tastingNote[3]": "Chamomile",
+    "tastingNote[4]": "Honey"
   },
   {
     "id": "10",
@@ -102,6 +152,11 @@
     "tastingNote3": "White Cherry",
     "tastingNote4": "Almond",
     "tastingNote5": "Toast",
+    "tastingNote[0]": "Lemon",
+    "tastingNote[1]": "White Peach",
+    "tastingNote[2]": "White Cherry",
+    "tastingNote[3]": "Almond",
+    "tastingNote[4]": "Toast",
     "wfBottleLink": "https://winefolly.com/wines/cremant/"
   },
   {
@@ -111,7 +166,12 @@
     "tastingNote2": "Citrus Blossom",
     "tastingNote3": "Thyme",
     "tastingNote4": "Minerals",
-    "tastingNote5": "Saline"
+    "tastingNote5": "Saline",
+    "tastingNote[0]": "Grapefruit",
+    "tastingNote[1]": "Citrus Blossom",
+    "tastingNote[2]": "Thyme",
+    "tastingNote[3]": "Minerals",
+    "tastingNote[4]": "Saline"
   },
   {
     "id": "12",
@@ -120,7 +180,12 @@
     "tastingNote2": "Gooseberry",
     "tastingNote3": "Green Bean",
     "tastingNote4": "White Pepper",
-    "tastingNote5": "Crushed Gravel"
+    "tastingNote5": "Crushed Gravel",
+    "tastingNote[0]": "Starfruit",
+    "tastingNote[1]": "Gooseberry",
+    "tastingNote[2]": "Green Bean",
+    "tastingNote[3]": "White Pepper",
+    "tastingNote[4]": "Crushed Gravel"
   },
   {
     "id": "13",
@@ -129,7 +194,12 @@
     "tastingNote2": "Blackberry",
     "tastingNote3": "Vanilla",
     "tastingNote4": "Sweet Tobacco",
-    "tastingNote5": "Cocoa"
+    "tastingNote5": "Cocoa",
+    "tastingNote[0]": "Raspberry",
+    "tastingNote[1]": "Blackberry",
+    "tastingNote[2]": "Vanilla",
+    "tastingNote[3]": "Sweet Tobacco",
+    "tastingNote[4]": "Cocoa"
   },
   {
     "id": "14",
@@ -138,7 +208,12 @@
     "tastingNote2": "Chocolate",
     "tastingNote3": "Plum",
     "tastingNote4": "Bay Leaf",
-    "tastingNote5": "Vanilla"
+    "tastingNote5": "Vanilla",
+    "tastingNote[0]": "Cherry",
+    "tastingNote[1]": "Chocolate",
+    "tastingNote[2]": "Plum",
+    "tastingNote[3]": "Bay Leaf",
+    "tastingNote[4]": "Vanilla"
   },
   {
     "id": "15",
@@ -147,7 +222,12 @@
     "tastingNote2": "Rose",
     "tastingNote3": "Leather",
     "tastingNote4": "Anise",
-    "tastingNote5": "White Pepper"
+    "tastingNote5": "White Pepper",
+    "tastingNote[0]": "Cherry",
+    "tastingNote[1]": "Rose",
+    "tastingNote[2]": "Leather",
+    "tastingNote[3]": "Anise",
+    "tastingNote[4]": "White Pepper"
   },
   {
     "id": "16",
@@ -157,6 +237,11 @@
     "tastingNote3": "Bay Leaf",
     "tastingNote4": "Tobacco",
     "tastingNote5": "Chili Pepper",
+    "tastingNote[0]": "Black Cherry",
+    "tastingNote[1]": "Blueberry",
+    "tastingNote[2]": "Bay Leaf",
+    "tastingNote[3]": "Tobacco",
+    "tastingNote[4]": "Chili Pepper",
     "wfBottleLink": "https://winefolly.com/deep-dive/guide-to-nero-davola-wine/"
   },
   {
@@ -166,7 +251,12 @@
     "tastingNote2": "Black Cherry",
     "tastingNote3": "Dill",
     "tastingNote4": "Black Pepper",
-    "tastingNote5": "Chocolate"
+    "tastingNote5": "Chocolate",
+    "tastingNote[0]": "Black Currant",
+    "tastingNote[1]": "Black Cherry",
+    "tastingNote[2]": "Dill",
+    "tastingNote[3]": "Black Pepper",
+    "tastingNote[4]": "Chocolate"
   },
   {
     "id": "18",
@@ -175,7 +265,12 @@
     "tastingNote2": "Citrus Blossom",
     "tastingNote3": "Lemon",
     "tastingNote4": "Thyme",
-    "tastingNote5": "Saline"
+    "tastingNote5": "Saline",
+    "tastingNote[0]": "Green Apple",
+    "tastingNote[1]": "Citrus Blossom",
+    "tastingNote[2]": "Lemon",
+    "tastingNote[3]": "Thyme",
+    "tastingNote[4]": "Saline"
   },
   {
     "id": "19",
@@ -184,7 +279,12 @@
     "tastingNote2": "Peach",
     "tastingNote3": "Raw Almond",
     "tastingNote4": "Lemon Zest",
-    "tastingNote5": "Crushed Gravel"
+    "tastingNote5": "Crushed Gravel",
+    "tastingNote[0]": "Pear",
+    "tastingNote[1]": "Peach",
+    "tastingNote[2]": "Raw Almond",
+    "tastingNote[3]": "Lemon Zest",
+    "tastingNote[4]": "Crushed Gravel"
   },
   {
     "id": "20",
@@ -193,7 +293,12 @@
     "tastingNote2": "Lemon Zest",
     "tastingNote3": "Cantaloupe",
     "tastingNote4": "Raw Almond",
-    "tastingNote5": "Crushed Gravel"
+    "tastingNote5": "Crushed Gravel",
+    "tastingNote[0]": "White Peach",
+    "tastingNote[1]": "Lemon Zest",
+    "tastingNote[2]": "Cantaloupe",
+    "tastingNote[3]": "Raw Almond",
+    "tastingNote[4]": "Crushed Gravel"
   },
   {
     "id": "21",
@@ -202,7 +307,12 @@
     "tastingNote2": "Cherry",
     "tastingNote3": "Mushroom",
     "tastingNote4": "Vanilla",
-    "tastingNote5": "Rose"
+    "tastingNote5": "Rose",
+    "tastingNote[0]": "Raspberry",
+    "tastingNote[1]": "Cherry",
+    "tastingNote[2]": "Mushroom",
+    "tastingNote[3]": "Vanilla",
+    "tastingNote[4]": "Rose"
   },
   {
     "id": "22",
@@ -211,7 +321,12 @@
     "tastingNote2": "Dried Cherry",
     "tastingNote3": "Chocolate",
     "tastingNote4": "Raisin",
-    "tastingNote5": "Cinnamon"
+    "tastingNote5": "Cinnamon",
+    "tastingNote[0]": "Plum",
+    "tastingNote[1]": "Dried Cherry",
+    "tastingNote[2]": "Chocolate",
+    "tastingNote[3]": "Raisin",
+    "tastingNote[4]": "Cinnamon"
   },
   {
     "id": "23",
@@ -221,6 +336,11 @@
     "tastingNote3": "Pear",
     "tastingNote4": "Lager",
     "tastingNote5": "Cream",
+    "tastingNote[0]": "Green Apple",
+    "tastingNote[1]": "Honeydew",
+    "tastingNote[2]": "Pear",
+    "tastingNote[3]": "Lager",
+    "tastingNote[4]": "Cream",
     "wfBottleLink": "https://winefolly.com/wines/prosecco/"
   },
   {
@@ -230,7 +350,12 @@
     "tastingNote2": "Green Apple",
     "tastingNote3": "Lemon",
     "tastingNote4": "Beeswax",
-    "tastingNote5": "White Flowers"
+    "tastingNote5": "White Flowers",
+    "tastingNote[0]": "Lime",
+    "tastingNote[1]": "Green Apple",
+    "tastingNote[2]": "Lemon",
+    "tastingNote[3]": "Beeswax",
+    "tastingNote[4]": "White Flowers"
   },
   {
     "id": "25",
@@ -240,6 +365,11 @@
     "tastingNote3": "Dill",
     "tastingNote4": "Vanilla",
     "tastingNote5": "Leather",
+    "tastingNote[0]": "Cherry",
+    "tastingNote[1]": "Plum",
+    "tastingNote[2]": "Dill",
+    "tastingNote[3]": "Vanilla",
+    "tastingNote[4]": "Leather",
     "wfBottleLink": "https://winefolly.com/wines/rioja-red/"
   },
   {
@@ -249,7 +379,12 @@
     "tastingNote2": "Grapefruit",
     "tastingNote3": "Honeydew",
     "tastingNote4": "Hay",
-    "tastingNote5": "Flint"
+    "tastingNote5": "Flint",
+    "tastingNote[0]": "Gooseberry",
+    "tastingNote[1]": "Grapefruit",
+    "tastingNote[2]": "Honeydew",
+    "tastingNote[3]": "Hay",
+    "tastingNote[4]": "Flint"
   },
   {
     "id": "27",
@@ -258,16 +393,26 @@
     "tastingNote2": "Honeydew",
     "tastingNote3": "Grapefruit",
     "tastingNote4": "White Peach",
-    "tastingNote5": "Passion Fruit"
+    "tastingNote5": "Passion Fruit",
+    "tastingNote[0]": "Gooseberry",
+    "tastingNote[1]": "Honeydew",
+    "tastingNote[2]": "Grapefruit",
+    "tastingNote[3]": "White Peach",
+    "tastingNote[4]": "Passion Fruit"
   },
   {
     "id": "28",
-    "style": "Sémillon",
+    "style": "Semillon",
     "tastingNote1": "Lemon",
     "tastingNote2": "Beeswax",
     "tastingNote3": "Peach",
     "tastingNote4": "Chamomile",
-    "tastingNote5": "Saline"
+    "tastingNote5": "Saline",
+    "tastingNote[0]": "Lemon",
+    "tastingNote[1]": "Beeswax",
+    "tastingNote[2]": "Peach",
+    "tastingNote[3]": "Chamomile",
+    "tastingNote[4]": "Saline"
   },
   {
     "id": "29",
@@ -276,7 +421,12 @@
     "tastingNote2": "Plum",
     "tastingNote3": "Graphite",
     "tastingNote4": "Tobacco",
-    "tastingNote5": "Black Pepper"
+    "tastingNote5": "Black Pepper",
+    "tastingNote[0]": "Blueberry",
+    "tastingNote[1]": "Plum",
+    "tastingNote[2]": "Graphite",
+    "tastingNote[3]": "Tobacco",
+    "tastingNote[4]": "Black Pepper"
   },
   {
     "id": "30",
@@ -285,7 +435,12 @@
     "tastingNote2": "Dried Fig",
     "tastingNote3": "Cedar",
     "tastingNote4": "Tobacco",
-    "tastingNote5": "Dill"
+    "tastingNote5": "Dill",
+    "tastingNote[0]": "Cherry",
+    "tastingNote[1]": "Dried Fig",
+    "tastingNote[2]": "Cedar",
+    "tastingNote[3]": "Tobacco",
+    "tastingNote[4]": "Dill"
   },
   {
     "id": "31",
@@ -294,7 +449,12 @@
     "tastingNote2": "Lemon",
     "tastingNote3": "Green Apple",
     "tastingNote4": "Seashell",
-    "tastingNote5": "Basil"
+    "tastingNote5": "Basil",
+    "tastingNote[0]": "White Peach",
+    "tastingNote[1]": "Lemon",
+    "tastingNote[2]": "Green Apple",
+    "tastingNote[3]": "Seashell",
+    "tastingNote[4]": "Basil"
   },
   {
     "id": "32",
@@ -303,16 +463,26 @@
     "tastingNote2": "Honeydew",
     "tastingNote3": "Grapefruit",
     "tastingNote4": "Fennel",
-    "tastingNote5": "White Peach"
+    "tastingNote5": "White Peach",
+    "tastingNote[0]": "Lime",
+    "tastingNote[1]": "Honeydew",
+    "tastingNote[2]": "Grapefruit",
+    "tastingNote[3]": "Fennel",
+    "tastingNote[4]": "White Peach"
   },
   {
     "id": "33",
-    "style": "Gewürztraminer",
+    "style": "Gewurztraminer",
     "tastingNote1": "Cantaloupe",
     "tastingNote2": "Rose",
     "tastingNote3": "Grapefruit",
     "tastingNote4": "Tangerine",
-    "tastingNote5": "Honey"
+    "tastingNote5": "Honey",
+    "tastingNote[0]": "Cantaloupe",
+    "tastingNote[1]": "Rose",
+    "tastingNote[2]": "Grapefruit",
+    "tastingNote[3]": "Tangerine",
+    "tastingNote[4]": "Honey"
   },
   {
     "id": "34",
@@ -321,6 +491,11 @@
     "tastingNote2": "Strawberry",
     "tastingNote3": "Raisin",
     "tastingNote4": "Cinnamon",
-    "tastingNote5": "Sweet Tobacco"
+    "tastingNote5": "Sweet Tobacco",
+    "tastingNote[0]": "Blackberry",
+    "tastingNote[1]": "Strawberry",
+    "tastingNote[2]": "Raisin",
+    "tastingNote[3]": "Cinnamon",
+    "tastingNote[4]": "Sweet Tobacco"
   }
 ]
