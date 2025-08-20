@@ -1,552 +1,602 @@
 [
   {
-    "id": "0",
+    "id": 0,
     "style": "Buzzz",
-    "tastingNote1": ".SPEED: 5",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Discraft__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2003"
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: -1",
+      "FADE: 1",
+      "Discraft",
+      "2000-2009"
+    ]
   },
   {
-    "id": "1",
+    "id": 1,
     "style": "Emperor",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 2.5",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2019"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2.5",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "2",
+    "id": 2,
     "style": "Wraith",
-    "tastingNote1": ".SPEED: 11",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2005"
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "3",
+    "id": 3,
     "style": "Destroyer",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2007"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "4",
+    "id": 4,
     "style": "Alpaca",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2020"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 1",
+      "Infinite Discs",
+      "2020s"
+    ]
   },
   {
-    "id": "5",
+    "id": 5,
     "style": "Glitch",
-    "tastingNote1": ".SPEED: 1",
-    "tastingNote2": "GLIDE: 7",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 0",
-    "tastingNote5": "__MVP__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2022"
+    "tastingNote": [
+      "SPEED: 1",
+      "GLIDE: 7",
+      "TURN: 0",
+      "FADE: 0",
+      "MVP",
+      "2020s"
+    ]
   },
   {
-    "id": "6",
+    "id": 6,
     "style": "Zone",
-    "tastingNote1": ".SPEED: 4",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Discraft__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2008"
+    "tastingNote": [
+      "SPEED: 4",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 3",
+      "Discraft",
+      "2000-2009"
+    ]
   },
   {
-    "id": "7",
+    "id": 7,
     "style": "Pixel",
-    "tastingNote1": ".SPEED: 2",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 0.5",
-    "tastingNote5": "__axiom__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 0.5",
+      "axiom",
+      "2020s"
+    ]
   },
   {
-    "id": "8",
+    "id": 8,
     "style": "Pharaoh",
-    "tastingNote1": ".SPEED: 13",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2018"
+    "tastingNote": [
+      "SPEED: 13",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "9",
+    "id": 9,
     "style": "Envy",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 2",
+      "Axiom",
+      "2010s"
+    ]
   },
   {
-    "id": "10",
+    "id": 10,
     "style": "Sphinx",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -3",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2018"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 6",
+      "TURN: -3",
+      "FADE: 1",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "11",
+    "id": 11,
     "style": "Tomb",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2018"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 1",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "12",
+    "id": 12,
     "style": "Hex",
-    "tastingNote1": ".SPEED: 5",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2021"
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
+      "Axiom",
+      "2020s"
+    ]
   },
   {
-    "id": "13",
+    "id": 13,
     "style": "Wizard",
-    "tastingNote1": ".SPEED: 2",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Gateway__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2016"
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 2",
+      "Gateway",
+      "2010s"
+    ]
   },
   {
-    "id": "14",
+    "id": 14,
     "style": "Mamba",
-    "tastingNote1": ".SPEED: 11",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -5",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2012"
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 6",
+      "TURN: -5",
+      "FADE: 1",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "15",
+    "id": 15,
     "style": "Maya",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -3",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2020"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -3",
+      "FADE: 1",
+      "Infinite Discs",
+      "2020s"
+    ]
   },
   {
-    "id": "16",
+    "id": 16,
     "style": "Dynasty",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2022"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2020s"
+    ]
   },
   {
-    "id": "17",
+    "id": 17,
     "style": "Crave",
-    "tastingNote1": ".SPEED: 6",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 6",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
+      "Axiom",
+      "2010s"
+    ]
   },
   {
-    "id": "18",
+    "id": 18,
     "style": "Luna",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Discraft__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2018"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 3",
+      "Discraft",
+      "2010s"
+    ]
   },
   {
-    "id": "19",
+    "id": 19,
     "style": "Trail",
-    "tastingNote1": ".SPEED: 10",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__MVP__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: ",
+      "GLIDE: ",
+      "TURN: 0",
+      "FADE: 0",
+      "MVP",
+      "2020s"
+    ]
   },
   {
-    "id": "20",
+    "id": 20,
     "style": "Pig",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 1",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2008"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 1",
+      "TURN: 0",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "21",
+    "id": 21,
     "style": "Mako 3",
-    "tastingNote1": ".SPEED: 5",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 0",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2017"
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 0",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "22",
+    "id": 22,
     "style": "Berg",
-    "tastingNote1": ".SPEED: 1",
-    "tastingNote2": "GLIDE: 1",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Kastaplast__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2015"
+    "tastingNote": [
+      "SPEED: 1",
+      "GLIDE: 1",
+      "TURN: 0",
+      "FADE: 2",
+      "Kastaplast",
+      "2010s"
+    ]
   },
   {
-    "id": "23",
+    "id": 23,
     "style": "Proxy",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 0.5",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: -1",
+      "FADE: 0.5",
+      "Axiom",
+      "2010s"
+    ]
   },
   {
-    "id": "24",
+    "id": 24,
     "style": "Centurion",
-    "tastingNote1": ".SPEED: 7",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2019"
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "25",
+    "id": 25,
     "style": "Pure",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Latitude 64__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2009"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: -1",
+      "FADE: 1",
+      "Latitude 64",
+      "2000-2009"
+    ]
   },
   {
-    "id": "26",
+    "id": 26,
     "style": "PA3",
-    "tastingNote1": ".SPEED: 3",
-    "tastingNote2": "GLIDE: 3.5",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Prodigy__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3.5",
+      "TURN: 0",
+      "FADE: 1",
+      "Prodigy",
+      "2010s"
+    ]
   },
   {
-    "id": "27",
+    "id": 27,
     "style": "Firebird",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 4",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2000"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 4",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "28",
+    "id": 28,
     "style": "River",
-    "tastingNote1": ".SPEED: 7",
-    "tastingNote2": "GLIDE: 7",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Latitude 64__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2010"
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 7",
+      "TURN: -1",
+      "FADE: 1",
+      "Latitude 64",
+      "2010s"
+    ]
   },
   {
-    "id": "29",
+    "id": 29,
     "style": "Roman",
-    "tastingNote1": ".SPEED: 10",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 3",
+      "Infinite Discs",
+      "2020s"
+    ]
   },
   {
-    "id": "30",
+    "id": 30,
     "style": "TeeBird",
-    "tastingNote1": ".SPEED: 7",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "1990s",
-    "tastingNote7": "1999"
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 5",
+      "TURN: 0",
+      "FADE: 2",
+      "Innova",
+      "1990s"
+    ]
   },
   {
-    "id": "31",
+    "id": 31,
     "style": "Leopard",
-    "tastingNote1": ".SPEED: 6",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "1990s",
-    "tastingNote7": "1999"
+    "tastingNote": [
+      "SPEED: 6",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1",
+      "Innova",
+      "1990s"
+    ]
   },
   {
-    "id": "32",
+    "id": 32,
     "style": "Valkyrie",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2000"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 4",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "33",
+    "id": 33,
     "style": "Aviar",
-    "tastingNote1": ".SPEED: 2",
-    "tastingNote2": "GLIDE: 3",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "1980s",
-    "tastingNote7": "1984"
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 1",
+      "Innova",
+      "1980s"
+    ]
   },
   {
-    "id": "34",
+    "id": 34,
     "style": "Tern",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2012"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "35",
+    "id": 35,
     "style": "Aztec",
-    "tastingNote1": ".SPEED: 10",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Infinite Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2019"
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "36",
+    "id": 36,
     "style": "Rollo",
-    "tastingNote1": ".SPEED: 5",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -4",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 6",
+      "TURN: -4",
+      "FADE: 1",
+      "Innova",
+      "2020s"
+    ]
   },
   {
-    "id": "37",
+    "id": 37,
     "style": "Judge",
-    "tastingNote1": ".SPEED: 2",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Dynamic Discs__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2012"
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 1",
+      "Dynamic Discs",
+      "2010s"
+    ]
   },
   {
-    "id": "38",
+    "id": 38,
     "style": "Wave",
-    "tastingNote1": ".SPEED: 11",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__MVP__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2015"
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "MVP",
+      "2010s"
+    ]
   },
   {
-    "id": "39",
+    "id": 39,
     "style": "Cicada",
-    "tastingNote1": ".SPEED: 7",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Discraft__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 1",
+      "Discraft",
+      "2020s"
+    ]
   },
   {
-    "id": "40",
+    "id": 40,
     "style": "Leopard 3",
-    "tastingNote1": ".SPEED: 7",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2017"
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "41",
+    "id": 41,
     "style": "Shryke",
-    "tastingNote1": ".SPEED: 13",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2016"
+    "tastingNote": [
+      "SPEED: 13",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "42",
+    "id": 42,
     "style": "Time-Lapse",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -1",
-    "tastingNote4": "_FADE: 3",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2023"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Axiom",
+      "2020s"
+    ]
   },
   {
-    "id": "43",
+    "id": 43,
     "style": "Mantra",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Thought Space Athletics__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2019"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 1",
+      "Thought Space Athletics",
+      "2010s"
+    ]
   },
   {
-    "id": "44",
+    "id": 44,
     "style": "Insanity",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 1.5",
-    "tastingNote5": "__Axiom__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1.5",
+      "Axiom",
+      "2010s"
+    ]
   },
   {
-    "id": "45",
+    "id": 45,
     "style": "Beast",
-    "tastingNote1": ".SPEED: 10",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2002"
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2000-2009"
+    ]
   },
   {
-    "id": "46",
+    "id": 46,
     "style": "Buzzz SS",
-    "tastingNote1": ".SPEED: 5",
-    "tastingNote2": "GLIDE: 4",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Discraft__",
-    "tastingNote6": "2000-2009",
-    "tastingNote7": "2008"
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: -2",
+      "FADE: 1",
+      "Discraft",
+      "2000-2009"
+    ]
   },
   {
-    "id": "47",
+    "id": 47,
     "style": "Diamond",
-    "tastingNote1": ".SPEED: 8",
-    "tastingNote2": "GLIDE: 6",
-    "tastingNote3": "TURN: -3",
-    "tastingNote4": "_FADE: 1",
-    "tastingNote5": "__Latitude 64__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2011"
+    "tastingNote": [
+      "SPEED: 8",
+      "GLIDE: 6",
+      "TURN: -3",
+      "FADE: 1",
+      "Latitude 64",
+      "2010s"
+    ]
   },
   {
-    "id": "48",
+    "id": 48,
     "style": "Thunderbird",
-    "tastingNote1": ".SPEED: 9",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: 0",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Innova__",
-    "tastingNote6": "2010s",
-    "tastingNote7": "2014"
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: 0",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
   },
   {
-    "id": "49",
+    "id": 49,
     "style": "Wild Honey",
-    "tastingNote1": ".SPEED: 12",
-    "tastingNote2": "GLIDE: 5",
-    "tastingNote3": "TURN: -2",
-    "tastingNote4": "_FADE: 2",
-    "tastingNote5": "__Clash Discs__",
-    "tastingNote6": "2020s",
-    "tastingNote7": "2022"
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "Clash Discs",
+      "2020s"
+    ]
   }
 ]
