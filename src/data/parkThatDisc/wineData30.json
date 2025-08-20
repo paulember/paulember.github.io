@@ -231,10 +231,10 @@
     "id": 19,
     "style": "Trail",
     "tastingNote": [
-      "SPEED: ",
-      "GLIDE: ",
-      "TURN: 0",
-      "FADE: 0",
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
       "MVP",
       "2020s"
     ]
