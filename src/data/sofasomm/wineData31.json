@@ -1,0 +1,422 @@
+[
+  {
+    "id": 0,
+    "style": "Albariño",
+    "tastingNote": [
+      "Lemon Zest",
+      "Grapefruit",
+      "Honeydew",
+      "Nectarine",
+      "Saline"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 1,
+    "style": "Bordeaux Blend",
+    "tastingNote": [
+      "Black Currant",
+      "Black Cherry",
+      "Graphite",
+      "Chocolate",
+      "Dried Herbs"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/bordeaux-blend-red/"
+  },
+  {
+    "id": 2,
+    "style": "Cabernet Franc",
+    "tastingNote": [
+      "Strawberry",
+      "Raspberry",
+      "Green Bean",
+      "Crushed Gravel",
+      "Chili Pepper"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 3,
+    "style": "Cabernet Sauvignon",
+    "tastingNote": [
+      "Black Cherry",
+      "Black Currant",
+      "Cedar",
+      "Baking Spices",
+      "Graphite"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 4,
+    "style": "Cava",
+    "tastingNote": [
+      "Quince",
+      "Lime",
+      "Yellow Apple",
+      "Chamomile",
+      "Almond"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/cava/"
+  },
+  {
+    "id": 5,
+    "style": "Chablis",
+    "tastingNote": [
+      "Quince",
+      "Starfruit",
+      "Lime Peel",
+      "White Flowers",
+      "Chalk"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/chablis/"
+  },
+  {
+    "id": 6,
+    "style": "Chambourcin",
+    "tastingNote": [
+      "Black Cherry",
+      "Black Pepper",
+      "Crushed Gravel",
+      "Wet Loam",
+      "Chocolate"
+    ],
+    "wfBottleLink": "https://winefolly.com/tips/say-hello-to-french-hybrids-from-chambourcin-to-vidal-blanc/"
+  },
+  {
+    "id": 7,
+    "style": "Champagne",
+    "tastingNote": [
+      "Citrus",
+      "Yellow Apple",
+      "Cream",
+      "Almond",
+      "Toast"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/champagne/"
+  },
+  {
+    "id": 8,
+    "style": "Chardonnay",
+    "tastingNote": [
+      "Lemon",
+      "Yellow Apple",
+      "Butter",
+      "Vanilla",
+      "Starfruit"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 9,
+    "style": "Chenin Blanc",
+    "tastingNote": [
+      "Quince",
+      "Yellow Apple",
+      "Pear",
+      "Chamomile",
+      "Honey"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 10,
+    "style": "Cremant",
+    "tastingNote": [
+      "Lemon",
+      "White Peach",
+      "White Cherry",
+      "Almond",
+      "Toast"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/cremant/"
+  },
+  {
+    "id": 11,
+    "style": "Grillo",
+    "tastingNote": [
+      "Grapefruit",
+      "Citrus Blossom",
+      "Thyme",
+      "Minerals",
+      "Saline"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 12,
+    "style": "Gruner Veltliner",
+    "tastingNote": [
+      "Starfruit",
+      "Gooseberry",
+      "Green Bean",
+      "White Pepper",
+      "Crushed Gravel"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 13,
+    "style": "Malbec",
+    "tastingNote": [
+      "Raspberry",
+      "Blackberry",
+      "Vanilla",
+      "Sweet Tobacco",
+      "Cocoa"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 14,
+    "style": "Merlot",
+    "tastingNote": [
+      "Cherry",
+      "Chocolate",
+      "Plum",
+      "Bay Leaf",
+      "Vanilla"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 15,
+    "style": "Nebbiolo",
+    "tastingNote": [
+      "Cherry",
+      "Rose",
+      "Leather",
+      "Anise",
+      "White Pepper"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 16,
+    "style": "Nero d’Avola",
+    "tastingNote": [
+      "Black Cherry",
+      "Blueberry",
+      "Bay Leaf",
+      "Tobacco",
+      "Chili Pepper"
+    ],
+    "wfBottleLink": "https://winefolly.com/deep-dive/guide-to-nero-davola-wine/"
+  },
+  {
+    "id": 17,
+    "style": "Norton",
+    "tastingNote": [
+      "Black Currant",
+      "Black Cherry",
+      "Dill",
+      "Black Pepper",
+      "Chocolate"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 18,
+    "style": "Picpoul",
+    "tastingNote": [
+      "Green Apple",
+      "Citrus Blossom",
+      "Lemon",
+      "Thyme",
+      "Saline"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 19,
+    "style": "Pinot Blanc",
+    "tastingNote": [
+      "Pear",
+      "Peach",
+      "Raw Almond",
+      "Lemon Zest",
+      "Crushed Gravel"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 20,
+    "style": "Pinot Gris",
+    "tastingNote": [
+      "White Peach",
+      "Lemon Zest",
+      "Cantaloupe",
+      "Raw Almond",
+      "Crushed Gravel"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 21,
+    "style": "Pinot Noir",
+    "tastingNote": [
+      "Raspberry",
+      "Cherry",
+      "Mushroom",
+      "Vanilla",
+      "Rose"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 22,
+    "style": "Port",
+    "tastingNote": [
+      "Plum",
+      "Dried Cherry",
+      "Chocolate",
+      "Raisin",
+      "Cinnamon"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 23,
+    "style": "Prosecco",
+    "tastingNote": [
+      "Green Apple",
+      "Honeydew",
+      "Pear",
+      "Lager",
+      "Cream"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/prosecco/"
+  },
+  {
+    "id": 24,
+    "style": "Riesling",
+    "tastingNote": [
+      "Lime",
+      "Green Apple",
+      "Lemon",
+      "Beeswax",
+      "White Flowers"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 25,
+    "style": "Rioja (Red)",
+    "tastingNote": [
+      "Cherry",
+      "Plum",
+      "Dill",
+      "Vanilla",
+      "Leather"
+    ],
+    "wfBottleLink": "https://winefolly.com/wines/rioja-red/"
+  },
+  {
+    "id": 26,
+    "style": "Sancerre",
+    "tastingNote": [
+      "Gooseberry",
+      "Grapefruit",
+      "Honeydew",
+      "Hay",
+      "Flint"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 27,
+    "style": "Sauvignon Blanc",
+    "tastingNote": [
+      "Gooseberry",
+      "Honeydew",
+      "Grapefruit",
+      "White Peach",
+      "Passion Fruit"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 28,
+    "style": "Semillon",
+    "tastingNote": [
+      "Lemon",
+      "Beeswax",
+      "Peach",
+      "Chamomile",
+      "Saline"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 29,
+    "style": "Syrah",
+    "tastingNote": [
+      "Blueberry",
+      "Plum",
+      "Graphite",
+      "Tobacco",
+      "Black Pepper"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 30,
+    "style": "Tempranillo",
+    "tastingNote": [
+      "Cherry",
+      "Dried Fig",
+      "Cedar",
+      "Tobacco",
+      "Dill"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 31,
+    "style": "Trebbiano Toscano",
+    "tastingNote": [
+      "White Peach",
+      "Lemon",
+      "Green Apple",
+      "Seashell",
+      "Basil"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 32,
+    "style": "Verdejo",
+    "tastingNote": [
+      "Lime",
+      "Honeydew",
+      "Grapefruit",
+      "Fennel",
+      "White Peach"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 33,
+    "style": "Gewurztraminer",
+    "tastingNote": [
+      "Cantaloupe",
+      "Rose",
+      "Grapefruit",
+      "Tangerine",
+      "Honey"
+    ],
+    "wfBottleLink": ""
+  },
+  {
+    "id": 34,
+    "style": "Zinfandel",
+    "tastingNote": [
+      "Blackberry",
+      "Strawberry",
+      "Raisin",
+      "Cinnamon",
+      "Sweet Tobacco"
+    ],
+    "wfBottleLink": ""
+  }
+]
