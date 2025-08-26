@@ -2,14 +2,14 @@
 {
   "appPropsKey": 0 ,
   "dataLibrary": "sofasomm",
-  "appTxt": "SofaSommmGIT",
-  "app_longText": "Sofa Somm GIT",
+  "appTxt": "_SofaSomm_",
+  "app_longText": "_Sofa Somm_",
   "hiScore": 100,
   "scoreFloors": [
-    [90, "A GIT"],
-    [80, "B GIT"],
-    [70, "C git"],
-    [0, "D git"]
+    [98, "Master SOMMELIER"],
+    [90, "advanced"],
+    [80, "certified"],
+    [0, "beginner"]
   ]
 }
 ]
