@@ -1,15 +1,17 @@
 [
 {
   "appPropsKey": 0 ,
-  "dataLibrary": "sofasomm",
-  "appTxt": "_SofaSomm_",
-  "app_longText": "_Sofa Somm_",
+  "dataLibrary": "oscarParty",
+  "appTxt": "OscarParty",
+  "app_longText": "Oscar Party",
   "hiScore": 100,
   "scoreFloors": [
-    [98, "Master SOMMELIER"],
-    [90, "advanced"],
-    [80, "certified"],
-    [0, "beginner"]
+    [98, "★★★★"],
+    [90, "★★★½☆"],
+    [80, "★★★☆"],
+    [70, "★★☆☆"],
+	[60, "★☆☆☆"],
+	[0, "zero☆"],
   ]
 }
 ]
