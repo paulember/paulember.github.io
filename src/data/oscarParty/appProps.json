@@ -1,0 +1,15 @@
+[
+{
+  "appPropsKey": 0 ,
+  "dataLibrary": "sofasomm",
+  "appTxt": "_SofaSomm_",
+  "app_longText": "_Sofa Somm_",
+  "hiScore": 100,
+  "scoreFloors": [
+    [98, "Master SOMMELIER"],
+    [90, "advanced"],
+    [80, "certified"],
+    [0, "beginner"]
+  ]
+}
+]
