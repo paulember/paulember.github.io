@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "style": "Buzzz",
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: -1",
+      "FADE: 1",
+      "Discraft",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 1,
+    "style": "Emperor",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2.5",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 2,
+    "style": "Wraith",
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 3,
+    "style": "Destroyer",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 4,
+    "style": "Alpaca",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 1",
+      "Infinite Discs",
+      "2020s"
+    ]
+  },
+  {
+    "id": 5,
+    "style": "Glitch",
+    "tastingNote": [
+      "SPEED: 1",
+      "GLIDE: 7",
+      "TURN: 0",
+      "FADE: 0",
+      "MVP",
+      "2020s"
+    ]
+  },
+  {
+    "id": 6,
+    "style": "Zone",
+    "tastingNote": [
+      "SPEED: 4",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 3",
+      "Discraft",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 7,
+    "style": "Pixel",
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 0.5",
+      "Axiom",
+      "2020s"
+    ]
+  },
+  {
+    "id": 8,
+    "style": "Pharaoh",
+    "tastingNote": [
+      "SPEED: 13",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 9,
+    "style": "Envy",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 2",
+      "Axiom",
+      "2010s"
+    ]
+  },
+  {
+    "id": 10,
+    "style": "Sphinx",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 6",
+      "TURN: -3",
+      "FADE: 1",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 11,
+    "style": "Tomb",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 1",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 12,
+    "style": "Hex",
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
+      "Axiom",
+      "2020s"
+    ]
+  },
+  {
+    "id": 13,
+    "style": "Wizard",
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 2",
+      "Gateway",
+      "2010s"
+    ]
+  },
+  {
+    "id": 14,
+    "style": "Mamba",
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 6",
+      "TURN: -5",
+      "FADE: 1",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 15,
+    "style": "Maya",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -3",
+      "FADE: 1",
+      "Infinite Discs",
+      "2020s"
+    ]
+  },
+  {
+    "id": 16,
+    "style": "Dynasty",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2020s"
+    ]
+  },
+  {
+    "id": 17,
+    "style": "Crave",
+    "tastingNote": [
+      "SPEED: 6",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
+      "Axiom",
+      "2010s"
+    ]
+  },
+  {
+    "id": 18,
+    "style": "Luna",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 3",
+      "Discraft",
+      "2010s"
+    ]
+  },
+  {
+    "id": 19,
+    "style": "Trail",
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 1",
+      "MVP",
+      "2020s"
+    ]
+  },
+  {
+    "id": 20,
+    "style": "Pig",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 1",
+      "TURN: 0",
+      "FADE: 3",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 21,
+    "style": "Mako 3",
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 0",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 22,
+    "style": "Berg",
+    "tastingNote": [
+      "SPEED: 1",
+      "GLIDE: 1",
+      "TURN: 0",
+      "FADE: 2",
+      "Kastaplast",
+      "2010s"
+    ]
+  },
+  {
+    "id": 23,
+    "style": "Proxy",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: -1",
+      "FADE: 0.5",
+      "Axiom",
+      "2010s"
+    ]
+  },
+  {
+    "id": 24,
+    "style": "Centurion",
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 25,
+    "style": "Pure",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3",
+      "TURN: -1",
+      "FADE: 1",
+      "Latitude 64",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 26,
+    "style": "PA3",
+    "tastingNote": [
+      "SPEED: 3",
+      "GLIDE: 3.5",
+      "TURN: 0",
+      "FADE: 1",
+      "Prodigy",
+      "2010s"
+    ]
+  },
+  {
+    "id": 27,
+    "style": "Firebird",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 4",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 28,
+    "style": "River",
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 7",
+      "TURN: -1",
+      "FADE: 1",
+      "Latitude 64",
+      "2010s"
+    ]
+  },
+  {
+    "id": 29,
+    "style": "Roman",
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 3",
+      "Infinite Discs",
+      "2020s"
+    ]
+  },
+  {
+    "id": 30,
+    "style": "TeeBird",
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 5",
+      "TURN: 0",
+      "FADE: 2",
+      "Innova",
+      "1990s"
+    ]
+  },
+  {
+    "id": 31,
+    "style": "Leopard",
+    "tastingNote": [
+      "SPEED: 6",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1",
+      "Innova",
+      "1990s"
+    ]
+  },
+  {
+    "id": 32,
+    "style": "Valkyrie",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 4",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 33,
+    "style": "Aviar",
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 3",
+      "TURN: 0",
+      "FADE: 1",
+      "Innova",
+      "1980s"
+    ]
+  },
+  {
+    "id": 34,
+    "style": "Tern",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 35,
+    "style": "Aztec",
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 2",
+      "Infinite Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 36,
+    "style": "Rollo",
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 6",
+      "TURN: -4",
+      "FADE: 1",
+      "Innova",
+      "2020s"
+    ]
+  },
+  {
+    "id": 37,
+    "style": "Judge",
+    "tastingNote": [
+      "SPEED: 2",
+      "GLIDE: 4",
+      "TURN: 0",
+      "FADE: 1",
+      "Dynamic Discs",
+      "2010s"
+    ]
+  },
+  {
+    "id": 38,
+    "style": "Wave",
+    "tastingNote": [
+      "SPEED: 11",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "MVP",
+      "2010s"
+    ]
+  },
+  {
+    "id": 39,
+    "style": "Cicada",
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 6",
+      "TURN: -1",
+      "FADE: 1",
+      "Discraft",
+      "2020s"
+    ]
+  },
+  {
+    "id": 40,
+    "style": "Leopard 3",
+    "tastingNote": [
+      "SPEED: 7",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 41,
+    "style": "Shryke",
+    "tastingNote": [
+      "SPEED: 13",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 42,
+    "style": "Time-Lapse",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -1",
+      "FADE: 3",
+      "Axiom",
+      "2020s"
+    ]
+  },
+  {
+    "id": 43,
+    "style": "Mantra",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 6",
+      "TURN: -2",
+      "FADE: 1",
+      "Thought Space Athletics",
+      "2010s"
+    ]
+  },
+  {
+    "id": 44,
+    "style": "Insanity",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 1.5",
+      "Axiom",
+      "2010s"
+    ]
+  },
+  {
+    "id": 45,
+    "style": "Beast",
+    "tastingNote": [
+      "SPEED: 10",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "Innova",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 46,
+    "style": "Buzzz SS",
+    "tastingNote": [
+      "SPEED: 5",
+      "GLIDE: 4",
+      "TURN: -2",
+      "FADE: 1",
+      "Discraft",
+      "2000-2009"
+    ]
+  },
+  {
+    "id": 47,
+    "style": "Diamond",
+    "tastingNote": [
+      "SPEED: 8",
+      "GLIDE: 6",
+      "TURN: -3",
+      "FADE: 1",
+      "Latitude 64",
+      "2010s"
+    ]
+  },
+  {
+    "id": 48,
+    "style": "Thunderbird",
+    "tastingNote": [
+      "SPEED: 9",
+      "GLIDE: 5",
+      "TURN: 0",
+      "FADE: 2",
+      "Innova",
+      "2010s"
+    ]
+  },
+  {
+    "id": 49,
+    "style": "Wild Honey",
+    "tastingNote": [
+      "SPEED: 12",
+      "GLIDE: 5",
+      "TURN: -2",
+      "FADE: 2",
+      "Clash Discs",
+      "2020s"
+    ]
+  }
+]
