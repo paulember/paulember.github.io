@@ -1,602 +1,1248 @@
 [
   {
     "id": 0,
-    "style": "1933",
+    "style": 1936,
     "tastingNote": [
-      "SPEED: 5",
-      "GLIDE: 4",
-      "TURN: -1",
-      "FADE: 1",
-      "Discraft",
-      "2000-2009"
-    ]
+      "Brennan",
+      "Rainer",
+      "Sondergaard",
+      "Capra",
+      "Gibney",
+      "",
+      "The Great Ziegfeld"
+    ],
+    "bestPicture": "The Great Ziegfeld"
   },
   {
     "id": 1,
-    "style": "1934",
+    "style": 1937,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 2.5",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Schildkraut",
+      "Rainer",
+      "Brady",
+      "McCarey",
+      "Raine",
+      "",
+      "The Life of Emile Zola"
+    ],
+    "bestPicture": "The Life of Emile Zola"
   },
   {
     "id": 2,
-    "style": "1935",
+    "style": 1938,
     "tastingNote": [
-      "SPEED: 11",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 3",
-      "Innova",
-      "2000-2009"
-    ]
+      "Brennan",
+      "Davis",
+      "Bainter",
+      "Capra",
+      "Shaw",
+      "",
+      "You Can't Take It with You"
+    ],
+    "bestPicture": "You Can't Take It with You"
   },
   {
     "id": 3,
-    "style": "Destroyer",
+    "style": 1939,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 3",
-      "Innova",
-      "2000-2009"
-    ]
+      "Mitchell",
+      "Leigh",
+      "McDaniel",
+      "Fleming",
+      "Howard",
+      "",
+      "Gone with the Wind"
+    ],
+    "bestPicture": "Gone with the Wind"
   },
   {
     "id": 4,
-    "style": "Alpaca",
+    "style": 1940,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 1",
-      "Infinite Discs",
-      "2020s"
-    ]
+      "Brennan",
+      "Rogers",
+      "Darwell",
+      "Ford",
+      "Stewart",
+      "Sturges",
+      "Rebecca"
+    ],
+    "bestPicture": "Rebecca"
   },
   {
     "id": 5,
-    "style": "Glitch",
+    "style": 1941,
     "tastingNote": [
-      "SPEED: 1",
-      "GLIDE: 7",
-      "TURN: 0",
-      "FADE: 0",
-      "MVP",
-      "2020s"
-    ]
+      "Crisp",
+      "Fontaine",
+      "Astor",
+      "Ford",
+      "Buchman",
+      "Welles",
+      "How Green Was My Valley"
+    ],
+    "bestPicture": "How Green Was My Valley"
   },
   {
     "id": 6,
-    "style": "Zone",
+    "style": 1942,
     "tastingNote": [
-      "SPEED: 4",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 3",
-      "Discraft",
-      "2000-2009"
-    ]
+      "Heflin",
+      "Garson",
+      "Wright",
+      "Wyler",
+      "Hilton",
+      "Lardner Jr.",
+      "Mrs. Miniver"
+    ],
+    "bestPicture": "Mrs. Miniver"
   },
   {
     "id": 7,
-    "style": "Pixel",
+    "style": 1943,
     "tastingNote": [
-      "SPEED: 2",
-      "GLIDE: 4",
-      "TURN: 0",
-      "FADE: 0.5",
-      "Axiom",
-      "2020s"
-    ]
+      "Coburn",
+      "Jones",
+      "Paxinou",
+      "Curtiz",
+      "Epstein",
+      "Krasna",
+      "Casablanca"
+    ],
+    "bestPicture": "Casablanca"
   },
   {
     "id": 8,
-    "style": "Pharaoh",
+    "style": 1944,
     "tastingNote": [
-      "SPEED: 13",
-      "GLIDE: 6",
-      "TURN: -1",
-      "FADE: 2",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Fitzgerald",
+      "Bergman",
+      "Barrymore",
+      "McCarey",
+      "Butler",
+      "Trotti",
+      "Going My Way"
+    ],
+    "bestPicture": "Going My Way"
   },
   {
     "id": 9,
-    "style": "Envy",
+    "style": 1945,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 2",
-      "Axiom",
-      "2010s"
-    ]
+      "Dunn",
+      "Crawford",
+      "Revere",
+      "Wilder",
+      "Wilder",
+      "Schweizer",
+      "The Lost Weekend"
+    ],
+    "bestPicture": "The Lost Weekend"
   },
   {
     "id": 10,
-    "style": "Sphinx",
+    "style": 1946,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 6",
-      "TURN: -3",
-      "FADE: 1",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Russell",
+      "de Havilland",
+      "Baxter",
+      "Wyler",
+      "Sherwood",
+      "Box",
+      "The Best Years of Our Lives"
+    ],
+    "bestPicture": "The Best Years of Our Lives"
   },
   {
     "id": 11,
-    "style": "Tomb",
+    "style": 1947,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 4",
-      "TURN: 0",
-      "FADE: 1",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Gwenn",
+      "Young",
+      "Holm",
+      "Kazan",
+      "Seaton",
+      "Sheldon",
+      "Gentleman's Agreement"
+    ],
+    "bestPicture": "Gentleman's Agreement"
   },
   {
     "id": 12,
-    "style": "Hex",
+    "style": 1948,
     "tastingNote": [
-      "SPEED: 5",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 1",
-      "Axiom",
-      "2020s"
-    ]
+      "Huston",
+      "Wyman",
+      "Trevor",
+      "Huston",
+      "Huston",
+      "",
+      "Hamlet"
+    ],
+    "bestPicture": "Hamlet"
   },
   {
     "id": 13,
-    "style": "Wizard",
+    "style": 1949,
     "tastingNote": [
-      "SPEED: 2",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 2",
-      "Gateway",
-      "2010s"
-    ]
+      "Jagger",
+      "de Havilland",
+      "McCambridge",
+      "Mankiewicz",
+      "Mankiewicz",
+      "Pirosh",
+      "All the King's Men"
+    ],
+    "bestPicture": "All the King's Men"
   },
   {
     "id": 14,
-    "style": "Mamba",
+    "style": 1950,
     "tastingNote": [
-      "SPEED: 11",
-      "GLIDE: 6",
-      "TURN: -5",
-      "FADE: 1",
-      "Innova",
-      "2010s"
-    ]
+      "Sanders",
+      "Holliday",
+      "Hull",
+      "Mankiewicz",
+      "Mankiewicz",
+      "Wilder",
+      "All about Eve"
+    ],
+    "bestPicture": "All about Eve"
   },
   {
     "id": 15,
-    "style": "Maya",
+    "style": 1951,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 5",
-      "TURN: -3",
-      "FADE: 1",
-      "Infinite Discs",
-      "2020s"
-    ]
+      "Malden",
+      "Leigh",
+      "Hunter",
+      "Stevens",
+      "Wilson",
+      "Jay Lerner",
+      "An American in Paris"
+    ],
+    "bestPicture": "An American in Paris"
   },
   {
     "id": 16,
-    "style": "Dynasty",
+    "style": 1952,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 2",
-      "Infinite Discs",
-      "2020s"
-    ]
+      "Quinn",
+      "Booth",
+      "Grahame",
+      "Ford",
+      "Schnee",
+      "Clarke",
+      "The Greatest Show on Earth"
+    ],
+    "bestPicture": "The Greatest Show on Earth"
   },
   {
     "id": 17,
-    "style": "Crave",
+    "style": 1953,
     "tastingNote": [
-      "SPEED: 6",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 1",
-      "Axiom",
-      "2010s"
-    ]
+      "Sinatra",
+      "Hepburn",
+      "Reed",
+      "Zinnemann",
+      "Taradash",
+      "Reisch",
+      "From Here to Eternity"
+    ],
+    "bestPicture": "From Here to Eternity"
   },
   {
     "id": 18,
-    "style": "Luna",
+    "style": 1954,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 3",
-      "Discraft",
-      "2010s"
-    ]
+      "O'Brien",
+      "Kelly",
+      "Marie Saint",
+      "Kazan",
+      "Seaton",
+      "Schulberg",
+      "On the Waterfront"
+    ],
+    "bestPicture": "On the Waterfront"
   },
   {
     "id": 19,
-    "style": "Trail",
+    "style": 1955,
     "tastingNote": [
-      "SPEED: 10",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 1",
-      "MVP",
-      "2020s"
-    ]
+      "Lemmon",
+      "Magnani",
+      "Van Fleet",
+      "Mann",
+      "Chayefsky",
+      "Levien",
+      "Marty"
+    ],
+    "bestPicture": "Marty"
   },
   {
     "id": 20,
-    "style": "Pig",
+    "style": 1956,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 1",
-      "TURN: 0",
-      "FADE: 3",
-      "Innova",
-      "2000-2009"
-    ]
+      "Quinn",
+      "Bergman",
+      "Malone",
+      "Stevens",
+      "Farrow",
+      "Lamorisse",
+      "Around the World in 80 Days"
+    ],
+    "bestPicture": "Around the World in 80 Days"
   },
   {
     "id": 21,
-    "style": "Mako 3",
+    "style": 1957,
     "tastingNote": [
-      "SPEED: 5",
-      "GLIDE: 4",
-      "TURN: 0",
-      "FADE: 0",
-      "Innova",
-      "2010s"
-    ]
+      "Buttons",
+      "Woodward",
+      "Umeki",
+      "Lean",
+      "Wilson",
+      "Wells",
+      "The Bridge on the River Kwai"
+    ],
+    "bestPicture": "The Bridge on the River Kwai"
   },
   {
     "id": 22,
-    "style": "Berg",
+    "style": 1958,
     "tastingNote": [
-      "SPEED: 1",
-      "GLIDE: 1",
-      "TURN: 0",
-      "FADE: 2",
-      "Kastaplast",
-      "2010s"
-    ]
+      "Ives",
+      "Hayward",
+      "Hiller",
+      "Minnelli",
+      "Jay Lerner",
+      "Young/Harold Jacob Smith",
+      "Gigi"
+    ],
+    "bestPicture": "Gigi"
   },
   {
     "id": 23,
-    "style": "Proxy",
+    "style": 1959,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3",
-      "TURN: -1",
-      "FADE: 0.5",
-      "Axiom",
-      "2010s"
-    ]
+      "Griffith",
+      "Signoret",
+      "Winters",
+      "Wyler",
+      "Paterson",
+      "Rouse/Clarence Greene/Stanley Shapiro/Maurice Richlin",
+      "Ben-Hur"
+    ],
+    "bestPicture": "Ben-Hur"
   },
   {
     "id": 24,
-    "style": "Centurion",
+    "style": 1960,
     "tastingNote": [
-      "SPEED: 7",
-      "GLIDE: 6",
-      "TURN: -1",
-      "FADE: 2",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Ustinov",
+      "Taylor",
+      "Jones",
+      "Wilder",
+      "Brooks",
+      "Wilder/I. A. L. Diamond",
+      "The Apartment"
+    ],
+    "bestPicture": "The Apartment"
   },
   {
     "id": 25,
-    "style": "Pure",
+    "style": 1961,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3",
-      "TURN: -1",
-      "FADE: 1",
-      "Latitude 64",
-      "2000-2009"
-    ]
+      "Chakiris",
+      "Loren",
+      "Moreno",
+      "Wise/Jerome Robbins",
+      "Mann",
+      "Inge",
+      "West Side Story"
+    ],
+    "bestPicture": "West Side Story"
   },
   {
     "id": 26,
-    "style": "PA3",
+    "style": 1962,
     "tastingNote": [
-      "SPEED: 3",
-      "GLIDE: 3.5",
-      "TURN: 0",
-      "FADE: 1",
-      "Prodigy",
-      "2010s"
-    ]
+      "Begley",
+      "Bancroft",
+      "Duke",
+      "Lean",
+      "Foote",
+      "de Concini/Alfredo Giannetti/Pietro Germi",
+      "Lawrence of Arabia"
+    ],
+    "bestPicture": "Lawrence of Arabia"
   },
   {
     "id": 27,
-    "style": "Firebird",
+    "style": 1963,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 4",
-      "Innova",
-      "2000-2009"
-    ]
+      "Douglas",
+      "Neal",
+      "Rutherford",
+      "Richardson",
+      "Osborne",
+      "R. Webb",
+      "Tom Jones"
+    ],
+    "bestPicture": "Tom Jones"
   },
   {
     "id": 28,
-    "style": "River",
+    "style": 1964,
     "tastingNote": [
-      "SPEED: 7",
-      "GLIDE: 7",
-      "TURN: -1",
-      "FADE: 1",
-      "Latitude 64",
-      "2010s"
-    ]
+      "Ustinov",
+      "Andrews",
+      "Kedrova",
+      "Cukor",
+      "Anhalt",
+      "H. Barnett/Peter Stone/Frank Tarloff",
+      "My Fair Lady"
+    ],
+    "bestPicture": "My Fair Lady"
   },
   {
     "id": 29,
-    "style": "Roman",
+    "style": 1965,
     "tastingNote": [
-      "SPEED: 10",
-      "GLIDE: 4",
-      "TURN: 0",
-      "FADE: 3",
-      "Infinite Discs",
-      "2020s"
-    ]
+      "Balsam",
+      "Christie",
+      "Winters",
+      "Wise",
+      "Bolt",
+      "Raphael",
+      "The Sound of Music"
+    ],
+    "bestPicture": "The Sound of Music"
   },
   {
     "id": 30,
-    "style": "TeeBird",
+    "style": 1966,
     "tastingNote": [
-      "SPEED: 7",
-      "GLIDE: 5",
-      "TURN: 0",
-      "FADE: 2",
-      "Innova",
-      "1990s"
-    ]
+      "Matthau",
+      "Taylor",
+      "Dennis",
+      "Zinnemann",
+      "Bolt",
+      "Lelouch/Pierre Uytterhoeven",
+      "A Man for All Seasons"
+    ],
+    "bestPicture": "A Man for All Seasons"
   },
   {
     "id": 31,
-    "style": "Leopard",
+    "style": 1967,
     "tastingNote": [
-      "SPEED: 6",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 1",
-      "Innova",
-      "1990s"
-    ]
+      "Kennedy",
+      "Hepburn",
+      "Parsons",
+      "Nichols",
+      "Silliphant",
+      "Rose",
+      "In the Heat of the Night"
+    ],
+    "bestPicture": "In the Heat of the Night"
   },
   {
     "id": 32,
-    "style": "Valkyrie",
+    "style": 1968,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 4",
-      "TURN: -2",
-      "FADE: 2",
-      "Innova",
-      "2000-2009"
-    ]
+      "Albertson",
+      "Streisand",
+      "Gordon",
+      "Reed",
+      "Goldman",
+      "Brooks",
+      "Oliver!"
+    ],
+    "bestPicture": "Oliver!"
   },
   {
     "id": 33,
-    "style": "Aviar",
+    "style": 1969,
     "tastingNote": [
-      "SPEED: 2",
-      "GLIDE: 3",
-      "TURN: 0",
-      "FADE: 1",
-      "Innova",
-      "1980s"
-    ]
+      "Young",
+      "Smith",
+      "Hawn",
+      "Schlesinger",
+      "Salt",
+      "Goldman",
+      "Midnight Cowboy"
+    ],
+    "bestPicture": "Midnight Cowboy"
   },
   {
     "id": 34,
-    "style": "Tern",
+    "style": 1970,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 6",
-      "TURN: -2",
-      "FADE: 2",
-      "Innova",
-      "2010s"
-    ]
+      "Mills",
+      "Jackson",
+      "Hayes",
+      "J. Schaffner",
+      "Lardner Jr.",
+      "Ford Coppola/Edmund H. North",
+      "Patton"
+    ],
+    "bestPicture": "Patton"
   },
   {
     "id": 35,
-    "style": "Aztec",
+    "style": 1971,
     "tastingNote": [
-      "SPEED: 10",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 2",
-      "Infinite Discs",
-      "2010s"
-    ]
+      "Johnson",
+      "Fonda",
+      "Leachman",
+      "Friedkin",
+      "Tidyman",
+      "Chayefsky",
+      "The French Connection"
+    ],
+    "bestPicture": "The French Connection"
   },
   {
     "id": 36,
-    "style": "Rollo",
+    "style": 1972,
     "tastingNote": [
-      "SPEED: 5",
-      "GLIDE: 6",
-      "TURN: -4",
-      "FADE: 1",
-      "Innova",
-      "2020s"
-    ]
+      "Grey",
+      "Minnelli",
+      "Heckart",
+      "Fosse",
+      "Puzo/Francis Ford Coppola",
+      "Larner",
+      "The Godfather"
+    ],
+    "bestPicture": "The Godfather"
   },
   {
     "id": 37,
-    "style": "Judge",
+    "style": 1973,
     "tastingNote": [
-      "SPEED: 2",
-      "GLIDE: 4",
-      "TURN: 0",
-      "FADE: 1",
-      "Dynamic Discs",
-      "2010s"
-    ]
+      "Houseman",
+      "Jackson",
+      "O'Neal",
+      "Roy Hill",
+      "Peter Blatty",
+      "S. Ward",
+      "The Sting"
+    ],
+    "bestPicture": "The Sting"
   },
   {
     "id": 38,
-    "style": "Wave",
+    "style": 1974,
     "tastingNote": [
-      "SPEED: 11",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 2",
-      "MVP",
-      "2010s"
-    ]
+      "De Niro",
+      "Burstyn",
+      "Bergman",
+      "Coppola",
+      "Ford Coppola/Mario Puzo",
+      "Towne",
+      "The Godfather Part II"
+    ],
+    "bestPicture": "The Godfather Part II"
   },
   {
     "id": 39,
-    "style": "Cicada",
+    "style": 1975,
     "tastingNote": [
-      "SPEED: 7",
-      "GLIDE: 6",
-      "TURN: -1",
-      "FADE: 1",
-      "Discraft",
-      "2020s"
-    ]
+      "Burns",
+      "Fletcher",
+      "Grant",
+      "Forman",
+      "Hauben/Bo Goldman",
+      "Pierson",
+      "One Flew over the Cuckoo's Nest"
+    ],
+    "bestPicture": "One Flew over the Cuckoo's Nest"
   },
   {
     "id": 40,
-    "style": "Leopard 3",
+    "style": 1976,
     "tastingNote": [
-      "SPEED: 7",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 1",
-      "Innova",
-      "2010s"
-    ]
+      "Robards",
+      "Dunaway",
+      "Straight",
+      "Avildsen",
+      "Goldman",
+      "Chayefsky",
+      "Rocky"
+    ],
+    "bestPicture": "Rocky"
   },
   {
     "id": 41,
-    "style": "Shryke",
+    "style": 1977,
     "tastingNote": [
-      "SPEED: 13",
-      "GLIDE: 6",
-      "TURN: -2",
-      "FADE: 2",
-      "Innova",
-      "2010s"
-    ]
+      "Robards",
+      "Keaton",
+      "Redgrave",
+      "Allen",
+      "Sargent",
+      "Allen/Marshall Brickman",
+      "Annie Hall"
+    ],
+    "bestPicture": "Annie Hall"
   },
   {
     "id": 42,
-    "style": "Time-Lapse",
+    "style": 1978,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 5",
-      "TURN: -1",
-      "FADE: 3",
-      "Axiom",
-      "2020s"
-    ]
+      "Walken",
+      "Fonda",
+      "Smith",
+      "Cimino",
+      "Stone",
+      "Dowd/Waldo Salt/Robert C. Jones",
+      "The Deer Hunter"
+    ],
+    "bestPicture": "The Deer Hunter"
   },
   {
     "id": 43,
-    "style": "Mantra",
+    "style": 1979,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 6",
-      "TURN: -2",
-      "FADE: 1",
-      "Thought Space Athletics",
-      "2010s"
-    ]
+      "Douglas",
+      "Field",
+      "Streep",
+      "Benton",
+      "Benton",
+      "Tesich",
+      "Kramer vs. Kramer"
+    ],
+    "bestPicture": "Kramer vs. Kramer"
   },
   {
     "id": 44,
-    "style": "Insanity",
+    "style": 1980,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 1.5",
-      "Axiom",
-      "2010s"
-    ]
+      "Hutton",
+      "Spacek",
+      "Steenburgen",
+      "Redford",
+      "Sargent",
+      "Goldman",
+      "Ordinary People"
+    ],
+    "bestPicture": "Ordinary People"
   },
   {
     "id": 45,
-    "style": "Beast",
+    "style": 1981,
     "tastingNote": [
-      "SPEED: 10",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 2",
-      "Innova",
-      "2000-2009"
-    ]
+      "Gielgud",
+      "Hepburn",
+      "Stapleton",
+      "Beatty",
+      "Thompson",
+      "Welland",
+      "Chariots of Fire"
+    ],
+    "bestPicture": "Chariots of Fire"
   },
   {
     "id": 46,
-    "style": "Buzzz SS",
+    "style": 1982,
     "tastingNote": [
-      "SPEED: 5",
-      "GLIDE: 4",
-      "TURN: -2",
-      "FADE: 1",
-      "Discraft",
-      "2000-2009"
-    ]
+      "Gossett Jr.",
+      "Streep",
+      "Lange",
+      "Attenborough",
+      "Stewart",
+      "Briley",
+      "Gandhi"
+    ],
+    "bestPicture": "Gandhi"
   },
   {
     "id": 47,
-    "style": "Diamond",
+    "style": 1983,
     "tastingNote": [
-      "SPEED: 8",
-      "GLIDE: 6",
-      "TURN: -3",
-      "FADE: 1",
-      "Latitude 64",
-      "2010s"
-    ]
+      "Nicholson",
+      "MacLaine",
+      "Hunt",
+      "Brooks",
+      "Brooks",
+      "Foote",
+      "Terms of Endearment"
+    ],
+    "bestPicture": "Terms of Endearment"
   },
   {
     "id": 48,
-    "style": "Thunderbird",
+    "style": 1984,
     "tastingNote": [
-      "SPEED: 9",
-      "GLIDE: 5",
-      "TURN: 0",
-      "FADE: 2",
-      "Innova",
-      "2010s"
-    ]
+      "Ngor",
+      "Field",
+      "Ashcroft",
+      "Forman",
+      "Shaffer",
+      "Benton",
+      "Amadeus"
+    ],
+    "bestPicture": "Amadeus"
   },
   {
     "id": 49,
-    "style": "Wild Honey",
+    "style": 1985,
     "tastingNote": [
-      "SPEED: 12",
-      "GLIDE: 5",
-      "TURN: -2",
-      "FADE: 2",
-      "Clash Discs",
-      "2020s"
-    ]
+      "Ameche",
+      "Page",
+      "Huston",
+      "Pollack",
+      "Luedtke",
+      "W. Wallace/William Kelley/Pamela Wallace",
+      "Out of Africa"
+    ],
+    "bestPicture": "Out of Africa"
+  },
+  {
+    "id": 50,
+    "style": 1986,
+    "tastingNote": [
+      "Caine",
+      "Matlin",
+      "Wiest",
+      "Stone",
+      "Prawer Jhabvala",
+      "Allen",
+      "Platoon"
+    ],
+    "bestPicture": "Platoon"
+  },
+  {
+    "id": 51,
+    "style": 1987,
+    "tastingNote": [
+      "Connery",
+      "Cher",
+      "Dukakis",
+      "Bertolucci",
+      "Peploe/Bernardo Bertolucci",
+      "Patrick Shanley",
+      "The Last Emperor"
+    ],
+    "bestPicture": "The Last Emperor"
+  },
+  {
+    "id": 52,
+    "style": 1988,
+    "tastingNote": [
+      "Kline",
+      "Foster",
+      "Davis",
+      "Levinson",
+      "Hampton",
+      "Bass/Barry Morrow",
+      "Rain Man"
+    ],
+    "bestPicture": "Rain Man"
+  },
+  {
+    "id": 53,
+    "style": 1989,
+    "tastingNote": [
+      "Washington",
+      "Tandy",
+      "Fricker",
+      "Stone",
+      "Uhry",
+      "Schulman",
+      "Driving Miss Daisy"
+    ],
+    "bestPicture": "Driving Miss Daisy"
+  },
+  {
+    "id": 54,
+    "style": 1990,
+    "tastingNote": [
+      "Pesci",
+      "Bates",
+      "Goldberg",
+      "Costner",
+      "Blake",
+      "Joel Rubin",
+      "Dances With Wolves"
+    ],
+    "bestPicture": "Dances With Wolves"
+  },
+  {
+    "id": 55,
+    "style": 1991,
+    "tastingNote": [
+      "Palance",
+      "Foster",
+      "Ruehl",
+      "Demme",
+      "Tally",
+      "Khouri",
+      "The Silence of the Lambs"
+    ],
+    "bestPicture": "The Silence of the Lambs"
+  },
+  {
+    "id": 56,
+    "style": 1992,
+    "tastingNote": [
+      "Hackman",
+      "Thompson",
+      "Tomei",
+      "Eastwood",
+      "Prawer Jhabvala",
+      "Jordan",
+      "Unforgiven"
+    ],
+    "bestPicture": "Unforgiven"
+  },
+  {
+    "id": 57,
+    "style": 1993,
+    "tastingNote": [
+      "Lee Jones",
+      "Hunter",
+      "Paquin",
+      "Spielberg",
+      "Zaillian",
+      "Campion",
+      "Schindler's List"
+    ],
+    "bestPicture": "Schindler's List"
+  },
+  {
+    "id": 58,
+    "style": 1994,
+    "tastingNote": [
+      "Landau",
+      "Lange",
+      "Wiest",
+      "Zemeckis",
+      "Roth",
+      "Tarantino/Roger Avary",
+      "Forrest Gump"
+    ],
+    "bestPicture": "Forrest Gump"
+  },
+  {
+    "id": 59,
+    "style": 1995,
+    "tastingNote": [
+      "Spacey",
+      "Sarandon",
+      "Sorvino",
+      "Gibson",
+      "Thompson",
+      "McQuarrie",
+      "Braveheart"
+    ],
+    "bestPicture": "Braveheart"
+  },
+  {
+    "id": 60,
+    "style": 1996,
+    "tastingNote": [
+      "Gooding Jr.",
+      "McDormand",
+      "Binoche",
+      "Minghella",
+      "Bob Thornton",
+      "Coen/Joel Coen",
+      "The English Patient"
+    ],
+    "bestPicture": "The English Patient"
+  },
+  {
+    "id": 61,
+    "style": 1997,
+    "tastingNote": [
+      "Williams",
+      "Hunt",
+      "Basinger",
+      "Cameron",
+      "Helgeland/Curtis Hanson",
+      "Affleck/Matt Damon",
+      "Titanic"
+    ],
+    "bestPicture": "Titanic"
+  },
+  {
+    "id": 62,
+    "style": 1998,
+    "tastingNote": [
+      "Coburn",
+      "Paltrow",
+      "Dench",
+      "Spielberg",
+      "Condon",
+      "Norman/Tom Stoppard",
+      "Shakespeare in Love"
+    ],
+    "bestPicture": "Shakespeare in Love"
+  },
+  {
+    "id": 63,
+    "style": 1999,
+    "tastingNote": [
+      "Caine",
+      "Swank",
+      "Jolie",
+      "Mendes",
+      "Irving",
+      "Ball",
+      "American Beauty"
+    ],
+    "bestPicture": "American Beauty"
+  },
+  {
+    "id": 64,
+    "style": 2000,
+    "tastingNote": [
+      "Del Toro",
+      "Roberts",
+      "Harden",
+      "Soderbergh",
+      "Gaghan",
+      "Crowe",
+      "Gladiator"
+    ],
+    "bestPicture": "Gladiator"
+  },
+  {
+    "id": 65,
+    "style": 2001,
+    "tastingNote": [
+      "Broadbent",
+      "Berry",
+      "Connelly",
+      "Howard",
+      "Goldsman",
+      "Fellowes",
+      "A Beautiful Mind"
+    ],
+    "bestPicture": "A Beautiful Mind"
+  },
+  {
+    "id": 66,
+    "style": 2002,
+    "tastingNote": [
+      "Cooper",
+      "Kidman",
+      "Zeta-Jones",
+      "Polanski",
+      "Harwood",
+      "Almodóvar",
+      "Chicago"
+    ],
+    "bestPicture": "Chicago"
+  },
+  {
+    "id": 67,
+    "style": 2003,
+    "tastingNote": [
+      "Robbins",
+      "Theron",
+      "Zellweger",
+      "Jackson",
+      "Walsh/Philippa Boyens/Peter Jackson",
+      "Coppola",
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "bestPicture": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "id": 68,
+    "style": 2004,
+    "tastingNote": [
+      "Freeman",
+      "Swank",
+      "Blanchett",
+      "Eastwood",
+      "Payne/Jim Taylor",
+      "Kaufman/Michel Gondry/Pierre Bismuth",
+      "Million Dollar Baby"
+    ],
+    "bestPicture": "Million Dollar Baby"
+  },
+  {
+    "id": 69,
+    "style": 2005,
+    "tastingNote": [
+      "Clooney",
+      "Witherspoon",
+      "Weisz",
+      "Lee",
+      "McMurtry/Diana Ossana",
+      "Haggis/Bobby Moresco",
+      "Crash"
+    ],
+    "bestPicture": "Crash"
+  },
+  {
+    "id": 70,
+    "style": 2006,
+    "tastingNote": [
+      "Arkin",
+      "Mirren",
+      "Hudson",
+      "Scorsese",
+      "Monahan",
+      "Arndt",
+      "The Departed"
+    ],
+    "bestPicture": "The Departed"
+  },
+  {
+    "id": 71,
+    "style": 2007,
+    "tastingNote": [
+      "Bardem",
+      "Cotillard",
+      "Swinton",
+      "Coen/Ethan Coen",
+      "Coen/Ethan Coen",
+      "Cody",
+      "No Country for Old Men"
+    ],
+    "bestPicture": "No Country for Old Men"
+  },
+  {
+    "id": 72,
+    "style": 2008,
+    "tastingNote": [
+      "Ledger",
+      "Winslet",
+      "Cruz",
+      "Boyle",
+      "Beaufoy",
+      "Lance Black",
+      "Slumdog Millionaire"
+    ],
+    "bestPicture": "Slumdog Millionaire"
+  },
+  {
+    "id": 73,
+    "style": 2009,
+    "tastingNote": [
+      "Waltz",
+      "Bullock",
+      "Mo'Nique",
+      "Bigelow",
+      "Fletcher",
+      "Boal",
+      "The Hurt Locker"
+    ],
+    "bestPicture": "The Hurt Locker"
+  },
+  {
+    "id": 74,
+    "style": 2010,
+    "tastingNote": [
+      "Bale",
+      "Portman",
+      "Leo",
+      "Hooper",
+      "Sorkin",
+      "Seidler",
+      "The King's Speech"
+    ],
+    "bestPicture": "The King's Speech"
+  },
+  {
+    "id": 75,
+    "style": 2011,
+    "tastingNote": [
+      "Plummer",
+      "Streep",
+      "Spencer",
+      "Hazanavicius",
+      "Payne/Nat Faxon/Jim Rash",
+      "Allen",
+      "The Artist"
+    ],
+    "bestPicture": "The Artist"
+  },
+  {
+    "id": 76,
+    "style": 2012,
+    "tastingNote": [
+      "Waltz",
+      "Lawrence",
+      "Hathaway",
+      "Lee",
+      "Terrio",
+      "Tarantino",
+      "Argo"
+    ],
+    "bestPicture": "Argo"
+  },
+  {
+    "id": 77,
+    "style": 2013,
+    "tastingNote": [
+      "Leto",
+      "Blanchett",
+      "Nyong'o",
+      "Cuarón",
+      "Ridley",
+      "Jonze",
+      "12 Years a Slave"
+    ],
+    "bestPicture": "12 Years a Slave"
+  },
+  {
+    "id": 78,
+    "style": 2014,
+    "tastingNote": [
+      "Simmons",
+      "Moore",
+      "Arquette",
+      "G. Iñárritu",
+      "Moore",
+      "G. Iñárritu/Nicolás Giacobone/Alexander Dinelaris Jr./Armando Bo",
+      "Birdman or (The Unexpected Virtue of Ignorance)"
+    ],
+    "bestPicture": "Birdman or (The Unexpected Virtue of Ignorance)"
+  },
+  {
+    "id": 79,
+    "style": 2015,
+    "tastingNote": [
+      "Rylance",
+      "Larson",
+      "Vikander",
+      "G. Iñárritu",
+      "Randolph/Adam McKay",
+      "Singer/Tom McCarthy",
+      "Spotlight"
+    ],
+    "bestPicture": "Spotlight"
+  },
+  {
+    "id": 80,
+    "style": 2016,
+    "tastingNote": [
+      "Ali",
+      "Stone",
+      "Davis",
+      "Chazelle",
+      "Jenkins/Tarell Alvin McCraney",
+      "Lonergan",
+      "Moonlight"
+    ],
+    "bestPicture": "Moonlight"
+  },
+  {
+    "id": 81,
+    "style": 2017,
+    "tastingNote": [
+      "Rockwell",
+      "McDormand",
+      "Janney",
+      "del Toro",
+      "Ivory",
+      "Peele",
+      "The Shape of Water"
+    ],
+    "bestPicture": "The Shape of Water"
+  },
+  {
+    "id": 82,
+    "style": 2018,
+    "tastingNote": [
+      "Ali",
+      "Colman",
+      "King",
+      "Cuarón",
+      "Wachtel/David Rabinowitz/Kevin Willmott/Spike Lee",
+      "Vallelonga/Brian Currie/Peter Farrelly",
+      "Green Book"
+    ],
+    "bestPicture": "Green Book"
+  },
+  {
+    "id": 83,
+    "style": 2019,
+    "tastingNote": [
+      "Pitt",
+      "Zellweger",
+      "Dern",
+      "Joon Ho",
+      "Waititi",
+      "Joon Ho/Han Jin Won",
+      "Parasite"
+    ],
+    "bestPicture": "Parasite"
+  },
+  {
+    "id": 84,
+    "style": 2020,
+    "tastingNote": [
+      "Kaluuya",
+      "McDormand",
+      "Youn",
+      "Zhao",
+      "Hampton/Florian Zeller",
+      "Fennell",
+      "Nomadland"
+    ],
+    "bestPicture": "Nomadland"
+  },
+  {
+    "id": 85,
+    "style": 2021,
+    "tastingNote": [
+      "Kotsur",
+      "Chastain",
+      "DeBose",
+      "Campion",
+      "Heder",
+      "Branagh",
+      "CODA"
+    ],
+    "bestPicture": "CODA"
+  },
+  {
+    "id": 86,
+    "style": 2022,
+    "tastingNote": [
+      "Huy Quan",
+      "Yeoh",
+      "Lee Curtis",
+      "Kwan/Daniel Scheinert",
+      "Polley",
+      "Kwan/Daniel Scheinert",
+      "Everything Everywhere All at Once"
+    ],
+    "bestPicture": "Everything Everywhere All at Once"
+  },
+  {
+    "id": 87,
+    "style": 2023,
+    "tastingNote": [
+      "Downey Jr.",
+      "Stone",
+      "Randolph",
+      "Nolan",
+      "Jefferson",
+      "- Justine Triet/Arthur Harari",
+      "Oppenheimer"
+    ],
+    "bestPicture": "Oppenheimer"
+  },
+  {
+    "id": 88,
+    "style": 2024,
+    "tastingNote": [
+      "Culkin",
+      "Madison",
+      "Saldaña",
+      "Baker",
+      "Straughan",
+      "Baker",
+      "Anora"
+    ],
+    "bestPicture": "Anora"
   }
 ]
