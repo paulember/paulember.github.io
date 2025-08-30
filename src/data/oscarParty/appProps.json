@@ -7,6 +7,7 @@
   "targetType" : "Year",
   "selectClass" : "Year",
   "selectMessage" : "Select a Year",
+  "preNotesInstruction" : "Guess the Years these Oscar perfomances occurred",
   "confirmMessage" : "Open Envelope", 
   "resultsHeader" : "Career Resume",
   "gamesHeader"	: "Films:", 
@@ -14,8 +15,7 @@
   "sweepHeader"	: "Sweeps",
   "NotesHeader"	: "Oscars",
 
-	"appURL" : "https://oscarfilmparty.vercel.app/",	
-
+  "appURL" : "https://oscarfilmparty.vercel.app/",	
   "feedbackShutouts": "Flops:",
   "topTargetCalss": "Sweep Year:",
   "gameLabel": "Envelope",
