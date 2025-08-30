@@ -4,6 +4,26 @@
   "dataLibrary": "oscarParty",
   "appTxt": "OscarParty",
   "app_longText": "Oscar Party",
+  "targetType" : "Year",
+  "selectClass" : "Year",
+  "selectMessage" : "Select a Year",
+  "confirmMessage" : "Open Envelope", 
+  "resultsHeader" : "Career Resume",
+  "gamesHeader"	: "Films:", 
+  "ratingHeader"	: "Rating",
+  "sweepHeader"	: "Sweeps",
+  "NotesHeader"	: "Oscars",
+
+  "feedbackShutouts": "Flops:",
+  "topTargetCalss": "Sweep Year:",
+  "gameInfinitive": "CEREMONY",
+  "targetType": "Oscar Winners",
+  "gameTurn": "Selecting and Confirming",
+  "TargetClass": "Year",
+  "splashGreeting": "Enjoy the Popcorn!!!",
+	
+  "turnHeader": "Years Selected",
+
   "hiScore": 100,
   "scoreFloors": [
     [98, "★★★★"],
