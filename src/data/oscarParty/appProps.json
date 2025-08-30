@@ -11,9 +11,9 @@
   "confirmMessage" : "Open Envelope", 
   "resultsHeader" : "Career Resume",
   "gamesHeader"	: "Films:", 
-  "ratingHeader"	: "Rating",
-  "sweepHeader"	: "Sweeps",
-  "NotesHeader"	: "Oscars",
+  "ratingsHeader"	: "Rating",
+  "sweepsHeader"	: "Sweeps",
+  "notesHeader"	: "Oscars",
 
   "appURL" : "https://oscarfilmparty.vercel.app/",	
   "feedbackShutouts": "Flops:",
