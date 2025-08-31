@@ -16,6 +16,8 @@
   "notesHeader"	: "Oscars",
 
   "appURL" : "https://oscarpartydaily.vercel.app/",	
+  "documentationURL" : "https://phungo.blogspot.com/2024/01/sofasomm-wine-tasting-game.html",	
+	
   "feedbackShutouts": "Flops:",
   "topTargetCalss": "Sweep Year:",
   "gameLabel": "Envelope",
