@@ -32,7 +32,7 @@
   "splashGreeting": "Enjoy the Popcorn!!!",
 	
   "turnHeader": "Years Selected",
-  "turn0Fer": 0; 	
+  "turn0Fer": 0,
   "hiScore": 100,
   "scoreFloors": [
     [98, "★★★★"],
