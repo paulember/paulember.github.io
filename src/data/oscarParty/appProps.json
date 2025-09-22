@@ -25,13 +25,14 @@
   
   "feedbackShutouts": "Flops:",
   "topTargetCalss": "Sweep Year:",
-  "gameLabel": "Screening",
+  "gameLabel": "Feature",
   "targetType": "Oscar Winners",
   "gameTurn": "Selecting and Confirming",
   "TargetClass": "Year",
   "splashGreeting": "Enjoy the Popcorn!!!",
 	
   "turnHeader": "Years Selected",
+  "turnLabel" : "Screening", 
   "turn0Fer": 0,
   "hiScore": 100,
   "scoreFloors": [
