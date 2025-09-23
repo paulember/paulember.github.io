@@ -2,8 +2,8 @@
 {
   "appPropsKey": 0 ,
   "dataLibrary": "oscarParty",
-  "appTxt": "OscarParty",
-  "app_longText": "Oscar Party",
+  "appTxt": "OscarDaily",
+  "app_longText": "Oscar Daily",
   "targetType" : "Year",
   "selectClass" : "Year",
   "selectMessage" : "Select a Year",
@@ -25,14 +25,14 @@
   
   "feedbackShutouts": "Flops:",
   "topTargetCalss": "Sweep Year:",
-  "gameLabel": "Feature",
+  "gameLabel": "Scene",
   "targetType": "Oscar Winners",
   "gameTurn": "Selecting and Confirming",
   "TargetClass": "Year",
   "splashGreeting": "Enjoy the Popcorn!!!",
 	
   "turnHeader": "Years Selected",
-  "turnLabel" : "Screening", 
+  "turnLabel" : "Take", 
   "turn0Fer": 0,
   "hiScore": 100,
   "scoreFloors": [
