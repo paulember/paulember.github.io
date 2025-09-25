@@ -29,7 +29,8 @@
   "targetType": "Oscar Winners",
   "gameTurn": "Selecting and Confirming",
   "TargetClass": "Year",
-  "splashGreeting": "Enjoy the Popcorn!!!",
+  "splashGreeting": "Enjoy the Popcorn!!!",  
+  "splashQuote": "I Lost It at the Movies - Pauline Kael",
 	
   "turnHeader": "Years Selected",
   "turnLabel" : "Take", 
