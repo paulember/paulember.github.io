@@ -19,6 +19,7 @@
   "documentationURL" : "https://phungo.blogspot.com/2024/01/oscarpartydaily-oscar-film-trivia-game.html",	
   "bestPickURL" : "https://www.oscars.org/oscars/ceremonies/",
   "sourceURL" : "https://www.oscars.org/oscars/ceremonies/",
+  "qrCodeURL" : "https://github.com/paulember/paulember.github.io/blob/main/src/data/oscarParty/QROscarDaily.png",
   
   "goodTurn" : "🏆",
   "badTurn" : "◻️",
