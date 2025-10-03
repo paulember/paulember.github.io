@@ -1,402 +1,402 @@
 [
   {
-    "oid": 0,
+    "oid": "000",
     "value": "CIGAR"
   },
   {
-    "oid": 1,
+    "oid": "001",
     "value": "REBUT"
   },
   {
-    "oid": 2,
+    "oid": "002",
     "value": "SISSY"
   },
   {
-    "oid": 3,
+    "oid": "003",
     "value": "HUMPH"
   },
   {
-    "oid": 4,
+    "oid": "004",
     "value": "AWAKE"
   },
   {
-    "oid": 5,
+    "oid": "005",
     "value": "BLUSH"
   },
   {
-    "oid": 6,
+    "oid": "006",
     "value": "FOCAL"
   },
   {
-    "oid": 7,
+    "oid": "007",
     "value": "EVADE"
   },
   {
-    "oid": 8,
+    "oid": "008",
     "value": "NAVAL"
   },
   {
-    "oid": 9,
+    "oid": "009",
     "value": "SERVE"
   },
   {
-    "oid": 10,
+    "oid": "010",
     "value": "HEATH"
   },
   {
-    "oid": 11,
+    "oid": "011",
     "value": "DWARF"
   },
   {
-    "oid": 12,
+    "oid": "012",
     "value": "MODEL"
   },
   {
-    "oid": 13,
+    "oid": "013",
     "value": "KARMA"
   },
   {
-    "oid": 14,
+    "oid": "014",
     "value": "STINK"
   },
   {
-    "oid": 15,
+    "oid": "015",
     "value": "GRADE"
   },
   {
-    "oid": 16,
+    "oid": "016",
     "value": "QUIET"
   },
   {
-    "oid": 17,
+    "oid": "017",
     "value": "BENCH"
   },
   {
-    "oid": 18,
+    "oid": "018",
     "value": "ABATE"
   },
   {
-    "oid": 19,
+    "oid": "019",
     "value": "FEIGN"
   },
   {
-    "oid": 20,
+    "oid": "020",
     "value": "MAJOR"
   },
   {
-    "oid": 21,
+    "oid": "021",
     "value": "DEATH"
   },
   {
-    "oid": 22,
+    "oid": "022",
     "value": "FRESH"
   },
   {
-    "oid": 23,
+    "oid": "023",
     "value": "CRUST"
   },
   {
-    "oid": 24,
+    "oid": "024",
     "value": "STOOL"
   },
   {
-    "oid": 25,
+    "oid": "025",
     "value": "COLON"
   },
   {
-    "oid": 26,
+    "oid": "026",
     "value": "ABASE"
   },
   {
-    "oid": 27,
+    "oid": "027",
     "value": "MARRY"
   },
   {
-    "oid": 28,
+    "oid": "028",
     "value": "REACT"
   },
   {
-    "oid": 29,
+    "oid": "029",
     "value": "BATTY"
   },
   {
-    "oid": 30,
+    "oid": "030",
     "value": "PRIDE"
   },
   {
-    "oid": 31,
+    "oid": "031",
     "value": "FLOSS"
   },
   {
-    "oid": 32,
+    "oid": "032",
     "value": "HELIX"
   },
   {
-    "oid": 33,
+    "oid": "033",
     "value": "CROAK"
   },
   {
-    "oid": 34,
+    "oid": "034",
     "value": "STAFF"
   },
   {
-    "oid": 35,
+    "oid": "035",
     "value": "PAPER"
   },
   {
-    "oid": 36,
+    "oid": "036",
     "value": "UNFED"
   },
   {
-    "oid": 37,
+    "oid": "037",
     "value": "WHELP"
   },
   {
-    "oid": 38,
+    "oid": "038",
     "value": "TRAWL"
   },
   {
-    "oid": 39,
+    "oid": "039",
     "value": "OUTDO"
   },
   {
-    "oid": 40,
+    "oid": "040",
     "value": "ADOBE"
   },
   {
-    "oid": 41,
+    "oid": "041",
     "value": "CRAZY"
   },
   {
-    "oid": 42,
+    "oid": "042",
     "value": "SOWER"
   },
   {
-    "oid": 43,
+    "oid": "043",
     "value": "REPAY"
   },
   {
-    "oid": 44,
+    "oid": "044",
     "value": "DIGIT"
   },
   {
-    "oid": 45,
+    "oid": "045",
     "value": "CRATE"
   },
   {
-    "oid": 46,
+    "oid": "046",
     "value": "CLUCK"
   },
   {
-    "oid": 47,
+    "oid": "047",
     "value": "SPIKE"
   },
   {
-    "oid": 48,
+    "oid": "048",
     "value": "MIMIC"
   },
   {
-    "oid": 49,
+    "oid": "049",
     "value": "POUND"
   },
   {
-    "oid": 50,
+    "oid": "050",
     "value": "MAXIM"
   },
   {
-    "oid": 51,
+    "oid": "051",
     "value": "LINEN"
   },
   {
-    "oid": 52,
+    "oid": "052",
     "value": "UNMET"
   },
   {
-    "oid": 53,
+    "oid": "053",
     "value": "FLESH"
   },
   {
-    "oid": 54,
+    "oid": "054",
     "value": "BOOBY"
   },
   {
-    "oid": 55,
+    "oid": "055",
     "value": "FORTH"
   },
   {
-    "oid": 56,
+    "oid": "056",
     "value": "FIRST"
   },
   {
-    "oid": 57,
+    "oid": "057",
     "value": "STAND"
   },
   {
-    "oid": 58,
+    "oid": "058",
     "value": "BELLY"
   },
   {
-    "oid": 59,
+    "oid": "059",
     "value": "IVORY"
   },
   {
-    "oid": 60,
+    "oid": "060",
     "value": "SEEDY"
   },
   {
-    "oid": 61,
+    "oid": "061",
     "value": "PRINT"
   },
   {
-    "oid": 62,
+    "oid": "062",
     "value": "YEARN"
   },
   {
-    "oid": 63,
+    "oid": "063",
     "value": "DRAIN"
   },
   {
-    "oid": 64,
+    "oid": "064",
     "value": "BRIBE"
   },
   {
-    "oid": 65,
+    "oid": "065",
     "value": "STOUT"
   },
   {
-    "oid": 66,
+    "oid": "066",
     "value": "PANEL"
   },
   {
-    "oid": 67,
+    "oid": "067",
     "value": "CRASS"
   },
   {
-    "oid": 68,
+    "oid": "068",
     "value": "FLUME"
   },
   {
-    "oid": 69,
+    "oid": "069",
     "value": "OFFAL"
   },
   {
-    "oid": 70,
+    "oid": "070",
     "value": "AGREE"
   },
   {
-    "oid": 71,
+    "oid": "071",
     "value": "ERROR"
   },
   {
-    "oid": 72,
+    "oid": "072",
     "value": "SWIRL"
   },
   {
-    "oid": 73,
+    "oid": "073",
     "value": "ARGUE"
   },
   {
-    "oid": 74,
+    "oid": "074",
     "value": "BLEED"
   },
   {
-    "oid": 75,
+    "oid": "075",
     "value": "DELTA"
   },
   {
-    "oid": 76,
+    "oid": "076",
     "value": "FLICK"
   },
   {
-    "oid": 77,
+    "oid": "077",
     "value": "TOTEM"
   },
   {
-    "oid": 78,
+    "oid": "078",
     "value": "WOOER"
   },
   {
-    "oid": 79,
+    "oid": "079",
     "value": "FRONT"
   },
   {
-    "oid": 80,
+    "oid": "080",
     "value": "SHRUB"
   },
   {
-    "oid": 81,
+    "oid": "081",
     "value": "PARRY"
   },
   {
-    "oid": 82,
+    "oid": "082",
     "value": "BIOME"
   },
   {
-    "oid": 83,
+    "oid": "083",
     "value": "LAPEL"
   },
   {
-    "oid": 84,
+    "oid": "084",
     "value": "START"
   },
   {
-    "oid": 85,
+    "oid": "085",
     "value": "GREET"
   },
   {
-    "oid": 86,
+    "oid": "086",
     "value": "GONER"
   },
   {
-    "oid": 87,
+    "oid": "087",
     "value": "GOLEM"
   },
   {
-    "oid": 88,
+    "oid": "088",
     "value": "LUSTY"
   },
   {
-    "oid": 89,
+    "oid": "089",
     "value": "LOOPY"
   },
   {
-    "oid": 90,
+    "oid": "090",
     "value": "ROUND"
   },
   {
-    "oid": 91,
+    "oid": "091",
     "value": "AUDIT"
   },
   {
-    "oid": 92,
+    "oid": "092",
     "value": "LYING"
   },
   {
-    "oid": 93,
+    "oid": "093",
     "value": "GAMMA"
   },
   {
-    "oid": 94,
+    "oid": "094",
     "value": "LABOR"
   },
   {
-    "oid": 95,
+    "oid": "095",
     "value": "ISLET"
   },
   {
-    "oid": 96,
+    "oid": "096",
     "value": "CIVIC"
   },
   {
-    "oid": 97,
+    "oid": "097",
     "value": "FORGE"
   },
   {
-    "oid": 98,
+    "oid": "098",
     "value": "CORNY"
   },
   {
-    "oid": 99,
+    "oid": "099",
     "value": "MOULT"
   },
   {
