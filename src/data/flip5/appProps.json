@@ -21,6 +21,28 @@
   "sourceURL" : "https://www.oscars.org/oscars/ceremonies/",
   "qrCodeURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
   
+  "wordLib0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList0.json",
+  "wordLib1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib2URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList0.json",
+  "wordLib3URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList1.json",
+  "wordLib4URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList2.json",
+  "wordLib5URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib6URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList0.json",
+  "wordLib7URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList1.json",
+  "wordLib8URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList2.json",
+  "wordLib9URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  
+  "randomOid0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid2URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid3URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid4URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid5URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid6URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid7URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid8URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid9URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+
   "goodTurn" : "🏆",
   "badTurn" : "◻️",
   
