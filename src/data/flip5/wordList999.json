@@ -1,4310 +1,4314 @@
 [
   {
-    "0": "1",
-    "CIGAR": "REBUT"
+    "oid": 0,
+    "value": "CIGAR"
   },
   {
-    "0": "2",
-    "CIGAR": "SISSY"
+    "oid": 1,
+    "value": "REBUT"
   },
   {
-    "0": "3",
-    "CIGAR": "HUMPH"
+    "oid": 2,
+    "value": "SISSY"
   },
   {
-    "0": "4",
-    "CIGAR": "AWAKE"
+    "oid": 3,
+    "value": "HUMPH"
   },
   {
-    "0": "5",
-    "CIGAR": "BLUSH"
+    "oid": 4,
+    "value": "AWAKE"
   },
   {
-    "0": "6",
-    "CIGAR": "FOCAL"
+    "oid": 5,
+    "value": "BLUSH"
   },
   {
-    "0": "7",
-    "CIGAR": "EVADE"
+    "oid": 6,
+    "value": "FOCAL"
   },
   {
-    "0": "8",
-    "CIGAR": "NAVAL"
+    "oid": 7,
+    "value": "EVADE"
   },
   {
-    "0": "9",
-    "CIGAR": "SERVE"
+    "oid": 8,
+    "value": "NAVAL"
   },
   {
-    "0": "10",
-    "CIGAR": "HEATH"
+    "oid": 9,
+    "value": "SERVE"
   },
   {
-    "0": "11",
-    "CIGAR": "DWARF"
+    "oid": 10,
+    "value": "HEATH"
   },
   {
-    "0": "12",
-    "CIGAR": "MODEL"
+    "oid": 11,
+    "value": "DWARF"
   },
   {
-    "0": "13",
-    "CIGAR": "KARMA"
+    "oid": 12,
+    "value": "MODEL"
   },
   {
-    "0": "14",
-    "CIGAR": "STINK"
+    "oid": 13,
+    "value": "KARMA"
   },
   {
-    "0": "15",
-    "CIGAR": "GRADE"
+    "oid": 14,
+    "value": "STINK"
   },
   {
-    "0": "16",
-    "CIGAR": "QUIET"
+    "oid": 15,
+    "value": "GRADE"
   },
   {
-    "0": "17",
-    "CIGAR": "BENCH"
+    "oid": 16,
+    "value": "QUIET"
   },
   {
-    "0": "18",
-    "CIGAR": "ABATE"
+    "oid": 17,
+    "value": "BENCH"
   },
   {
-    "0": "19",
-    "CIGAR": "FEIGN"
+    "oid": 18,
+    "value": "ABATE"
   },
   {
-    "0": "20",
-    "CIGAR": "MAJOR"
+    "oid": 19,
+    "value": "FEIGN"
   },
   {
-    "0": "21",
-    "CIGAR": "DEATH"
+    "oid": 20,
+    "value": "MAJOR"
   },
   {
-    "0": "22",
-    "CIGAR": "FRESH"
+    "oid": 21,
+    "value": "DEATH"
   },
   {
-    "0": "23",
-    "CIGAR": "CRUST"
+    "oid": 22,
+    "value": "FRESH"
   },
   {
-    "0": "24",
-    "CIGAR": "STOOL"
+    "oid": 23,
+    "value": "CRUST"
   },
   {
-    "0": "25",
-    "CIGAR": "COLON"
+    "oid": 24,
+    "value": "STOOL"
   },
   {
-    "0": "26",
-    "CIGAR": "ABASE"
+    "oid": 25,
+    "value": "COLON"
   },
   {
-    "0": "27",
-    "CIGAR": "MARRY"
+    "oid": 26,
+    "value": "ABASE"
   },
   {
-    "0": "28",
-    "CIGAR": "REACT"
+    "oid": 27,
+    "value": "MARRY"
   },
   {
-    "0": "29",
-    "CIGAR": "BATTY"
+    "oid": 28,
+    "value": "REACT"
   },
   {
-    "0": "30",
-    "CIGAR": "PRIDE"
+    "oid": 29,
+    "value": "BATTY"
   },
   {
-    "0": "31",
-    "CIGAR": "FLOSS"
+    "oid": 30,
+    "value": "PRIDE"
   },
   {
-    "0": "32",
-    "CIGAR": "HELIX"
+    "oid": 31,
+    "value": "FLOSS"
   },
   {
-    "0": "33",
-    "CIGAR": "CROAK"
+    "oid": 32,
+    "value": "HELIX"
   },
   {
-    "0": "34",
-    "CIGAR": "STAFF"
+    "oid": 33,
+    "value": "CROAK"
   },
   {
-    "0": "35",
-    "CIGAR": "PAPER"
+    "oid": 34,
+    "value": "STAFF"
   },
   {
-    "0": "36",
-    "CIGAR": "UNFED"
+    "oid": 35,
+    "value": "PAPER"
   },
   {
-    "0": "37",
-    "CIGAR": "WHELP"
+    "oid": 36,
+    "value": "UNFED"
   },
   {
-    "0": "38",
-    "CIGAR": "TRAWL"
+    "oid": 37,
+    "value": "WHELP"
   },
   {
-    "0": "39",
-    "CIGAR": "OUTDO"
+    "oid": 38,
+    "value": "TRAWL"
   },
   {
-    "0": "40",
-    "CIGAR": "ADOBE"
+    "oid": 39,
+    "value": "OUTDO"
   },
   {
-    "0": "41",
-    "CIGAR": "CRAZY"
+    "oid": 40,
+    "value": "ADOBE"
   },
   {
-    "0": "42",
-    "CIGAR": "SOWER"
+    "oid": 41,
+    "value": "CRAZY"
   },
   {
-    "0": "43",
-    "CIGAR": "REPAY"
+    "oid": 42,
+    "value": "SOWER"
   },
   {
-    "0": "44",
-    "CIGAR": "DIGIT"
+    "oid": 43,
+    "value": "REPAY"
   },
   {
-    "0": "45",
-    "CIGAR": "CRATE"
+    "oid": 44,
+    "value": "DIGIT"
   },
   {
-    "0": "46",
-    "CIGAR": "CLUCK"
+    "oid": 45,
+    "value": "CRATE"
   },
   {
-    "0": "47",
-    "CIGAR": "SPIKE"
+    "oid": 46,
+    "value": "CLUCK"
   },
   {
-    "0": "48",
-    "CIGAR": "MIMIC"
+    "oid": 47,
+    "value": "SPIKE"
   },
   {
-    "0": "49",
-    "CIGAR": "POUND"
+    "oid": 48,
+    "value": "MIMIC"
   },
   {
-    "0": "50",
-    "CIGAR": "MAXIM"
+    "oid": 49,
+    "value": "POUND"
   },
   {
-    "0": "51",
-    "CIGAR": "LINEN"
+    "oid": 50,
+    "value": "MAXIM"
   },
   {
-    "0": "52",
-    "CIGAR": "UNMET"
+    "oid": 51,
+    "value": "LINEN"
   },
   {
-    "0": "53",
-    "CIGAR": "FLESH"
+    "oid": 52,
+    "value": "UNMET"
   },
   {
-    "0": "54",
-    "CIGAR": "BOOBY"
+    "oid": 53,
+    "value": "FLESH"
   },
   {
-    "0": "55",
-    "CIGAR": "FORTH"
+    "oid": 54,
+    "value": "BOOBY"
   },
   {
-    "0": "56",
-    "CIGAR": "FIRST"
+    "oid": 55,
+    "value": "FORTH"
   },
   {
-    "0": "57",
-    "CIGAR": "STAND"
+    "oid": 56,
+    "value": "FIRST"
   },
   {
-    "0": "58",
-    "CIGAR": "BELLY"
+    "oid": 57,
+    "value": "STAND"
   },
   {
-    "0": "59",
-    "CIGAR": "IVORY"
+    "oid": 58,
+    "value": "BELLY"
   },
   {
-    "0": "60",
-    "CIGAR": "SEEDY"
+    "oid": 59,
+    "value": "IVORY"
   },
   {
-    "0": "61",
-    "CIGAR": "PRINT"
+    "oid": 60,
+    "value": "SEEDY"
   },
   {
-    "0": "62",
-    "CIGAR": "YEARN"
+    "oid": 61,
+    "value": "PRINT"
   },
   {
-    "0": "63",
-    "CIGAR": "DRAIN"
+    "oid": 62,
+    "value": "YEARN"
   },
   {
-    "0": "64",
-    "CIGAR": "BRIBE"
+    "oid": 63,
+    "value": "DRAIN"
   },
   {
-    "0": "65",
-    "CIGAR": "STOUT"
+    "oid": 64,
+    "value": "BRIBE"
   },
   {
-    "0": "66",
-    "CIGAR": "PANEL"
+    "oid": 65,
+    "value": "STOUT"
   },
   {
-    "0": "67",
-    "CIGAR": "CRASS"
+    "oid": 66,
+    "value": "PANEL"
   },
   {
-    "0": "68",
-    "CIGAR": "FLUME"
+    "oid": 67,
+    "value": "CRASS"
   },
   {
-    "0": "69",
-    "CIGAR": "OFFAL"
+    "oid": 68,
+    "value": "FLUME"
   },
   {
-    "0": "70",
-    "CIGAR": "AGREE"
+    "oid": 69,
+    "value": "OFFAL"
   },
   {
-    "0": "71",
-    "CIGAR": "ERROR"
+    "oid": 70,
+    "value": "AGREE"
   },
   {
-    "0": "72",
-    "CIGAR": "SWIRL"
+    "oid": 71,
+    "value": "ERROR"
   },
   {
-    "0": "73",
-    "CIGAR": "ARGUE"
+    "oid": 72,
+    "value": "SWIRL"
   },
   {
-    "0": "74",
-    "CIGAR": "BLEED"
+    "oid": 73,
+    "value": "ARGUE"
   },
   {
-    "0": "75",
-    "CIGAR": "DELTA"
+    "oid": 74,
+    "value": "BLEED"
   },
   {
-    "0": "76",
-    "CIGAR": "FLICK"
+    "oid": 75,
+    "value": "DELTA"
   },
   {
-    "0": "77",
-    "CIGAR": "TOTEM"
+    "oid": 76,
+    "value": "FLICK"
   },
   {
-    "0": "78",
-    "CIGAR": "WOOER"
+    "oid": 77,
+    "value": "TOTEM"
   },
   {
-    "0": "79",
-    "CIGAR": "FRONT"
+    "oid": 78,
+    "value": "WOOER"
   },
   {
-    "0": "80",
-    "CIGAR": "SHRUB"
+    "oid": 79,
+    "value": "FRONT"
   },
   {
-    "0": "81",
-    "CIGAR": "PARRY"
+    "oid": 80,
+    "value": "SHRUB"
   },
   {
-    "0": "82",
-    "CIGAR": "BIOME"
+    "oid": 81,
+    "value": "PARRY"
   },
   {
-    "0": "83",
-    "CIGAR": "LAPEL"
+    "oid": 82,
+    "value": "BIOME"
   },
   {
-    "0": "84",
-    "CIGAR": "START"
+    "oid": 83,
+    "value": "LAPEL"
   },
   {
-    "0": "85",
-    "CIGAR": "GREET"
+    "oid": 84,
+    "value": "START"
   },
   {
-    "0": "86",
-    "CIGAR": "GONER"
+    "oid": 85,
+    "value": "GREET"
   },
   {
-    "0": "87",
-    "CIGAR": "GOLEM"
+    "oid": 86,
+    "value": "GONER"
   },
   {
-    "0": "88",
-    "CIGAR": "LUSTY"
+    "oid": 87,
+    "value": "GOLEM"
   },
   {
-    "0": "89",
-    "CIGAR": "LOOPY"
+    "oid": 88,
+    "value": "LUSTY"
   },
   {
-    "0": "90",
-    "CIGAR": "ROUND"
+    "oid": 89,
+    "value": "LOOPY"
   },
   {
-    "0": "91",
-    "CIGAR": "AUDIT"
+    "oid": 90,
+    "value": "ROUND"
   },
   {
-    "0": "92",
-    "CIGAR": "LYING"
+    "oid": 91,
+    "value": "AUDIT"
   },
   {
-    "0": "93",
-    "CIGAR": "GAMMA"
+    "oid": 92,
+    "value": "LYING"
   },
   {
-    "0": "94",
-    "CIGAR": "LABOR"
+    "oid": 93,
+    "value": "GAMMA"
   },
   {
-    "0": "95",
-    "CIGAR": "ISLET"
+    "oid": 94,
+    "value": "LABOR"
   },
   {
-    "0": "96",
-    "CIGAR": "CIVIC"
+    "oid": 95,
+    "value": "ISLET"
   },
   {
-    "0": "97",
-    "CIGAR": "FORGE"
+    "oid": 96,
+    "value": "CIVIC"
   },
   {
-    "0": "98",
-    "CIGAR": "CORNY"
+    "oid": 97,
+    "value": "FORGE"
   },
   {
-    "0": "99",
-    "CIGAR": "MOULT"
+    "oid": 98,
+    "value": "CORNY"
   },
   {
-    "0": "100",
-    "CIGAR": "BASIC"
+    "oid": 99,
+    "value": "MOULT"
   },
   {
-    "0": "101",
-    "CIGAR": "SALAD"
+    "oid": 100,
+    "value": "BASIC"
   },
   {
-    "0": "102",
-    "CIGAR": "AGATE"
+    "oid": 101,
+    "value": "SALAD"
   },
   {
-    "0": "103",
-    "CIGAR": "SPICY"
+    "oid": 102,
+    "value": "AGATE"
   },
   {
-    "0": "104",
-    "CIGAR": "SPRAY"
+    "oid": 103,
+    "value": "SPICY"
   },
   {
-    "0": "105",
-    "CIGAR": "ESSAY"
+    "oid": 104,
+    "value": "SPRAY"
   },
   {
-    "0": "106",
-    "CIGAR": "FJORD"
+    "oid": 105,
+    "value": "ESSAY"
   },
   {
-    "0": "107",
-    "CIGAR": "SPEND"
+    "oid": 106,
+    "value": "FJORD"
   },
   {
-    "0": "108",
-    "CIGAR": "KEBAB"
+    "oid": 107,
+    "value": "SPEND"
   },
   {
-    "0": "109",
-    "CIGAR": "GUILD"
+    "oid": 108,
+    "value": "KEBAB"
   },
   {
-    "0": "110",
-    "CIGAR": "ABACK"
+    "oid": 109,
+    "value": "GUILD"
   },
   {
-    "0": "111",
-    "CIGAR": "MOTOR"
+    "oid": 110,
+    "value": "ABACK"
   },
   {
-    "0": "112",
-    "CIGAR": "ALONE"
+    "oid": 111,
+    "value": "MOTOR"
   },
   {
-    "0": "113",
-    "CIGAR": "HATCH"
+    "oid": 112,
+    "value": "ALONE"
   },
   {
-    "0": "114",
-    "CIGAR": "HYPER"
+    "oid": 113,
+    "value": "HATCH"
   },
   {
-    "0": "115",
-    "CIGAR": "THUMB"
+    "oid": 114,
+    "value": "HYPER"
   },
   {
-    "0": "116",
-    "CIGAR": "DOWRY"
+    "oid": 115,
+    "value": "THUMB"
   },
   {
-    "0": "117",
-    "CIGAR": "OUGHT"
+    "oid": 116,
+    "value": "DOWRY"
   },
   {
-    "0": "118",
-    "CIGAR": "BELCH"
+    "oid": 117,
+    "value": "OUGHT"
   },
   {
-    "0": "119",
-    "CIGAR": "DUTCH"
+    "oid": 118,
+    "value": "BELCH"
   },
   {
-    "0": "120",
-    "CIGAR": "PILOT"
+    "oid": 119,
+    "value": "DUTCH"
   },
   {
-    "0": "121",
-    "CIGAR": "TWEED"
+    "oid": 120,
+    "value": "PILOT"
   },
   {
-    "0": "122",
-    "CIGAR": "COMET"
+    "oid": 121,
+    "value": "TWEED"
   },
   {
-    "0": "123",
-    "CIGAR": "JAUNT"
+    "oid": 122,
+    "value": "COMET"
   },
   {
-    "0": "124",
-    "CIGAR": "ENEMA"
+    "oid": 123,
+    "value": "JAUNT"
   },
   {
-    "0": "125",
-    "CIGAR": "STEED"
+    "oid": 124,
+    "value": "ENEMA"
   },
   {
-    "0": "126",
-    "CIGAR": "ABYSS"
+    "oid": 125,
+    "value": "STEED"
   },
   {
-    "0": "127",
-    "CIGAR": "GROWL"
+    "oid": 126,
+    "value": "ABYSS"
   },
   {
-    "0": "128",
-    "CIGAR": "FLING"
+    "oid": 127,
+    "value": "GROWL"
   },
   {
-    "0": "129",
-    "CIGAR": "DOZEN"
+    "oid": 128,
+    "value": "FLING"
   },
   {
-    "0": "130",
-    "CIGAR": "BOOZY"
+    "oid": 129,
+    "value": "DOZEN"
   },
   {
-    "0": "131",
-    "CIGAR": "ERODE"
+    "oid": 130,
+    "value": "BOOZY"
   },
   {
-    "0": "132",
-    "CIGAR": "WORLD"
+    "oid": 131,
+    "value": "ERODE"
   },
   {
-    "0": "133",
-    "CIGAR": "GOUGE"
+    "oid": 132,
+    "value": "WORLD"
   },
   {
-    "0": "134",
-    "CIGAR": "CLICK"
+    "oid": 133,
+    "value": "GOUGE"
   },
   {
-    "0": "135",
-    "CIGAR": "BRIAR"
+    "oid": 134,
+    "value": "CLICK"
   },
   {
-    "0": "136",
-    "CIGAR": "GREAT"
+    "oid": 135,
+    "value": "BRIAR"
   },
   {
-    "0": "137",
-    "CIGAR": "ALTAR"
+    "oid": 136,
+    "value": "GREAT"
   },
   {
-    "0": "138",
-    "CIGAR": "PULPY"
+    "oid": 137,
+    "value": "ALTAR"
   },
   {
-    "0": "139",
-    "CIGAR": "BLURT"
+    "oid": 138,
+    "value": "PULPY"
   },
   {
-    "0": "140",
-    "CIGAR": "COAST"
+    "oid": 139,
+    "value": "BLURT"
   },
   {
-    "0": "141",
-    "CIGAR": "DUCHY"
+    "oid": 140,
+    "value": "COAST"
   },
   {
-    "0": "142",
-    "CIGAR": "GROIN"
+    "oid": 141,
+    "value": "DUCHY"
   },
   {
-    "0": "143",
-    "CIGAR": "FIXER"
+    "oid": 142,
+    "value": "GROIN"
   },
   {
-    "0": "144",
-    "CIGAR": "GROUP"
+    "oid": 143,
+    "value": "FIXER"
   },
   {
-    "0": "145",
-    "CIGAR": "ROGUE"
+    "oid": 144,
+    "value": "GROUP"
   },
   {
-    "0": "146",
-    "CIGAR": "BADLY"
+    "oid": 145,
+    "value": "ROGUE"
   },
   {
-    "0": "147",
-    "CIGAR": "SMART"
+    "oid": 146,
+    "value": "BADLY"
   },
   {
-    "0": "148",
-    "CIGAR": "PITHY"
+    "oid": 147,
+    "value": "SMART"
   },
   {
-    "0": "149",
-    "CIGAR": "GAUDY"
+    "oid": 148,
+    "value": "PITHY"
   },
   {
-    "0": "150",
-    "CIGAR": "CHILL"
+    "oid": 149,
+    "value": "GAUDY"
   },
   {
-    "0": "151",
-    "CIGAR": "HERON"
+    "oid": 150,
+    "value": "CHILL"
   },
   {
-    "0": "152",
-    "CIGAR": "VODKA"
+    "oid": 151,
+    "value": "HERON"
   },
   {
-    "0": "153",
-    "CIGAR": "FINER"
+    "oid": 152,
+    "value": "VODKA"
   },
   {
-    "0": "154",
-    "CIGAR": "SURER"
+    "oid": 153,
+    "value": "FINER"
   },
   {
-    "0": "155",
-    "CIGAR": "RADIO"
+    "oid": 154,
+    "value": "SURER"
   },
   {
-    "0": "156",
-    "CIGAR": "ROUGE"
+    "oid": 155,
+    "value": "RADIO"
   },
   {
-    "0": "157",
-    "CIGAR": "PERCH"
+    "oid": 156,
+    "value": "ROUGE"
   },
   {
-    "0": "158",
-    "CIGAR": "RETCH"
+    "oid": 157,
+    "value": "PERCH"
   },
   {
-    "0": "159",
-    "CIGAR": "WROTE"
+    "oid": 158,
+    "value": "RETCH"
   },
   {
-    "0": "160",
-    "CIGAR": "CLOCK"
+    "oid": 159,
+    "value": "WROTE"
   },
   {
-    "0": "161",
-    "CIGAR": "TILDE"
+    "oid": 160,
+    "value": "CLOCK"
   },
   {
-    "0": "162",
-    "CIGAR": "STORE"
+    "oid": 161,
+    "value": "TILDE"
   },
   {
-    "0": "163",
-    "CIGAR": "PROVE"
+    "oid": 162,
+    "value": "STORE"
   },
   {
-    "0": "164",
-    "CIGAR": "BRING"
+    "oid": 163,
+    "value": "PROVE"
   },
   {
-    "0": "165",
-    "CIGAR": "SOLVE"
+    "oid": 164,
+    "value": "BRING"
   },
   {
-    "0": "166",
-    "CIGAR": "CHEAT"
+    "oid": 165,
+    "value": "SOLVE"
   },
   {
-    "0": "167",
-    "CIGAR": "GRIME"
+    "oid": 166,
+    "value": "CHEAT"
   },
   {
-    "0": "168",
-    "CIGAR": "EXULT"
+    "oid": 167,
+    "value": "GRIME"
   },
   {
-    "0": "169",
-    "CIGAR": "USHER"
+    "oid": 168,
+    "value": "EXULT"
   },
   {
-    "0": "170",
-    "CIGAR": "EPOCH"
+    "oid": 169,
+    "value": "USHER"
   },
   {
-    "0": "171",
-    "CIGAR": "TRIAD"
+    "oid": 170,
+    "value": "EPOCH"
   },
   {
-    "0": "172",
-    "CIGAR": "BREAK"
+    "oid": 171,
+    "value": "TRIAD"
   },
   {
-    "0": "173",
-    "CIGAR": "RHINO"
+    "oid": 172,
+    "value": "BREAK"
   },
   {
-    "0": "174",
-    "CIGAR": "VIRAL"
+    "oid": 173,
+    "value": "RHINO"
   },
   {
-    "0": "175",
-    "CIGAR": "CONIC"
+    "oid": 174,
+    "value": "VIRAL"
   },
   {
-    "0": "176",
-    "CIGAR": "MASSE"
+    "oid": 175,
+    "value": "CONIC"
   },
   {
-    "0": "177",
-    "CIGAR": "SONIC"
+    "oid": 176,
+    "value": "MASSE"
   },
   {
-    "0": "178",
-    "CIGAR": "VITAL"
+    "oid": 177,
+    "value": "SONIC"
   },
   {
-    "0": "179",
-    "CIGAR": "TRACE"
+    "oid": 178,
+    "value": "VITAL"
   },
   {
-    "0": "180",
-    "CIGAR": "USING"
+    "oid": 179,
+    "value": "TRACE"
   },
   {
-    "0": "181",
-    "CIGAR": "PEACH"
+    "oid": 180,
+    "value": "USING"
   },
   {
-    "0": "182",
-    "CIGAR": "CHAMP"
+    "oid": 181,
+    "value": "PEACH"
   },
   {
-    "0": "183",
-    "CIGAR": "BATON"
+    "oid": 182,
+    "value": "CHAMP"
   },
   {
-    "0": "184",
-    "CIGAR": "BRAKE"
+    "oid": 183,
+    "value": "BATON"
   },
   {
-    "0": "185",
-    "CIGAR": "PLUCK"
+    "oid": 184,
+    "value": "BRAKE"
   },
   {
-    "0": "186",
-    "CIGAR": "CRAZE"
+    "oid": 185,
+    "value": "PLUCK"
   },
   {
-    "0": "187",
-    "CIGAR": "GRIPE"
+    "oid": 186,
+    "value": "CRAZE"
   },
   {
-    "0": "188",
-    "CIGAR": "WEARY"
+    "oid": 187,
+    "value": "GRIPE"
   },
   {
-    "0": "189",
-    "CIGAR": "PICKY"
+    "oid": 188,
+    "value": "WEARY"
   },
   {
-    "0": "190",
-    "CIGAR": "ACUTE"
+    "oid": 189,
+    "value": "PICKY"
   },
   {
-    "0": "191",
-    "CIGAR": "FERRY"
+    "oid": 190,
+    "value": "ACUTE"
   },
   {
-    "0": "192",
-    "CIGAR": "ASIDE"
+    "oid": 191,
+    "value": "FERRY"
   },
   {
-    "0": "193",
-    "CIGAR": "TAPIR"
+    "oid": 192,
+    "value": "ASIDE"
   },
   {
-    "0": "194",
-    "CIGAR": "TROLL"
+    "oid": 193,
+    "value": "TAPIR"
   },
   {
-    "0": "195",
-    "CIGAR": "UNIFY"
+    "oid": 194,
+    "value": "TROLL"
   },
   {
-    "0": "196",
-    "CIGAR": "REBUS"
+    "oid": 195,
+    "value": "UNIFY"
   },
   {
-    "0": "197",
-    "CIGAR": "BOOST"
+    "oid": 196,
+    "value": "REBUS"
   },
   {
-    "0": "198",
-    "CIGAR": "TRUSS"
+    "oid": 197,
+    "value": "BOOST"
   },
   {
-    "0": "199",
-    "CIGAR": "SIEGE"
+    "oid": 198,
+    "value": "TRUSS"
   },
   {
-    "0": "200",
-    "CIGAR": "TIGER"
+    "oid": 199,
+    "value": "SIEGE"
   },
   {
-    "0": "201",
-    "CIGAR": "BANAL"
+    "oid": 200,
+    "value": "TIGER"
   },
   {
-    "0": "202",
-    "CIGAR": "SLUMP"
+    "oid": 201,
+    "value": "BANAL"
   },
   {
-    "0": "203",
-    "CIGAR": "CRANK"
+    "oid": 202,
+    "value": "SLUMP"
   },
   {
-    "0": "204",
-    "CIGAR": "GORGE"
+    "oid": 203,
+    "value": "CRANK"
   },
   {
-    "0": "205",
-    "CIGAR": "QUERY"
+    "oid": 204,
+    "value": "GORGE"
   },
   {
-    "0": "206",
-    "CIGAR": "DRINK"
+    "oid": 205,
+    "value": "QUERY"
   },
   {
-    "0": "207",
-    "CIGAR": "FAVOR"
+    "oid": 206,
+    "value": "DRINK"
   },
   {
-    "0": "208",
-    "CIGAR": "ABBEY"
+    "oid": 207,
+    "value": "FAVOR"
   },
   {
-    "0": "209",
-    "CIGAR": "TANGY"
+    "oid": 208,
+    "value": "ABBEY"
   },
   {
-    "0": "210",
-    "CIGAR": "PANIC"
+    "oid": 209,
+    "value": "TANGY"
   },
   {
-    "0": "211",
-    "CIGAR": "SOLAR"
+    "oid": 210,
+    "value": "PANIC"
   },
   {
-    "0": "212",
-    "CIGAR": "SHIRE"
+    "oid": 211,
+    "value": "SOLAR"
   },
   {
-    "0": "213",
-    "CIGAR": "PROXY"
+    "oid": 212,
+    "value": "SHIRE"
   },
   {
-    "0": "214",
-    "CIGAR": "POINT"
+    "oid": 213,
+    "value": "PROXY"
   },
   {
-    "0": "215",
-    "CIGAR": "ROBOT"
+    "oid": 214,
+    "value": "POINT"
   },
   {
-    "0": "216",
-    "CIGAR": "PRICK"
+    "oid": 215,
+    "value": "ROBOT"
   },
   {
-    "0": "217",
-    "CIGAR": "WINCE"
+    "oid": 216,
+    "value": "PRICK"
   },
   {
-    "0": "218",
-    "CIGAR": "CRIMP"
+    "oid": 217,
+    "value": "WINCE"
   },
   {
-    "0": "219",
-    "CIGAR": "KNOLL"
+    "oid": 218,
+    "value": "CRIMP"
   },
   {
-    "0": "220",
-    "CIGAR": "SUGAR"
+    "oid": 219,
+    "value": "KNOLL"
   },
   {
-    "0": "221",
-    "CIGAR": "WHACK"
+    "oid": 220,
+    "value": "SUGAR"
   },
   {
-    "0": "222",
-    "CIGAR": "MOUNT"
+    "oid": 221,
+    "value": "WHACK"
   },
   {
-    "0": "223",
-    "CIGAR": "PERKY"
+    "oid": 222,
+    "value": "MOUNT"
   },
   {
-    "0": "224",
-    "CIGAR": "COULD"
+    "oid": 223,
+    "value": "PERKY"
   },
   {
-    "0": "225",
-    "CIGAR": "WRUNG"
+    "oid": 224,
+    "value": "COULD"
   },
   {
-    "0": "226",
-    "CIGAR": "LIGHT"
+    "oid": 225,
+    "value": "WRUNG"
   },
   {
-    "0": "227",
-    "CIGAR": "THOSE"
+    "oid": 226,
+    "value": "LIGHT"
   },
   {
-    "0": "228",
-    "CIGAR": "MOIST"
+    "oid": 227,
+    "value": "THOSE"
   },
   {
-    "0": "229",
-    "CIGAR": "SHARD"
+    "oid": 228,
+    "value": "MOIST"
   },
   {
-    "0": "230",
-    "CIGAR": "PLEAT"
+    "oid": 229,
+    "value": "SHARD"
   },
   {
-    "0": "231",
-    "CIGAR": "ALOFT"
+    "oid": 230,
+    "value": "PLEAT"
   },
   {
-    "0": "232",
-    "CIGAR": "SKILL"
+    "oid": 231,
+    "value": "ALOFT"
   },
   {
-    "0": "233",
-    "CIGAR": "ELDER"
+    "oid": 232,
+    "value": "SKILL"
   },
   {
-    "0": "234",
-    "CIGAR": "FRAME"
+    "oid": 233,
+    "value": "ELDER"
   },
   {
-    "0": "235",
-    "CIGAR": "HUMOR"
+    "oid": 234,
+    "value": "FRAME"
   },
   {
-    "0": "236",
-    "CIGAR": "PAUSE"
+    "oid": 235,
+    "value": "HUMOR"
   },
   {
-    "0": "237",
-    "CIGAR": "ULCER"
+    "oid": 236,
+    "value": "PAUSE"
   },
   {
-    "0": "238",
-    "CIGAR": "ULTRA"
+    "oid": 237,
+    "value": "ULCER"
   },
   {
-    "0": "239",
-    "CIGAR": "ROBIN"
+    "oid": 238,
+    "value": "ULTRA"
   },
   {
-    "0": "240",
-    "CIGAR": "CYNIC"
+    "oid": 239,
+    "value": "ROBIN"
   },
   {
-    "0": "241",
-    "CIGAR": "AROMA"
+    "oid": 240,
+    "value": "CYNIC"
   },
   {
-    "0": "242",
-    "CIGAR": "CAULK"
+    "oid": 241,
+    "value": "AROMA"
   },
   {
-    "0": "243",
-    "CIGAR": "SHAKE"
+    "oid": 242,
+    "value": "CAULK"
   },
   {
-    "0": "244",
-    "CIGAR": "DODGE"
+    "oid": 243,
+    "value": "SHAKE"
   },
   {
-    "0": "245",
-    "CIGAR": "SWILL"
+    "oid": 244,
+    "value": "DODGE"
   },
   {
-    "0": "246",
-    "CIGAR": "TACIT"
+    "oid": 245,
+    "value": "SWILL"
   },
   {
-    "0": "247",
-    "CIGAR": "OTHER"
+    "oid": 246,
+    "value": "TACIT"
   },
   {
-    "0": "248",
-    "CIGAR": "THORN"
+    "oid": 247,
+    "value": "OTHER"
   },
   {
-    "0": "249",
-    "CIGAR": "TROVE"
+    "oid": 248,
+    "value": "THORN"
   },
   {
-    "0": "250",
-    "CIGAR": "BLOKE"
+    "oid": 249,
+    "value": "TROVE"
   },
   {
-    "0": "251",
-    "CIGAR": "VIVID"
+    "oid": 250,
+    "value": "BLOKE"
   },
   {
-    "0": "252",
-    "CIGAR": "SPILL"
+    "oid": 251,
+    "value": "VIVID"
   },
   {
-    "0": "253",
-    "CIGAR": "CHANT"
+    "oid": 252,
+    "value": "SPILL"
   },
   {
-    "0": "254",
-    "CIGAR": "CHOKE"
+    "oid": 253,
+    "value": "CHANT"
   },
   {
-    "0": "255",
-    "CIGAR": "RUPEE"
+    "oid": 254,
+    "value": "CHOKE"
   },
   {
-    "0": "256",
-    "CIGAR": "NASTY"
+    "oid": 255,
+    "value": "RUPEE"
   },
   {
-    "0": "257",
-    "CIGAR": "MOURN"
+    "oid": 256,
+    "value": "NASTY"
   },
   {
-    "0": "258",
-    "CIGAR": "AHEAD"
+    "oid": 257,
+    "value": "MOURN"
   },
   {
-    "0": "259",
-    "CIGAR": "BRINE"
+    "oid": 258,
+    "value": "AHEAD"
   },
   {
-    "0": "260",
-    "CIGAR": "CLOTH"
+    "oid": 259,
+    "value": "BRINE"
   },
   {
-    "0": "261",
-    "CIGAR": "HOARD"
+    "oid": 260,
+    "value": "CLOTH"
   },
   {
-    "0": "262",
-    "CIGAR": "SWEET"
+    "oid": 261,
+    "value": "HOARD"
   },
   {
-    "0": "263",
-    "CIGAR": "MONTH"
+    "oid": 262,
+    "value": "SWEET"
   },
   {
-    "0": "264",
-    "CIGAR": "LAPSE"
+    "oid": 263,
+    "value": "MONTH"
   },
   {
-    "0": "265",
-    "CIGAR": "WATCH"
+    "oid": 264,
+    "value": "LAPSE"
   },
   {
-    "0": "266",
-    "CIGAR": "TODAY"
+    "oid": 265,
+    "value": "WATCH"
   },
   {
-    "0": "267",
-    "CIGAR": "FOCUS"
+    "oid": 266,
+    "value": "TODAY"
   },
   {
-    "0": "268",
-    "CIGAR": "SMELT"
+    "oid": 267,
+    "value": "FOCUS"
   },
   {
-    "0": "269",
-    "CIGAR": "TEASE"
+    "oid": 268,
+    "value": "SMELT"
   },
   {
-    "0": "270",
-    "CIGAR": "CATER"
+    "oid": 269,
+    "value": "TEASE"
   },
   {
-    "0": "271",
-    "CIGAR": "MOVIE"
+    "oid": 270,
+    "value": "CATER"
   },
   {
-    "0": "272",
-    "CIGAR": "SAUTE"
+    "oid": 271,
+    "value": "MOVIE"
   },
   {
-    "0": "273",
-    "CIGAR": "ALLOW"
+    "oid": 272,
+    "value": "SAUTE"
   },
   {
-    "0": "274",
-    "CIGAR": "RENEW"
+    "oid": 273,
+    "value": "ALLOW"
   },
   {
-    "0": "275",
-    "CIGAR": "THEIR"
+    "oid": 274,
+    "value": "RENEW"
   },
   {
-    "0": "276",
-    "CIGAR": "SLOSH"
+    "oid": 275,
+    "value": "THEIR"
   },
   {
-    "0": "277",
-    "CIGAR": "PURGE"
+    "oid": 276,
+    "value": "SLOSH"
   },
   {
-    "0": "278",
-    "CIGAR": "CHEST"
+    "oid": 277,
+    "value": "PURGE"
   },
   {
-    "0": "279",
-    "CIGAR": "DEPOT"
+    "oid": 278,
+    "value": "CHEST"
   },
   {
-    "0": "280",
-    "CIGAR": "EPOXY"
+    "oid": 279,
+    "value": "DEPOT"
   },
   {
-    "0": "281",
-    "CIGAR": "NYMPH"
+    "oid": 280,
+    "value": "EPOXY"
   },
   {
-    "0": "282",
-    "CIGAR": "FOUND"
+    "oid": 281,
+    "value": "NYMPH"
   },
   {
-    "0": "283",
-    "CIGAR": "SHALL"
+    "oid": 282,
+    "value": "FOUND"
   },
   {
-    "0": "284",
-    "CIGAR": "STOVE"
+    "oid": 283,
+    "value": "SHALL"
   },
   {
-    "0": "285",
-    "CIGAR": "LOWLY"
+    "oid": 284,
+    "value": "STOVE"
   },
   {
-    "0": "286",
-    "CIGAR": "SNOUT"
+    "oid": 285,
+    "value": "LOWLY"
   },
   {
-    "0": "287",
-    "CIGAR": "TROPE"
+    "oid": 286,
+    "value": "SNOUT"
   },
   {
-    "0": "288",
-    "CIGAR": "FEWER"
+    "oid": 287,
+    "value": "TROPE"
   },
   {
-    "0": "289",
-    "CIGAR": "SHAWL"
+    "oid": 288,
+    "value": "FEWER"
   },
   {
-    "0": "290",
-    "CIGAR": "NATAL"
+    "oid": 289,
+    "value": "SHAWL"
   },
   {
-    "0": "291",
-    "CIGAR": "COMMA"
+    "oid": 290,
+    "value": "NATAL"
   },
   {
-    "0": "292",
-    "CIGAR": "FORAY"
+    "oid": 291,
+    "value": "COMMA"
   },
   {
-    "0": "293",
-    "CIGAR": "SCARE"
+    "oid": 292,
+    "value": "FORAY"
   },
   {
-    "0": "294",
-    "CIGAR": "STAIR"
+    "oid": 293,
+    "value": "SCARE"
   },
   {
-    "0": "295",
-    "CIGAR": "BLACK"
+    "oid": 294,
+    "value": "STAIR"
   },
   {
-    "0": "296",
-    "CIGAR": "SQUAD"
+    "oid": 295,
+    "value": "BLACK"
   },
   {
-    "0": "297",
-    "CIGAR": "ROYAL"
+    "oid": 296,
+    "value": "SQUAD"
   },
   {
-    "0": "298",
-    "CIGAR": "CHUNK"
+    "oid": 297,
+    "value": "ROYAL"
   },
   {
-    "0": "299",
-    "CIGAR": "MINCE"
+    "oid": 298,
+    "value": "CHUNK"
   },
   {
-    "0": "300",
-    "CIGAR": "SHAME"
+    "oid": 299,
+    "value": "MINCE"
   },
   {
-    "0": "301",
-    "CIGAR": "CHEEK"
+    "oid": 300,
+    "value": "SHAME"
   },
   {
-    "0": "302",
-    "CIGAR": "AMPLE"
+    "oid": 301,
+    "value": "CHEEK"
   },
   {
-    "0": "303",
-    "CIGAR": "FLAIR"
+    "oid": 302,
+    "value": "AMPLE"
   },
   {
-    "0": "304",
-    "CIGAR": "FOYER"
+    "oid": 303,
+    "value": "FLAIR"
   },
   {
-    "0": "305",
-    "CIGAR": "CARGO"
+    "oid": 304,
+    "value": "FOYER"
   },
   {
-    "0": "306",
-    "CIGAR": "OXIDE"
+    "oid": 305,
+    "value": "CARGO"
   },
   {
-    "0": "307",
-    "CIGAR": "PLANT"
+    "oid": 306,
+    "value": "OXIDE"
   },
   {
-    "0": "308",
-    "CIGAR": "OLIVE"
+    "oid": 307,
+    "value": "PLANT"
   },
   {
-    "0": "309",
-    "CIGAR": "INERT"
+    "oid": 308,
+    "value": "OLIVE"
   },
   {
-    "0": "310",
-    "CIGAR": "ASKEW"
+    "oid": 309,
+    "value": "INERT"
   },
   {
-    "0": "311",
-    "CIGAR": "HEIST"
+    "oid": 310,
+    "value": "ASKEW"
   },
   {
-    "0": "312",
-    "CIGAR": "SHOWN"
+    "oid": 311,
+    "value": "HEIST"
   },
   {
-    "0": "313",
-    "CIGAR": "ZESTY"
+    "oid": 312,
+    "value": "SHOWN"
   },
   {
-    "0": "314",
-    "CIGAR": "TRASH"
+    "oid": 313,
+    "value": "ZESTY"
   },
   {
-    "0": "315",
-    "CIGAR": "LARVA"
+    "oid": 314,
+    "value": "TRASH"
   },
   {
-    "0": "316",
-    "CIGAR": "STORY"
+    "oid": 315,
+    "value": "LARVA"
   },
   {
-    "0": "317",
-    "CIGAR": "GEESE"
+    "oid": 316,
+    "value": "STORY"
   },
   {
-    "0": "318",
-    "CIGAR": "CIVIL"
+    "oid": 317,
+    "value": "GEESE"
   },
   {
-    "0": "319",
-    "CIGAR": "GOOEY"
+    "oid": 318,
+    "value": "CIVIL"
   },
   {
-    "0": "320",
-    "CIGAR": "FRITZ"
+    "oid": 319,
+    "value": "GOOEY"
   },
   {
-    "0": "321",
-    "CIGAR": "DALLY"
+    "oid": 320,
+    "value": "FRITZ"
   },
   {
-    "0": "322",
-    "CIGAR": "DRAPE"
+    "oid": 321,
+    "value": "DALLY"
   },
   {
-    "0": "323",
-    "CIGAR": "BLUNT"
+    "oid": 322,
+    "value": "DRAPE"
   },
   {
-    "0": "324",
-    "CIGAR": "MOUTH"
+    "oid": 323,
+    "value": "BLUNT"
   },
   {
-    "0": "325",
-    "CIGAR": "QUILL"
+    "oid": 324,
+    "value": "MOUTH"
   },
   {
-    "0": "326",
-    "CIGAR": "COVEN"
+    "oid": 325,
+    "value": "QUILL"
   },
   {
-    "0": "327",
-    "CIGAR": "DEFER"
+    "oid": 326,
+    "value": "COVEN"
   },
   {
-    "0": "328",
-    "CIGAR": "LATER"
+    "oid": 327,
+    "value": "DEFER"
   },
   {
-    "0": "329",
-    "CIGAR": "KNIFE"
+    "oid": 328,
+    "value": "LATER"
   },
   {
-    "0": "330",
-    "CIGAR": "TEETH"
+    "oid": 329,
+    "value": "KNIFE"
   },
   {
-    "0": "331",
-    "CIGAR": "LEFTY"
+    "oid": 330,
+    "value": "TEETH"
   },
   {
-    "0": "332",
-    "CIGAR": "ALONG"
+    "oid": 331,
+    "value": "LEFTY"
   },
   {
-    "0": "333",
-    "CIGAR": "NOISY"
+    "oid": 332,
+    "value": "ALONG"
   },
   {
-    "0": "334",
-    "CIGAR": "NADIR"
+    "oid": 333,
+    "value": "NOISY"
   },
   {
-    "0": "335",
-    "CIGAR": "THROB"
+    "oid": 334,
+    "value": "NADIR"
   },
   {
-    "0": "336",
-    "CIGAR": "CHAIR"
+    "oid": 335,
+    "value": "THROB"
   },
   {
-    "0": "337",
-    "CIGAR": "POUTY"
+    "oid": 336,
+    "value": "CHAIR"
   },
   {
-    "0": "338",
-    "CIGAR": "TRICK"
+    "oid": 337,
+    "value": "POUTY"
   },
   {
-    "0": "339",
-    "CIGAR": "CHIRP"
+    "oid": 338,
+    "value": "TRICK"
   },
   {
-    "0": "340",
-    "CIGAR": "TENOR"
+    "oid": 339,
+    "value": "CHIRP"
   },
   {
-    "0": "341",
-    "CIGAR": "BULGE"
+    "oid": 340,
+    "value": "TENOR"
   },
   {
-    "0": "342",
-    "CIGAR": "DRIFT"
+    "oid": 341,
+    "value": "BULGE"
   },
   {
-    "0": "343",
-    "CIGAR": "BLEND"
+    "oid": 342,
+    "value": "DRIFT"
   },
   {
-    "0": "344",
-    "CIGAR": "FETCH"
+    "oid": 343,
+    "value": "BLEND"
   },
   {
-    "0": "345",
-    "CIGAR": "MIGHT"
+    "oid": 344,
+    "value": "FETCH"
   },
   {
-    "0": "346",
-    "CIGAR": "LEAST"
+    "oid": 345,
+    "value": "MIGHT"
   },
   {
-    "0": "347",
-    "CIGAR": "PETAL"
+    "oid": 346,
+    "value": "LEAST"
   },
   {
-    "0": "348",
-    "CIGAR": "ELATE"
+    "oid": 347,
+    "value": "PETAL"
   },
   {
-    "0": "349",
-    "CIGAR": "GRAFT"
+    "oid": 348,
+    "value": "ELATE"
   },
   {
-    "0": "350",
-    "CIGAR": "SPLIT"
+    "oid": 349,
+    "value": "GRAFT"
   },
   {
-    "0": "351",
-    "CIGAR": "TOWER"
+    "oid": 350,
+    "value": "SPLIT"
   },
   {
-    "0": "352",
-    "CIGAR": "ANNEX"
+    "oid": 351,
+    "value": "TOWER"
   },
   {
-    "0": "353",
-    "CIGAR": "MIRTH"
+    "oid": 352,
+    "value": "ANNEX"
   },
   {
-    "0": "354",
-    "CIGAR": "SPORE"
+    "oid": 353,
+    "value": "MIRTH"
   },
   {
-    "0": "355",
-    "CIGAR": "UNION"
+    "oid": 354,
+    "value": "SPORE"
   },
   {
-    "0": "356",
-    "CIGAR": "RATTY"
+    "oid": 355,
+    "value": "UNION"
   },
   {
-    "0": "357",
-    "CIGAR": "EXTOL"
+    "oid": 356,
+    "value": "RATTY"
   },
   {
-    "0": "358",
-    "CIGAR": "LLAMA"
+    "oid": 357,
+    "value": "EXTOL"
   },
   {
-    "0": "359",
-    "CIGAR": "ROWDY"
+    "oid": 358,
+    "value": "LLAMA"
   },
   {
-    "0": "360",
-    "CIGAR": "ISSUE"
+    "oid": 359,
+    "value": "ROWDY"
   },
   {
-    "0": "361",
-    "CIGAR": "LOUSY"
+    "oid": 360,
+    "value": "ISSUE"
   },
   {
-    "0": "362",
-    "CIGAR": "MATTE"
+    "oid": 361,
+    "value": "LOUSY"
   },
   {
-    "0": "363",
-    "CIGAR": "LEVEL"
+    "oid": 362,
+    "value": "MATTE"
   },
   {
-    "0": "364",
-    "CIGAR": "KNELL"
+    "oid": 363,
+    "value": "LEVEL"
   },
   {
-    "0": "365",
-    "CIGAR": "KEFIR"
+    "oid": 364,
+    "value": "KNELL"
   },
   {
-    "0": "366",
-    "CIGAR": "NOMAD"
+    "oid": 365,
+    "value": "KEFIR"
   },
   {
-    "0": "367",
-    "CIGAR": "SOUTH"
+    "oid": 366,
+    "value": "NOMAD"
   },
   {
-    "0": "368",
-    "CIGAR": "MINTY"
+    "oid": 367,
+    "value": "SOUTH"
   },
   {
-    "0": "369",
-    "CIGAR": "NASAL"
+    "oid": 368,
+    "value": "MINTY"
   },
   {
-    "0": "370",
-    "CIGAR": "IMBUE"
+    "oid": 369,
+    "value": "NASAL"
   },
   {
-    "0": "371",
-    "CIGAR": "CORAL"
+    "oid": 370,
+    "value": "IMBUE"
   },
   {
-    "0": "372",
-    "CIGAR": "GROAN"
+    "oid": 371,
+    "value": "CORAL"
   },
   {
-    "0": "373",
-    "CIGAR": "STORK"
+    "oid": 372,
+    "value": "GROAN"
   },
   {
-    "0": "374",
-    "CIGAR": "RIGID"
+    "oid": 373,
+    "value": "STORK"
   },
   {
-    "0": "375",
-    "CIGAR": "LUMPY"
+    "oid": 374,
+    "value": "RIGID"
   },
   {
-    "0": "376",
-    "CIGAR": "DAUNT"
+    "oid": 375,
+    "value": "LUMPY"
   },
   {
-    "0": "377",
-    "CIGAR": "BANJO"
+    "oid": 376,
+    "value": "DAUNT"
   },
   {
-    "0": "378",
-    "CIGAR": "FRILL"
+    "oid": 377,
+    "value": "BANJO"
   },
   {
-    "0": "379",
-    "CIGAR": "ASSAY"
+    "oid": 378,
+    "value": "FRILL"
   },
   {
-    "0": "380",
-    "CIGAR": "OMEGA"
+    "oid": 379,
+    "value": "ASSAY"
   },
   {
-    "0": "381",
-    "CIGAR": "SAVVY"
+    "oid": 380,
+    "value": "OMEGA"
   },
   {
-    "0": "382",
-    "CIGAR": "WHOLE"
+    "oid": 381,
+    "value": "SAVVY"
   },
   {
-    "0": "383",
-    "CIGAR": "HAUNT"
+    "oid": 382,
+    "value": "WHOLE"
   },
   {
-    "0": "384",
-    "CIGAR": "GOFER"
+    "oid": 383,
+    "value": "HAUNT"
   },
   {
-    "0": "385",
-    "CIGAR": "QUAKE"
+    "oid": 384,
+    "value": "GOFER"
   },
   {
-    "0": "386",
-    "CIGAR": "WATER"
+    "oid": 385,
+    "value": "QUAKE"
   },
   {
-    "0": "387",
-    "CIGAR": "BURNT"
+    "oid": 386,
+    "value": "WATER"
   },
   {
-    "0": "388",
-    "CIGAR": "TIZZY"
+    "oid": 387,
+    "value": "BURNT"
   },
   {
-    "0": "389",
-    "CIGAR": "BLANK"
+    "oid": 388,
+    "value": "TIZZY"
   },
   {
-    "0": "390",
-    "CIGAR": "SWORD"
+    "oid": 389,
+    "value": "BLANK"
   },
   {
-    "0": "391",
-    "CIGAR": "LORIS"
+    "oid": 390,
+    "value": "SWORD"
   },
   {
-    "0": "392",
-    "CIGAR": "MODAL"
+    "oid": 391,
+    "value": "LORIS"
   },
   {
-    "0": "393",
-    "CIGAR": "NERVY"
+    "oid": 392,
+    "value": "MODAL"
   },
   {
-    "0": "394",
-    "CIGAR": "FOIST"
+    "oid": 393,
+    "value": "NERVY"
   },
   {
-    "0": "395",
-    "CIGAR": "UNDID"
+    "oid": 394,
+    "value": "FOIST"
   },
   {
-    "0": "396",
-    "CIGAR": "GNOME"
+    "oid": 395,
+    "value": "UNDID"
   },
   {
-    "0": "397",
-    "CIGAR": "EXILE"
+    "oid": 396,
+    "value": "GNOME"
   },
   {
-    "0": "398",
-    "CIGAR": "BRAND"
+    "oid": 397,
+    "value": "EXILE"
   },
   {
-    "0": "399",
-    "CIGAR": "JUMPY"
+    "oid": 398,
+    "value": "BRAND"
   },
   {
-    "0": "400",
-    "CIGAR": "NOVEL"
+    "oid": 399,
+    "value": "JUMPY"
   },
   {
-    "0": "401",
-    "CIGAR": "DREAD"
+    "oid": 400,
+    "value": "NOVEL"
   },
   {
-    "0": "402",
-    "CIGAR": "STILT"
+    "oid": 401,
+    "value": "DREAD"
   },
   {
-    "0": "403",
-    "CIGAR": "ATRIA"
+    "oid": 402,
+    "value": "STILT"
   },
   {
-    "0": "404",
-    "CIGAR": "BALER"
+    "oid": 403,
+    "value": "ATRIA"
   },
   {
-    "0": "405",
-    "CIGAR": "CURVE"
+    "oid": 404,
+    "value": "BALER"
   },
   {
-    "0": "406",
-    "CIGAR": "POPPY"
+    "oid": 405,
+    "value": "CURVE"
   },
   {
-    "0": "407",
-    "CIGAR": "INCUR"
+    "oid": 406,
+    "value": "POPPY"
   },
   {
-    "0": "408",
-    "CIGAR": "MOLDY"
+    "oid": 407,
+    "value": "INCUR"
   },
   {
-    "0": "409",
-    "CIGAR": "BLINK"
+    "oid": 408,
+    "value": "MOLDY"
   },
   {
-    "0": "410",
-    "CIGAR": "WITTY"
+    "oid": 409,
+    "value": "BLINK"
   },
   {
-    "0": "411",
-    "CIGAR": "STUMP"
+    "oid": 410,
+    "value": "WITTY"
   },
   {
-    "0": "412",
-    "CIGAR": "PLAIN"
+    "oid": 411,
+    "value": "STUMP"
   },
   {
-    "0": "413",
-    "CIGAR": "OFFER"
+    "oid": 412,
+    "value": "PLAIN"
   },
   {
-    "0": "414",
-    "CIGAR": "COMFY"
+    "oid": 413,
+    "value": "OFFER"
   },
   {
-    "0": "415",
-    "CIGAR": "ELITE"
+    "oid": 414,
+    "value": "COMFY"
   },
   {
-    "0": "416",
-    "CIGAR": "ODDLY"
+    "oid": 415,
+    "value": "ELITE"
   },
   {
-    "0": "417",
-    "CIGAR": "THRUM"
+    "oid": 416,
+    "value": "ODDLY"
   },
   {
-    "0": "418",
-    "CIGAR": "GLADE"
+    "oid": 417,
+    "value": "THRUM"
   },
   {
-    "0": "419",
-    "CIGAR": "TAUPE"
+    "oid": 418,
+    "value": "GLADE"
   },
   {
-    "0": "420",
-    "CIGAR": "CURIO"
+    "oid": 419,
+    "value": "TAUPE"
   },
   {
-    "0": "421",
-    "CIGAR": "MUNCH"
+    "oid": 420,
+    "value": "CURIO"
   },
   {
-    "0": "422",
-    "CIGAR": "PRANK"
+    "oid": 421,
+    "value": "MUNCH"
   },
   {
-    "0": "423",
-    "CIGAR": "PETTY"
+    "oid": 422,
+    "value": "PRANK"
   },
   {
-    "0": "424",
-    "CIGAR": "QUAIL"
+    "oid": 423,
+    "value": "PETTY"
   },
   {
-    "0": "425",
-    "CIGAR": "GHOST"
+    "oid": 424,
+    "value": "QUAIL"
   },
   {
-    "0": "426",
-    "CIGAR": "BILGE"
+    "oid": 425,
+    "value": "GHOST"
   },
   {
-    "0": "427",
-    "CIGAR": "VIXEN"
+    "oid": 426,
+    "value": "BILGE"
   },
   {
-    "0": "428",
-    "CIGAR": "PLAID"
+    "oid": 427,
+    "value": "VIXEN"
   },
   {
-    "0": "429",
-    "CIGAR": "TAFFY"
+    "oid": 428,
+    "value": "PLAID"
   },
   {
-    "0": "430",
-    "CIGAR": "BOARD"
+    "oid": 429,
+    "value": "TAFFY"
   },
   {
-    "0": "431",
-    "CIGAR": "LEASE"
+    "oid": 430,
+    "value": "BOARD"
   },
   {
-    "0": "432",
-    "CIGAR": "REUSE"
+    "oid": 431,
+    "value": "LEASE"
   },
   {
-    "0": "433",
-    "CIGAR": "EDIFY"
+    "oid": 432,
+    "value": "REUSE"
   },
   {
-    "0": "434",
-    "CIGAR": "DATUM"
+    "oid": 433,
+    "value": "EDIFY"
   },
   {
-    "0": "435",
-    "CIGAR": "CEASE"
+    "oid": 434,
+    "value": "DATUM"
   },
   {
-    "0": "436",
-    "CIGAR": "ADMIN"
+    "oid": 435,
+    "value": "CEASE"
   },
   {
-    "0": "437",
-    "CIGAR": "PREEN"
+    "oid": 436,
+    "value": "ADMIN"
   },
   {
-    "0": "438",
-    "CIGAR": "ROUGH"
+    "oid": 437,
+    "value": "PREEN"
   },
   {
-    "0": "439",
-    "CIGAR": "HABIT"
+    "oid": 438,
+    "value": "ROUGH"
   },
   {
-    "0": "440",
-    "CIGAR": "IDIOM"
+    "oid": 439,
+    "value": "HABIT"
   },
   {
-    "0": "441",
-    "CIGAR": "QUASH"
+    "oid": 440,
+    "value": "IDIOM"
   },
   {
-    "0": "442",
-    "CIGAR": "POLAR"
+    "oid": 441,
+    "value": "QUASH"
   },
   {
-    "0": "443",
-    "CIGAR": "SPORT"
+    "oid": 442,
+    "value": "POLAR"
   },
   {
-    "0": "444",
-    "CIGAR": "DRONE"
+    "oid": 443,
+    "value": "SPORT"
   },
   {
-    "0": "445",
-    "CIGAR": "GRIFT"
+    "oid": 444,
+    "value": "DRONE"
   },
   {
-    "0": "446",
-    "CIGAR": "SUEDE"
+    "oid": 445,
+    "value": "GRIFT"
   },
   {
-    "0": "447",
-    "CIGAR": "SHUCK"
+    "oid": 446,
+    "value": "SUEDE"
   },
   {
-    "0": "448",
-    "CIGAR": "FOLIO"
+    "oid": 447,
+    "value": "SHUCK"
   },
   {
-    "0": "449",
-    "CIGAR": "ALARM"
+    "oid": 448,
+    "value": "FOLIO"
   },
   {
-    "0": "450",
-    "CIGAR": "BORNE"
+    "oid": 449,
+    "value": "ALARM"
   },
   {
-    "0": "451",
-    "CIGAR": "PITCH"
+    "oid": 450,
+    "value": "BORNE"
   },
   {
-    "0": "452",
-    "CIGAR": "LIVID"
+    "oid": 451,
+    "value": "PITCH"
   },
   {
-    "0": "453",
-    "CIGAR": "GROWN"
+    "oid": 452,
+    "value": "LIVID"
   },
   {
-    "0": "454",
-    "CIGAR": "FIFTH"
+    "oid": 453,
+    "value": "GROWN"
   },
   {
-    "0": "455",
-    "CIGAR": "EAGER"
+    "oid": 454,
+    "value": "FIFTH"
   },
   {
-    "0": "456",
-    "CIGAR": "BONGO"
+    "oid": 455,
+    "value": "EAGER"
   },
   {
-    "0": "457",
-    "CIGAR": "AWARE"
+    "oid": 456,
+    "value": "BONGO"
   },
   {
-    "0": "458",
-    "CIGAR": "BICEP"
+    "oid": 457,
+    "value": "AWARE"
   },
   {
-    "0": "459",
-    "CIGAR": "DOWEL"
+    "oid": 458,
+    "value": "BICEP"
   },
   {
-    "0": "460",
-    "CIGAR": "YEAST"
+    "oid": 459,
+    "value": "DOWEL"
   },
   {
-    "0": "461",
-    "CIGAR": "TRIPE"
+    "oid": 460,
+    "value": "YEAST"
   },
   {
-    "0": "462",
-    "CIGAR": "BALMY"
+    "oid": 461,
+    "value": "TRIPE"
   },
   {
-    "0": "463",
-    "CIGAR": "MACHO"
+    "oid": 462,
+    "value": "BALMY"
   },
   {
-    "0": "464",
-    "CIGAR": "SUITE"
+    "oid": 463,
+    "value": "MACHO"
   },
   {
-    "0": "465",
-    "CIGAR": "SHUSH"
+    "oid": 464,
+    "value": "SUITE"
   },
   {
-    "0": "466",
-    "CIGAR": "TROUT"
+    "oid": 465,
+    "value": "SHUSH"
   },
   {
-    "0": "467",
-    "CIGAR": "PATSY"
+    "oid": 466,
+    "value": "TROUT"
   },
   {
-    "0": "468",
-    "CIGAR": "WHOSE"
+    "oid": 467,
+    "value": "PATSY"
   },
   {
-    "0": "469",
-    "CIGAR": "ADEPT"
+    "oid": 468,
+    "value": "WHOSE"
   },
   {
-    "0": "470",
-    "CIGAR": "IDLER"
+    "oid": 469,
+    "value": "ADEPT"
   },
   {
-    "0": "471",
-    "CIGAR": "BLISS"
+    "oid": 470,
+    "value": "IDLER"
   },
   {
-    "0": "472",
-    "CIGAR": "DUMMY"
+    "oid": 471,
+    "value": "BLISS"
   },
   {
-    "0": "473",
-    "CIGAR": "WEEDY"
+    "oid": 472,
+    "value": "DUMMY"
   },
   {
-    "0": "474",
-    "CIGAR": "CLASH"
+    "oid": 473,
+    "value": "WEEDY"
   },
   {
-    "0": "475",
-    "CIGAR": "KNOWN"
+    "oid": 474,
+    "value": "CLASH"
   },
   {
-    "0": "476",
-    "CIGAR": "GENIE"
+    "oid": 475,
+    "value": "KNOWN"
   },
   {
-    "0": "477",
-    "CIGAR": "OZONE"
+    "oid": 476,
+    "value": "GENIE"
   },
   {
-    "0": "478",
-    "CIGAR": "ARTSY"
+    "oid": 477,
+    "value": "OZONE"
   },
   {
-    "0": "479",
-    "CIGAR": "SPATE"
+    "oid": 478,
+    "value": "ARTSY"
   },
   {
-    "0": "480",
-    "CIGAR": "PATCH"
+    "oid": 479,
+    "value": "SPATE"
   },
   {
-    "0": "481",
-    "CIGAR": "INBOX"
+    "oid": 480,
+    "value": "PATCH"
   },
   {
-    "0": "482",
-    "CIGAR": "DIRGE"
+    "oid": 481,
+    "value": "INBOX"
   },
   {
-    "0": "483",
-    "CIGAR": "STOOD"
+    "oid": 482,
+    "value": "DIRGE"
   },
   {
-    "0": "484",
-    "CIGAR": "MORAL"
+    "oid": 483,
+    "value": "STOOD"
   },
   {
-    "0": "485",
-    "CIGAR": "ASHEN"
+    "oid": 484,
+    "value": "MORAL"
   },
   {
-    "0": "486",
-    "CIGAR": "CREST"
+    "oid": 485,
+    "value": "ASHEN"
   },
   {
-    "0": "487",
-    "CIGAR": "LAUGH"
+    "oid": 486,
+    "value": "CREST"
   },
   {
-    "0": "488",
-    "CIGAR": "NURSE"
+    "oid": 487,
+    "value": "LAUGH"
   },
   {
-    "0": "489",
-    "CIGAR": "ARROW"
+    "oid": 488,
+    "value": "NURSE"
   },
   {
-    "0": "490",
-    "CIGAR": "TURBO"
+    "oid": 489,
+    "value": "ARROW"
   },
   {
-    "0": "491",
-    "CIGAR": "WHEAT"
+    "oid": 490,
+    "value": "TURBO"
   },
   {
-    "0": "492",
-    "CIGAR": "SPARE"
+    "oid": 491,
+    "value": "WHEAT"
   },
   {
-    "0": "493",
-    "CIGAR": "HAZEL"
+    "oid": 492,
+    "value": "SPARE"
   },
   {
-    "0": "494",
-    "CIGAR": "VILLA"
+    "oid": 493,
+    "value": "HAZEL"
   },
   {
-    "0": "495",
-    "CIGAR": "FOAMY"
+    "oid": 494,
+    "value": "VILLA"
   },
   {
-    "0": "496",
-    "CIGAR": "KRILL"
+    "oid": 495,
+    "value": "FOAMY"
   },
   {
-    "0": "497",
-    "CIGAR": "SHEAR"
+    "oid": 496,
+    "value": "KRILL"
   },
   {
-    "0": "498",
-    "CIGAR": "CURSE"
+    "oid": 497,
+    "value": "SHEAR"
   },
   {
-    "0": "499",
-    "CIGAR": "JEWEL"
+    "oid": 498,
+    "value": "CURSE"
   },
   {
-    "0": "500",
-    "CIGAR": "BOOTY"
+    "oid": 499,
+    "value": "JEWEL"
   },
   {
-    "0": "501",
-    "CIGAR": "QUOTA"
+    "oid": 500,
+    "value": "BOOTY"
   },
   {
-    "0": "502",
-    "CIGAR": "SORRY"
+    "oid": 501,
+    "value": "QUOTA"
   },
   {
-    "0": "503",
-    "CIGAR": "VERSE"
+    "oid": 502,
+    "value": "SORRY"
   },
   {
-    "0": "504",
-    "CIGAR": "SHEET"
+    "oid": 503,
+    "value": "VERSE"
   },
   {
-    "0": "505",
-    "CIGAR": "ELBOW"
+    "oid": 504,
+    "value": "SHEET"
   },
   {
-    "0": "506",
-    "CIGAR": "SHELF"
+    "oid": 505,
+    "value": "ELBOW"
   },
   {
-    "0": "507",
-    "CIGAR": "ANGLE"
+    "oid": 506,
+    "value": "SHELF"
   },
   {
-    "0": "508",
-    "CIGAR": "DOPEY"
+    "oid": 507,
+    "value": "ANGLE"
   },
   {
-    "0": "509",
-    "CIGAR": "AMBLE"
+    "oid": 508,
+    "value": "DOPEY"
   },
   {
-    "0": "510",
-    "CIGAR": "NUDGE"
+    "oid": 509,
+    "value": "AMBLE"
   },
   {
-    "0": "511",
-    "CIGAR": "BASTE"
+    "oid": 510,
+    "value": "NUDGE"
   },
   {
-    "0": "512",
-    "CIGAR": "SPARK"
+    "oid": 511,
+    "value": "BASTE"
   },
   {
-    "0": "513",
-    "CIGAR": "TIMER"
+    "oid": 512,
+    "value": "SPARK"
   },
   {
-    "0": "514",
-    "CIGAR": "LASSO"
+    "oid": 513,
+    "value": "TIMER"
   },
   {
-    "0": "515",
-    "CIGAR": "STAMP"
+    "oid": 514,
+    "value": "LASSO"
   },
   {
-    "0": "516",
-    "CIGAR": "LADLE"
+    "oid": 515,
+    "value": "STAMP"
   },
   {
-    "0": "517",
-    "CIGAR": "PIECE"
+    "oid": 516,
+    "value": "LADLE"
   },
   {
-    "0": "518",
-    "CIGAR": "CHASE"
+    "oid": 517,
+    "value": "PIECE"
   },
   {
-    "0": "519",
-    "CIGAR": "MANGO"
+    "oid": 518,
+    "value": "CHASE"
   },
   {
-    "0": "520",
-    "CIGAR": "TRACK"
+    "oid": 519,
+    "value": "MANGO"
   },
   {
-    "0": "521",
-    "CIGAR": "SPITE"
+    "oid": 520,
+    "value": "TRACK"
   },
   {
-    "0": "522",
-    "CIGAR": "GREED"
+    "oid": 521,
+    "value": "SPITE"
   },
   {
-    "0": "523",
-    "CIGAR": "NAVEL"
+    "oid": 522,
+    "value": "GREED"
   },
   {
-    "0": "524",
-    "CIGAR": "TROOP"
+    "oid": 523,
+    "value": "NAVEL"
   },
   {
-    "0": "525",
-    "CIGAR": "ALERT"
+    "oid": 524,
+    "value": "TROOP"
   },
   {
-    "0": "526",
-    "CIGAR": "SCRUM"
+    "oid": 525,
+    "value": "ALERT"
   },
   {
-    "0": "527",
-    "CIGAR": "CHECK"
+    "oid": 526,
+    "value": "SCRUM"
   },
   {
-    "0": "528",
-    "CIGAR": "SPEAR"
+    "oid": 527,
+    "value": "CHECK"
   },
   {
-    "0": "529",
-    "CIGAR": "DEITY"
+    "oid": 528,
+    "value": "SPEAR"
   },
   {
-    "0": "530",
-    "CIGAR": "HOVER"
+    "oid": 529,
+    "value": "DEITY"
   },
   {
-    "0": "531",
-    "CIGAR": "FUZZY"
+    "oid": 530,
+    "value": "HOVER"
   },
   {
-    "0": "532",
-    "CIGAR": "LODGE"
+    "oid": 531,
+    "value": "FUZZY"
   },
   {
-    "0": "533",
-    "CIGAR": "AWARD"
+    "oid": 532,
+    "value": "LODGE"
   },
   {
-    "0": "534",
-    "CIGAR": "DRYER"
+    "oid": 533,
+    "value": "AWARD"
   },
   {
-    "0": "535",
-    "CIGAR": "GLAND"
+    "oid": 534,
+    "value": "DRYER"
   },
   {
-    "0": "536",
-    "CIGAR": "OTTER"
+    "oid": 535,
+    "value": "GLAND"
   },
   {
-    "0": "537",
-    "CIGAR": "CREAM"
+    "oid": 536,
+    "value": "OTTER"
   },
   {
-    "0": "538",
-    "CIGAR": "CLOVE"
+    "oid": 537,
+    "value": "CREAM"
   },
   {
-    "0": "539",
-    "CIGAR": "ROACH"
+    "oid": 538,
+    "value": "CLOVE"
   },
   {
-    "0": "540",
-    "CIGAR": "MADLY"
+    "oid": 539,
+    "value": "ROACH"
   },
   {
-    "0": "541",
-    "CIGAR": "INDIE"
+    "oid": 540,
+    "value": "MADLY"
   },
   {
-    "0": "542",
-    "CIGAR": "TRAIL"
+    "oid": 541,
+    "value": "INDIE"
   },
   {
-    "0": "543",
-    "CIGAR": "SUAVE"
+    "oid": 542,
+    "value": "TRAIL"
   },
   {
-    "0": "544",
-    "CIGAR": "CROOK"
+    "oid": 543,
+    "value": "SUAVE"
   },
   {
-    "0": "545",
-    "CIGAR": "DITTY"
+    "oid": 544,
+    "value": "CROOK"
   },
   {
-    "0": "546",
-    "CIGAR": "RUMBA"
+    "oid": 545,
+    "value": "DITTY"
   },
   {
-    "0": "547",
-    "CIGAR": "RAPID"
+    "oid": 546,
+    "value": "RUMBA"
   },
   {
-    "0": "548",
-    "CIGAR": "SCORE"
+    "oid": 547,
+    "value": "RAPID"
   },
   {
-    "0": "549",
-    "CIGAR": "GOODY"
+    "oid": 548,
+    "value": "SCORE"
   },
   {
-    "0": "550",
-    "CIGAR": "BONUS"
+    "oid": 549,
+    "value": "GOODY"
   },
   {
-    "0": "551",
-    "CIGAR": "STEEP"
+    "oid": 550,
+    "value": "BONUS"
   },
   {
-    "0": "552",
-    "CIGAR": "SWATH"
+    "oid": 551,
+    "value": "STEEP"
   },
   {
-    "0": "553",
-    "CIGAR": "PUPIL"
+    "oid": 552,
+    "value": "SWATH"
   },
   {
-    "0": "554",
-    "CIGAR": "PEDAL"
+    "oid": 553,
+    "value": "PUPIL"
   },
   {
-    "0": "555",
-    "CIGAR": "TOOTH"
+    "oid": 554,
+    "value": "PEDAL"
   },
   {
-    "0": "556",
-    "CIGAR": "REVUE"
+    "oid": 555,
+    "value": "TOOTH"
   },
   {
-    "0": "557",
-    "CIGAR": "CHORE"
+    "oid": 556,
+    "value": "REVUE"
   },
   {
-    "0": "558",
-    "CIGAR": "RIVET"
+    "oid": 557,
+    "value": "CHORE"
   },
   {
-    "0": "559",
-    "CIGAR": "TOAST"
+    "oid": 558,
+    "value": "RIVET"
   },
   {
-    "0": "560",
-    "CIGAR": "FALSE"
+    "oid": 559,
+    "value": "TOAST"
   },
   {
-    "0": "561",
-    "CIGAR": "UDDER"
+    "oid": 560,
+    "value": "FALSE"
   },
   {
-    "0": "562",
-    "CIGAR": "FEVER"
+    "oid": 561,
+    "value": "UDDER"
   },
   {
-    "0": "563",
-    "CIGAR": "SHUNT"
+    "oid": 562,
+    "value": "FEVER"
   },
   {
-    "0": "564",
-    "CIGAR": "SUNNY"
+    "oid": 563,
+    "value": "SHUNT"
   },
   {
-    "0": "565",
-    "CIGAR": "CRISP"
+    "oid": 564,
+    "value": "SUNNY"
   },
   {
-    "0": "566",
-    "CIGAR": "CREPE"
+    "oid": 565,
+    "value": "CRISP"
   },
   {
-    "0": "567",
-    "CIGAR": "UPPER"
+    "oid": 566,
+    "value": "CREPE"
   },
   {
-    "0": "568",
-    "CIGAR": "REACH"
+    "oid": 567,
+    "value": "UPPER"
   },
   {
-    "0": "569",
-    "CIGAR": "ICING"
+    "oid": 568,
+    "value": "REACH"
   },
   {
-    "0": "570",
-    "CIGAR": "SQUID"
+    "oid": 569,
+    "value": "ICING"
   },
   {
-    "0": "571",
-    "CIGAR": "ROWER"
+    "oid": 570,
+    "value": "SQUID"
   },
   {
-    "0": "572",
-    "CIGAR": "SILLY"
+    "oid": 571,
+    "value": "ROWER"
   },
   {
-    "0": "573",
-    "CIGAR": "PROSE"
+    "oid": 572,
+    "value": "SILLY"
   },
   {
-    "0": "574",
-    "CIGAR": "FLINT"
+    "oid": 573,
+    "value": "PROSE"
   },
   {
-    "0": "575",
-    "CIGAR": "KNACK"
+    "oid": 574,
+    "value": "FLINT"
   },
   {
-    "0": "576",
-    "CIGAR": "FANCY"
+    "oid": 575,
+    "value": "KNACK"
   },
   {
-    "0": "577",
-    "CIGAR": "CLOAK"
+    "oid": 576,
+    "value": "FANCY"
   },
   {
-    "0": "578",
-    "CIGAR": "TOTAL"
+    "oid": 577,
+    "value": "CLOAK"
   },
   {
-    "0": "579",
-    "CIGAR": "DINGY"
+    "oid": 578,
+    "value": "TOTAL"
   },
   {
-    "0": "580",
-    "CIGAR": "CRAWL"
+    "oid": 579,
+    "value": "DINGY"
   },
   {
-    "0": "581",
-    "CIGAR": "WAFER"
+    "oid": 580,
+    "value": "CRAWL"
   },
   {
-    "0": "582",
-    "CIGAR": "DRAFT"
+    "oid": 581,
+    "value": "WAFER"
   },
   {
-    "0": "583",
-    "CIGAR": "ATLAS"
+    "oid": 582,
+    "value": "DRAFT"
   },
   {
-    "0": "584",
-    "CIGAR": "SPRIG"
+    "oid": 583,
+    "value": "ATLAS"
   },
   {
-    "0": "585",
-    "CIGAR": "CYBER"
+    "oid": 584,
+    "value": "SPRIG"
   },
   {
-    "0": "586",
-    "CIGAR": "RELAX"
+    "oid": 585,
+    "value": "CYBER"
   },
   {
-    "0": "587",
-    "CIGAR": "CHEAP"
+    "oid": 586,
+    "value": "RELAX"
   },
   {
-    "0": "588",
-    "CIGAR": "CHOSE"
+    "oid": 587,
+    "value": "CHEAP"
   },
   {
-    "0": "589",
-    "CIGAR": "NERVE"
+    "oid": 588,
+    "value": "CHOSE"
   },
   {
-    "0": "590",
-    "CIGAR": "LEMUR"
+    "oid": 589,
+    "value": "NERVE"
   },
   {
-    "0": "591",
-    "CIGAR": "STARE"
+    "oid": 590,
+    "value": "LEMUR"
   },
   {
-    "0": "592",
-    "CIGAR": "MAMBO"
+    "oid": 591,
+    "value": "STARE"
   },
   {
-    "0": "593",
-    "CIGAR": "DECRY"
+    "oid": 592,
+    "value": "MAMBO"
   },
   {
-    "0": "594",
-    "CIGAR": "GRAIN"
+    "oid": 593,
+    "value": "DECRY"
   },
   {
-    "0": "595",
-    "CIGAR": "AFFIX"
+    "oid": 594,
+    "value": "GRAIN"
   },
   {
-    "0": "596",
-    "CIGAR": "SHARE"
+    "oid": 595,
+    "value": "AFFIX"
   },
   {
-    "0": "597",
-    "CIGAR": "EAGLE"
+    "oid": 596,
+    "value": "SHARE"
   },
   {
-    "0": "598",
-    "CIGAR": "SAUNA"
+    "oid": 597,
+    "value": "EAGLE"
   },
   {
-    "0": "599",
-    "CIGAR": "BRAWN"
+    "oid": 598,
+    "value": "SAUNA"
   },
   {
-    "0": "600",
-    "CIGAR": "BLADE"
+    "oid": 599,
+    "value": "BRAWN"
   },
   {
-    "0": "601",
-    "CIGAR": "FLASH"
+    "oid": 600,
+    "value": "BLADE"
   },
   {
-    "0": "602",
-    "CIGAR": "STRAY"
+    "oid": 601,
+    "value": "FLASH"
   },
   {
-    "0": "603",
-    "CIGAR": "HEFTY"
+    "oid": 602,
+    "value": "STRAY"
   },
   {
-    "0": "604",
-    "CIGAR": "SCOWL"
+    "oid": 603,
+    "value": "HEFTY"
   },
   {
-    "0": "605",
-    "CIGAR": "BOAST"
+    "oid": 604,
+    "value": "SCOWL"
   },
   {
-    "0": "606",
-    "CIGAR": "FUNKY"
+    "oid": 605,
+    "value": "BOAST"
   },
   {
-    "0": "607",
-    "CIGAR": "DROOL"
+    "oid": 606,
+    "value": "FUNKY"
   },
   {
-    "0": "608",
-    "CIGAR": "BOXER"
+    "oid": 607,
+    "value": "DROOL"
   },
   {
-    "0": "609",
-    "CIGAR": "VYING"
+    "oid": 608,
+    "value": "BOXER"
   },
   {
-    "0": "610",
-    "CIGAR": "PLUMB"
+    "oid": 609,
+    "value": "VYING"
   },
   {
-    "0": "611",
-    "CIGAR": "PATIO"
+    "oid": 610,
+    "value": "PLUMB"
   },
   {
-    "0": "612",
-    "CIGAR": "FLUNG"
+    "oid": 611,
+    "value": "PATIO"
   },
   {
-    "0": "613",
-    "CIGAR": "HYENA"
+    "oid": 612,
+    "value": "FLUNG"
   },
   {
-    "0": "614",
-    "CIGAR": "HILLY"
+    "oid": 613,
+    "value": "HYENA"
   },
   {
-    "0": "615",
-    "CIGAR": "SHOVE"
+    "oid": 614,
+    "value": "HILLY"
   },
   {
-    "0": "616",
-    "CIGAR": "ENDOW"
+    "oid": 615,
+    "value": "SHOVE"
   },
   {
-    "0": "617",
-    "CIGAR": "CRYPT"
+    "oid": 616,
+    "value": "ENDOW"
   },
   {
-    "0": "618",
-    "CIGAR": "SHAKY"
+    "oid": 617,
+    "value": "CRYPT"
   },
   {
-    "0": "619",
-    "CIGAR": "GUILE"
+    "oid": 618,
+    "value": "SHAKY"
   },
   {
-    "0": "620",
-    "CIGAR": "MAUVE"
+    "oid": 619,
+    "value": "GUILE"
   },
   {
-    "0": "621",
-    "CIGAR": "DOGMA"
+    "oid": 620,
+    "value": "MAUVE"
   },
   {
-    "0": "622",
-    "CIGAR": "HIPPO"
+    "oid": 621,
+    "value": "DOGMA"
   },
   {
-    "0": "623",
-    "CIGAR": "CHOCK"
+    "oid": 622,
+    "value": "HIPPO"
   },
   {
-    "0": "624",
-    "CIGAR": "SLANG"
+    "oid": 623,
+    "value": "CHOCK"
   },
   {
-    "0": "625",
-    "CIGAR": "WITCH"
+    "oid": 624,
+    "value": "SLANG"
   },
   {
-    "0": "626",
-    "CIGAR": "BROWN"
+    "oid": 625,
+    "value": "WITCH"
   },
   {
-    "0": "627",
-    "CIGAR": "TWIST"
+    "oid": 626,
+    "value": "BROWN"
   },
   {
-    "0": "628",
-    "CIGAR": "JELLY"
+    "oid": 627,
+    "value": "TWIST"
   },
   {
-    "0": "629",
-    "CIGAR": "PEARL"
+    "oid": 628,
+    "value": "JELLY"
   },
   {
-    "0": "630",
-    "CIGAR": "SPINE"
+    "oid": 629,
+    "value": "PEARL"
   },
   {
-    "0": "631",
-    "CIGAR": "NICHE"
+    "oid": 630,
+    "value": "SPINE"
   },
   {
-    "0": "632",
-    "CIGAR": "GOING"
+    "oid": 631,
+    "value": "NICHE"
   },
   {
-    "0": "633",
-    "CIGAR": "FRAIL"
+    "oid": 632,
+    "value": "GOING"
   },
   {
-    "0": "634",
-    "CIGAR": "TALLY"
+    "oid": 633,
+    "value": "FRAIL"
   },
   {
-    "0": "635",
-    "CIGAR": "VISOR"
+    "oid": 634,
+    "value": "TALLY"
   },
   {
-    "0": "636",
-    "CIGAR": "TACKY"
+    "oid": 635,
+    "value": "VISOR"
   },
   {
-    "0": "637",
-    "CIGAR": "UVULA"
+    "oid": 636,
+    "value": "TACKY"
   },
   {
-    "0": "638",
-    "CIGAR": "PRIMP"
+    "oid": 637,
+    "value": "UVULA"
   },
   {
-    "0": "639",
-    "CIGAR": "FLOWN"
+    "oid": 638,
+    "value": "PRIMP"
   },
   {
-    "0": "640",
-    "CIGAR": "STOIC"
+    "oid": 639,
+    "value": "FLOWN"
   },
   {
-    "0": "641",
-    "CIGAR": "INNER"
+    "oid": 640,
+    "value": "STOIC"
   },
   {
-    "0": "642",
-    "CIGAR": "SWELL"
+    "oid": 641,
+    "value": "INNER"
   },
   {
-    "0": "643",
-    "CIGAR": "READY"
+    "oid": 642,
+    "value": "SWELL"
   },
   {
-    "0": "644",
-    "CIGAR": "EVENT"
+    "oid": 643,
+    "value": "READY"
   },
   {
-    "0": "645",
-    "CIGAR": "TRULY"
+    "oid": 644,
+    "value": "EVENT"
   },
   {
-    "0": "646",
-    "CIGAR": "OCTET"
+    "oid": 645,
+    "value": "TRULY"
   },
   {
-    "0": "647",
-    "CIGAR": "VINYL"
+    "oid": 646,
+    "value": "OCTET"
   },
   {
-    "0": "648",
-    "CIGAR": "BLAZE"
+    "oid": 647,
+    "value": "VINYL"
   },
   {
-    "0": "649",
-    "CIGAR": "SNOOP"
+    "oid": 648,
+    "value": "BLAZE"
   },
   {
-    "0": "650",
-    "CIGAR": "SIXTH"
+    "oid": 649,
+    "value": "SNOOP"
   },
   {
-    "0": "651",
-    "CIGAR": "WEIRD"
+    "oid": 650,
+    "value": "SIXTH"
   },
   {
-    "0": "652",
-    "CIGAR": "EASEL"
+    "oid": 651,
+    "value": "WEIRD"
   },
   {
-    "0": "653",
-    "CIGAR": "TUNIC"
+    "oid": 652,
+    "value": "EASEL"
   },
   {
-    "0": "654",
-    "CIGAR": "BAWDY"
+    "oid": 653,
+    "value": "TUNIC"
   },
   {
-    "0": "655",
-    "CIGAR": "SANDY"
+    "oid": 654,
+    "value": "BAWDY"
   },
   {
-    "0": "656",
-    "CIGAR": "WREAK"
+    "oid": 655,
+    "value": "SANDY"
   },
   {
-    "0": "657",
-    "CIGAR": "FROWN"
+    "oid": 656,
+    "value": "WREAK"
   },
   {
-    "0": "658",
-    "CIGAR": "BOSSY"
+    "oid": 657,
+    "value": "FROWN"
   },
   {
-    "0": "659",
-    "CIGAR": "GOOFY"
+    "oid": 658,
+    "value": "BOSSY"
   },
   {
-    "0": "660",
-    "CIGAR": "SHOUT"
+    "oid": 659,
+    "value": "GOOFY"
   },
   {
-    "0": "661",
-    "CIGAR": "SPOON"
+    "oid": 660,
+    "value": "SHOUT"
   },
   {
-    "0": "662",
-    "CIGAR": "DICEY"
+    "oid": 661,
+    "value": "SPOON"
   },
   {
-    "0": "663",
-    "CIGAR": "FIBER"
+    "oid": 662,
+    "value": "DICEY"
   },
   {
-    "0": "664",
-    "CIGAR": "STINT"
+    "oid": 663,
+    "value": "FIBER"
   },
   {
-    "0": "665",
-    "CIGAR": "HALVE"
+    "oid": 664,
+    "value": "STINT"
   },
   {
-    "0": "666",
-    "CIGAR": "GRANT"
+    "oid": 665,
+    "value": "HALVE"
   },
   {
-    "0": "667",
-    "CIGAR": "CORER"
+    "oid": 666,
+    "value": "GRANT"
   },
   {
-    "0": "668",
-    "CIGAR": "GAMUT"
+    "oid": 667,
+    "value": "CORER"
   },
   {
-    "0": "669",
-    "CIGAR": "PRONE"
+    "oid": 668,
+    "value": "GAMUT"
   },
   {
-    "0": "670",
-    "CIGAR": "STAIN"
+    "oid": 669,
+    "value": "PRONE"
   },
   {
-    "0": "671",
-    "CIGAR": "GUSTY"
+    "oid": 670,
+    "value": "STAIN"
   },
   {
-    "0": "672",
-    "CIGAR": "CARVE"
+    "oid": 671,
+    "value": "GUSTY"
   },
   {
-    "0": "673",
-    "CIGAR": "MOMMY"
+    "oid": 672,
+    "value": "CARVE"
   },
   {
-    "0": "674",
-    "CIGAR": "JOINT"
+    "oid": 673,
+    "value": "MOMMY"
   },
   {
-    "0": "675",
-    "CIGAR": "FLOUR"
+    "oid": 674,
+    "value": "JOINT"
   },
   {
-    "0": "676",
-    "CIGAR": "LAGER"
+    "oid": 675,
+    "value": "FLOUR"
   },
   {
-    "0": "677",
-    "CIGAR": "MINER"
+    "oid": 676,
+    "value": "LAGER"
   },
   {
-    "0": "678",
-    "CIGAR": "TITLE"
+    "oid": 677,
+    "value": "MINER"
   },
   {
-    "0": "679",
-    "CIGAR": "WAGON"
+    "oid": 678,
+    "value": "TITLE"
   },
   {
-    "0": "680",
-    "CIGAR": "SHELL"
+    "oid": 679,
+    "value": "WAGON"
   },
   {
-    "0": "681",
-    "CIGAR": "MODEM"
+    "oid": 680,
+    "value": "SHELL"
   },
   {
-    "0": "682",
-    "CIGAR": "CLOUD"
+    "oid": 681,
+    "value": "MODEM"
   },
   {
-    "0": "683",
-    "CIGAR": "RIDER"
+    "oid": 682,
+    "value": "CLOUD"
   },
   {
-    "0": "684",
-    "CIGAR": "BRAIN"
+    "oid": 683,
+    "value": "RIDER"
   },
   {
-    "0": "685",
-    "CIGAR": "FAITH"
+    "oid": 684,
+    "value": "BRAIN"
   },
   {
-    "0": "686",
-    "CIGAR": "THANK"
+    "oid": 685,
+    "value": "FAITH"
   },
   {
-    "0": "687",
-    "CIGAR": "TORCH"
+    "oid": 686,
+    "value": "THANK"
   },
   {
-    "0": "688",
-    "CIGAR": "HANDY"
+    "oid": 687,
+    "value": "TORCH"
   },
   {
-    "0": "689",
-    "CIGAR": "STEAM"
+    "oid": 688,
+    "value": "HANDY"
   },
   {
-    "0": "690",
-    "CIGAR": "TEACH"
+    "oid": 689,
+    "value": "STEAM"
   },
   {
-    "0": "691",
-    "CIGAR": "SEVEN"
+    "oid": 690,
+    "value": "TEACH"
   },
   {
-    "0": "692",
-    "CIGAR": "SMOKE"
+    "oid": 691,
+    "value": "SEVEN"
   },
   {
-    "0": "693",
-    "CIGAR": "PRESS"
+    "oid": 692,
+    "value": "SMOKE"
   },
   {
-    "0": "694",
-    "CIGAR": "FULLY"
+    "oid": 693,
+    "value": "PRESS"
   },
   {
-    "0": "695",
-    "CIGAR": "BEAUT"
+    "oid": 694,
+    "value": "FULLY"
   },
   {
-    "0": "696",
-    "CIGAR": "HONEY"
+    "oid": 695,
+    "value": "BEAUT"
   },
   {
-    "0": "697",
-    "CIGAR": "RECUR"
+    "oid": 696,
+    "value": "HONEY"
   },
   {
-    "0": "698",
-    "CIGAR": "BROAD"
+    "oid": 697,
+    "value": "RECUR"
   },
   {
-    "0": "699",
-    "CIGAR": "HARSH"
+    "oid": 698,
+    "value": "BROAD"
   },
   {
-    "0": "700",
-    "CIGAR": "BRASS"
+    "oid": 699,
+    "value": "HARSH"
   },
   {
-    "0": "701",
-    "CIGAR": "AISLE"
+    "oid": 700,
+    "value": "BRASS"
   },
   {
-    "0": "702",
-    "CIGAR": "REBEL"
+    "oid": 701,
+    "value": "AISLE"
   },
   {
-    "0": "703",
-    "CIGAR": "DEBIT"
+    "oid": 702,
+    "value": "REBEL"
   },
   {
-    "0": "704",
-    "CIGAR": "DRAWN"
+    "oid": 703,
+    "value": "DEBIT"
   },
   {
-    "0": "705",
-    "CIGAR": "OWNER"
+    "oid": 704,
+    "value": "DRAWN"
   },
   {
-    "0": "706",
-    "CIGAR": "RERUN"
+    "oid": 705,
+    "value": "OWNER"
   },
   {
-    "0": "707",
-    "CIGAR": "WIDEN"
+    "oid": 706,
+    "value": "RERUN"
   },
   {
-    "0": "708",
-    "CIGAR": "STERN"
+    "oid": 707,
+    "value": "WIDEN"
   },
   {
-    "0": "709",
-    "CIGAR": "FAINT"
+    "oid": 708,
+    "value": "STERN"
   },
   {
-    "0": "710",
-    "CIGAR": "CAMEL"
+    "oid": 709,
+    "value": "FAINT"
   },
   {
-    "0": "711",
-    "CIGAR": "MUSHY"
+    "oid": 710,
+    "value": "CAMEL"
   },
   {
-    "0": "712",
-    "CIGAR": "SPOUT"
+    "oid": 711,
+    "value": "MUSHY"
   },
   {
-    "0": "713",
-    "CIGAR": "KNAVE"
+    "oid": 712,
+    "value": "SPOUT"
   },
   {
-    "0": "714",
-    "CIGAR": "FLUNK"
+    "oid": 713,
+    "value": "KNAVE"
   },
   {
-    "0": "715",
-    "CIGAR": "LITHE"
+    "oid": 714,
+    "value": "FLUNK"
   },
   {
-    "0": "716",
-    "CIGAR": "CROWN"
+    "oid": 715,
+    "value": "LITHE"
   },
   {
-    "0": "717",
-    "CIGAR": "STAKE"
+    "oid": 716,
+    "value": "CROWN"
   },
   {
-    "0": "718",
-    "CIGAR": "SKATE"
+    "oid": 717,
+    "value": "STAKE"
   },
   {
-    "0": "719",
-    "CIGAR": "FILET"
+    "oid": 718,
+    "value": "SKATE"
   },
   {
-    "0": "720",
-    "CIGAR": "LEECH"
+    "oid": 719,
+    "value": "FILET"
   },
   {
-    "0": "721",
-    "CIGAR": "BRUTE"
+    "oid": 720,
+    "value": "LEECH"
   },
   {
-    "0": "722",
-    "CIGAR": "MULCH"
+    "oid": 721,
+    "value": "BRUTE"
   },
   {
-    "0": "723",
-    "CIGAR": "DELAY"
+    "oid": 722,
+    "value": "MULCH"
   },
   {
-    "0": "724",
-    "CIGAR": "METER"
+    "oid": 723,
+    "value": "DELAY"
   },
   {
-    "0": "725",
-    "CIGAR": "LANKY"
+    "oid": 724,
+    "value": "METER"
   },
   {
-    "0": "726",
-    "CIGAR": "STORM"
+    "oid": 725,
+    "value": "LANKY"
   },
   {
-    "0": "727",
-    "CIGAR": "BRACE"
+    "oid": 726,
+    "value": "STORM"
   },
   {
-    "0": "728",
-    "CIGAR": "ACORN"
+    "oid": 727,
+    "value": "BRACE"
   },
   {
-    "0": "729",
-    "CIGAR": "SHORE"
+    "oid": 728,
+    "value": "ACORN"
   },
   {
-    "0": "730",
-    "CIGAR": "NEIGH"
+    "oid": 729,
+    "value": "SHORE"
   },
   {
-    "0": "731",
-    "CIGAR": "SKIFF"
+    "oid": 730,
+    "value": "NEIGH"
   },
   {
-    "0": "732",
-    "CIGAR": "SCONE"
+    "oid": 731,
+    "value": "SKIFF"
   },
   {
-    "0": "733",
-    "CIGAR": "MEDIC"
+    "oid": 732,
+    "value": "SCONE"
   },
   {
-    "0": "734",
-    "CIGAR": "OUNCE"
+    "oid": 733,
+    "value": "MEDIC"
   },
   {
-    "0": "735",
-    "CIGAR": "SAUCY"
+    "oid": 734,
+    "value": "OUNCE"
   },
   {
-    "0": "736",
-    "CIGAR": "MACAW"
+    "oid": 735,
+    "value": "SAUCY"
   },
   {
-    "0": "737",
-    "CIGAR": "ANVIL"
+    "oid": 736,
+    "value": "MACAW"
   },
   {
-    "0": "738",
-    "CIGAR": "ENSUE"
+    "oid": 737,
+    "value": "ANVIL"
   },
   {
-    "0": "739",
-    "CIGAR": "LOWER"
+    "oid": 738,
+    "value": "ENSUE"
   },
   {
-    "0": "740",
-    "CIGAR": "SCALE"
+    "oid": 739,
+    "value": "LOWER"
   },
   {
-    "0": "741",
-    "CIGAR": "FLAKE"
+    "oid": 740,
+    "value": "SCALE"
   },
   {
-    "0": "742",
-    "CIGAR": "CHALK"
+    "oid": 741,
+    "value": "FLAKE"
   },
   {
-    "0": "743",
-    "CIGAR": "PENNE"
+    "oid": 742,
+    "value": "CHALK"
   },
   {
-    "0": "744",
-    "CIGAR": "FERAL"
+    "oid": 743,
+    "value": "PENNE"
   },
   {
-    "0": "745",
-    "CIGAR": "SUPER"
+    "oid": 744,
+    "value": "FERAL"
   },
   {
-    "0": "746",
-    "CIGAR": "SMOCK"
+    "oid": 745,
+    "value": "SUPER"
   },
   {
-    "0": "747",
-    "CIGAR": "JUICE"
+    "oid": 746,
+    "value": "SMOCK"
   },
   {
-    "0": "748",
-    "CIGAR": "AWASH"
+    "oid": 747,
+    "value": "JUICE"
   },
   {
-    "0": "749",
-    "CIGAR": "PORCH"
+    "oid": 748,
+    "value": "AWASH"
   },
   {
-    "0": "750",
-    "CIGAR": "FORTE"
+    "oid": 749,
+    "value": "PORCH"
   },
   {
-    "0": "751",
-    "CIGAR": "PRONG"
+    "oid": 750,
+    "value": "FORTE"
   },
   {
-    "0": "752",
-    "CIGAR": "CADET"
+    "oid": 751,
+    "value": "PRONG"
   },
   {
-    "0": "753",
-    "CIGAR": "SPECK"
+    "oid": 752,
+    "value": "CADET"
   },
   {
-    "0": "754",
-    "CIGAR": "SHAFT"
+    "oid": 753,
+    "value": "SPECK"
   },
   {
-    "0": "755",
-    "CIGAR": "REFER"
+    "oid": 754,
+    "value": "SHAFT"
   },
   {
-    "0": "756",
-    "CIGAR": "NERDY"
+    "oid": 755,
+    "value": "REFER"
   },
   {
-    "0": "757",
-    "CIGAR": "QUITE"
+    "oid": 756,
+    "value": "NERDY"
   },
   {
-    "0": "758",
-    "CIGAR": "DECOY"
+    "oid": 757,
+    "value": "QUITE"
   },
   {
-    "0": "759",
-    "CIGAR": "SWOON"
+    "oid": 758,
+    "value": "DECOY"
   },
   {
-    "0": "760",
-    "CIGAR": "VIDEO"
+    "oid": 759,
+    "value": "SWOON"
   },
   {
-    "0": "761",
-    "CIGAR": "ENACT"
+    "oid": 760,
+    "value": "VIDEO"
   },
   {
-    "0": "762",
-    "CIGAR": "JIFFY"
+    "oid": 761,
+    "value": "ENACT"
   },
   {
-    "0": "763",
-    "CIGAR": "CAMEO"
+    "oid": 762,
+    "value": "JIFFY"
   },
   {
-    "0": "764",
-    "CIGAR": "GAUNT"
+    "oid": 763,
+    "value": "CAMEO"
   },
   {
-    "0": "765",
-    "CIGAR": "BLARE"
+    "oid": 764,
+    "value": "GAUNT"
   },
   {
-    "0": "766",
-    "CIGAR": "SHAPE"
+    "oid": 765,
+    "value": "BLARE"
   },
   {
-    "0": "767",
-    "CIGAR": "CANON"
+    "oid": 766,
+    "value": "SHAPE"
   },
   {
-    "0": "768",
-    "CIGAR": "SCOFF"
+    "oid": 767,
+    "value": "CANON"
   },
   {
-    "0": "769",
-    "CIGAR": "CRUSH"
+    "oid": 768,
+    "value": "SCOFF"
   },
   {
-    "0": "770",
-    "CIGAR": "DEBUT"
+    "oid": 769,
+    "value": "CRUSH"
   },
   {
-    "0": "771",
-    "CIGAR": "THIGH"
+    "oid": 770,
+    "value": "DEBUT"
   },
   {
-    "0": "772",
-    "CIGAR": "INLAY"
+    "oid": 771,
+    "value": "THIGH"
   },
   {
-    "0": "773",
-    "CIGAR": "ADAGE"
+    "oid": 772,
+    "value": "INLAY"
   },
   {
-    "0": "774",
-    "CIGAR": "BUDDY"
+    "oid": 773,
+    "value": "ADAGE"
   },
   {
-    "0": "775",
-    "CIGAR": "ZEBRA"
+    "oid": 774,
+    "value": "BUDDY"
   },
   {
-    "0": "776",
-    "CIGAR": "DROVE"
+    "oid": 775,
+    "value": "ZEBRA"
   },
   {
-    "0": "777",
-    "CIGAR": "ORDER"
+    "oid": 776,
+    "value": "DROVE"
   },
   {
-    "0": "778",
-    "CIGAR": "KNEAD"
+    "oid": 777,
+    "value": "ORDER"
   },
   {
-    "0": "779",
-    "CIGAR": "SAVOR"
+    "oid": 778,
+    "value": "KNEAD"
   },
   {
-    "0": "780",
-    "CIGAR": "DOLLY"
+    "oid": 779,
+    "value": "SAVOR"
   },
   {
-    "0": "781",
-    "CIGAR": "BUGLE"
+    "oid": 780,
+    "value": "DOLLY"
   },
   {
-    "0": "782",
-    "CIGAR": "EDICT"
+    "oid": 781,
+    "value": "BUGLE"
   },
   {
-    "0": "783",
-    "CIGAR": "PAINT"
+    "oid": 782,
+    "value": "EDICT"
   },
   {
-    "0": "784",
-    "CIGAR": "SCENT"
+    "oid": 783,
+    "value": "PAINT"
   },
   {
-    "0": "785",
-    "CIGAR": "TERSE"
+    "oid": 784,
+    "value": "SCENT"
   },
   {
-    "0": "786",
-    "CIGAR": "COVER"
+    "oid": 785,
+    "value": "TERSE"
   },
   {
-    "0": "787",
-    "CIGAR": "PRIOR"
+    "oid": 786,
+    "value": "COVER"
   },
   {
-    "0": "788",
-    "CIGAR": "GRIND"
+    "oid": 787,
+    "value": "PRIOR"
   },
   {
-    "0": "789",
-    "CIGAR": "PROUD"
+    "oid": 788,
+    "value": "GRIND"
   },
   {
-    "0": "790",
-    "CIGAR": "VAULT"
+    "oid": 789,
+    "value": "PROUD"
   },
   {
-    "0": "791",
-    "CIGAR": "ANGST"
+    "oid": 790,
+    "value": "VAULT"
   },
   {
-    "0": "792",
-    "CIGAR": "DETER"
+    "oid": 791,
+    "value": "ANGST"
   },
   {
-    "0": "793",
-    "CIGAR": "SWUNG"
+    "oid": 792,
+    "value": "DETER"
   },
   {
-    "0": "794",
-    "CIGAR": "MANGA"
+    "oid": 793,
+    "value": "SWUNG"
   },
   {
-    "0": "795",
-    "CIGAR": "CROWD"
+    "oid": 794,
+    "value": "MANGA"
   },
   {
-    "0": "796",
-    "CIGAR": "HENCE"
+    "oid": 795,
+    "value": "CROWD"
   },
   {
-    "0": "797",
-    "CIGAR": "MELON"
+    "oid": 796,
+    "value": "HENCE"
   },
   {
-    "0": "798",
-    "CIGAR": "ETHER"
+    "oid": 797,
+    "value": "MELON"
   },
   {
-    "0": "799",
-    "CIGAR": "ORGAN"
+    "oid": 798,
+    "value": "ETHER"
   },
   {
-    "0": "800",
-    "CIGAR": "GROOM"
+    "oid": 799,
+    "value": "ORGAN"
   },
   {
-    "0": "801",
-    "CIGAR": "STARK"
+    "oid": 800,
+    "value": "GROOM"
   },
   {
-    "0": "802",
-    "CIGAR": "BRAVO"
+    "oid": 801,
+    "value": "STARK"
   },
   {
-    "0": "803",
-    "CIGAR": "BASIN"
+    "oid": 802,
+    "value": "BRAVO"
   },
   {
-    "0": "804",
-    "CIGAR": "CHAOS"
+    "oid": 803,
+    "value": "BASIN"
   },
   {
-    "0": "805",
-    "CIGAR": "GUMMY"
+    "oid": 804,
+    "value": "CHAOS"
   },
   {
-    "0": "806",
-    "CIGAR": "PAPAL"
+    "oid": 805,
+    "value": "GUMMY"
   },
   {
-    "0": "807",
-    "CIGAR": "MINUS"
+    "oid": 806,
+    "value": "PAPAL"
   },
   {
-    "0": "808",
-    "CIGAR": "SKIER"
+    "oid": 807,
+    "value": "MINUS"
   },
   {
-    "0": "809",
-    "CIGAR": "BEVEL"
+    "oid": 808,
+    "value": "SKIER"
   },
   {
-    "0": "810",
-    "CIGAR": "TITAN"
+    "oid": 809,
+    "value": "BEVEL"
   },
   {
-    "0": "811",
-    "CIGAR": "GLIDE"
+    "oid": 810,
+    "value": "TITAN"
   },
   {
-    "0": "812",
-    "CIGAR": "SWISH"
+    "oid": 811,
+    "value": "GLIDE"
   },
   {
-    "0": "813",
-    "CIGAR": "EXALT"
+    "oid": 812,
+    "value": "SWISH"
   },
   {
-    "0": "814",
-    "CIGAR": "DINGO"
+    "oid": 813,
+    "value": "EXALT"
   },
   {
-    "0": "815",
-    "CIGAR": "NICER"
+    "oid": 814,
+    "value": "DINGO"
   },
   {
-    "0": "816",
-    "CIGAR": "HITCH"
+    "oid": 815,
+    "value": "NICER"
   },
   {
-    "0": "817",
-    "CIGAR": "BRINY"
+    "oid": 816,
+    "value": "HITCH"
   },
   {
-    "0": "818",
-    "CIGAR": "TUTOR"
+    "oid": 817,
+    "value": "BRINY"
   },
   {
-    "0": "819",
-    "CIGAR": "STALL"
+    "oid": 818,
+    "value": "TUTOR"
   },
   {
-    "0": "820",
-    "CIGAR": "PINCH"
+    "oid": 819,
+    "value": "STALL"
   },
   {
-    "0": "821",
-    "CIGAR": "AMASS"
+    "oid": 820,
+    "value": "PINCH"
   },
   {
-    "0": "822",
-    "CIGAR": "CUMIN"
+    "oid": 821,
+    "value": "AMASS"
   },
   {
-    "0": "823",
-    "CIGAR": "OUTER"
+    "oid": 822,
+    "value": "CUMIN"
   },
   {
-    "0": "824",
-    "CIGAR": "TIDAL"
+    "oid": 823,
+    "value": "OUTER"
   },
   {
-    "0": "825",
-    "CIGAR": "MEDIA"
+    "oid": 824,
+    "value": "TIDAL"
   },
   {
-    "0": "826",
-    "CIGAR": "JERKY"
+    "oid": 825,
+    "value": "MEDIA"
   },
   {
-    "0": "827",
-    "CIGAR": "PIOUS"
+    "oid": 826,
+    "value": "JERKY"
   },
   {
-    "0": "828",
-    "CIGAR": "MUSTY"
+    "oid": 827,
+    "value": "PIOUS"
   },
   {
-    "0": "829",
-    "CIGAR": "SHAVE"
+    "oid": 828,
+    "value": "MUSTY"
   },
   {
-    "0": "830",
-    "CIGAR": "DECAL"
+    "oid": 829,
+    "value": "SHAVE"
   },
   {
-    "0": "831",
-    "CIGAR": "VALUE"
+    "oid": 830,
+    "value": "DECAL"
   },
   {
-    "0": "832",
-    "CIGAR": "EBONY"
+    "oid": 831,
+    "value": "VALUE"
   },
   {
-    "0": "833",
-    "CIGAR": "SLICE"
+    "oid": 832,
+    "value": "EBONY"
   },
   {
-    "0": "834",
-    "CIGAR": "DIARY"
+    "oid": 833,
+    "value": "SLICE"
   },
   {
-    "0": "835",
-    "CIGAR": "PROWL"
+    "oid": 834,
+    "value": "DIARY"
   },
   {
-    "0": "836",
-    "CIGAR": "CRAFT"
+    "oid": 835,
+    "value": "PROWL"
   },
   {
-    "0": "837",
-    "CIGAR": "PRUNE"
+    "oid": 836,
+    "value": "CRAFT"
   },
   {
-    "0": "838",
-    "CIGAR": "GLEAM"
+    "oid": 837,
+    "value": "PRUNE"
   },
   {
-    "0": "839",
-    "CIGAR": "VAPID"
+    "oid": 838,
+    "value": "GLEAM"
   },
   {
-    "0": "840",
-    "CIGAR": "INTRO"
+    "oid": 839,
+    "value": "VAPID"
   },
   {
-    "0": "841",
-    "CIGAR": "OVERT"
+    "oid": 840,
+    "value": "INTRO"
   },
   {
-    "0": "842",
-    "CIGAR": "ROVER"
+    "oid": 841,
+    "value": "OVERT"
   },
   {
-    "0": "843",
-    "CIGAR": "LASER"
+    "oid": 842,
+    "value": "ROVER"
   },
   {
-    "0": "844",
-    "CIGAR": "JOLLY"
+    "oid": 843,
+    "value": "LASER"
   },
   {
-    "0": "845",
-    "CIGAR": "LUCID"
+    "oid": 844,
+    "value": "JOLLY"
   },
   {
-    "0": "846",
-    "CIGAR": "RAISE"
+    "oid": 845,
+    "value": "LUCID"
   },
   {
-    "0": "847",
-    "CIGAR": "FACET"
+    "oid": 846,
+    "value": "RAISE"
   },
   {
-    "0": "848",
-    "CIGAR": "TITHE"
+    "oid": 847,
+    "value": "FACET"
   },
   {
-    "0": "849",
-    "CIGAR": "SHANK"
+    "oid": 848,
+    "value": "TITHE"
   },
   {
-    "0": "850",
-    "CIGAR": "EQUIP"
+    "oid": 849,
+    "value": "SHANK"
   },
   {
-    "0": "851",
-    "CIGAR": "BLIMP"
+    "oid": 850,
+    "value": "EQUIP"
   },
   {
-    "0": "852",
-    "CIGAR": "STEEL"
+    "oid": 851,
+    "value": "BLIMP"
   },
   {
-    "0": "853",
-    "CIGAR": "WHINY"
+    "oid": 852,
+    "value": "STEEL"
   },
   {
-    "0": "854",
-    "CIGAR": "LOUSE"
+    "oid": 853,
+    "value": "WHINY"
   },
   {
-    "0": "855",
-    "CIGAR": "BROTH"
+    "oid": 854,
+    "value": "LOUSE"
   },
   {
-    "0": "856",
-    "CIGAR": "MERGE"
+    "oid": 855,
+    "value": "BROTH"
   },
   {
-    "0": "857",
-    "CIGAR": "BREED"
+    "oid": 856,
+    "value": "MERGE"
   },
   {
-    "0": "858",
-    "CIGAR": "VOILA"
+    "oid": 857,
+    "value": "BREED"
   },
   {
-    "0": "859",
-    "CIGAR": "FINCH"
+    "oid": 858,
+    "value": "VOILA"
   },
   {
-    "0": "860",
-    "CIGAR": "WRIST"
+    "oid": 859,
+    "value": "FINCH"
   },
   {
-    "0": "861",
-    "CIGAR": "CLIMB"
+    "oid": 860,
+    "value": "WRIST"
   },
   {
-    "0": "862",
-    "CIGAR": "PLAIT"
+    "oid": 861,
+    "value": "CLIMB"
   },
   {
-    "0": "863",
-    "CIGAR": "SERUM"
+    "oid": 862,
+    "value": "PLAIT"
   },
   {
-    "0": "864",
-    "CIGAR": "FROND"
+    "oid": 863,
+    "value": "SERUM"
   },
   {
-    "0": "865",
-    "CIGAR": "TABOO"
+    "oid": 864,
+    "value": "FROND"
   },
   {
-    "0": "866",
-    "CIGAR": "FORCE"
+    "oid": 865,
+    "value": "TABOO"
   },
   {
-    "0": "867",
-    "CIGAR": "REALM"
+    "oid": 866,
+    "value": "FORCE"
   },
   {
-    "0": "868",
-    "CIGAR": "SPEAK"
+    "oid": 867,
+    "value": "REALM"
   },
   {
-    "0": "869",
-    "CIGAR": "STUNG"
+    "oid": 868,
+    "value": "SPEAK"
   },
   {
-    "0": "870",
-    "CIGAR": "MAYOR"
+    "oid": 869,
+    "value": "STUNG"
   },
   {
-    "0": "871",
-    "CIGAR": "SALLY"
+    "oid": 870,
+    "value": "MAYOR"
   },
   {
-    "0": "872",
-    "CIGAR": "TOWEL"
+    "oid": 871,
+    "value": "SALLY"
   },
   {
-    "0": "873",
-    "CIGAR": "RISEN"
+    "oid": 872,
+    "value": "TOWEL"
   },
   {
-    "0": "874",
-    "CIGAR": "DECAY"
+    "oid": 873,
+    "value": "RISEN"
   },
   {
-    "0": "875",
-    "CIGAR": "SHADE"
+    "oid": 874,
+    "value": "DECAY"
   },
   {
-    "0": "876",
-    "CIGAR": "LINGO"
+    "oid": 875,
+    "value": "SHADE"
   },
   {
-    "0": "877",
-    "CIGAR": "ABIDE"
+    "oid": 876,
+    "value": "LINGO"
   },
   {
-    "0": "878",
-    "CIGAR": "SPELT"
+    "oid": 877,
+    "value": "ABIDE"
   },
   {
-    "0": "879",
-    "CIGAR": "SNORT"
+    "oid": 878,
+    "value": "SPELT"
   },
   {
-    "0": "880",
-    "CIGAR": "TOXIN"
+    "oid": 879,
+    "value": "SNORT"
   },
   {
-    "0": "881",
-    "CIGAR": "ERUPT"
+    "oid": 880,
+    "value": "TOXIN"
   },
   {
-    "0": "882",
-    "CIGAR": "SINCE"
+    "oid": 881,
+    "value": "ERUPT"
   },
   {
-    "0": "883",
-    "CIGAR": "LOCAL"
+    "oid": 882,
+    "value": "SINCE"
   },
   {
-    "0": "884",
-    "CIGAR": "HEAVE"
+    "oid": 883,
+    "value": "LOCAL"
   },
   {
-    "0": "885",
-    "CIGAR": "PESKY"
+    "oid": 884,
+    "value": "HEAVE"
   },
   {
-    "0": "886",
-    "CIGAR": "GRASP"
+    "oid": 885,
+    "value": "PESKY"
   },
   {
-    "0": "887",
-    "CIGAR": "CHEER"
+    "oid": 886,
+    "value": "GRASP"
   },
   {
-    "0": "888",
-    "CIGAR": "EARLY"
+    "oid": 887,
+    "value": "CHEER"
   },
   {
-    "0": "889",
-    "CIGAR": "CLONE"
+    "oid": 888,
+    "value": "EARLY"
   },
   {
-    "0": "890",
-    "CIGAR": "TEARY"
+    "oid": 889,
+    "value": "CLONE"
   },
   {
-    "0": "891",
-    "CIGAR": "HUNCH"
+    "oid": 890,
+    "value": "TEARY"
   },
   {
-    "0": "892",
-    "CIGAR": "FLAME"
+    "oid": 891,
+    "value": "HUNCH"
   },
   {
-    "0": "893",
-    "CIGAR": "STATE"
+    "oid": 892,
+    "value": "FLAME"
   },
   {
-    "0": "894",
-    "CIGAR": "URBAN"
+    "oid": 893,
+    "value": "STATE"
   },
   {
-    "0": "895",
-    "CIGAR": "FORTY"
+    "oid": 894,
+    "value": "URBAN"
   },
   {
-    "0": "896",
-    "CIGAR": "IMAGE"
+    "oid": 895,
+    "value": "FORTY"
   },
   {
-    "0": "897",
-    "CIGAR": "DEVIL"
+    "oid": 896,
+    "value": "IMAGE"
   },
   {
-    "0": "898",
-    "CIGAR": "SENSE"
+    "oid": 897,
+    "value": "DEVIL"
   },
   {
-    "0": "899",
-    "CIGAR": "OFTEN"
+    "oid": 898,
+    "value": "SENSE"
   },
   {
-    "0": "900",
-    "CIGAR": "SMITH"
+    "oid": 899,
+    "value": "OFTEN"
   },
   {
-    "0": "901",
-    "CIGAR": "PIPER"
+    "oid": 900,
+    "value": "SMITH"
   },
   {
-    "0": "902",
-    "CIGAR": "APART"
+    "oid": 901,
+    "value": "PIPER"
   },
   {
-    "0": "903",
-    "CIGAR": "HEAVY"
+    "oid": 902,
+    "value": "APART"
   },
   {
-    "0": "904",
-    "CIGAR": "BUILD"
+    "oid": 903,
+    "value": "HEAVY"
   },
   {
-    "0": "905",
-    "CIGAR": "MATCH"
+    "oid": 904,
+    "value": "BUILD"
   },
   {
-    "0": "906",
-    "CIGAR": "PRICE"
+    "oid": 905,
+    "value": "MATCH"
   },
   {
-    "0": "907",
-    "CIGAR": "RIDGE"
+    "oid": 906,
+    "value": "PRICE"
   },
   {
-    "0": "908",
-    "CIGAR": "PSALM"
+    "oid": 907,
+    "value": "RIDGE"
   },
   {
-    "0": "909",
-    "CIGAR": "STASH"
+    "oid": 908,
+    "value": "PSALM"
   },
   {
-    "0": "910",
-    "CIGAR": "ASCOT"
+    "oid": 909,
+    "value": "STASH"
   },
   {
-    "0": "911",
-    "CIGAR": "TALON"
+    "oid": 910,
+    "value": "ASCOT"
   },
   {
-    "0": "912",
-    "CIGAR": "SCRAM"
+    "oid": 911,
+    "value": "TALON"
   },
   {
-    "0": "913",
-    "CIGAR": "PASTA"
+    "oid": 912,
+    "value": "SCRAM"
   },
   {
-    "0": "914",
-    "CIGAR": "NEVER"
+    "oid": 913,
+    "value": "PASTA"
   },
   {
-    "0": "915",
-    "CIGAR": "FRIED"
+    "oid": 914,
+    "value": "NEVER"
   },
   {
-    "0": "916",
-    "CIGAR": "STIFF"
+    "oid": 915,
+    "value": "FRIED"
   },
   {
-    "0": "917",
-    "CIGAR": "PLACE"
+    "oid": 916,
+    "value": "STIFF"
   },
   {
-    "0": "918",
-    "CIGAR": "AFTER"
+    "oid": 917,
+    "value": "PLACE"
   },
   {
-    "0": "919",
-    "CIGAR": "WHICH"
+    "oid": 918,
+    "value": "AFTER"
   },
   {
-    "0": "920",
-    "CIGAR": "REPEL"
+    "oid": 919,
+    "value": "WHICH"
   },
   {
-    "0": "921",
-    "CIGAR": "VERGE"
+    "oid": 920,
+    "value": "REPEL"
   },
   {
-    "0": "922",
-    "CIGAR": "MICRO"
+    "oid": 921,
+    "value": "VERGE"
   },
   {
-    "0": "923",
-    "CIGAR": "CLEFT"
+    "oid": 922,
+    "value": "MICRO"
   },
   {
-    "0": "924",
-    "CIGAR": "ALIVE"
+    "oid": 923,
+    "value": "CLEFT"
   },
   {
-    "0": "925",
-    "CIGAR": "BULKY"
+    "oid": 924,
+    "value": "ALIVE"
   },
   {
-    "0": "926",
-    "CIGAR": "EXPEL"
+    "oid": 925,
+    "value": "BULKY"
   },
   {
-    "0": "927",
-    "CIGAR": "LEGGY"
+    "oid": 926,
+    "value": "EXPEL"
   },
   {
-    "0": "928",
-    "CIGAR": "EMBER"
+    "oid": 927,
+    "value": "LEGGY"
   },
   {
-    "0": "929",
-    "CIGAR": "SNAKE"
+    "oid": 928,
+    "value": "EMBER"
   },
   {
-    "0": "930",
-    "CIGAR": "ALOOF"
+    "oid": 929,
+    "value": "SNAKE"
   },
   {
-    "0": "931",
-    "CIGAR": "BLOCK"
+    "oid": 930,
+    "value": "ALOOF"
   },
   {
-    "0": "932",
-    "CIGAR": "RELIC"
+    "oid": 931,
+    "value": "BLOCK"
   },
   {
-    "0": "933",
-    "CIGAR": "STILL"
+    "oid": 932,
+    "value": "RELIC"
   },
   {
-    "0": "934",
-    "CIGAR": "TWEAK"
+    "oid": 933,
+    "value": "STILL"
   },
   {
-    "0": "935",
-    "CIGAR": "NORTH"
+    "oid": 934,
+    "value": "TWEAK"
   },
   {
-    "0": "936",
-    "CIGAR": "LARGE"
+    "oid": 935,
+    "value": "NORTH"
   },
   {
-    "0": "937",
-    "CIGAR": "THING"
+    "oid": 936,
+    "value": "LARGE"
   },
   {
-    "0": "938",
-    "CIGAR": "STOLE"
+    "oid": 937,
+    "value": "THING"
   },
   {
-    "0": "939",
-    "CIGAR": "COURT"
+    "oid": 938,
+    "value": "STOLE"
   },
   {
-    "0": "940",
-    "CIGAR": "BLOND"
+    "oid": 939,
+    "value": "COURT"
   },
   {
-    "0": "941",
-    "CIGAR": "LUNCH"
+    "oid": 940,
+    "value": "BLOND"
   },
   {
-    "0": "942",
-    "CIGAR": "DOING"
+    "oid": 941,
+    "value": "LUNCH"
   },
   {
-    "0": "943",
-    "CIGAR": "HEARD"
+    "oid": 942,
+    "value": "DOING"
   },
   {
-    "0": "944",
-    "CIGAR": "ROUTE"
+    "oid": 943,
+    "value": "HEARD"
   },
   {
-    "0": "945",
-    "CIGAR": "BRIEF"
+    "oid": 944,
+    "value": "ROUTE"
   },
   {
-    "0": "946",
-    "CIGAR": "THREW"
+    "oid": 945,
+    "value": "BRIEF"
   },
   {
-    "0": "947",
-    "CIGAR": "LINER"
+    "oid": 946,
+    "value": "THREW"
   },
   {
-    "0": "948",
-    "CIGAR": "FINAL"
+    "oid": 947,
+    "value": "LINER"
   },
   {
-    "0": "949",
-    "CIGAR": "STONY"
+    "oid": 948,
+    "value": "FINAL"
   },
   {
-    "0": "950",
-    "CIGAR": "CABLE"
+    "oid": 949,
+    "value": "STONY"
   },
   {
-    "0": "951",
-    "CIGAR": "LUNGE"
+    "oid": 950,
+    "value": "CABLE"
   },
   {
-    "0": "952",
-    "CIGAR": "SCANT"
+    "oid": 951,
+    "value": "LUNGE"
   },
   {
-    "0": "953",
-    "CIGAR": "TWIRL"
+    "oid": 952,
+    "value": "SCANT"
   },
   {
-    "0": "954",
-    "CIGAR": "AGING"
+    "oid": 953,
+    "value": "TWIRL"
   },
   {
-    "0": "955",
-    "CIGAR": "MURAL"
+    "oid": 954,
+    "value": "AGING"
   },
   {
-    "0": "956",
-    "CIGAR": "SALTY"
+    "oid": 955,
+    "value": "MURAL"
   },
   {
-    "0": "957",
-    "CIGAR": "THREE"
+    "oid": 956,
+    "value": "SALTY"
   },
   {
-    "0": "958",
-    "CIGAR": "CHILD"
+    "oid": 957,
+    "value": "THREE"
   },
   {
-    "0": "959",
-    "CIGAR": "LEARN"
+    "oid": 958,
+    "value": "CHILD"
   },
   {
-    "0": "960",
-    "CIGAR": "DAISY"
+    "oid": 959,
+    "value": "LEARN"
   },
   {
-    "0": "961",
-    "CIGAR": "PHONE"
+    "oid": 960,
+    "value": "DAISY"
   },
   {
-    "0": "962",
-    "CIGAR": "EVOKE"
+    "oid": 961,
+    "value": "PHONE"
   },
   {
-    "0": "963",
-    "CIGAR": "GRACE"
+    "oid": 962,
+    "value": "EVOKE"
   },
   {
-    "0": "964",
-    "CIGAR": "SLOPE"
+    "oid": 963,
+    "value": "GRACE"
   },
   {
-    "0": "965",
-    "CIGAR": "TOUCH"
+    "oid": 964,
+    "value": "SLOPE"
   },
   {
-    "0": "966",
-    "CIGAR": "BUILT"
+    "oid": 965,
+    "value": "TOUCH"
   },
   {
-    "0": "967",
-    "CIGAR": "SMALL"
+    "oid": 966,
+    "value": "BUILT"
   },
   {
-    "0": "968",
-    "CIGAR": "TABLE"
+    "oid": 967,
+    "value": "SMALL"
   },
   {
-    "0": "969",
-    "CIGAR": "FUNNY"
+    "oid": 968,
+    "value": "TABLE"
   },
   {
-    "0": "970",
-    "CIGAR": "BACON"
+    "oid": 969,
+    "value": "FUNNY"
   },
   {
-    "0": "971",
-    "CIGAR": "GLOBE"
+    "oid": 970,
+    "value": "BACON"
   },
   {
-    "0": "972",
-    "CIGAR": "TOPIC"
+    "oid": 971,
+    "value": "GLOBE"
   },
   {
-    "0": "973",
-    "CIGAR": "WOULD"
+    "oid": 972,
+    "value": "TOPIC"
   },
   {
-    "0": "974",
-    "CIGAR": "SPENT"
+    "oid": 973,
+    "value": "WOULD"
   },
   {
-    "0": "975",
-    "CIGAR": "THESE"
+    "oid": 974,
+    "value": "SPENT"
   },
   {
-    "0": "976",
-    "CIGAR": "HOUSE"
+    "oid": 975,
+    "value": "THESE"
   },
   {
-    "0": "977",
-    "CIGAR": "CHAIN"
+    "oid": 976,
+    "value": "HOUSE"
   },
   {
-    "0": "978",
-    "CIGAR": "SHIFT"
+    "oid": 977,
+    "value": "CHAIN"
   },
   {
-    "0": "979",
-    "CIGAR": "SHARP"
+    "oid": 978,
+    "value": "SHIFT"
   },
   {
-    "0": "980",
-    "CIGAR": "SLEEP"
+    "oid": 979,
+    "value": "SHARP"
   },
   {
-    "0": "981",
-    "CIGAR": "WOMAN"
+    "oid": 980,
+    "value": "SLEEP"
   },
   {
-    "0": "982",
-    "CIGAR": "YOUNG"
+    "oid": 981,
+    "value": "WOMAN"
   },
   {
-    "0": "983",
-    "CIGAR": "WORST"
+    "oid": 982,
+    "value": "YOUNG"
   },
   {
-    "0": "984",
-    "CIGAR": "ADAPT"
+    "oid": 983,
+    "value": "WORST"
   },
   {
-    "0": "985",
-    "CIGAR": "GENRE"
+    "oid": 984,
+    "value": "ADAPT"
   },
   {
-    "0": "986",
-    "CIGAR": "TAKEN"
+    "oid": 985,
+    "value": "GENRE"
   },
   {
-    "0": "987",
-    "CIGAR": "RESIN"
+    "oid": 986,
+    "value": "TAKEN"
   },
   {
-    "0": "988",
-    "CIGAR": "SUSHI"
+    "oid": 987,
+    "value": "RESIN"
   },
   {
-    "0": "989",
-    "CIGAR": "SCOPE"
+    "oid": 988,
+    "value": "SUSHI"
   },
   {
-    "0": "990",
-    "CIGAR": "TAWNY"
+    "oid": 989,
+    "value": "SCOPE"
   },
   {
-    "0": "991",
-    "CIGAR": "SOLID"
+    "oid": 990,
+    "value": "TAWNY"
   },
   {
-    "0": "992",
-    "CIGAR": "GUIDE"
+    "oid": 991,
+    "value": "SOLID"
   },
   {
-    "0": "993",
-    "CIGAR": "THROW"
+    "oid": 992,
+    "value": "GUIDE"
   },
   {
-    "0": "994",
-    "CIGAR": "QUEEN"
+    "oid": 993,
+    "value": "THROW"
   },
   {
-    "0": "995",
-    "CIGAR": "PIXEL"
+    "oid": 994,
+    "value": "QUEEN"
   },
   {
-    "0": "996",
-    "CIGAR": "PIANO"
+    "oid": 995,
+    "value": "PIXEL"
   },
   {
-    "0": "997",
-    "CIGAR": "CANDY"
+    "oid": 996,
+    "value": "PIANO"
   },
   {
-    "0": "998",
-    "CIGAR": "QUEUE"
+    "oid": 997,
+    "value": "CANDY"
   },
   {
-    "0": "999",
-    "CIGAR": "THINK"
+    "oid": 998,
+    "value": "QUEUE"
   },
   {
-    "0": "1000",
-    "CIGAR": "TARDY"
+    "oid": 999,
+    "value": "THINK"
   },
   {
-    "0": "1001",
-    "CIGAR": "TRUST"
+    "oid": 1000,
+    "value": "TARDY"
   },
   {
-    "0": "1002",
-    "CIGAR": "SIGHT"
+    "oid": 1001,
+    "value": "TRUST"
   },
   {
-    "0": "1003",
-    "CIGAR": "SASSY"
+    "oid": 1002,
+    "value": "SIGHT"
   },
   {
-    "0": "1004",
-    "CIGAR": "GREEN"
+    "oid": 1003,
+    "value": "SASSY"
   },
   {
-    "0": "1005",
-    "CIGAR": "MEANT"
+    "oid": 1004,
+    "value": "GREEN"
   },
   {
-    "0": "1006",
-    "CIGAR": "ACTOR"
+    "oid": 1005,
+    "value": "MEANT"
   },
   {
-    "0": "1007",
-    "CIGAR": "LEASH"
+    "oid": 1006,
+    "value": "ACTOR"
   },
   {
-    "0": "1008",
-    "CIGAR": "GLAZE"
+    "oid": 1007,
+    "value": "LEASH"
   },
   {
-    "0": "1009",
-    "CIGAR": "NINJA"
+    "oid": 1008,
+    "value": "GLAZE"
   },
   {
-    "0": "1010",
-    "CIGAR": "LIMIT"
+    "oid": 1009,
+    "value": "NINJA"
   },
   {
-    "0": "1011",
-    "CIGAR": "TRADE"
+    "oid": 1010,
+    "value": "LIMIT"
   },
   {
-    "0": "1012",
-    "CIGAR": "FLARE"
+    "oid": 1011,
+    "value": "TRADE"
   },
   {
-    "0": "1013",
-    "CIGAR": "MANIA"
+    "oid": 1012,
+    "value": "FLARE"
   },
   {
-    "0": "1014",
-    "CIGAR": "ARDOR"
+    "oid": 1013,
+    "value": "MANIA"
   },
   {
-    "0": "1015",
-    "CIGAR": "UNTIL"
+    "oid": 1014,
+    "value": "ARDOR"
   },
   {
-    "0": "1016",
-    "CIGAR": "NOISE"
+    "oid": 1015,
+    "value": "UNTIL"
   },
   {
-    "0": "1017",
-    "CIGAR": "BLEAK"
+    "oid": 1016,
+    "value": "NOISE"
   },
   {
-    "0": "1018",
-    "CIGAR": "GRAIL"
+    "oid": 1017,
+    "value": "BLEAK"
   },
   {
-    "0": "1019",
-    "CIGAR": "PHONY"
+    "oid": 1018,
+    "value": "GRAIL"
   },
   {
-    "0": "1020",
-    "CIGAR": "MASON"
+    "oid": 1019,
+    "value": "PHONY"
   },
   {
-    "0": "1021",
-    "CIGAR": "NOBLE"
+    "oid": 1020,
+    "value": "MASON"
   },
   {
-    "0": "1022",
-    "CIGAR": "PIQUE"
+    "oid": 1021,
+    "value": "NOBLE"
   },
   {
-    "0": "1023",
-    "CIGAR": "RETRY"
+    "oid": 1022,
+    "value": "PIQUE"
   },
   {
-    "0": "1024",
-    "CIGAR": "CAUSE"
+    "oid": 1023,
+    "value": "RETRY"
   },
   {
-    "0": "1025",
-    "CIGAR": "TEMPO"
+    "oid": 1024,
+    "value": "CAUSE"
   },
   {
-    "0": "1026",
-    "CIGAR": "GIVEN"
+    "oid": 1025,
+    "value": "TEMPO"
   },
   {
-    "0": "1027",
-    "CIGAR": "SMIRK"
+    "oid": 1026,
+    "value": "GIVEN"
   },
   {
-    "0": "1028",
-    "CIGAR": "OCCUR"
+    "oid": 1027,
+    "value": "SMIRK"
   },
   {
-    "0": "1029",
-    "CIGAR": "SPLAT"
+    "oid": 1028,
+    "value": "OCCUR"
   },
   {
-    "0": "1030",
-    "CIGAR": "MERCY"
+    "oid": 1029,
+    "value": "SPLAT"
   },
   {
-    "0": "1031",
-    "CIGAR": "ADULT"
+    "oid": 1030,
+    "value": "MERCY"
   },
   {
-    "0": "1032",
-    "CIGAR": "GRAPH"
+    "oid": 1031,
+    "value": "ADULT"
   },
   {
-    "0": "1033",
-    "CIGAR": "LEAKY"
+    "oid": 1032,
+    "value": "GRAPH"
   },
   {
-    "0": "1034",
-    "CIGAR": "AGENT"
+    "oid": 1033,
+    "value": "LEAKY"
   },
   {
-    "0": "1035",
-    "CIGAR": "UNCLE"
+    "oid": 1034,
+    "value": "AGENT"
   },
   {
-    "0": "1036",
-    "CIGAR": "KNELT"
+    "oid": 1035,
+    "value": "UNCLE"
   },
   {
-    "0": "1037",
-    "CIGAR": "SKUNK"
+    "oid": 1036,
+    "value": "KNELT"
   },
   {
-    "0": "1038",
-    "CIGAR": "SNAIL"
+    "oid": 1037,
+    "value": "SKUNK"
   },
   {
-    "0": "1039",
-    "CIGAR": "TRUTH"
+    "oid": 1038,
+    "value": "SNAIL"
   },
   {
-    "0": "1040",
-    "CIGAR": "BINGE"
+    "oid": 1039,
+    "value": "TRUTH"
   },
   {
-    "0": "1041",
-    "CIGAR": "VIOLA"
+    "oid": 1040,
+    "value": "BINGE"
   },
   {
-    "0": "1042",
-    "CIGAR": "CHIME"
+    "oid": 1041,
+    "value": "VIOLA"
   },
   {
-    "0": "1043",
-    "CIGAR": "BUNCH"
+    "oid": 1042,
+    "value": "CHIME"
   },
   {
-    "0": "1044",
-    "CIGAR": "SPURT"
+    "oid": 1043,
+    "value": "BUNCH"
   },
   {
-    "0": "1045",
-    "CIGAR": "WHILE"
+    "oid": 1044,
+    "value": "SPURT"
   },
   {
-    "0": "1046",
-    "CIGAR": "MERRY"
+    "oid": 1045,
+    "value": "WHILE"
   },
   {
-    "0": "1047",
-    "CIGAR": "BERET"
+    "oid": 1046,
+    "value": "MERRY"
   },
   {
-    "0": "1048",
-    "CIGAR": "DADDY"
+    "oid": 1047,
+    "value": "BERET"
   },
   {
-    "0": "1049",
-    "CIGAR": "AZURE"
+    "oid": 1048,
+    "value": "DADDY"
   },
   {
-    "0": "1050",
-    "CIGAR": "COACH"
+    "oid": 1049,
+    "value": "AZURE"
   },
   {
-    "0": "1051",
-    "CIGAR": "SMILE"
+    "oid": 1050,
+    "value": "COACH"
   },
   {
-    "0": "1052",
-    "CIGAR": "LOYAL"
+    "oid": 1051,
+    "value": "SMILE"
   },
   {
-    "0": "1053",
-    "CIGAR": "ROCKY"
+    "oid": 1052,
+    "value": "LOYAL"
   },
   {
-    "0": "1054",
-    "CIGAR": "RIGHT"
+    "oid": 1053,
+    "value": "ROCKY"
   },
   {
-    "0": "1055",
-    "CIGAR": "CAROL"
+    "oid": 1054,
+    "value": "RIGHT"
   },
   {
-    "0": "1056",
-    "CIGAR": "BRUSH"
+    "oid": 1055,
+    "value": "CAROL"
   },
   {
-    "0": "1057",
-    "CIGAR": "STONE"
+    "oid": 1056,
+    "value": "BRUSH"
   },
   {
-    "0": "1058",
-    "CIGAR": "SNARE"
+    "oid": 1057,
+    "value": "STONE"
   },
   {
-    "0": "1059",
-    "CIGAR": "CLOSE"
+    "oid": 1058,
+    "value": "SNARE"
   },
   {
-    "0": "1060",
-    "CIGAR": "FRANK"
+    "oid": 1059,
+    "value": "CLOSE"
   },
   {
-    "0": "1061",
-    "CIGAR": "MUSIC"
+    "oid": 1060,
+    "value": "FRANK"
   },
   {
-    "0": "1062",
-    "CIGAR": "ANGEL"
+    "oid": 1061,
+    "value": "MUSIC"
   },
   {
-    "0": "1063",
-    "CIGAR": "EXERT"
+    "oid": 1062,
+    "value": "ANGEL"
   },
   {
-    "0": "1064",
-    "CIGAR": "RAYON"
+    "oid": 1063,
+    "value": "EXERT"
   },
   {
-    "0": "1065",
-    "CIGAR": "CLEAR"
+    "oid": 1064,
+    "value": "RAYON"
   },
   {
-    "0": "1066",
-    "CIGAR": "WHISK"
+    "oid": 1065,
+    "value": "CLEAR"
   },
   {
-    "0": "1067",
-    "CIGAR": "OLDER"
+    "oid": 1066,
+    "value": "WHISK"
   },
   {
-    "0": "1068",
-    "CIGAR": "QUOTE"
+    "oid": 1067,
+    "value": "OLDER"
   },
   {
-    "0": "1069",
-    "CIGAR": "LUCKY"
+    "oid": 1068,
+    "value": "QUOTE"
   },
   {
-    "0": "1070",
-    "CIGAR": "ROUSE"
+    "oid": 1069,
+    "value": "LUCKY"
   },
   {
-    "0": "1071",
-    "CIGAR": "DWELL"
+    "oid": 1070,
+    "value": "ROUSE"
   },
   {
-    "0": "1072",
-    "CIGAR": "GNASH"
+    "oid": 1071,
+    "value": "DWELL"
   },
   {
-    "0": "1073",
-    "CIGAR": "BIRCH"
+    "oid": 1072,
+    "value": "GNASH"
   },
   {
-    "0": "1074",
-    "CIGAR": "GIDDY"
+    "oid": 1073,
+    "value": "BIRCH"
   },
   {
-    "0": "1075",
-    "CIGAR": "AWAIT"
+    "oid": 1074,
+    "value": "GIDDY"
   },
   {
-    "0": "1076",
-    "CIGAR": "ONION"
+    "oid": 1075,
+    "value": "AWAIT"
   },
   {
-    "0": "1077",
-    "CIGAR": "SPACE"
+    "oid": 1076,
+    "value": "ONION"
+  },
+  {
+    "oid": 1077,
+    "value": "SPACE"
   }
 ]
