@@ -24,7 +24,12 @@
   "wordLength0" : 5,
   "wordLength1" : 5,
   "wordLength2" : 5,
-  
+
+  "scoreTime100" : 60,
+  "scoreTimeInterval" : 5,
+  "scoreTimeBottom" : 660,
+  "scoreMissPenalty" : 12,
+	
   "wordLib0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
   "wordLib1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
   "wordLib2URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
