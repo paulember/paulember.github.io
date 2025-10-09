@@ -71,12 +71,12 @@
   "turn0Fer": 5,
   "hiScore": 100,
   "scoreFloors": [
-    [98, "★★★★"],
-    [90, "★★★½"],
-    [80, "★★★☆"],
-    [70, "★★☆☆"],
-	[60, "★☆☆☆"],
-	[0, "zero☆"]
+    [95, "WordFreak!!!"],
+    [80, "Polyglot"],
+    [65, "Linquist"],
+    [50, "Scribe"],
+	[20, "Typist"],
+	[0, "Rando"]
   ],
 
  "baseScoresWin": [
