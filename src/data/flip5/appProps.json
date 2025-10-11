@@ -12,7 +12,7 @@
   "resultsHeader" : "Lexicography",
   "gamesHeader"	: "Games:", 
   "ratingsHeader"	: "Rating",
-  "sweepsHeader"	: "Percentage",
+  "sweepsHeader"	: "Time",
   "notesHeader"	: "Words Found",
 	
   "appURL" : "https://flip5.vercel.app/",	          
