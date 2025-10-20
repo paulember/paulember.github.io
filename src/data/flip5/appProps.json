@@ -20,7 +20,7 @@
   "bestPickURL" : "https://www.oscars.org/oscars/ceremonies/",
   "sourceURL" : "https://www.fiveforks.com/wordle/",
   "qrCodeURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
-  "dictionaryURL" :"https://api.dictionaryapi.dev/api/v2/entries/en/",
+  "dictionaryURL" :"https://wordsapiv1.p.mashape.com/words/",
 
   "wordLength0" : 5,
   "wordLength1" : 5,
