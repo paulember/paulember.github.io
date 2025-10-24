@@ -19,7 +19,10 @@
   "documentationURL" : "https://phungo.blogspot.com/2024/01/flip5.html",	
   "bestPickURL" : "https://www.oscars.org/oscars/ceremonies/",
   "sourceURL" : "https://www.fiveforks.com/wordle/",
-  "qrCodeURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
+  
+  "qrCodeURL" :"https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/flip5/QRFlyingBear.png",
+  "qrCodeURL2" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
+
   "dictionaryURL" :"https://www.dictionaryapi.com/api/v3/references/collegiate/json/",
 
   "wordLength0" : 5,
