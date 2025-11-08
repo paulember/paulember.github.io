@@ -134,7 +134,7 @@
   },
   {
     "oID": "20",
-    "team": "All-Star Dizzy Dean AS (1934)",
+    "team": "All-Star Dizzy Dean AS",
     "nickname": "Dizzy Dean",
     "team_2": "na",
     "team_3": "na"
@@ -358,636 +358,650 @@
   },
   {
     "oID": "52",
+    "team": "Chicago Whales/Chi-Feds (FL 1914-1915)",
+    "nickname": "Whales",
+    "team_2": "na",
+    "team_3": "na"
+  },
+  {
+    "oID": "53",
     "team": "Chicago White Sox (1901-present)",
     "nickname": "White Sox",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "53",
+    "oID": "54",
     "team": "Chicago White Stockings (NA 1876-1887 Cubs)",
     "nickname": "White Stockings (Cubs)",
     "team_2": "na",
     "team_3": "Chicago Cubs (1876-present)"
   },
   {
-    "oID": "54",
+    "oID": "55",
     "team": "Cincinnati Cubans (NNL)",
     "nickname": "Cubans",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "55",
+    "oID": "56",
     "team": "Cincinnati Reds (1882-present)",
     "nickname": "Reds",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "56",
+    "oID": "57",
     "team": "Cleveland Buckeyes (1942-1948)",
     "nickname": "Buckeyes",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "57",
+    "oID": "58",
     "team": "Cleveland Forest Citys (1871-1872)",
     "nickname": "Forest Citys",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "58",
+    "oID": "59",
     "team": "Cleveland Guardians (1901-present)",
     "nickname": "Guardians",
     "team_2": "Cleveland Indians (1915-2021)",
     "team_3": "Cleveland Naps/Blues/Broncos (1901-1914)"
   },
   {
-    "oID": "59",
+    "oID": "60",
     "team": "Cleveland Indians (1915-2021)",
     "nickname": "Indians",
     "team_2": "Cleveland Guardians (1901-present)",
     "team_3": "Cleveland Naps/Blues/Broncos (1901-1914)"
   },
   {
-    "oID": "60",
+    "oID": "61",
     "team": "Cleveland Naps/Blues/Broncos (1901-1914)",
     "nickname": "Naps",
     "team_2": "Cleveland Guardians (1901-present)",
     "team_3": "Cleveland Indians (1915-2021)"
   },
   {
-    "oID": "61",
+    "oID": "62",
     "team": "Cleveland Spiders/Blues (AA/NL 1887-1899)",
     "nickname": "Spiders",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "62",
+    "oID": "63",
     "team": "Colorado Rockies (1993-present)",
     "nickname": "Rockies",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "63",
+    "oID": "64",
+    "team": "Columbus Buckeyes",
+    "nickname": "Buckeyes",
+    "team_2": "na",
+    "team_3": "na"
+  },
+  {
+    "oID": "65",
     "team": "Cuban X-Giants",
     "nickname": "Giats",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "64",
+    "oID": "66",
     "team": "Dallas Eagles (TL 1949-1957)",
     "nickname": "Eagles (TL)",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "65",
+    "oID": "67",
     "team": "Detroit Stars (NNL)",
     "nickname": "Stars",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "66",
+    "oID": "68",
     "team": "Detroit Tigers (1901-present)",
     "nickname": "Tigers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "67",
+    "oID": "69",
     "team": "Florida Marlins (1993-2011)",
     "nickname": "Marlins",
     "team_2": "na",
     "team_3": "Miami Marlins (1993-present)"
   },
   {
-    "oID": "68",
+    "oID": "70",
     "team": "Fort Wayne Kekiongas (1871)",
     "nickname": "Kekiongas",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "69",
+    "oID": "71",
     "team": "Fort Worth Cats (TL 1888-1959)",
     "nickname": "Cats (TL)",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "70",
+    "oID": "72",
     "team": "Greenville Spinners (1908-1912)",
     "nickname": "Spinners",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "71",
+    "oID": "73",
     "team": "Harrisburg Giants (1924-1927)",
     "nickname": "Harrisburg",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "72",
+    "oID": "74",
     "team": "Hartford Dark Blues (1874-1875)",
     "nickname": "Dark Blues",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "73",
+    "oID": "75",
     "team": "Hilldale Club (1923-1932)",
     "nickname": "Hilldale",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "74",
+    "oID": "76",
     "team": "Homestead Grays (1918-1948)",
     "nickname": "Grays",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "75",
+    "oID": "77",
     "team": "House of David (1913-1955)",
     "nickname": "House of David",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "76",
+    "oID": "78",
     "team": "Houston Astros (1962-present)",
     "nickname": "Astros",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "77",
+    "oID": "79",
     "team": "Houston Colt 45s (1962-1964)",
     "nickname": "Colts",
     "team_2": "na",
     "team_3": "Houston Astros (1962-present)"
   },
   {
-    "oID": "78",
+    "oID": "80",
     "team": "Indianapolis ABCs (1907-1926)",
     "nickname": "ABCs",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "79",
+    "oID": "81",
     "team": "Indianapolis Clowns (1943-1948)",
     "nickname": "Clowns",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "80",
+    "oID": "82",
     "team": "Indianapolis Hoosiers (FL 1914)",
     "nickname": "Hoosiers",
     "team_2": "na",
     "team_3": "Newark Pepper (1915)"
   },
   {
-    "oID": "81",
+    "oID": "83",
     "team": "Jacksonville Red Caps (1938-1942)",
     "nickname": "Red Caps",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "82",
+    "oID": "84",
     "team": "Kansas City Athletics (1955-1967)",
     "nickname": "KC Athletics",
     "team_2": "na",
     "team_3": "Oakland Athletics (1901-present)"
   },
   {
-    "oID": "83",
+    "oID": "85",
     "team": "Kansas City Monarchs (1920-1948)",
     "nickname": "Monarchs",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "84",
+    "oID": "86",
     "team": "Kansas City Packers (FL 1914-1915)",
     "nickname": "Packers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "85",
+    "oID": "87",
     "team": "Kansas City Royals (1969-present)",
     "nickname": "Royals",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "86",
+    "oID": "88",
     "team": "Los Angeles Angels (1961-present)",
     "nickname": "LA Angels",
     "team_2": "California Angels (1961-present)",
     "team_3": "Anaheim Angels (1997-2004)"
   },
   {
-    "oID": "87",
+    "oID": "89",
     "team": "Los Angeles Dodgers (1884-present)",
     "nickname": "LA Dodgers",
     "team_2": "na",
     "team_3": "Brooklyn Dodgers (1884-1957)"
   },
   {
-    "oID": "88",
+    "oID": "90",
     "team": "Memphis Red Sox (1924-1948)",
     "nickname": "Memphis",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "89",
+    "oID": "91",
     "team": "Miami Marlins (1993-present)",
     "nickname": "Marlins",
     "team_2": "na",
     "team_3": "Florida Marlins (1993-2011)"
   },
   {
-    "oID": "90",
+    "oID": "92",
     "team": "Milwaukee Braves (1953-1965)",
     "nickname": "M Braves",
     "team_2": "na",
     "team_3": "Atlanta Braves (1876-present)"
   },
   {
-    "oID": "91",
+    "oID": "93",
     "team": "Milwaukee Brewers (1969-present)",
     "nickname": "Brewers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "92",
+    "oID": "94",
     "team": "Minnesota Twins (1901-present)",
     "nickname": "Twins",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "93",
+    "oID": "95",
     "team": "Montreal Expos (1969-2004)",
     "nickname": "Expos",
     "team_2": "na",
     "team_3": "Washington Nationals (1969-present)"
   },
   {
-    "oID": "94",
+    "oID": "96",
     "team": "New York Black Yankees (1936-1948)",
     "nickname": "Black Yankees",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "95",
+    "oID": "97",
     "team": "New York Cubans (1935-1948)",
     "nickname": "Cubans",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "96",
+    "oID": "98",
     "team": "New York Giants (1883-1957)",
     "nickname": "NY Giants",
     "team_2": "na",
     "team_3": "San Francisco Giants (1883-present)"
   },
   {
-    "oID": "97",
+    "oID": "99",
     "team": "New York Highlanders (1903-1912)",
     "nickname": "Highlanders",
     "team_2": "na",
     "team_3": "New York Yankees (1903-present)"
   },
   {
-    "oID": "98",
+    "oID": "100",
     "team": "New York Mets (1962-present)",
     "nickname": "Mets",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "99",
+    "oID": "101",
     "team": "New York Metropolitans (AA 1883-1887)",
     "nickname": "Metropolitans (AA)",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "100",
+    "oID": "102",
     "team": "New York Mutuals (NA 1871-1875)",
     "nickname": "Mutuals",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "101",
+    "oID": "103",
     "team": "New York Yankees (1903-present)",
     "nickname": "Yankees",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "102",
+    "oID": "104",
     "team": "Newark Eagles (1935-1948)",
     "nickname": "Eagles",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "103",
+    "oID": "105",
     "team": "Newark Pepper (FL 1915)",
     "nickname": "Pepper",
     "team_2": "na",
     "team_3": "Indianapolis Hoosiers (1914)"
   },
   {
-    "oID": "104",
+    "oID": "106",
     "team": "Northeastern University",
     "nickname": "Northeastern U",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "105",
+    "oID": "107",
     "team": "Oakland Athletics (1901-present)",
     "nickname": "O Athletics",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "106",
+    "oID": "108",
     "team": "Philadelphia Athletics (AA 1882-1890)",
     "nickname": "P Athletics (AA)",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "107",
+    "oID": "109",
     "team": "Philadelphia Athletics (AL 1901-1954)",
     "nickname": "P Athletics (AL)",
     "team_2": "na",
     "team_3": "Oakland Athletics (1901-present)"
   },
   {
-    "oID": "108",
+    "oID": "110",
     "team": "Philadelphia Giants",
     "nickname": "Giants",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "109",
+    "oID": "111",
     "team": "Philadelphia Phillies (1883-present)",
     "nickname": "Phillies",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "110",
+    "oID": "112",
     "team": "Philadelphia Stars (1934-1948)",
     "nickname": "Stars",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "111",
+    "oID": "113",
     "team": "Pittsburgh Crawfords (1931-1940)",
     "nickname": "Crawfords",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "112",
+    "oID": "114",
     "team": "Pittsburgh Pirates (1882-present)",
     "nickname": "Pirates",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "113",
+    "oID": "115",
     "team": "Pittsburgh Rebels (FL 1914-1915)",
     "nickname": "Rebels",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "114",
+    "oID": "116",
     "team": "San Diego Padres (1969-present)",
     "nickname": "Padres",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "115",
+    "oID": "117",
     "team": "San Francisco Giants (1883-present)",
     "nickname": "SF Giants",
     "team_2": "na",
     "team_3": "New York Giants (1883-1957)"
   },
   {
-    "oID": "116",
+    "oID": "118",
     "team": "Seattle Mariners (1977-present)",
     "nickname": "Mariners",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "117",
+    "oID": "119",
     "team": "Seattle Pilots (1969)",
     "nickname": "Pilots",
     "team_2": "na",
     "team_3": "Milwaukee Brewers (1969-present)"
   },
   {
-    "oID": "118",
+    "oID": "120",
     "team": "South Bend Blue Sox",
     "nickname": "Blue Sox",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "119",
+    "oID": "121",
     "team": "St. Louis Brown Stockings (NA 1875)",
     "nickname": "Browns (NA)",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "120",
+    "oID": "122",
     "team": "St. Louis Browns (AA 1882-1899)",
     "nickname": "Browns(AA)",
     "team_2": "na",
     "team_3": "St. Louis Cardinals (1882-present)"
   },
   {
-    "oID": "121",
+    "oID": "123",
     "team": "St. Louis Browns (AL 1901-1953)",
     "nickname": "Browns(AL)",
     "team_2": "na",
     "team_3": "Baltimore Orioles (1901-present)"
   },
   {
-    "oID": "122",
+    "oID": "124",
     "team": "St. Louis Cardinals (1882-present)",
     "nickname": "Cardinals",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "123",
+    "oID": "125",
     "team": "St. Louis-New Orleans-Harrisburg Stars (1938-1943)",
     "nickname": "Stars",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "124",
+    "oID": "126",
     "team": "St. Louis Terriers (FL 1914-1915)",
     "nickname": "Terriers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "125",
+    "oID": "127",
     "team": "Tampa Bay Rays (1998-present)",
     "nickname": "Rays",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "126",
+    "oID": "128",
     "team": "Texas Rangers (1961-present)",
     "nickname": "Rangers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "127",
+    "oID": "129",
     "team": "Toronto Blue Jays (1977-present)",
     "nickname": "Blue Jays",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "128",
+    "oID": "130",
     "team": "Troy Haymakers (1871-72)",
     "nickname": "Haymakers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "129",
+    "oID": "131",
     "team": "Washington Nationals (1969-present)",
     "nickname": "Nationals",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "130",
+    "oID": "132",
     "team": "Washington Olympics (NA 1871-72)",
     "nickname": "Olympics",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "131",
+    "oID": "133",
     "team": "Washington Senators (1901-1960)",
     "nickname": "Senators (01-60)",
     "team_2": "na",
     "team_3": "Minnesota Twins (1901-present)"
   },
   {
-    "oID": "132",
+    "oID": "134",
     "team": "Washington Senators (1961-1971)",
     "nickname": "Senators (61-71)",
     "team_2": "na",
     "team_3": "Texas Rangers (1961-present)"
   },
   {
-    "oID": "133",
+    "oID": "135",
     "team": "WBC Cuba",
     "nickname": "WBC Cuba",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "134",
+    "oID": "136",
     "team": "WBC Dominican Republic",
     "nickname": "WBC Dominican Republic",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "135",
+    "oID": "137",
     "team": "WBC Japan",
     "nickname": "WBC Japan",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "136",
+    "oID": "138",
     "team": "WBC Mexico",
     "nickname": "WBC Mexico",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "137",
+    "oID": "139",
     "team": "WBC Netherlands",
     "nickname": "WBC Netherlands",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "138",
+    "oID": "140",
     "team": "WBC Puerto Rico",
     "nickname": "WBC Puerto Rico",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "139",
+    "oID": "141",
     "team": "WBC South Korea",
     "nickname": "WBC South Korea",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "140",
+    "oID": "142",
     "team": "WBC USA",
     "nickname": "WBC USA",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "141",
+    "oID": "143",
     "team": "WBC Venezuela",
     "nickname": "WBC Venezuela",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "142",
+    "oID": "144",
     "team": "Winston-Salem Twins (1908-1912)",
     "nickname": "W-S Twins",
     "team_2": "na",
