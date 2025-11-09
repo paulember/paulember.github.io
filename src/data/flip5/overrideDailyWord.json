@@ -1,13 +1,33 @@
 [
   {
-    "date": "0731",
-    "o_word1": "🍺🍻🍷🥂🍸🍹",
-    "o_word2": "🍾🥃🧃🧋☕🫖🥤"
+    "date": "0102",
+    "o_word1": "FROST",
+    "o_word2": "CHILL"
   },
   {
-    "date": "1029",
-    "o_word1": "PRIME",
-    "o_word2": "BACON"
+    "date": "0109",
+    "o_word1": "MAGIC",
+    "o_word2": "TRICK"
+  },
+  {
+    "date": "0409",
+    "o_word1": "COURT",
+    "o_word2": "SPARK"
+  },
+  {
+    "date": "0522",
+    "o_word1": "SNACK",
+    "o_word2": "HOUND"
+  },
+  {
+    "date": "0620",
+    "o_word1": "BRICK",
+    "o_word2": "HOUSE"
+  },
+  {
+    "date": "1030",
+    "o_word1": "GRACE",
+    "o_word2": "SLICK"
   },
   {
     "date": "1031",
@@ -15,14 +35,29 @@
     "o_word2": "TREAT"
   },
   {
-    "date": "1103",
+    "date": "1104",
     "o_word1": "EARLY",
     "o_word2": "OFTEN"
   },
-   {
+  {
     "date": "1107",
     "o_word1": "FRANK",
     "o_word2": "STEIN"
+  },
+  {
+    "date": "1111",
+    "o_word1": "HONOR",
+    "o_word2": "SERVE"
+  },
+  {
+    "date": "1114",
+    "o_word1": "PEDAL",
+    "o_word2": "STEEL"
+  },
+  {
+    "date": "1121",
+    "o_word1": "TRAIL",
+    "o_word2": "TEARS"
   },
   {
     "date": "1127",
@@ -30,8 +65,33 @@
     "o_word2": "LADLE"
   },
   {
+    "date": "1205",
+    "o_word1": "MAGIC",
+    "o_word2": "TRICK"
+  },
+  {
     "date": "1212",
     "o_word1": "HAPPY",
     "o_word2": "FIFTY"
+  },
+  {
+    "date": "1224",
+    "o_word1": "COMET",
+    "o_word2": "VIXEN"
+  },
+  {
+    "date": "1225",
+    "o_word1": "PEACE",
+    "o_word2": "EARTH"
+  },
+  {
+    "date": "1230",
+    "o_word1": "PATTY",
+    "o_word2": "SMITH"
+  },
+  {
+    "date": "1231",
+    "o_word1": "CHEER",
+    "o_word2": "TOAST"
   }
 ]
