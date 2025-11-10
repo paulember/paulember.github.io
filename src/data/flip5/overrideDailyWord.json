@@ -44,6 +44,15 @@
     "o_word1": "FRANK",
     "o_word2": "STEIN"
   },
+    {
+    "date": "1110",
+    "o_word1": "RHYME",
+    "o_word2": "CRIME",
+    "openingMessage": "Open Day",
+    "comboPostgameMsg": "Combo Eagles 🦅🏈",
+    "whitePostgameMsg": "W- Happy Prosecco Day",
+    "redPostgameMsg": "R-Happy Pinot Noir Day 🍷"
+  },
   {
     "date": "1111",
     "o_word1": "HONOR",
@@ -73,6 +82,11 @@
     "date": "1212",
     "o_word1": "HAPPY",
     "o_word2": "FIFTY"
+  },
+  {
+    "date": "1219",
+    "o_word1": "SCRAP",
+    "o_word2": "METAL"
   },
   {
     "date": "1224",
