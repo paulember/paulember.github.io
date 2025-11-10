@@ -48,15 +48,13 @@
     "date": "1110",
     "o_word1": "RHYME",
     "o_word2": "CRIME",
-    "openingMessage": "Open Day",
-    "comboPostgameMsg": "Combo Eagles 🦅🏈",
-    "whitePostgameMsg": "W- Happy Prosecco Day",
-    "redPostgameMsg": "R-Happy Pinot Noir Day 🍷"
+    "postgameMsg": "Thank You Veterans"
   },
   {
     "date": "1111",
     "o_word1": "HONOR",
-    "o_word2": "SERVE"
+    "o_word2": "SERVE",
+    "postgameMsg": "Thank You Veterans"
   },
   {
     "date": "1114",
