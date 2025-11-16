@@ -4310,5 +4310,185 @@
   {
     "oid": "1077",
     "value": "SPACE"
+  },
+  {
+    "oid": "1078",
+    "value": "LURID"
+  },
+  {
+    "oid": "1079",
+    "value": "TINGE"
+  },
+  {
+    "oid": "1080",
+    "value": "DEUCE"
+  },
+  {
+    "oid": "1081",
+    "value": "GIZMO"
+  },
+  {
+    "oid": "1082",
+    "value": "TABBY"
+  },
+  {
+    "oid": "1083",
+    "value": "FUGUE"
+  },
+  {
+    "oid": "1084",
+    "value": "ARISE"
+  },
+  {
+    "oid": "1085",
+    "value": "PERIL"
+  },
+  {
+    "oid": "1086",
+    "value": "GUISE"
+  },
+  {
+    "oid": "1087",
+    "value": "SHORT"
+  },
+  {
+    "oid": "1088",
+    "value": "VENUE"
+  },
+  {
+    "oid": "1089",
+    "value": "AWOKE"
+  },
+  {
+    "oid": "1090",
+    "value": "RABID"
+  },
+  {
+    "oid": "1091",
+    "value": "MOTEL"
+  },
+  {
+    "oid": "1092",
+    "value": "ABHOR"
+  },
+  {
+    "oid": "1093",
+    "value": "LATHE"
+  },
+  {
+    "oid": "1094",
+    "value": "GLARE"
+  },
+  {
+    "oid": "1095",
+    "value": "HOLLY"
+  },
+  {
+    "oid": "1096",
+    "value": "FETID"
+  },
+  {
+    "oid": "1097",
+    "value": "PLUMP"
+  },
+  {
+    "oid": "1098",
+    "value": "GAUGE"
+  },
+  {
+    "oid": "1099",
+    "value": "TUBER"
+  },
+  {
+    "oid": "1100",
+    "value": "DRILL"
+  },
+  {
+    "oid": "1101",
+    "value": "STUNT"
+  },
+  {
+    "oid": "1102",
+    "value": "DETOX"
+  },
+  {
+    "oid": "1103",
+    "value": "LIMBO"
+  },
+  {
+    "oid": "1104",
+    "value": "IDEAL"
+  },
+  {
+    "oid": "1105",
+    "value": "HAVEN"
+  },
+  {
+    "oid": "1106",
+    "value": "GROSS"
+  },
+  {
+    "oid": "1107",
+    "value": "CATTY"
+  },
+  {
+    "oid": "1108",
+    "value": "SPOOF"
+  },
+  {
+    "oid": "1109",
+    "value": "FORUM"
+  },
+  {
+    "oid": "1110",
+    "value": "BEARD"
+  },
+  {
+    "oid": "1111",
+    "value": "WOUND"
+  },
+  {
+    "oid": "1112",
+    "value": "STACK"
+  },
+  {
+    "oid": "1113",
+    "value": "LEVER"
+  },
+  {
+    "oid": "1114",
+    "value": "HARDY"
+  },
+  {
+    "oid": "1115",
+    "value": "ANNOY"
+  },
+  {
+    "oid": "1116",
+    "value": "NYLON"
+  },
+  {
+    "oid": "1117",
+    "value": "AMUSE"
+  },
+  {
+    "oid": "1118",
+    "value": "PLANE"
+  },
+  {
+    "oid": "1119",
+    "value": "RELAY"
+  },
+  {
+    "oid": "1120",
+    "value": "SPASM"
+  },
+  {
+    "oid": "1121",
+    "value": "WIDTH"
+  },
+  {
+    "oid": "1122",
+    "value": "SPOIL"
   }
 ]
