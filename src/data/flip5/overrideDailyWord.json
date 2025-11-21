@@ -70,7 +70,8 @@
     "date": "1121",
     "o_word1": "TRAIL",
     "o_word2": "TEARS",
-       "postgameLink": "https://www.history.com/articles/trail-of-tears"
+     "postgameMsg": "😔 LINK: Trail of Tears 😔",
+    "postgameLink": "https://www.history.com/articles/trail-of-tears"
   },
   {
     "date": "1127",
