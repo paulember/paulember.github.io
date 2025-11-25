@@ -1,3152 +1,3032 @@
 [
   {
     "oid": "001",
-    "red_oid": "1649",
-    "white_oid": "0378",
-    "split_oid": "0194"
+    "red_oid": "333",
+    "white_oid": "745",
+    "split_oid": "503"
   },
   {
     "oid": "002",
-    "red_oid": "0389",
-    "white_oid": "0298",
-    "split_oid": "0419"
+    "red_oid": "968",
+    "white_oid": "979",
+    "split_oid": "857"
   },
   {
     "oid": "003",
-    "red_oid": "1312",
-    "white_oid": "0555",
-    "split_oid": "0887"
+    "red_oid": "871",
+    "white_oid": "546",
+    "split_oid": "763"
   },
   {
     "oid": "004",
-    "red_oid": "1617",
-    "white_oid": "2034",
-    "split_oid": "1366"
+    "red_oid": "938",
+    "white_oid": "572",
+    "split_oid": "872"
   },
   {
     "oid": "005",
-    "red_oid": "2012",
-    "white_oid": "0637",
-    "split_oid": "1300"
+    "red_oid": "834",
+    "white_oid": "686",
+    "split_oid": "162"
   },
   {
     "oid": "006",
-    "red_oid": "1518",
-    "white_oid": "1532",
-    "split_oid": "0678"
+    "red_oid": "478",
+    "white_oid": "451",
+    "split_oid": "835"
   },
   {
     "oid": "007",
-    "red_oid": "1072",
-    "white_oid": "0284",
-    "split_oid": "0946"
+    "red_oid": "970",
+    "white_oid": "194",
+    "split_oid": "846"
   },
   {
     "oid": "008",
-    "red_oid": "1369",
-    "white_oid": "1174",
-    "split_oid": "1850"
+    "red_oid": "192",
+    "white_oid": "238",
+    "split_oid": "338"
   },
   {
     "oid": "009",
-    "red_oid": "0736",
-    "white_oid": "0702",
-    "split_oid": "1029"
+    "red_oid": "943",
+    "white_oid": "568",
+    "split_oid": "270"
   },
   {
     "oid": "010",
-    "red_oid": "0511",
-    "white_oid": "1791",
-    "split_oid": "1918"
+    "red_oid": "692",
+    "white_oid": "403",
+    "split_oid": "172"
   },
   {
     "oid": "011",
-    "red_oid": "0101",
-    "white_oid": "1319",
-    "split_oid": "1206"
+    "red_oid": "971",
+    "white_oid": "912",
+    "split_oid": "262"
   },
   {
     "oid": "012",
-    "red_oid": "1087",
-    "white_oid": "1120",
-    "split_oid": "1553"
+    "red_oid": "742",
+    "white_oid": "370",
+    "split_oid": "548"
   },
   {
     "oid": "013",
-    "red_oid": "1008",
-    "white_oid": "0211",
-    "split_oid": "0325"
+    "red_oid": "132",
+    "white_oid": "840",
+    "split_oid": "357"
   },
   {
     "oid": "014",
-    "red_oid": "0752",
-    "white_oid": "1071",
-    "split_oid": "1870"
+    "red_oid": "487",
+    "white_oid": "898",
+    "split_oid": "375"
   },
   {
     "oid": "015",
-    "red_oid": "0611",
-    "white_oid": "0067",
-    "split_oid": "0466"
+    "red_oid": "515",
+    "white_oid": "125",
+    "split_oid": "650"
   },
   {
     "oid": "016",
-    "red_oid": "0937",
-    "white_oid": "0132",
-    "split_oid": "1581"
+    "red_oid": "718",
+    "white_oid": "994",
+    "split_oid": "284"
   },
   {
     "oid": "017",
-    "red_oid": "1928",
-    "white_oid": "1803",
-    "split_oid": "0943"
+    "red_oid": "392",
+    "white_oid": "419",
+    "split_oid": "338"
   },
   {
     "oid": "018",
-    "red_oid": "1588",
-    "white_oid": "0261",
-    "split_oid": "0924"
+    "red_oid": "847",
+    "white_oid": "654",
+    "split_oid": "699"
   },
   {
     "oid": "019",
-    "red_oid": "1287",
-    "white_oid": "0126",
-    "split_oid": "0446"
+    "red_oid": "128",
+    "white_oid": "458",
+    "split_oid": "564"
   },
   {
     "oid": "020",
-    "red_oid": "1767",
-    "white_oid": "0403",
-    "split_oid": "0522"
+    "red_oid": "124",
+    "white_oid": "254",
+    "split_oid": "685"
   },
   {
     "oid": "021",
-    "red_oid": "0993",
-    "white_oid": "0750",
-    "split_oid": "0637"
+    "red_oid": "221",
+    "white_oid": "260",
+    "split_oid": "902"
   },
   {
     "oid": "022",
-    "red_oid": "0312",
-    "white_oid": "0320",
-    "split_oid": "0653"
+    "red_oid": "503",
+    "white_oid": "461",
+    "split_oid": "213"
   },
   {
     "oid": "023",
-    "red_oid": "0087",
-    "white_oid": "1416",
-    "split_oid": "1536"
+    "red_oid": "641",
+    "white_oid": "262",
+    "split_oid": "367"
   },
   {
     "oid": "024",
-    "red_oid": "1778",
-    "white_oid": "0106",
-    "split_oid": "0782"
+    "red_oid": "770",
+    "white_oid": "115",
+    "split_oid": "678"
   },
   {
     "oid": "025",
-    "red_oid": "1829",
-    "white_oid": "0696",
-    "split_oid": "1672"
+    "red_oid": "675",
+    "white_oid": "264",
+    "split_oid": "893"
   },
   {
     "oid": "026",
-    "red_oid": "0625",
-    "white_oid": "1309",
-    "split_oid": "1019"
+    "red_oid": "579",
+    "white_oid": "264",
+    "split_oid": "842"
   },
   {
     "oid": "027",
-    "red_oid": "0871",
-    "white_oid": "0695",
-    "split_oid": "1494"
+    "red_oid": "848",
+    "white_oid": "121",
+    "split_oid": "341"
   },
   {
     "oid": "028",
-    "red_oid": "0380",
-    "white_oid": "1744",
-    "split_oid": "0235"
+    "red_oid": "880",
+    "white_oid": "369",
+    "split_oid": "508"
   },
   {
     "oid": "029",
-    "red_oid": "0513",
-    "white_oid": "0826",
-    "split_oid": "1158"
+    "red_oid": "693",
+    "white_oid": "507",
+    "split_oid": "445"
   },
   {
     "oid": "030",
-    "red_oid": "0570",
-    "white_oid": "1921",
-    "split_oid": "2042"
+    "red_oid": "732",
+    "white_oid": "432",
+    "split_oid": "700"
   },
   {
     "oid": "031",
-    "red_oid": "1164",
-    "white_oid": "0955",
-    "split_oid": "1617"
+    "red_oid": "104",
+    "white_oid": "528",
+    "split_oid": "905"
   },
   {
     "oid": "032",
-    "red_oid": "0864",
-    "white_oid": "1851",
-    "split_oid": "0071"
+    "red_oid": "280",
+    "white_oid": "516",
+    "split_oid": "718"
   },
   {
     "oid": "033",
-    "red_oid": "1343",
-    "white_oid": "0172",
-    "split_oid": "0099"
+    "red_oid": "649",
+    "white_oid": "304",
+    "split_oid": "409"
   },
   {
     "oid": "034",
-    "red_oid": "0569",
-    "white_oid": "1916",
-    "split_oid": "0686"
+    "red_oid": "867",
+    "white_oid": "617",
+    "split_oid": "819"
   },
   {
     "oid": "035",
-    "red_oid": "1054",
-    "white_oid": "0561",
-    "split_oid": "1244"
+    "red_oid": "561",
+    "white_oid": "608",
+    "split_oid": "526"
   },
   {
     "oid": "036",
-    "red_oid": "1764",
-    "white_oid": "0483",
-    "split_oid": "0602"
+    "red_oid": "751",
+    "white_oid": "798",
+    "split_oid": "783"
   },
   {
     "oid": "037",
-    "red_oid": "0462",
-    "white_oid": "0203",
-    "split_oid": "0880"
+    "red_oid": "698",
+    "white_oid": "447",
+    "split_oid": "293"
   },
   {
     "oid": "038",
-    "red_oid": "1877",
-    "white_oid": "0750",
-    "split_oid": "1721"
+    "red_oid": "205",
+    "white_oid": "317",
+    "split_oid": "484"
   },
   {
     "oid": "039",
-    "red_oid": "0096",
-    "white_oid": "0376",
-    "split_oid": "1266"
+    "red_oid": "670",
+    "white_oid": "577",
+    "split_oid": "793"
   },
   {
     "oid": "040",
-    "red_oid": "2087",
-    "white_oid": "1217",
-    "split_oid": "1543"
+    "red_oid": "690",
+    "white_oid": "128",
+    "split_oid": "185"
   },
   {
     "oid": "041",
-    "red_oid": "0429",
-    "white_oid": "0859",
-    "split_oid": "1451"
+    "red_oid": "887",
+    "white_oid": "828",
+    "split_oid": "457"
   },
   {
     "oid": "042",
-    "red_oid": "0567",
-    "white_oid": "0922",
-    "split_oid": "1207"
+    "red_oid": "313",
+    "white_oid": "763",
+    "split_oid": "733"
   },
   {
     "oid": "043",
-    "red_oid": "0618",
-    "white_oid": "1970",
-    "split_oid": "2090"
+    "red_oid": "182",
+    "white_oid": "833",
+    "split_oid": "829"
   },
   {
     "oid": "044",
-    "red_oid": "1262",
-    "white_oid": "0427",
-    "split_oid": "1666"
+    "red_oid": "921",
+    "white_oid": "598",
+    "split_oid": "805"
   },
   {
     "oid": "045",
-    "red_oid": "2030",
-    "white_oid": "1900",
-    "split_oid": "0663"
+    "red_oid": "768",
+    "white_oid": "826",
+    "split_oid": "463"
   },
   {
     "oid": "046",
-    "red_oid": "1583",
-    "white_oid": "1386",
-    "split_oid": "1314"
+    "red_oid": "533",
+    "white_oid": "357",
+    "split_oid": "944"
   },
   {
     "oid": "047",
-    "red_oid": "1089",
-    "white_oid": "1492",
-    "split_oid": "0261"
+    "red_oid": "666",
+    "white_oid": "628",
+    "split_oid": "244"
   },
   {
     "oid": "048",
-    "red_oid": "1296",
-    "white_oid": "0138",
-    "split_oid": "0242"
+    "red_oid": "133",
+    "white_oid": "604",
+    "split_oid": "928"
   },
   {
     "oid": "049",
-    "red_oid": "1861",
-    "white_oid": "0059",
-    "split_oid": "0179"
+    "red_oid": "668",
+    "white_oid": "205",
+    "split_oid": "238"
   },
   {
     "oid": "050",
-    "red_oid": "1155",
-    "white_oid": "0321",
-    "split_oid": "0648"
+    "red_oid": "737",
+    "white_oid": "747",
+    "split_oid": "374"
   },
   {
     "oid": "051",
-    "red_oid": "1453",
-    "white_oid": "1493",
-    "split_oid": "0362"
+    "red_oid": "378",
+    "white_oid": "575",
+    "split_oid": "223"
   },
   {
     "oid": "052",
-    "red_oid": "1773",
-    "white_oid": "2053",
-    "split_oid": "0842"
+    "red_oid": "116",
+    "white_oid": "783",
+    "split_oid": "540"
   },
   {
     "oid": "053",
-    "red_oid": "1663",
-    "white_oid": "0986",
-    "split_oid": "0137"
+    "red_oid": "498",
+    "white_oid": "488",
+    "split_oid": "715"
   },
   {
     "oid": "054",
-    "red_oid": "0053",
-    "white_oid": "0428",
-    "split_oid": "1027"
+    "red_oid": "256",
+    "white_oid": "701",
+    "split_oid": "521"
   },
   {
     "oid": "055",
-    "red_oid": "1454",
-    "white_oid": "0691",
-    "split_oid": "1297"
+    "red_oid": "414",
+    "white_oid": "607",
+    "split_oid": "665"
   },
   {
     "oid": "056",
-    "red_oid": "0195",
-    "white_oid": "0613",
-    "split_oid": "0732"
+    "red_oid": "205",
+    "white_oid": "783",
+    "split_oid": "892"
   },
   {
     "oid": "057",
-    "red_oid": "0803",
-    "white_oid": "0003",
-    "split_oid": "1436"
+    "red_oid": "154",
+    "white_oid": "440",
+    "split_oid": "966"
   },
   {
     "oid": "058",
-    "red_oid": "1648",
-    "white_oid": "1475",
-    "split_oid": "1357"
+    "red_oid": "558",
+    "white_oid": "572",
+    "split_oid": "676"
   },
   {
     "oid": "059",
-    "red_oid": "1208",
-    "white_oid": "0962",
-    "split_oid": "1082"
+    "red_oid": "558",
+    "white_oid": "787",
+    "split_oid": "579"
   },
   {
     "oid": "060",
-    "red_oid": "1784",
-    "white_oid": "1660",
-    "split_oid": "1986"
+    "red_oid": "852",
+    "white_oid": "589",
+    "split_oid": "186"
   },
   {
     "oid": "061",
-    "red_oid": "0872",
-    "white_oid": "0881",
-    "split_oid": "0937"
+    "red_oid": "235",
+    "white_oid": "548",
+    "split_oid": "918"
   },
   {
     "oid": "062",
-    "red_oid": "0454",
-    "white_oid": "1157",
-    "split_oid": "1855"
+    "red_oid": "585",
+    "white_oid": "310",
+    "split_oid": "319"
   },
   {
     "oid": "063",
-    "red_oid": "0779",
-    "white_oid": "1998",
-    "split_oid": "1342"
+    "red_oid": "897",
+    "white_oid": "313",
+    "split_oid": "675"
   },
   {
     "oid": "064",
-    "red_oid": "1223",
-    "white_oid": "1262",
-    "split_oid": "2039"
+    "red_oid": "217",
+    "white_oid": "535",
+    "split_oid": "330"
   },
   {
     "oid": "065",
-    "red_oid": "0367",
-    "white_oid": "1677",
-    "split_oid": "1010"
+    "red_oid": "434",
+    "white_oid": "567",
+    "split_oid": "332"
   },
   {
     "oid": "066",
-    "red_oid": "1431",
-    "white_oid": "1679",
-    "split_oid": "1236"
+    "red_oid": "342",
+    "white_oid": "629",
+    "split_oid": "591"
   },
   {
     "oid": "067",
-    "red_oid": "0747",
-    "white_oid": "0004",
-    "split_oid": "0602"
+    "red_oid": "431",
+    "white_oid": "715",
+    "split_oid": "743"
   },
   {
     "oid": "068",
-    "red_oid": "1079",
-    "white_oid": "0268",
-    "split_oid": "0083"
+    "red_oid": "346",
+    "white_oid": "224",
+    "split_oid": "481"
   },
   {
     "oid": "069",
-    "red_oid": "1872",
-    "white_oid": "1399",
-    "split_oid": "1519"
+    "red_oid": "707",
+    "white_oid": "458",
+    "split_oid": "986"
   },
   {
     "oid": "070",
-    "red_oid": "1496",
-    "white_oid": "1385",
-    "split_oid": "0170"
+    "red_oid": "589",
+    "white_oid": "623",
+    "split_oid": "512"
   },
   {
     "oid": "071",
-    "red_oid": "1224",
-    "white_oid": "1472",
-    "split_oid": "0048"
+    "red_oid": "412",
+    "white_oid": "397",
+    "split_oid": "773"
   },
   {
     "oid": "072",
-    "red_oid": "1013",
-    "white_oid": "1749",
-    "split_oid": "1869"
+    "red_oid": "378",
+    "white_oid": "178",
+    "split_oid": "662"
   },
   {
     "oid": "073",
-    "red_oid": "0519",
-    "white_oid": "0539",
-    "split_oid": "1790"
+    "red_oid": "735",
+    "white_oid": "438",
+    "split_oid": "394"
   },
   {
     "oid": "074",
-    "red_oid": "1664",
-    "white_oid": "1666",
-    "split_oid": "1771"
+    "red_oid": "547",
+    "white_oid": "859",
+    "split_oid": "476"
   },
   {
     "oid": "075",
-    "red_oid": "0662",
-    "white_oid": "1991",
-    "split_oid": "1132"
+    "red_oid": "788",
+    "white_oid": "207",
+    "split_oid": "981"
   },
   {
     "oid": "076",
-    "red_oid": "0202",
-    "white_oid": "0143",
-    "split_oid": "1390"
+    "red_oid": "442",
+    "white_oid": "614",
+    "split_oid": "596"
   },
   {
     "oid": "077",
-    "red_oid": "1795",
-    "white_oid": "1610",
-    "split_oid": "1166"
+    "red_oid": "287",
+    "white_oid": "982",
+    "split_oid": "983"
   },
   {
     "oid": "078",
-    "red_oid": "0537",
-    "white_oid": "1310",
-    "split_oid": "1024"
+    "red_oid": "340",
+    "white_oid": "139",
+    "split_oid": "304"
   },
   {
     "oid": "079",
-    "red_oid": "0341",
-    "white_oid": "0970",
-    "split_oid": "0303"
+    "red_oid": "632",
+    "white_oid": "503",
+    "split_oid": "960"
   },
   {
     "oid": "080",
-    "red_oid": "0730",
-    "white_oid": "1961",
-    "split_oid": "1511"
+    "red_oid": "479",
+    "white_oid": "312",
+    "split_oid": "326"
   },
   {
     "oid": "081",
-    "red_oid": "0800",
-    "white_oid": "0798",
-    "split_oid": "2002"
+    "red_oid": "331",
+    "white_oid": "286",
+    "split_oid": "333"
   },
   {
     "oid": "082",
-    "red_oid": "0372",
-    "white_oid": "1916",
-    "split_oid": "2014"
+    "red_oid": "476",
+    "white_oid": "378",
+    "split_oid": "408"
   },
   {
     "oid": "083",
-    "red_oid": "1165",
-    "white_oid": "1486",
-    "split_oid": "1048"
+    "red_oid": "931",
+    "white_oid": "425",
+    "split_oid": "540"
   },
   {
     "oid": "084",
-    "red_oid": "1464",
-    "white_oid": "1811",
-    "split_oid": "0602"
+    "red_oid": "553",
+    "white_oid": "987",
+    "split_oid": "850"
   },
   {
     "oid": "085",
-    "red_oid": "0843",
-    "white_oid": "0224",
-    "split_oid": "0059"
+    "red_oid": "187",
+    "white_oid": "674",
+    "split_oid": "779"
   },
   {
     "oid": "086",
-    "red_oid": "1106",
-    "white_oid": "1481",
-    "split_oid": "0737"
+    "red_oid": "976",
+    "white_oid": "842",
+    "split_oid": "173"
   },
   {
     "oid": "087",
-    "red_oid": "1021",
-    "white_oid": "0415",
-    "split_oid": "0548"
+    "red_oid": "635",
+    "white_oid": "252",
+    "split_oid": "968"
   },
   {
     "oid": "088",
-    "red_oid": "1724",
-    "white_oid": "0075",
-    "split_oid": "0174"
+    "red_oid": "347",
+    "white_oid": "360",
+    "split_oid": "798"
   },
   {
     "oid": "089",
-    "red_oid": "2070",
-    "white_oid": "1867",
-    "split_oid": "1158"
+    "red_oid": "265",
+    "white_oid": "778",
+    "split_oid": "406"
   },
   {
     "oid": "090",
-    "red_oid": "1372",
-    "white_oid": "1187",
-    "split_oid": "0742"
+    "red_oid": "831",
+    "white_oid": "604",
+    "split_oid": "825"
   },
   {
     "oid": "091",
-    "red_oid": "0161",
-    "white_oid": "2004",
-    "split_oid": "0794"
+    "red_oid": "712",
+    "white_oid": "936",
+    "split_oid": "355"
   },
   {
     "oid": "092",
-    "red_oid": "1034",
-    "white_oid": "0552",
-    "split_oid": "1979"
+    "red_oid": "122",
+    "white_oid": "927",
+    "split_oid": "939"
   },
   {
     "oid": "093",
-    "red_oid": "0306",
-    "white_oid": "0603",
-    "split_oid": "0159"
+    "red_oid": "876",
+    "white_oid": "673",
+    "split_oid": "625"
   },
   {
     "oid": "094",
-    "red_oid": "0377",
-    "white_oid": "0567",
-    "split_oid": "1578"
+    "red_oid": "426",
+    "white_oid": "205",
+    "split_oid": "999"
   },
   {
     "oid": "095",
-    "red_oid": "2048",
-    "white_oid": "1492",
-    "split_oid": "1591"
+    "red_oid": "636",
+    "white_oid": "571",
+    "split_oid": "653"
   },
   {
     "oid": "096",
-    "red_oid": "0794",
-    "white_oid": "0484",
-    "split_oid": "1167"
+    "red_oid": "504",
+    "white_oid": "410",
+    "split_oid": "553"
   },
   {
     "oid": "097",
-    "red_oid": "0058",
-    "white_oid": "1387",
-    "split_oid": "0178"
+    "red_oid": "490",
+    "white_oid": "525",
+    "split_oid": "387"
   },
   {
     "oid": "098",
-    "red_oid": "1155",
-    "white_oid": "0967",
-    "split_oid": "0802"
+    "red_oid": "783",
+    "white_oid": "992",
+    "split_oid": "283"
   },
   {
     "oid": "099",
-    "red_oid": "0682",
-    "white_oid": "1058",
-    "split_oid": "0314"
+    "red_oid": "983",
+    "white_oid": "329",
+    "split_oid": "441"
   },
   {
     "oid": "100",
-    "red_oid": "0789",
-    "white_oid": "2090",
-    "split_oid": "1647"
+    "red_oid": "262",
+    "white_oid": "392",
+    "split_oid": "559"
   },
   {
     "oid": "101",
-    "red_oid": "1348",
-    "white_oid": "0193",
-    "split_oid": "1849"
+    "red_oid": "605",
+    "white_oid": "802",
+    "split_oid": "794"
   },
   {
     "oid": "102",
-    "red_oid": "0665",
-    "white_oid": "1444",
-    "split_oid": "0782"
+    "red_oid": "402",
+    "white_oid": "667",
+    "split_oid": "771"
   },
   {
     "oid": "103",
-    "red_oid": "0948",
-    "white_oid": "1929",
-    "split_oid": "1485"
+    "red_oid": "747",
+    "white_oid": "873",
+    "split_oid": "576"
   },
   {
     "oid": "104",
-    "red_oid": "1837",
-    "white_oid": "1579",
-    "split_oid": "0370"
+    "red_oid": "167",
+    "white_oid": "977",
+    "split_oid": "569"
   },
   {
     "oid": "105",
-    "red_oid": "0659",
-    "white_oid": "0321",
-    "split_oid": "0573"
+    "red_oid": "788",
+    "white_oid": "231",
+    "split_oid": "592"
   },
   {
     "oid": "106",
-    "red_oid": "2032",
-    "white_oid": "0180",
-    "split_oid": "0277"
+    "red_oid": "236",
+    "white_oid": "912",
+    "split_oid": "704"
   },
   {
     "oid": "107",
-    "red_oid": "1264",
-    "white_oid": "0192",
-    "split_oid": "1675"
+    "red_oid": "525",
+    "white_oid": "488",
+    "split_oid": "970"
   },
   {
     "oid": "108",
-    "red_oid": "0067",
-    "white_oid": "0600",
-    "split_oid": "0657"
+    "red_oid": "932",
+    "white_oid": "509",
+    "split_oid": "914"
   },
   {
     "oid": "109",
-    "red_oid": "1893",
-    "white_oid": "0533",
-    "split_oid": "1402"
+    "red_oid": "503",
+    "white_oid": "652",
+    "split_oid": "590"
   },
   {
     "oid": "110",
-    "red_oid": "1783",
-    "white_oid": "1437",
-    "split_oid": "1344"
+    "red_oid": "663",
+    "white_oid": "524",
+    "split_oid": "693"
   },
   {
     "oid": "111",
-    "red_oid": "1204",
-    "white_oid": "1488",
-    "split_oid": "1044"
+    "red_oid": "233",
+    "white_oid": "931",
+    "split_oid": "529"
   },
   {
     "oid": "112",
-    "red_oid": "1842",
-    "white_oid": "1154",
-    "split_oid": "0411"
+    "red_oid": "939",
+    "white_oid": "165",
+    "split_oid": "449"
   },
   {
     "oid": "113",
-    "red_oid": "0838",
-    "white_oid": "1157",
-    "split_oid": "0713"
+    "red_oid": "890",
+    "white_oid": "750",
+    "split_oid": "616"
   },
   {
     "oid": "114",
-    "red_oid": "0415",
-    "white_oid": "1765",
-    "split_oid": "1898"
+    "red_oid": "420",
+    "white_oid": "386",
+    "split_oid": "896"
   },
   {
     "oid": "115",
-    "red_oid": "0762",
-    "white_oid": "1493",
-    "split_oid": "1950"
+    "red_oid": "847",
+    "white_oid": "160",
+    "split_oid": "481"
   },
   {
     "oid": "116",
-    "red_oid": "1188",
-    "white_oid": "0070",
-    "split_oid": "2077"
+    "red_oid": "386",
+    "white_oid": "837",
+    "split_oid": "880"
   },
   {
     "oid": "117",
-    "red_oid": "0903",
-    "white_oid": "1676",
-    "split_oid": "0466"
+    "red_oid": "504",
+    "white_oid": "202",
+    "split_oid": "855"
   },
   {
     "oid": "118",
-    "red_oid": "1655",
-    "white_oid": "1488",
-    "split_oid": "0044"
+    "red_oid": "313",
+    "white_oid": "876",
+    "split_oid": "964"
   },
   {
     "oid": "119",
-    "red_oid": "1098",
-    "white_oid": "0229",
-    "split_oid": "0327"
+    "red_oid": "470",
+    "white_oid": "358",
+    "split_oid": "149"
   },
   {
     "oid": "120",
-    "red_oid": "1360",
-    "white_oid": "0240",
-    "split_oid": "0462"
+    "red_oid": "599",
+    "white_oid": "939",
+    "split_oid": "418"
   },
   {
     "oid": "121",
-    "red_oid": "0115",
-    "white_oid": "0719",
-    "split_oid": "0281"
+    "red_oid": "964",
+    "white_oid": "668",
+    "split_oid": "981"
   },
   {
     "oid": "122",
-    "red_oid": "0960",
-    "white_oid": "0158",
-    "split_oid": "1026"
+    "red_oid": "256",
+    "white_oid": "799",
+    "split_oid": "770"
   },
   {
     "oid": "123",
-    "red_oid": "1832",
-    "white_oid": "0223",
-    "split_oid": "0921"
+    "red_oid": "584",
+    "white_oid": "420",
+    "split_oid": "568"
   },
   {
     "oid": "124",
-    "red_oid": "1945",
-    "white_oid": "1069",
-    "split_oid": "0620"
+    "red_oid": "172",
+    "white_oid": "918",
+    "split_oid": "494"
   },
   {
     "oid": "125",
-    "red_oid": "1467",
-    "white_oid": "0923",
-    "split_oid": "1110"
+    "red_oid": "994",
+    "white_oid": "606",
+    "split_oid": "282"
   },
   {
     "oid": "126",
-    "red_oid": "0415",
-    "white_oid": "0782",
-    "split_oid": "1091"
+    "red_oid": "420",
+    "white_oid": "903",
+    "split_oid": "424"
   },
   {
     "oid": "127",
-    "red_oid": "1514",
-    "white_oid": "1341",
-    "split_oid": "1668"
+    "red_oid": "734",
+    "white_oid": "705",
+    "split_oid": "544"
   },
   {
     "oid": "128",
-    "red_oid": "0886",
-    "white_oid": "0086",
-    "split_oid": "1526"
+    "red_oid": "355",
+    "white_oid": "893",
+    "split_oid": "360"
   },
   {
     "oid": "129",
-    "red_oid": "1931",
-    "white_oid": "1746",
-    "split_oid": "1845"
+    "red_oid": "168",
+    "white_oid": "659",
+    "split_oid": "980"
   },
   {
     "oid": "130",
-    "red_oid": "0480",
-    "white_oid": "1253",
-    "split_oid": "1161"
+    "red_oid": "895",
+    "white_oid": "365",
+    "split_oid": "570"
   },
   {
     "oid": "131",
-    "red_oid": "1231",
-    "white_oid": "1655",
-    "split_oid": "1769"
+    "red_oid": "337",
+    "white_oid": "632",
+    "split_oid": "329"
   },
   {
     "oid": "132",
-    "red_oid": "0674",
-    "white_oid": "1326",
-    "split_oid": "2003"
+    "red_oid": "433",
+    "white_oid": "783",
+    "split_oid": "950"
   },
   {
     "oid": "133",
-    "red_oid": "0936",
-    "white_oid": "0934",
-    "split_oid": "0038"
+    "red_oid": "651",
+    "white_oid": "364",
+    "split_oid": "421"
   },
   {
     "oid": "134",
-    "red_oid": "0858",
-    "white_oid": "0489",
-    "split_oid": "1957"
+    "red_oid": "867",
+    "white_oid": "477",
+    "split_oid": "560"
   },
   {
     "oid": "135",
-    "red_oid": "0536",
-    "white_oid": "1834",
-    "split_oid": "1721"
+    "red_oid": "817",
+    "white_oid": "699",
+    "split_oid": "742"
   },
   {
     "oid": "136",
-    "red_oid": "1600",
-    "white_oid": "1947",
-    "split_oid": "1088"
+    "red_oid": "983",
+    "white_oid": "517",
+    "split_oid": "325"
   },
   {
     "oid": "137",
-    "red_oid": "1521",
-    "white_oid": "0646",
-    "split_oid": "0195"
+    "red_oid": "948",
+    "white_oid": "980",
+    "split_oid": "401"
   },
   {
     "oid": "138",
-    "red_oid": "1779",
-    "white_oid": "1618",
-    "split_oid": "0879"
+    "red_oid": "679",
+    "white_oid": "888",
+    "split_oid": "787"
   },
   {
     "oid": "139",
-    "red_oid": "1157",
-    "white_oid": "0358",
-    "split_oid": "0668"
+    "red_oid": "590",
+    "white_oid": "728",
+    "split_oid": "807"
   },
   {
     "oid": "140",
-    "red_oid": "1089",
-    "white_oid": "0959",
-    "split_oid": "0310"
+    "red_oid": "947",
+    "white_oid": "835",
+    "split_oid": "165"
   },
   {
     "oid": "141",
-    "red_oid": "0463",
-    "white_oid": "0253",
-    "split_oid": "1144"
+    "red_oid": "321",
+    "white_oid": "790",
+    "split_oid": "839"
   },
   {
     "oid": "142",
-    "red_oid": "1508",
-    "white_oid": "0433",
-    "split_oid": "0531"
+    "red_oid": "376",
+    "white_oid": "340",
+    "split_oid": "608"
   },
   {
     "oid": "143",
-    "red_oid": "0105",
-    "white_oid": "1250",
-    "split_oid": "1947"
+    "red_oid": "463",
+    "white_oid": "335",
+    "split_oid": "563"
   },
   {
     "oid": "144",
-    "red_oid": "1967",
-    "white_oid": "0340",
-    "split_oid": "0455"
+    "red_oid": "208",
+    "white_oid": "856",
+    "split_oid": "914"
   },
   {
     "oid": "145",
-    "red_oid": "0882",
-    "white_oid": "0061",
-    "split_oid": "1855"
+    "red_oid": "268",
+    "white_oid": "488",
+    "split_oid": "267"
   },
   {
     "oid": "146",
-    "red_oid": "1723",
-    "white_oid": "1721",
-    "split_oid": "1366"
+    "red_oid": "509",
+    "white_oid": "850",
+    "split_oid": "863"
   },
   {
     "oid": "147",
-    "red_oid": "1837",
-    "white_oid": "1275",
-    "split_oid": "0837"
+    "red_oid": "588",
+    "white_oid": "459",
+    "split_oid": "703"
   },
   {
     "oid": "148",
-    "red_oid": "1913",
-    "white_oid": "1637",
-    "split_oid": "0407"
+    "red_oid": "901",
+    "white_oid": "501",
+    "split_oid": "761"
   },
   {
     "oid": "149",
-    "red_oid": "1404",
-    "white_oid": "0633",
-    "split_oid": "1296"
+    "red_oid": "357",
+    "white_oid": "615",
+    "split_oid": "563"
   },
   {
     "oid": "150",
-    "red_oid": "0208",
-    "white_oid": "0499",
-    "split_oid": "0048"
+    "red_oid": "330",
+    "white_oid": "552",
+    "split_oid": "596"
   },
   {
     "oid": "151",
-    "red_oid": "1032",
-    "white_oid": "1582",
-    "split_oid": "1908"
+    "red_oid": "446",
+    "white_oid": "941",
+    "split_oid": "253"
   },
   {
     "oid": "152",
-    "red_oid": "1084",
-    "white_oid": "2052",
-    "split_oid": "0071"
+    "red_oid": "510",
+    "white_oid": "387",
+    "split_oid": "365"
   },
   {
     "oid": "153",
-    "red_oid": "1083",
-    "white_oid": "1718",
-    "split_oid": "0275"
+    "red_oid": "999",
+    "white_oid": "816",
+    "split_oid": "137"
   },
   {
     "oid": "154",
-    "red_oid": "0702",
-    "white_oid": "1980",
-    "split_oid": "0750"
+    "red_oid": "487",
+    "white_oid": "946",
+    "split_oid": "242"
   },
   {
     "oid": "155",
-    "red_oid": "1542",
-    "white_oid": "2046",
-    "split_oid": "1973"
+    "red_oid": "281",
+    "white_oid": "299",
+    "split_oid": "109"
   },
   {
     "oid": "156",
-    "red_oid": "1868",
-    "white_oid": "1639",
-    "split_oid": "0342"
+    "red_oid": "305",
+    "white_oid": "868",
+    "split_oid": "340"
   },
   {
     "oid": "157",
-    "red_oid": "1190",
-    "white_oid": "0635",
-    "split_oid": "0540"
+    "red_oid": "585",
+    "white_oid": "930",
+    "split_oid": "514"
   },
   {
     "oid": "158",
-    "red_oid": "0419",
-    "white_oid": "0210",
-    "split_oid": "0331"
+    "red_oid": "907",
+    "white_oid": "975",
+    "split_oid": "602"
   },
   {
     "oid": "159",
-    "red_oid": "1236",
-    "white_oid": "1106",
-    "split_oid": "1233"
+    "red_oid": "464",
+    "white_oid": "999",
+    "split_oid": "178"
   },
   {
     "oid": "160",
-    "red_oid": "0055",
-    "white_oid": "1910",
-    "split_oid": "0472"
+    "red_oid": "376",
+    "white_oid": "826",
+    "split_oid": "715"
   },
   {
     "oid": "161",
-    "red_oid": "1854",
-    "white_oid": "0700",
-    "split_oid": "1026"
+    "red_oid": "780",
+    "white_oid": "306",
+    "split_oid": "200"
   },
   {
     "oid": "162",
-    "red_oid": "2057",
-    "white_oid": "1251",
-    "split_oid": "0602"
+    "red_oid": "537",
+    "white_oid": "995",
+    "split_oid": "988"
   },
   {
     "oid": "163",
-    "red_oid": "0476",
-    "white_oid": "0509",
-    "split_oid": "1485"
+    "red_oid": "594",
+    "white_oid": "920",
+    "split_oid": "414"
   },
   {
     "oid": "164",
-    "red_oid": "1727",
-    "white_oid": "1207",
-    "split_oid": "2075"
+    "red_oid": "822",
+    "white_oid": "279",
+    "split_oid": "940"
   },
   {
     "oid": "165",
-    "red_oid": "0660",
-    "white_oid": "0646",
-    "split_oid": "0766"
+    "red_oid": "888",
+    "white_oid": "133",
+    "split_oid": "755"
   },
   {
     "oid": "166",
-    "red_oid": "1819",
-    "white_oid": "0716",
-    "split_oid": "1951"
+    "red_oid": "688",
+    "white_oid": "155",
+    "split_oid": "773"
   },
   {
     "oid": "167",
-    "red_oid": "0326",
-    "white_oid": "1556",
-    "split_oid": "1443"
+    "red_oid": "599",
+    "white_oid": "996",
+    "split_oid": "443"
   },
   {
     "oid": "168",
-    "red_oid": "1312",
-    "white_oid": "1671",
-    "split_oid": "1597"
+    "red_oid": "281",
+    "white_oid": "453",
+    "split_oid": "137"
   },
   {
     "oid": "169",
-    "red_oid": "0463",
-    "white_oid": "1735",
-    "split_oid": "2019"
+    "red_oid": "895",
+    "white_oid": "150",
+    "split_oid": "292"
   },
   {
     "oid": "170",
-    "red_oid": "0958",
-    "white_oid": "1328",
-    "split_oid": "1638"
+    "red_oid": "980",
+    "white_oid": "657",
+    "split_oid": "248"
   },
   {
     "oid": "171",
-    "red_oid": "1162",
-    "white_oid": "1886",
-    "split_oid": "2006"
+    "red_oid": "998",
+    "white_oid": "316",
+    "split_oid": "627"
   },
   {
     "oid": "172",
-    "red_oid": "0813",
-    "white_oid": "0683",
-    "split_oid": "0020"
+    "red_oid": "637",
+    "white_oid": "617",
+    "split_oid": "448"
   },
   {
     "oid": "173",
-    "red_oid": "1732",
-    "white_oid": "1534",
-    "split_oid": "0097"
+    "red_oid": "150",
+    "white_oid": "708",
+    "split_oid": "280"
   },
   {
     "oid": "174",
-    "red_oid": "0447",
-    "white_oid": "0275",
-    "split_oid": "1145"
+    "red_oid": "365",
+    "white_oid": "917",
+    "split_oid": "294"
   },
   {
     "oid": "175",
-    "red_oid": "1633",
-    "white_oid": "0038",
-    "split_oid": "0178"
+    "red_oid": "468",
+    "white_oid": "774",
+    "split_oid": "150"
   },
   {
     "oid": "176",
-    "red_oid": "1219",
-    "white_oid": "0086",
-    "split_oid": "1061"
+    "red_oid": "127",
+    "white_oid": "460",
+    "split_oid": "470"
   },
   {
     "oid": "177",
-    "red_oid": "1496",
-    "white_oid": "0976",
-    "split_oid": "0670"
+    "red_oid": "408",
+    "white_oid": "434",
+    "split_oid": "805"
   },
   {
     "oid": "178",
-    "red_oid": "0236",
-    "white_oid": "0275",
-    "split_oid": "0390"
+    "red_oid": "567",
+    "white_oid": "261",
+    "split_oid": "630"
   },
   {
     "oid": "179",
-    "red_oid": "1360",
-    "white_oid": "0835",
-    "split_oid": "1725"
+    "red_oid": "173",
+    "white_oid": "921",
+    "split_oid": "233"
   },
   {
     "oid": "180",
-    "red_oid": "2003",
-    "white_oid": "0151",
-    "split_oid": "1019"
+    "red_oid": "607",
+    "white_oid": "853",
+    "split_oid": "627"
   },
   {
     "oid": "181",
-    "red_oid": "2054",
-    "white_oid": "1720",
-    "split_oid": "1840"
+    "red_oid": "860",
+    "white_oid": "332",
+    "split_oid": "643"
   },
   {
     "oid": "182",
-    "red_oid": "0044",
-    "white_oid": "1783",
-    "split_oid": "1134"
+    "red_oid": "301",
+    "white_oid": "790",
+    "split_oid": "432"
   },
   {
     "oid": "183",
-    "red_oid": "0535",
-    "white_oid": "1425",
-    "split_oid": "1735"
+    "red_oid": "190",
+    "white_oid": "820",
+    "split_oid": "135"
   },
   {
     "oid": "184",
-    "red_oid": "1211",
-    "white_oid": "1358",
-    "split_oid": "0427"
+    "red_oid": "520",
+    "white_oid": "744",
+    "split_oid": "123"
   },
   {
     "oid": "185",
-    "red_oid": "0910",
-    "white_oid": "1849",
-    "split_oid": "0070"
+    "red_oid": "535",
+    "white_oid": "146",
+    "split_oid": "101"
   },
   {
     "oid": "186",
-    "red_oid": "0846",
-    "white_oid": "1775",
-    "split_oid": "0146"
+    "red_oid": "167",
+    "white_oid": "888",
+    "split_oid": "455"
   },
   {
     "oid": "187",
-    "red_oid": "0496",
-    "white_oid": "0372",
-    "split_oid": "0259"
+    "red_oid": "908",
+    "white_oid": "551",
+    "split_oid": "788"
   },
   {
     "oid": "188",
-    "red_oid": "1875",
-    "white_oid": "0136",
-    "split_oid": "1749"
+    "red_oid": "577",
+    "white_oid": "747",
+    "split_oid": "741"
   },
   {
     "oid": "189",
-    "red_oid": "1739",
-    "white_oid": "0678",
-    "split_oid": "1111"
+    "red_oid": "159",
+    "white_oid": "658",
+    "split_oid": "653"
   },
   {
     "oid": "190",
-    "red_oid": "1592",
-    "white_oid": "0042",
-    "split_oid": "0911"
+    "red_oid": "415",
+    "white_oid": "658",
+    "split_oid": "800"
   },
   {
     "oid": "191",
-    "red_oid": "1402",
-    "white_oid": "0324",
-    "split_oid": "0438"
+    "red_oid": "244",
+    "white_oid": "851",
+    "split_oid": "834"
   },
   {
     "oid": "192",
-    "red_oid": "1409",
-    "white_oid": "0932",
-    "split_oid": "0840"
+    "red_oid": "257",
+    "white_oid": "663",
+    "split_oid": "363"
   },
   {
     "oid": "193",
-    "red_oid": "2052",
-    "white_oid": "0393",
-    "split_oid": "1069"
+    "red_oid": "209",
+    "white_oid": "972",
+    "split_oid": "139"
   },
   {
     "oid": "194",
-    "red_oid": "0002",
-    "white_oid": "1289",
-    "split_oid": "1958"
+    "red_oid": "775",
+    "white_oid": "946",
+    "split_oid": "701"
   },
   {
     "oid": "195",
-    "red_oid": "0141",
-    "white_oid": "0570",
-    "split_oid": "0703"
+    "red_oid": "311",
+    "white_oid": "535",
+    "split_oid": "263"
   },
   {
     "oid": "196",
-    "red_oid": "1702",
-    "white_oid": "1002",
-    "split_oid": "1311"
+    "red_oid": "960",
+    "white_oid": "699",
+    "split_oid": "831"
   },
   {
     "oid": "197",
-    "red_oid": "0209",
-    "white_oid": "0982",
-    "split_oid": "1170"
+    "red_oid": "805",
+    "white_oid": "243",
+    "split_oid": "345"
   },
   {
     "oid": "198",
-    "red_oid": "0479",
-    "white_oid": "1425",
-    "split_oid": "1746"
+    "red_oid": "360",
+    "white_oid": "317",
+    "split_oid": "531"
   },
   {
     "oid": "199",
-    "red_oid": "1157",
-    "white_oid": "1894",
-    "split_oid": "2014"
+    "red_oid": "590",
+    "white_oid": "934",
+    "split_oid": "898"
   },
   {
     "oid": "200",
-    "red_oid": "0121",
-    "white_oid": "1067",
-    "split_oid": "1935"
+    "red_oid": "736",
+    "white_oid": "211",
+    "split_oid": "515"
   },
   {
     "oid": "201",
-    "red_oid": "0469",
-    "white_oid": "1812",
-    "split_oid": "1374"
+    "red_oid": "643",
+    "white_oid": "393",
+    "split_oid": "655"
   },
   {
     "oid": "202",
-    "red_oid": "1315",
-    "white_oid": "1419",
-    "split_oid": "1853"
+    "red_oid": "786",
+    "white_oid": "735",
+    "split_oid": "987"
   },
   {
     "oid": "203",
-    "red_oid": "1168",
-    "white_oid": "1718",
-    "split_oid": "0487"
+    "red_oid": "382",
+    "white_oid": "741",
+    "split_oid": "284"
   },
   {
     "oid": "204",
-    "red_oid": "1027",
-    "white_oid": "0094",
-    "split_oid": "0557"
+    "red_oid": "547",
+    "white_oid": "136",
+    "split_oid": "673"
   },
   {
     "oid": "205",
-    "red_oid": "1033",
-    "white_oid": "1626",
-    "split_oid": "0417"
+    "red_oid": "423",
+    "white_oid": "272",
+    "split_oid": "488"
   },
   {
     "oid": "206",
-    "red_oid": "0838",
-    "white_oid": "0016",
-    "split_oid": "0693"
+    "red_oid": "471",
+    "white_oid": "770",
+    "split_oid": "447"
   },
   {
     "oid": "207",
-    "red_oid": "1678",
-    "white_oid": "2031",
-    "split_oid": "0552"
+    "red_oid": "638",
+    "white_oid": "711",
+    "split_oid": "178"
   },
   {
     "oid": "208",
-    "red_oid": "2011",
-    "white_oid": "0147",
-    "split_oid": "0472"
+    "red_oid": "239",
+    "white_oid": "159",
+    "split_oid": "442"
   },
   {
     "oid": "209",
-    "red_oid": "1869",
-    "white_oid": "1332",
-    "split_oid": "0888"
+    "red_oid": "384",
+    "white_oid": "651",
+    "split_oid": "508"
   },
   {
     "oid": "210",
-    "red_oid": "1885",
-    "white_oid": "1682",
-    "split_oid": "0939"
+    "red_oid": "950",
+    "white_oid": "819",
+    "split_oid": "628"
   },
   {
     "oid": "211",
-    "red_oid": "1173",
-    "white_oid": "1049",
-    "split_oid": "1375"
+    "red_oid": "889",
+    "white_oid": "547",
+    "split_oid": "656"
   },
   {
     "oid": "212",
-    "red_oid": "0734",
-    "white_oid": "0489",
-    "split_oid": "0608"
+    "red_oid": "902",
+    "white_oid": "393",
+    "split_oid": "901"
   },
   {
     "oid": "213",
-    "red_oid": "1798",
-    "white_oid": "0836",
-    "split_oid": "1512"
+    "red_oid": "346",
+    "white_oid": "637",
+    "split_oid": "400"
   },
   {
     "oid": "214",
-    "red_oid": "0099",
-    "white_oid": "1388",
-    "split_oid": "1493"
+    "red_oid": "673",
+    "white_oid": "572",
+    "split_oid": "123"
   },
   {
     "oid": "215",
-    "red_oid": "0313",
-    "white_oid": "0417",
-    "split_oid": "0538"
+    "red_oid": "418",
+    "white_oid": "623",
+    "split_oid": "357"
   },
   {
     "oid": "216",
-    "red_oid": "1863",
-    "white_oid": "0453",
-    "split_oid": "1321"
+    "red_oid": "434",
+    "white_oid": "443",
+    "split_oid": "548"
   },
   {
     "oid": "217",
-    "red_oid": "0796",
-    "white_oid": "1998",
-    "split_oid": "0554"
+    "red_oid": "151",
+    "white_oid": "832",
+    "split_oid": "965"
   },
   {
     "oid": "218",
-    "red_oid": "0609",
-    "white_oid": "0312",
-    "split_oid": "1203"
+    "red_oid": "575",
+    "white_oid": "521",
+    "split_oid": "700"
   },
   {
     "oid": "219",
-    "red_oid": "0115",
-    "white_oid": "1345",
-    "split_oid": "0901"
+    "red_oid": "247",
+    "white_oid": "530",
+    "split_oid": "638"
   },
   {
     "oid": "220",
-    "red_oid": "0365",
-    "white_oid": "0718",
-    "split_oid": "1386"
+    "red_oid": "463",
+    "white_oid": "330",
+    "split_oid": "138"
   },
   {
     "oid": "221",
-    "red_oid": "1815",
-    "white_oid": "0981",
-    "split_oid": "1307"
+    "red_oid": "230",
+    "white_oid": "342",
+    "split_oid": "387"
   },
   {
     "oid": "222",
-    "red_oid": "0555",
-    "white_oid": "1328",
-    "split_oid": "0692"
+    "red_oid": "591",
+    "white_oid": "555",
+    "split_oid": "140"
   },
   {
     "oid": "223",
-    "red_oid": "0619",
-    "white_oid": "0368",
-    "split_oid": "1724"
+    "red_oid": "806",
+    "white_oid": "356",
+    "split_oid": "250"
   },
   {
     "oid": "224",
-    "red_oid": "2008",
-    "white_oid": "2029",
-    "split_oid": "1179"
+    "red_oid": "438",
+    "white_oid": "261",
+    "split_oid": "883"
   },
   {
     "oid": "225",
-    "red_oid": "1520",
-    "white_oid": "1323",
-    "split_oid": "1443"
+    "red_oid": "434",
+    "white_oid": "416",
+    "split_oid": "326"
   },
   {
     "oid": "226",
-    "red_oid": "1055",
-    "white_oid": "0242",
-    "split_oid": "1126"
+    "red_oid": "645",
+    "white_oid": "473",
+    "split_oid": "623"
   },
   {
     "oid": "227",
-    "red_oid": "1953",
-    "white_oid": "1922",
-    "split_oid": "0709"
+    "red_oid": "763",
+    "white_oid": "270",
+    "split_oid": "152"
   },
   {
     "oid": "228",
-    "red_oid": "1178",
-    "white_oid": "1006",
-    "split_oid": "1035"
+    "red_oid": "430",
+    "white_oid": "199",
+    "split_oid": "654"
   },
   {
     "oid": "229",
-    "red_oid": "2020",
-    "white_oid": "0699",
-    "split_oid": "0420"
+    "red_oid": "500",
+    "white_oid": "635",
+    "split_oid": "190"
   },
   {
     "oid": "230",
-    "red_oid": "0203",
-    "white_oid": "1185",
-    "split_oid": "0740"
+    "red_oid": "253",
+    "white_oid": "720",
+    "split_oid": "933"
   },
   {
     "oid": "231",
-    "red_oid": "1668",
-    "white_oid": "0293",
-    "split_oid": "1726"
+    "red_oid": "486",
+    "white_oid": "585",
+    "split_oid": "490"
   },
   {
     "oid": "232",
-    "red_oid": "0126",
-    "white_oid": "0188",
-    "split_oid": "1386"
+    "red_oid": "422",
+    "white_oid": "888",
+    "split_oid": "893"
   },
   {
     "oid": "233",
-    "red_oid": "0233",
-    "white_oid": "1848",
-    "split_oid": "1403"
+    "red_oid": "336",
+    "white_oid": "752",
+    "split_oid": "853"
   },
   {
     "oid": "234",
-    "red_oid": "1884",
-    "white_oid": "0812",
-    "split_oid": "1262"
+    "red_oid": "203",
+    "white_oid": "616",
+    "split_oid": "320"
   },
   {
     "oid": "235",
-    "red_oid": "0567",
-    "white_oid": "1442",
-    "split_oid": "1540"
+    "red_oid": "898",
+    "white_oid": "770",
+    "split_oid": "369"
   },
   {
     "oid": "236",
-    "red_oid": "1057",
-    "white_oid": "1416",
-    "split_oid": "1556"
+    "red_oid": "207",
+    "white_oid": "319",
+    "split_oid": "402"
   },
   {
     "oid": "237",
-    "red_oid": "1038",
-    "white_oid": "0794",
-    "split_oid": "0127"
+    "red_oid": "736",
+    "white_oid": "782",
+    "split_oid": "928"
   },
   {
     "oid": "238",
-    "red_oid": "0562",
-    "white_oid": "1828",
-    "split_oid": "1733"
+    "red_oid": "486",
+    "white_oid": "940",
+    "split_oid": "825"
   },
   {
     "oid": "239",
-    "red_oid": "0632",
-    "white_oid": "1967",
-    "split_oid": "1869"
+    "red_oid": "116",
+    "white_oid": "949",
+    "split_oid": "964"
   },
   {
     "oid": "240",
-    "red_oid": "1721",
-    "white_oid": "1687",
-    "split_oid": "1808"
+    "red_oid": "535",
+    "white_oid": "546",
+    "split_oid": "605"
   },
   {
     "oid": "241",
-    "red_oid": "0755",
-    "white_oid": "0582",
-    "split_oid": "0610"
+    "red_oid": "274",
+    "white_oid": "373",
+    "split_oid": "654"
   },
   {
     "oid": "242",
-    "red_oid": "1645",
-    "white_oid": "1394",
-    "split_oid": "0189"
+    "red_oid": "303",
+    "white_oid": "622",
+    "split_oid": "236"
   },
   {
     "oid": "243",
-    "red_oid": "0897",
-    "white_oid": "0761",
-    "split_oid": "0317"
+    "red_oid": "401",
+    "white_oid": "659",
+    "split_oid": "862"
   },
   {
     "oid": "244",
-    "red_oid": "1243",
-    "white_oid": "2016",
-    "split_oid": "0368"
+    "red_oid": "504",
+    "white_oid": "793",
+    "split_oid": "672"
   },
   {
     "oid": "245",
-    "red_oid": "1802",
-    "white_oid": "2057",
-    "split_oid": "1504"
+    "red_oid": "598",
+    "white_oid": "559",
+    "split_oid": "913"
   },
   {
     "oid": "246",
-    "red_oid": "1910",
-    "white_oid": "1425",
-    "split_oid": "0980"
+    "red_oid": "105",
+    "white_oid": "701",
+    "split_oid": "672"
   },
   {
     "oid": "247",
-    "red_oid": "1981",
-    "white_oid": "1699",
-    "split_oid": "0839"
+    "red_oid": "768",
+    "white_oid": "896",
+    "split_oid": "123"
   },
   {
     "oid": "248",
-    "red_oid": "1260",
-    "white_oid": "1059",
-    "split_oid": "1164"
+    "red_oid": "440",
+    "white_oid": "362",
+    "split_oid": "840"
   },
   {
     "oid": "249",
-    "red_oid": "0055",
-    "white_oid": "1040",
-    "split_oid": "0191"
+    "red_oid": "642",
+    "white_oid": "221",
+    "split_oid": "329"
   },
   {
     "oid": "250",
-    "red_oid": "0615",
-    "white_oid": "0914",
-    "split_oid": "1803"
+    "red_oid": "438",
+    "white_oid": "746",
+    "split_oid": "159"
   },
   {
     "oid": "251",
-    "red_oid": "0186",
-    "white_oid": "1404",
-    "split_oid": "1503"
+    "red_oid": "673",
+    "white_oid": "260",
+    "split_oid": "777"
   },
   {
     "oid": "252",
-    "red_oid": "0249",
-    "white_oid": "0560",
-    "split_oid": "1445"
+    "red_oid": "967",
+    "white_oid": "236",
+    "split_oid": "488"
   },
   {
     "oid": "253",
-    "red_oid": "0315",
-    "white_oid": "1311",
-    "split_oid": "1431"
+    "red_oid": "956",
+    "white_oid": "372",
+    "split_oid": "884"
   },
   {
     "oid": "254",
-    "red_oid": "0332",
-    "white_oid": "0054",
-    "split_oid": "1777"
+    "red_oid": "472",
+    "white_oid": "651",
+    "split_oid": "426"
   },
   {
     "oid": "255",
-    "red_oid": "1221",
-    "white_oid": "1442",
-    "split_oid": "0711"
+    "red_oid": "130",
+    "white_oid": "781",
+    "split_oid": "123"
   },
   {
     "oid": "256",
-    "red_oid": "0521",
-    "white_oid": "1002",
-    "split_oid": "0365"
+    "red_oid": "593",
+    "white_oid": "842",
+    "split_oid": "486"
   },
   {
     "oid": "257",
-    "red_oid": "1835",
-    "white_oid": "1083",
-    "split_oid": "0416"
+    "red_oid": "719",
+    "white_oid": "684",
+    "split_oid": "297"
   },
   {
     "oid": "258",
-    "red_oid": "1062",
-    "white_oid": "0054",
-    "split_oid": "1601"
+    "red_oid": "773",
+    "white_oid": "701",
+    "split_oid": "561"
   },
   {
     "oid": "259",
-    "red_oid": "1959",
-    "white_oid": "0491",
-    "split_oid": "0047"
+    "red_oid": "319",
+    "white_oid": "308",
+    "split_oid": "228"
   },
   {
     "oid": "260",
-    "red_oid": "0121",
-    "white_oid": "0189",
-    "split_oid": "1080"
+    "red_oid": "764",
+    "white_oid": "413",
+    "split_oid": "750"
   },
   {
     "oid": "261",
-    "red_oid": "1357",
-    "white_oid": "1108",
-    "split_oid": "1212"
+    "red_oid": "395",
+    "white_oid": "398",
+    "split_oid": "676"
   },
   {
     "oid": "262",
-    "red_oid": "0105",
-    "white_oid": "0107",
-    "split_oid": "0433"
+    "red_oid": "806",
+    "white_oid": "619",
+    "split_oid": "954"
   },
   {
     "oid": "263",
-    "red_oid": "1781",
-    "white_oid": "1011",
-    "split_oid": "1901"
+    "red_oid": "214",
+    "white_oid": "627",
+    "split_oid": "398"
   },
   {
     "oid": "264",
-    "red_oid": "0234",
-    "white_oid": "0476",
-    "split_oid": "0569"
+    "red_oid": "982",
+    "white_oid": "862",
+    "split_oid": "186"
   },
   {
     "oid": "265",
-    "red_oid": "0298",
-    "white_oid": "0802",
-    "split_oid": "2042"
+    "red_oid": "818",
+    "white_oid": "410",
+    "split_oid": "611"
   },
   {
     "oid": "266",
-    "red_oid": "0413",
-    "white_oid": "1361",
-    "split_oid": "1480"
+    "red_oid": "594",
+    "white_oid": "111",
+    "split_oid": "589"
   },
   {
     "oid": "267",
-    "red_oid": "0345",
-    "white_oid": "0796",
-    "split_oid": "1402"
+    "red_oid": "560",
+    "white_oid": "871",
+    "split_oid": "853"
   },
   {
     "oid": "268",
-    "red_oid": "0293",
-    "white_oid": "1066",
-    "split_oid": "0287"
+    "red_oid": "931",
+    "white_oid": "560",
+    "split_oid": "943"
   },
   {
     "oid": "269",
-    "red_oid": "0762",
-    "white_oid": "1696",
-    "split_oid": "1251"
+    "red_oid": "720",
+    "white_oid": "664",
+    "split_oid": "328"
   },
   {
     "oid": "270",
-    "red_oid": "1460",
-    "white_oid": "1202",
-    "split_oid": "2092"
+    "red_oid": "175",
+    "white_oid": "275",
+    "split_oid": "150"
   },
   {
     "oid": "271",
-    "red_oid": "0638",
-    "white_oid": "1730",
-    "split_oid": "0600"
+    "red_oid": "595",
+    "white_oid": "809",
+    "split_oid": "424"
   },
   {
     "oid": "272",
-    "red_oid": "1535",
-    "white_oid": "0115",
-    "split_oid": "1771"
+    "red_oid": "596",
+    "white_oid": "680",
+    "split_oid": "924"
   },
   {
     "oid": "273",
-    "red_oid": "0815",
-    "white_oid": "1865",
-    "split_oid": "0656"
+    "red_oid": "240",
+    "white_oid": "460",
+    "split_oid": "797"
   },
   {
     "oid": "274",
-    "red_oid": "0934",
-    "white_oid": "1995",
-    "split_oid": "1906"
+    "red_oid": "699",
+    "white_oid": "357",
+    "split_oid": "561"
   },
   {
     "oid": "275",
-    "red_oid": "1829",
-    "white_oid": "1783",
-    "split_oid": "0552"
+    "red_oid": "365",
+    "white_oid": "782",
+    "split_oid": "665"
   },
   {
     "oid": "276",
-    "red_oid": "1550",
-    "white_oid": "0779",
-    "split_oid": "0495"
+    "red_oid": "982",
+    "white_oid": "658",
+    "split_oid": "640"
   },
   {
     "oid": "277",
-    "red_oid": "0353",
-    "white_oid": "0101",
-    "split_oid": "0193"
+    "red_oid": "884",
+    "white_oid": "259",
+    "split_oid": "653"
   },
   {
     "oid": "278",
-    "red_oid": "1186",
-    "white_oid": "0378",
-    "split_oid": "1811"
+    "red_oid": "285",
+    "white_oid": "411",
+    "split_oid": "261"
   },
   {
     "oid": "279",
-    "red_oid": "2089",
-    "white_oid": "2055",
-    "split_oid": "0075"
+    "red_oid": "454",
+    "white_oid": "484",
+    "split_oid": "513"
   },
   {
     "oid": "280",
-    "red_oid": "2069",
-    "white_oid": "0838",
-    "split_oid": "1171"
+    "red_oid": "592",
+    "white_oid": "123",
+    "split_oid": "427"
   },
   {
     "oid": "281",
-    "red_oid": "1969",
-    "white_oid": "0642",
-    "split_oid": "1022"
+    "red_oid": "751",
+    "white_oid": "312",
+    "split_oid": "778"
   },
   {
     "oid": "282",
-    "red_oid": "0339",
-    "white_oid": "1321",
-    "split_oid": "0876"
+    "red_oid": "384",
+    "white_oid": "688",
+    "split_oid": "607"
   },
   {
     "oid": "283",
-    "red_oid": "0054",
-    "white_oid": "0971",
-    "split_oid": "1669"
+    "red_oid": "743",
+    "white_oid": "403",
+    "split_oid": "516"
   },
   {
     "oid": "284",
-    "red_oid": "0256",
-    "white_oid": "0324",
-    "split_oid": "1294"
+    "red_oid": "382",
+    "white_oid": "429",
+    "split_oid": "435"
   },
   {
     "oid": "285",
-    "red_oid": "0177",
-    "white_oid": "1213",
-    "split_oid": "1889"
+    "red_oid": "960",
+    "white_oid": "897",
+    "split_oid": "111"
   },
   {
     "oid": "286",
-    "red_oid": "0392",
-    "white_oid": "1491",
-    "split_oid": "1398"
+    "red_oid": "378",
+    "white_oid": "576",
+    "split_oid": "379"
   },
   {
     "oid": "287",
-    "red_oid": "1175",
-    "white_oid": "1620",
-    "split_oid": "1676"
+    "red_oid": "683",
+    "white_oid": "150",
+    "split_oid": "567"
   },
   {
     "oid": "288",
-    "red_oid": "0423",
-    "white_oid": "1359",
-    "split_oid": "0129"
+    "red_oid": "303",
+    "white_oid": "608",
+    "split_oid": "704"
   },
   {
     "oid": "289",
-    "red_oid": "1174",
-    "white_oid": "0583",
-    "split_oid": "0703"
+    "red_oid": "589",
+    "white_oid": "202",
+    "split_oid": "672"
   },
   {
     "oid": "290",
-    "red_oid": "1048",
-    "white_oid": "1430",
-    "split_oid": "0979"
+    "red_oid": "226",
+    "white_oid": "338",
+    "split_oid": "593"
   },
   {
     "oid": "291",
-    "red_oid": "0762",
-    "white_oid": "1213",
-    "split_oid": "1664"
+    "red_oid": "655",
+    "white_oid": "849",
+    "split_oid": "313"
   },
   {
     "oid": "292",
-    "red_oid": "0774",
-    "white_oid": "0933",
-    "split_oid": "0861"
+    "red_oid": "825",
+    "white_oid": "743",
+    "split_oid": "747"
   },
   {
     "oid": "293",
-    "red_oid": "1873",
-    "white_oid": "1624",
-    "split_oid": "1956"
+    "red_oid": "473",
+    "white_oid": "544",
+    "split_oid": "656"
   },
   {
     "oid": "294",
-    "red_oid": "0704",
-    "white_oid": "0640",
-    "split_oid": "1809"
+    "red_oid": "739",
+    "white_oid": "791",
+    "split_oid": "713"
   },
   {
     "oid": "295",
-    "red_oid": "0143",
-    "white_oid": "0007",
-    "split_oid": "0035"
+    "red_oid": "682",
+    "white_oid": "929",
+    "split_oid": "715"
   },
   {
     "oid": "296",
-    "red_oid": "1032",
-    "white_oid": "1811",
-    "split_oid": "1521"
+    "red_oid": "766",
+    "white_oid": "549",
+    "split_oid": "249"
   },
   {
     "oid": "297",
-    "red_oid": "1585",
-    "white_oid": "1110",
-    "split_oid": "2086"
+    "red_oid": "622",
+    "white_oid": "542",
+    "split_oid": "141"
   },
   {
     "oid": "298",
-    "red_oid": "0386",
-    "white_oid": "2000",
-    "split_oid": "0768"
+    "red_oid": "243",
+    "white_oid": "217",
+    "split_oid": "482"
   },
   {
     "oid": "299",
-    "red_oid": "1227",
-    "white_oid": "1295",
-    "split_oid": "0085"
+    "red_oid": "274",
+    "white_oid": "125",
+    "split_oid": "489"
   },
   {
     "oid": "300",
-    "red_oid": "0984",
-    "white_oid": "0848",
-    "split_oid": "0410"
+    "red_oid": "483",
+    "white_oid": "107",
+    "split_oid": "235"
   },
   {
     "oid": "301",
-    "red_oid": "1803",
-    "white_oid": "1631",
-    "split_oid": "0975"
+    "red_oid": "781",
+    "white_oid": "742",
+    "split_oid": "151"
   },
   {
     "oid": "302",
-    "red_oid": "0345",
-    "white_oid": "0972",
-    "split_oid": "1847"
+    "red_oid": "488",
+    "white_oid": "340",
+    "split_oid": "394"
   },
   {
     "oid": "303",
-    "red_oid": "0403",
-    "white_oid": "1441",
-    "split_oid": "0003"
+    "red_oid": "504",
+    "white_oid": "505",
+    "split_oid": "590"
   },
   {
     "oid": "304",
-    "red_oid": "0175",
-    "white_oid": "1156",
-    "split_oid": "1482"
+    "red_oid": "420",
+    "white_oid": "859",
+    "split_oid": "298"
   },
   {
     "oid": "305",
-    "red_oid": "0380",
-    "white_oid": "1083",
-    "split_oid": "1745"
+    "red_oid": "481",
+    "white_oid": "749",
+    "split_oid": "656"
   },
   {
     "oid": "306",
-    "red_oid": "0650",
-    "white_oid": "1647",
-    "split_oid": "1900"
+    "red_oid": "330",
+    "white_oid": "639",
+    "split_oid": "684"
   },
   {
     "oid": "307",
-    "red_oid": "1258",
-    "white_oid": "1506",
-    "split_oid": "1832"
+    "red_oid": "285",
+    "white_oid": "711",
+    "split_oid": "616"
   },
   {
     "oid": "308",
-    "red_oid": "1117",
-    "white_oid": "0502",
-    "split_oid": "0429"
+    "red_oid": "636",
+    "white_oid": "403",
+    "split_oid": "320"
   },
   {
     "oid": "309",
-    "red_oid": "0851",
-    "white_oid": "1142",
-    "split_oid": "2017"
+    "red_oid": "856",
+    "white_oid": "949",
+    "split_oid": "547"
   },
   {
     "oid": "310",
-    "red_oid": "0908",
-    "white_oid": "0419",
-    "split_oid": "0553"
+    "red_oid": "729",
+    "white_oid": "418",
+    "split_oid": "844"
   },
   {
     "oid": "311",
-    "red_oid": "2093",
-    "white_oid": "1765",
-    "split_oid": "1885"
+    "red_oid": "563",
+    "white_oid": "376",
+    "split_oid": "290"
   },
   {
     "oid": "312",
-    "red_oid": "1250",
-    "white_oid": "0089",
-    "split_oid": "0881"
+    "red_oid": "817",
+    "white_oid": "647",
+    "split_oid": "933"
   },
   {
     "oid": "313",
-    "red_oid": "1729",
-    "white_oid": "0366",
-    "split_oid": "0958"
+    "red_oid": "720",
+    "white_oid": "239",
+    "split_oid": "388"
   },
   {
     "oid": "314",
-    "red_oid": "1379",
-    "white_oid": "0273",
-    "split_oid": "0600"
+    "red_oid": "583",
+    "white_oid": "828",
+    "split_oid": "648"
   },
   {
     "oid": "315",
-    "red_oid": "1039",
-    "white_oid": "0596",
-    "split_oid": "1423"
+    "red_oid": "697",
+    "white_oid": "710",
+    "split_oid": "877"
   },
   {
     "oid": "316",
-    "red_oid": "2080",
-    "white_oid": "0036",
-    "split_oid": "0697"
+    "red_oid": "805",
+    "white_oid": "660",
+    "split_oid": "483"
   },
   {
     "oid": "317",
-    "red_oid": "1899",
-    "white_oid": "0925",
-    "split_oid": "1059"
+    "red_oid": "148",
+    "white_oid": "627",
+    "split_oid": "882"
   },
   {
     "oid": "318",
-    "red_oid": "0428",
-    "white_oid": "1207",
-    "split_oid": "1321"
+    "red_oid": "326",
+    "white_oid": "737",
+    "split_oid": "173"
   },
   {
     "oid": "319",
-    "red_oid": "1748",
-    "white_oid": "0289",
-    "split_oid": "1530"
+    "red_oid": "823",
+    "white_oid": "710",
+    "split_oid": "863"
   },
   {
     "oid": "320",
-    "red_oid": "1952",
-    "white_oid": "1083",
-    "split_oid": "1408"
+    "red_oid": "974",
+    "white_oid": "579",
+    "split_oid": "458"
   },
   {
     "oid": "321",
-    "red_oid": "0886",
-    "white_oid": "1197",
-    "split_oid": "1316"
+    "red_oid": "731",
+    "white_oid": "682",
+    "split_oid": "137"
   },
   {
     "oid": "322",
-    "red_oid": "0481",
-    "white_oid": "0717",
-    "split_oid": "1593"
+    "red_oid": "333",
+    "white_oid": "139",
+    "split_oid": "855"
   },
   {
     "oid": "323",
-    "red_oid": "0484",
-    "white_oid": "2095",
-    "split_oid": "0094"
+    "red_oid": "108",
+    "white_oid": "482",
+    "split_oid": "272"
   },
   {
     "oid": "324",
-    "red_oid": "1670",
-    "white_oid": "1390",
-    "split_oid": "1509"
+    "red_oid": "196",
+    "white_oid": "528",
+    "split_oid": "278"
   },
   {
     "oid": "325",
-    "red_oid": "1944",
-    "white_oid": "1766",
-    "split_oid": "0458"
+    "red_oid": "615",
+    "white_oid": "281",
+    "split_oid": "769"
   },
   {
     "oid": "326",
-    "red_oid": "1305",
-    "white_oid": "1252",
-    "split_oid": "1652"
+    "red_oid": "556",
+    "white_oid": "382",
+    "split_oid": "632"
   },
   {
     "oid": "327",
-    "red_oid": "1703",
-    "white_oid": "0321",
-    "split_oid": "0648"
+    "red_oid": "642",
+    "white_oid": "232",
+    "split_oid": "613"
   },
   {
     "oid": "328",
-    "red_oid": "1352",
-    "white_oid": "1381",
-    "split_oid": "0537"
+    "red_oid": "921",
+    "white_oid": "334",
+    "split_oid": "110"
   },
   {
     "oid": "329",
-    "red_oid": "1656",
-    "white_oid": "0132",
-    "split_oid": "0795"
+    "red_oid": "501",
+    "white_oid": "651",
+    "split_oid": "760"
   },
   {
     "oid": "330",
-    "red_oid": "0685",
-    "white_oid": "0973",
-    "split_oid": "1300"
+    "red_oid": "870",
+    "white_oid": "729",
+    "split_oid": "242"
   },
   {
     "oid": "331",
-    "red_oid": "0525",
-    "white_oid": "0273",
-    "split_oid": "0387"
+    "red_oid": "771",
+    "white_oid": "471",
+    "split_oid": "956"
   },
   {
     "oid": "332",
-    "red_oid": "1846",
-    "white_oid": "0339",
-    "split_oid": "1771"
+    "red_oid": "720",
+    "white_oid": "248",
+    "split_oid": "323"
   },
   {
     "oid": "333",
-    "red_oid": "2001",
-    "white_oid": "1180",
-    "split_oid": "0524"
+    "red_oid": "859",
+    "white_oid": "481",
+    "split_oid": "969"
   },
   {
     "oid": "334",
-    "red_oid": "0934",
-    "white_oid": "1287",
-    "split_oid": "1365"
+    "red_oid": "480",
+    "white_oid": "105",
+    "split_oid": "792"
   },
   {
     "oid": "335",
-    "red_oid": "1648",
-    "white_oid": "0959",
-    "split_oid": "1635"
+    "red_oid": "989",
+    "white_oid": "891",
+    "split_oid": "425"
   },
   {
     "oid": "336",
-    "red_oid": "0582",
-    "white_oid": "1163",
-    "split_oid": "1260"
+    "red_oid": "352",
+    "white_oid": "136",
+    "split_oid": "777"
   },
   {
     "oid": "337",
-    "red_oid": "1141",
-    "white_oid": "0861",
-    "split_oid": "1559"
+    "red_oid": "220",
+    "white_oid": "248",
+    "split_oid": "403"
   },
   {
     "oid": "338",
-    "red_oid": "0429",
-    "white_oid": "0234",
-    "split_oid": "1673"
+    "red_oid": "707",
+    "white_oid": "706",
+    "split_oid": "560"
   },
   {
     "oid": "339",
-    "red_oid": "1546",
-    "white_oid": "1301",
-    "split_oid": "1893"
+    "red_oid": "730",
+    "white_oid": "738",
+    "split_oid": "877"
   },
   {
     "oid": "340",
-    "red_oid": "0071",
-    "white_oid": "1998",
-    "split_oid": "0224"
+    "red_oid": "344",
+    "white_oid": "249",
+    "split_oid": "287"
   },
   {
     "oid": "341",
-    "red_oid": "1449",
-    "white_oid": "2075",
-    "split_oid": "1636"
+    "red_oid": "605",
+    "white_oid": "379",
+    "split_oid": "519"
   },
   {
     "oid": "342",
-    "red_oid": "0722",
-    "white_oid": "1808",
-    "split_oid": "0371"
+    "red_oid": "918",
+    "white_oid": "536",
+    "split_oid": "200"
   },
   {
     "oid": "343",
-    "red_oid": "0734",
-    "white_oid": "0597",
-    "split_oid": "2041"
+    "red_oid": "307",
+    "white_oid": "485",
+    "split_oid": "276"
   },
   {
     "oid": "344",
-    "red_oid": "0102",
-    "white_oid": "0043",
-    "split_oid": "2063"
+    "red_oid": "687",
+    "white_oid": "848",
+    "split_oid": "916"
   },
   {
     "oid": "345",
-    "red_oid": "0440",
-    "white_oid": "2015",
-    "split_oid": "1348"
+    "red_oid": "142",
+    "white_oid": "959",
+    "split_oid": "498"
   },
   {
     "oid": "346",
-    "red_oid": "1625",
-    "white_oid": "2066",
-    "split_oid": "0643"
+    "red_oid": "334",
+    "white_oid": "252",
+    "split_oid": "264"
   },
   {
     "oid": "347",
-    "red_oid": "1628",
-    "white_oid": "0863",
-    "split_oid": "0989"
+    "red_oid": "612",
+    "white_oid": "739",
+    "split_oid": "547"
   },
   {
     "oid": "348",
-    "red_oid": "1960",
-    "white_oid": "1126",
-    "split_oid": "0277"
+    "red_oid": "792",
+    "white_oid": "342",
+    "split_oid": "820"
   },
   {
     "oid": "349",
-    "red_oid": "0158",
-    "white_oid": "0739",
-    "split_oid": "0837"
+    "red_oid": "102",
+    "white_oid": "918",
+    "split_oid": "754"
   },
   {
     "oid": "350",
-    "red_oid": "1882",
-    "white_oid": "0443",
-    "split_oid": "1328"
+    "red_oid": "735",
+    "white_oid": "696",
+    "split_oid": "416"
   },
   {
     "oid": "351",
-    "red_oid": "0053",
-    "white_oid": "0928",
-    "split_oid": "1254"
+    "red_oid": "135",
+    "white_oid": "290",
+    "split_oid": "319"
   },
   {
     "oid": "352",
-    "red_oid": "0141",
-    "white_oid": "0926",
-    "split_oid": "1517"
+    "red_oid": "866",
+    "white_oid": "642",
+    "split_oid": "728"
   },
   {
     "oid": "353",
-    "red_oid": "1747",
-    "white_oid": "1767",
-    "split_oid": "0919"
+    "red_oid": "226",
+    "white_oid": "746",
+    "split_oid": "851"
   },
   {
     "oid": "354",
-    "red_oid": "1030",
-    "white_oid": "1650",
-    "split_oid": "1213"
+    "red_oid": "319",
+    "white_oid": "760",
+    "split_oid": "728"
   },
   {
     "oid": "355",
-    "red_oid": "0346",
-    "white_oid": "0806",
-    "split_oid": "2047"
+    "red_oid": "841",
+    "white_oid": "622",
+    "split_oid": "791"
   },
   {
     "oid": "356",
-    "red_oid": "0311",
-    "white_oid": "1292",
-    "split_oid": "0060"
+    "red_oid": "642",
+    "white_oid": "328",
+    "split_oid": "406"
   },
   {
     "oid": "357",
-    "red_oid": "0988",
-    "white_oid": "1767",
-    "split_oid": "1689"
+    "red_oid": "950",
+    "white_oid": "135",
+    "split_oid": "138"
   },
   {
     "oid": "358",
-    "red_oid": "0770",
-    "white_oid": "0033",
-    "split_oid": "2042"
+    "red_oid": "416",
+    "white_oid": "703",
+    "split_oid": "780"
   },
   {
     "oid": "359",
-    "red_oid": "1394",
-    "white_oid": "1642",
-    "split_oid": "1740"
+    "red_oid": "423",
+    "white_oid": "766",
+    "split_oid": "502"
   },
   {
     "oid": "360",
-    "red_oid": "1253",
-    "white_oid": "0440",
-    "split_oid": "0565"
+    "red_oid": "197",
+    "white_oid": "642",
+    "split_oid": "453"
   },
   {
     "oid": "361",
-    "red_oid": "1536",
-    "white_oid": "1820",
-    "split_oid": "0047"
+    "red_oid": "337",
+    "white_oid": "358",
+    "split_oid": "995"
   },
   {
     "oid": "362",
-    "red_oid": "0851",
-    "white_oid": "1572",
-    "split_oid": "1671"
+    "red_oid": "540",
+    "white_oid": "529",
+    "split_oid": "967"
   },
   {
     "oid": "363",
-    "red_oid": "1459",
-    "white_oid": "1229",
-    "split_oid": "1131"
+    "red_oid": "685",
+    "white_oid": "127",
+    "split_oid": "206"
   },
   {
     "oid": "364",
-    "red_oid": "1730",
-    "white_oid": "1908",
-    "split_oid": "2040"
+    "red_oid": "109",
+    "white_oid": "331",
+    "split_oid": "204"
   },
   {
     "oid": "365",
-    "red_oid": "0975",
-    "white_oid": "1712",
-    "split_oid": "0204"
+    "red_oid": "568",
+    "white_oid": "371",
+    "split_oid": "189"
   },
   {
     "oid": "366",
-    "red_oid": "0625",
-    "white_oid": "1613",
-    "split_oid": "0407"
+    "red_oid": "133",
+    "white_oid": "828",
+    "split_oid": "390"
   },
   {
     "oid": "367",
-    "red_oid": "0834",
-    "white_oid": "0385",
-    "split_oid": "2040"
+    "red_oid": "879",
+    "white_oid": "486",
+    "split_oid": "986"
   },
   {
     "oid": "368",
-    "red_oid": "1098",
-    "white_oid": "0036",
-    "split_oid": "2043"
+    "red_oid": "635",
+    "white_oid": "575",
+    "split_oid": "200"
   },
   {
     "oid": "369",
-    "red_oid": "1145",
-    "white_oid": "2078",
-    "split_oid": "0847"
+    "red_oid": "834",
+    "white_oid": "913",
+    "split_oid": "537"
   },
   {
     "oid": "370",
-    "red_oid": "1816",
-    "white_oid": "0453",
-    "split_oid": "0567"
+    "red_oid": "863",
+    "white_oid": "297",
+    "split_oid": "106"
   },
   {
     "oid": "371",
-    "red_oid": "1556",
-    "white_oid": "1985",
-    "split_oid": "0776"
+    "red_oid": "780",
+    "white_oid": "470",
+    "split_oid": "255"
   },
   {
     "oid": "372",
-    "red_oid": "1198",
-    "white_oid": "0329",
-    "split_oid": "0426"
+    "red_oid": "247",
+    "white_oid": "417",
+    "split_oid": "325"
   },
   {
     "oid": "373",
-    "red_oid": "2039",
-    "white_oid": "0648",
-    "split_oid": "0370"
+    "red_oid": "324",
+    "white_oid": "619",
+    "split_oid": "540"
   },
   {
     "oid": "374",
-    "red_oid": "0270",
-    "white_oid": "0506",
-    "split_oid": "0833"
+    "red_oid": "461",
+    "white_oid": "233",
+    "split_oid": "733"
   },
   {
     "oid": "375",
-    "red_oid": "1830",
-    "white_oid": "1341",
-    "split_oid": "1247"
+    "red_oid": "579",
+    "white_oid": "157",
+    "split_oid": "637"
   },
   {
     "oid": "376",
-    "red_oid": "1636",
-    "white_oid": "1448",
-    "split_oid": "1505"
+    "red_oid": "814",
+    "white_oid": "179",
+    "split_oid": "840"
   },
   {
     "oid": "377",
-    "red_oid": "0445",
-    "white_oid": "1726",
-    "split_oid": "1059"
+    "red_oid": "592",
+    "white_oid": "737",
+    "split_oid": "512"
   },
   {
     "oid": "378",
-    "red_oid": "1349",
-    "white_oid": "1777",
-    "split_oid": "1140"
+    "red_oid": "836",
+    "white_oid": "444",
+    "split_oid": "194"
   },
   {
     "oid": "379",
-    "red_oid": "1563",
-    "white_oid": "1916",
-    "split_oid": "0701"
+    "red_oid": "560",
+    "white_oid": "896",
+    "split_oid": "850"
   },
   {
     "oid": "380",
-    "red_oid": "1128",
-    "white_oid": "0024",
-    "split_oid": "0283"
+    "red_oid": "711",
+    "white_oid": "155",
+    "split_oid": "306"
   },
   {
     "oid": "381",
-    "red_oid": "1686",
-    "white_oid": "0461",
-    "split_oid": "0017"
+    "red_oid": "125",
+    "white_oid": "323",
+    "split_oid": "857"
   },
   {
     "oid": "382",
-    "red_oid": "1594",
-    "white_oid": "0155",
-    "split_oid": "1050"
+    "red_oid": "392",
+    "white_oid": "885",
+    "split_oid": "321"
   },
   {
     "oid": "383",
-    "red_oid": "1334",
-    "white_oid": "0168",
-    "split_oid": "0195"
+    "red_oid": "413",
+    "white_oid": "460",
+    "split_oid": "484"
   },
   {
     "oid": "384",
-    "red_oid": "0075",
-    "white_oid": "0179",
-    "split_oid": "1260"
+    "red_oid": "692",
+    "white_oid": "576",
+    "split_oid": "446"
   },
   {
     "oid": "385",
-    "red_oid": "1751",
-    "white_oid": "0744",
-    "split_oid": "0646"
+    "red_oid": "902",
+    "white_oid": "889",
+    "split_oid": "500"
   },
   {
     "oid": "386",
-    "red_oid": "0429",
-    "white_oid": "0831",
-    "split_oid": "0929"
+    "red_oid": "110",
+    "white_oid": "453",
+    "split_oid": "400"
   },
   {
     "oid": "387",
-    "red_oid": "1701",
-    "white_oid": "0530",
-    "split_oid": "1770"
+    "red_oid": "816",
+    "white_oid": "536",
+    "split_oid": "398"
   },
   {
     "oid": "388",
-    "red_oid": "0069",
-    "white_oid": "1009",
-    "split_oid": "0571"
+    "red_oid": "432",
+    "white_oid": "574",
+    "split_oid": "548"
   },
   {
     "oid": "389",
-    "red_oid": "0634",
-    "white_oid": "0989",
-    "split_oid": "1123"
+    "red_oid": "625",
+    "white_oid": "137",
+    "split_oid": "353"
   },
   {
     "oid": "390",
-    "red_oid": "0022",
-    "white_oid": "1351",
-    "split_oid": "1801"
+    "red_oid": "986",
+    "white_oid": "385",
+    "split_oid": "947"
   },
   {
     "oid": "391",
-    "red_oid": "1117",
-    "white_oid": "1354",
-    "split_oid": "0909"
+    "red_oid": "380",
+    "white_oid": "575",
+    "split_oid": "454"
   },
   {
     "oid": "392",
-    "red_oid": "0199",
-    "white_oid": "1492",
-    "split_oid": "0277"
+    "red_oid": "295",
+    "white_oid": "337",
+    "split_oid": "898"
   },
   {
     "oid": "393",
-    "red_oid": "0752",
-    "white_oid": "0718",
-    "split_oid": "1381"
+    "red_oid": "193",
+    "white_oid": "765",
+    "split_oid": "836"
   },
   {
     "oid": "394",
-    "red_oid": "0281",
-    "white_oid": "0086",
-    "split_oid": "0184"
+    "red_oid": "919",
+    "white_oid": "427",
+    "split_oid": "782"
   },
   {
     "oid": "395",
-    "red_oid": "1170",
-    "white_oid": "1879",
-    "split_oid": "1745"
+    "red_oid": "705",
+    "white_oid": "403",
+    "split_oid": "553"
   },
   {
     "oid": "396",
-    "red_oid": "1452",
-    "white_oid": "2036",
-    "split_oid": "1872"
+    "red_oid": "186",
+    "white_oid": "681",
+    "split_oid": "328"
   },
   {
     "oid": "397",
-    "red_oid": "0817",
-    "white_oid": "1855",
-    "split_oid": "0836"
+    "red_oid": "333",
+    "white_oid": "197",
+    "split_oid": "690"
   },
   {
     "oid": "398",
-    "red_oid": "1521",
-    "white_oid": "1631",
-    "split_oid": "0222"
+    "red_oid": "583",
+    "white_oid": "885",
+    "split_oid": "598"
   },
   {
     "oid": "399",
-    "red_oid": "1123",
-    "white_oid": "0998",
-    "split_oid": "0554"
+    "red_oid": "155",
+    "white_oid": "951",
+    "split_oid": "834"
   },
   {
     "oid": "400",
-    "red_oid": "1469",
-    "white_oid": "0106",
-    "split_oid": "0557"
+    "red_oid": "480",
+    "white_oid": "487",
+    "split_oid": "880"
   },
   {
     "oid": "401",
-    "red_oid": "1745",
-    "white_oid": "1057",
-    "split_oid": "0619"
+    "red_oid": "625",
+    "white_oid": "946",
+    "split_oid": "667"
   },
   {
     "oid": "402",
-    "red_oid": "1377",
-    "white_oid": "1039",
-    "split_oid": "1364"
+    "red_oid": "566",
+    "white_oid": "551",
+    "split_oid": "726"
   },
   {
     "oid": "403",
-    "red_oid": "1698",
-    "white_oid": "0417",
-    "split_oid": "1850"
+    "red_oid": "159",
+    "white_oid": "553",
+    "split_oid": "570"
   },
   {
     "oid": "404",
-    "red_oid": "0183",
-    "white_oid": "1456",
-    "split_oid": "1549"
+    "red_oid": "755",
+    "white_oid": "367",
+    "split_oid": "517"
   },
   {
     "oid": "405",
-    "red_oid": "0247",
-    "white_oid": "1733",
-    "split_oid": "1449"
+    "red_oid": "570",
+    "white_oid": "649",
+    "split_oid": "662"
   },
   {
     "oid": "406",
-    "red_oid": "1344",
-    "white_oid": "0768",
-    "split_oid": "1429"
+    "red_oid": "178",
+    "white_oid": "802",
+    "split_oid": "100"
   },
   {
     "oid": "407",
-    "red_oid": "0378",
-    "white_oid": "1657",
-    "split_oid": "0233"
+    "red_oid": "920",
+    "white_oid": "966",
+    "split_oid": "823"
   },
   {
     "oid": "408",
-    "red_oid": "1225",
-    "white_oid": "0945",
-    "split_oid": "1842"
+    "red_oid": "535",
+    "white_oid": "196",
+    "split_oid": "643"
   },
   {
     "oid": "409",
-    "red_oid": "0712",
-    "white_oid": "0505",
-    "split_oid": "1968"
+    "red_oid": "342",
+    "white_oid": "210",
+    "split_oid": "604"
   },
   {
     "oid": "410",
-    "red_oid": "0867",
-    "white_oid": "1905",
-    "split_oid": "2002"
+    "red_oid": "662",
+    "white_oid": "957",
+    "split_oid": "165"
   },
   {
     "oid": "411",
-    "red_oid": "1618",
-    "white_oid": "1680",
-    "split_oid": "1794"
+    "red_oid": "599",
+    "white_oid": "308",
+    "split_oid": "892"
   },
   {
     "oid": "412",
-    "red_oid": "1219",
-    "white_oid": "1046",
-    "split_oid": "0603"
+    "red_oid": "481",
+    "white_oid": "723",
+    "split_oid": "913"
   },
   {
     "oid": "413",
-    "red_oid": "1517",
-    "white_oid": "1320",
-    "split_oid": "0653"
+    "red_oid": "131",
+    "white_oid": "154",
+    "split_oid": "793"
   },
   {
     "oid": "414",
-    "red_oid": "0813",
-    "white_oid": "0682",
-    "split_oid": "0738"
+    "red_oid": "970",
+    "white_oid": "606",
+    "split_oid": "985"
   },
   {
     "oid": "415",
-    "red_oid": "1426",
-    "white_oid": "0615",
-    "split_oid": "2059"
+    "red_oid": "193",
+    "white_oid": "405",
+    "split_oid": "323"
   },
   {
     "oid": "416",
-    "red_oid": "0166",
-    "white_oid": "0185",
-    "split_oid": "1426"
+    "red_oid": "336",
+    "white_oid": "942",
+    "split_oid": "617"
   },
   {
     "oid": "417",
-    "red_oid": "1859",
-    "white_oid": "1032",
-    "split_oid": "1124"
+    "red_oid": "471",
+    "white_oid": "261",
+    "split_oid": "785"
   },
   {
     "oid": "418",
-    "red_oid": "0017",
-    "white_oid": "0376",
-    "split_oid": "1073"
+    "red_oid": "110",
+    "white_oid": "847",
+    "split_oid": "254"
   },
   {
     "oid": "419",
-    "red_oid": "2038",
-    "white_oid": "0886",
-    "split_oid": "1006"
+    "red_oid": "213",
+    "white_oid": "144",
+    "split_oid": "179"
   },
   {
     "oid": "420",
-    "red_oid": "1475",
-    "white_oid": "1227",
-    "split_oid": "1120"
+    "red_oid": "560",
+    "white_oid": "683",
+    "split_oid": "122"
   },
   {
     "oid": "421",
-    "red_oid": "0849",
-    "white_oid": "0521",
-    "split_oid": "1411"
+    "red_oid": "146",
+    "white_oid": "347",
+    "split_oid": "589"
   },
   {
     "oid": "422",
-    "red_oid": "0288",
-    "white_oid": "0082",
-    "split_oid": "1737"
+    "red_oid": "417",
+    "white_oid": "917",
+    "split_oid": "256"
   },
   {
     "oid": "423",
-    "red_oid": "0443",
-    "white_oid": "0547",
-    "split_oid": "1627"
+    "red_oid": "914",
+    "white_oid": "492",
+    "split_oid": "506"
   },
   {
     "oid": "424",
-    "red_oid": "0205",
-    "white_oid": "1255",
-    "split_oid": "1842"
+    "red_oid": "210",
+    "white_oid": "222",
+    "split_oid": "754"
   },
   {
     "oid": "425",
-    "red_oid": "0795",
-    "white_oid": "0045",
-    "split_oid": "1296"
+    "red_oid": "869",
+    "white_oid": "321",
+    "split_oid": "466"
   },
   {
     "oid": "426",
-    "red_oid": "1685",
-    "white_oid": "0897",
-    "split_oid": "0230"
+    "red_oid": "162",
+    "white_oid": "641",
+    "split_oid": "747"
   },
   {
     "oid": "427",
-    "red_oid": "0581",
-    "white_oid": "0451",
-    "split_oid": "0363"
+    "red_oid": "877",
+    "white_oid": "332",
+    "split_oid": "356"
   },
   {
     "oid": "428",
-    "red_oid": "1002",
-    "white_oid": "1356",
-    "split_oid": "1683"
+    "red_oid": "893",
+    "white_oid": "595",
+    "split_oid": "218"
   },
   {
     "oid": "429",
-    "red_oid": "1053",
-    "white_oid": "0304",
-    "split_oid": "0424"
+    "red_oid": "431",
+    "white_oid": "532",
+    "split_oid": "746"
   },
   {
     "oid": "430",
-    "red_oid": "1485",
-    "white_oid": "1727",
-    "split_oid": "1818"
+    "red_oid": "269",
+    "white_oid": "418",
+    "split_oid": "923"
   },
   {
     "oid": "431",
-    "red_oid": "1741",
-    "white_oid": "2052",
-    "split_oid": "0843"
+    "red_oid": "411",
+    "white_oid": "362",
+    "split_oid": "268"
   },
   {
     "oid": "432",
-    "red_oid": "1614",
-    "white_oid": "0510",
-    "split_oid": "0631"
+    "red_oid": "887",
+    "white_oid": "948",
+    "split_oid": "733"
   },
   {
     "oid": "433",
-    "red_oid": "1052",
-    "white_oid": "1969",
-    "split_oid": "0696"
+    "red_oid": "236",
+    "white_oid": "910",
+    "split_oid": "372"
   },
   {
     "oid": "434",
-    "red_oid": "1544",
-    "white_oid": "0291",
-    "split_oid": "1530"
+    "red_oid": "200",
+    "white_oid": "294",
+    "split_oid": "766"
   },
   {
     "oid": "435",
-    "red_oid": "2013",
-    "white_oid": "1986",
-    "split_oid": "1541"
+    "red_oid": "611",
+    "white_oid": "806",
+    "split_oid": "364"
   },
   {
     "oid": "436",
-    "red_oid": "0753",
-    "white_oid": "1531",
-    "split_oid": "0313"
+    "red_oid": "351",
+    "white_oid": "135",
+    "split_oid": "231"
   },
   {
     "oid": "437",
-    "red_oid": "1881",
-    "white_oid": "2090",
-    "split_oid": "0582"
+    "red_oid": "963",
+    "white_oid": "596",
+    "split_oid": "303"
   },
   {
     "oid": "438",
-    "red_oid": "1894",
-    "white_oid": "1950",
-    "split_oid": "0175"
+    "red_oid": "961",
+    "white_oid": "508",
+    "split_oid": "596"
   },
   {
     "oid": "439",
-    "red_oid": "1489",
-    "white_oid": "0126",
-    "split_oid": "1016"
+    "red_oid": "472",
+    "white_oid": "863",
+    "split_oid": "657"
   },
   {
     "oid": "440",
-    "red_oid": "1421",
-    "white_oid": "0255",
-    "split_oid": "0360"
+    "red_oid": "874",
+    "white_oid": "922",
+    "split_oid": "410"
   },
   {
     "oid": "441",
-    "red_oid": "1788",
-    "white_oid": "0043",
-    "split_oid": "0369"
+    "red_oid": "752",
+    "white_oid": "896",
+    "split_oid": "959"
   },
   {
     "oid": "442",
-    "red_oid": "1840",
-    "white_oid": "1139",
-    "split_oid": "1258"
+    "red_oid": "964",
+    "white_oid": "913",
+    "split_oid": "980"
   },
   {
     "oid": "443",
-    "red_oid": "0171",
-    "white_oid": "1935",
-    "split_oid": "0505"
+    "red_oid": "123",
+    "white_oid": "361",
+    "split_oid": "369"
   },
   {
     "oid": "444",
-    "red_oid": "1545",
-    "white_oid": "0738",
-    "split_oid": "0071"
+    "red_oid": "891",
+    "white_oid": "463",
+    "split_oid": "232"
   },
   {
     "oid": "445",
-    "red_oid": "0348",
-    "white_oid": "0507",
-    "split_oid": "0434"
+    "red_oid": "371",
+    "white_oid": "901",
+    "split_oid": "740"
   },
   {
     "oid": "446",
-    "red_oid": "0281",
-    "white_oid": "0656",
-    "split_oid": "1530"
+    "red_oid": "215",
+    "white_oid": "179",
+    "split_oid": "742"
   },
   {
     "oid": "447",
-    "red_oid": "0423",
-    "white_oid": "1125",
-    "split_oid": "1383"
+    "red_oid": "667",
+    "white_oid": "889",
+    "split_oid": "188"
   },
   {
     "oid": "448",
-    "red_oid": "0698",
-    "white_oid": "1561",
-    "split_oid": "1118"
+    "red_oid": "906",
+    "white_oid": "752",
+    "split_oid": "133"
   },
   {
     "oid": "449",
-    "red_oid": "0606",
-    "white_oid": "1861",
-    "split_oid": "0082"
+    "red_oid": "517",
+    "white_oid": "175",
+    "split_oid": "534"
   },
   {
     "oid": "450",
-    "red_oid": "0616",
-    "white_oid": "0684",
-    "split_oid": "1276"
+    "red_oid": "205",
+    "white_oid": "221",
+    "split_oid": "312"
   },
   {
     "oid": "451",
-    "red_oid": "1500",
-    "white_oid": "0102",
-    "split_oid": "0765"
+    "red_oid": "396",
+    "white_oid": "395",
+    "split_oid": "464"
   },
   {
     "oid": "452",
-    "red_oid": "1199",
-    "white_oid": "0950",
-    "split_oid": "0288"
+    "red_oid": "962",
+    "white_oid": "561",
+    "split_oid": "317"
   },
   {
     "oid": "453",
-    "red_oid": "0561",
-    "white_oid": "0558",
-    "split_oid": "0365"
+    "red_oid": "644",
+    "white_oid": "500",
+    "split_oid": "119"
   },
   {
     "oid": "454",
-    "red_oid": "0834",
-    "white_oid": "0348",
-    "split_oid": "1429"
+    "red_oid": "328",
+    "white_oid": "354",
+    "split_oid": "205"
   },
   {
     "oid": "455",
-    "red_oid": "1658",
-    "white_oid": "0545",
-    "split_oid": "1350"
+    "red_oid": "715",
+    "white_oid": "763",
+    "split_oid": "599"
   },
   {
     "oid": "456",
-    "red_oid": "0242",
-    "white_oid": "1015",
-    "split_oid": "1134"
+    "red_oid": "377",
+    "white_oid": "490",
+    "split_oid": "227"
   },
   {
     "oid": "457",
-    "red_oid": "1848",
-    "white_oid": "1857",
-    "split_oid": "1008"
+    "red_oid": "149",
+    "white_oid": "740",
+    "split_oid": "834"
   },
   {
     "oid": "458",
-    "red_oid": "0865",
-    "white_oid": "0614",
-    "split_oid": "1271"
+    "red_oid": "649",
+    "white_oid": "729",
+    "split_oid": "139"
   },
   {
     "oid": "459",
-    "red_oid": "0435",
-    "white_oid": "1221",
-    "split_oid": "1919"
+    "red_oid": "719",
+    "white_oid": "921",
+    "split_oid": "175"
   },
   {
     "oid": "460",
-    "red_oid": "0713",
-    "white_oid": "1080",
-    "split_oid": "1406"
+    "red_oid": "178",
+    "white_oid": "534",
+    "split_oid": "368"
   },
   {
     "oid": "461",
-    "red_oid": "0292",
-    "white_oid": "1585",
-    "split_oid": "0148"
+    "red_oid": "889",
+    "white_oid": "275",
+    "split_oid": "305"
   },
   {
     "oid": "462",
-    "red_oid": "0430",
-    "white_oid": "1649",
-    "split_oid": "1000"
+    "red_oid": "128",
+    "white_oid": "920",
+    "split_oid": "856"
   },
   {
     "oid": "463",
-    "red_oid": "1464",
-    "white_oid": "2045",
-    "split_oid": "1600"
+    "red_oid": "196",
+    "white_oid": "224",
+    "split_oid": "492"
   },
   {
     "oid": "464",
-    "red_oid": "1077",
-    "white_oid": "1779",
-    "split_oid": "0341"
+    "red_oid": "796",
+    "white_oid": "170",
+    "split_oid": "257"
   },
   {
     "oid": "465",
-    "red_oid": "0775",
-    "white_oid": "1693",
-    "split_oid": "0455"
+    "red_oid": "972",
+    "white_oid": "302",
+    "split_oid": "129"
   },
   {
     "oid": "466",
-    "red_oid": "1254",
-    "white_oid": "0326",
-    "split_oid": "2041"
+    "red_oid": "678",
+    "white_oid": "294",
+    "split_oid": "338"
   },
   {
     "oid": "467",
-    "red_oid": "0953",
-    "white_oid": "0114",
-    "split_oid": "0023"
+    "red_oid": "630",
+    "white_oid": "612",
+    "split_oid": "924"
   },
   {
     "oid": "468",
-    "red_oid": "1283",
-    "white_oid": "0315",
-    "split_oid": "0926"
+    "red_oid": "963",
+    "white_oid": "669",
+    "split_oid": "277"
   },
   {
     "oid": "469",
-    "red_oid": "1918",
-    "white_oid": "0591",
-    "split_oid": "0711"
+    "red_oid": "316",
+    "white_oid": "157",
+    "split_oid": "185"
   },
   {
     "oid": "470",
-    "red_oid": "1616",
-    "white_oid": "0498",
-    "split_oid": "0632"
+    "red_oid": "442",
+    "white_oid": "550",
+    "split_oid": "884"
   },
   {
     "oid": "471",
-    "red_oid": "1559",
-    "white_oid": "0190",
-    "split_oid": "0846"
+    "red_oid": "404",
+    "white_oid": "319",
+    "split_oid": "584"
   },
   {
     "oid": "472",
-    "red_oid": "1534",
-    "white_oid": "0798",
-    "split_oid": "0705"
+    "red_oid": "836",
+    "white_oid": "869",
+    "split_oid": "754"
   },
   {
     "oid": "473",
-    "red_oid": "0338",
-    "white_oid": "0656",
-    "split_oid": "0983"
+    "red_oid": "198",
+    "white_oid": "587",
+    "split_oid": "936"
   },
   {
     "oid": "474",
-    "red_oid": "1968",
-    "white_oid": "1676",
-    "split_oid": "0245"
+    "red_oid": "662",
+    "white_oid": "572",
+    "split_oid": "550"
   },
   {
     "oid": "475",
-    "red_oid": "0007",
-    "white_oid": "0764",
-    "split_oid": "1632"
+    "red_oid": "667",
+    "white_oid": "969",
+    "split_oid": "959"
   },
   {
     "oid": "476",
-    "red_oid": "0059",
-    "white_oid": "2094",
-    "split_oid": "1649"
+    "red_oid": "237",
+    "white_oid": "995",
+    "split_oid": "652"
   },
   {
     "oid": "477",
-    "red_oid": "1716",
-    "white_oid": "1793",
-    "split_oid": "1508"
+    "red_oid": "798",
+    "white_oid": "874",
+    "split_oid": "518"
   },
   {
     "oid": "478",
-    "red_oid": "0866",
-    "white_oid": "1741",
-    "split_oid": "0504"
+    "red_oid": "813",
+    "white_oid": "757",
+    "split_oid": "253"
   },
   {
     "oid": "479",
-    "red_oid": "1495",
-    "white_oid": "0423",
-    "split_oid": "0037"
+    "red_oid": "393",
+    "white_oid": "207",
+    "split_oid": "683"
   },
   {
     "oid": "480",
-    "red_oid": "1002",
-    "white_oid": "1282",
-    "split_oid": "0071"
+    "red_oid": "632",
+    "white_oid": "410",
+    "split_oid": "712"
   },
   {
     "oid": "481",
-    "red_oid": "0542",
-    "white_oid": "0364",
-    "split_oid": "0397"
+    "red_oid": "288",
+    "white_oid": "270",
+    "split_oid": "589"
   },
   {
     "oid": "482",
-    "red_oid": "2015",
-    "white_oid": "1757",
-    "split_oid": "1878"
+    "red_oid": "123",
+    "white_oid": "936",
+    "split_oid": "355"
   },
   {
     "oid": "483",
-    "red_oid": "1665",
-    "white_oid": "0547",
-    "split_oid": "0873"
+    "red_oid": "814",
+    "white_oid": "484",
+    "split_oid": "211"
   },
   {
     "oid": "484",
-    "red_oid": "1609",
-    "white_oid": "0287",
-    "split_oid": "0943"
+    "red_oid": "526",
+    "white_oid": "508",
+    "split_oid": "398"
   },
   {
     "oid": "485",
-    "red_oid": "1583",
-    "white_oid": "1965",
-    "split_oid": "1298"
+    "red_oid": "565",
+    "white_oid": "357",
+    "split_oid": "208"
   },
   {
     "oid": "486",
-    "red_oid": "1504",
-    "white_oid": "0897",
-    "split_oid": "1031"
+    "red_oid": "876",
+    "white_oid": "207",
+    "split_oid": "141"
   },
   {
     "oid": "487",
-    "red_oid": "0437",
-    "white_oid": "0270",
-    "split_oid": "0938"
+    "red_oid": "763",
+    "white_oid": "231",
+    "split_oid": "194"
   },
   {
     "oid": "488",
-    "red_oid": "0249",
-    "white_oid": "0533",
-    "split_oid": "1209"
+    "red_oid": "288",
+    "white_oid": "264",
+    "split_oid": "717"
   },
   {
     "oid": "489",
-    "red_oid": "0107",
-    "white_oid": "1718",
-    "split_oid": "1274"
+    "red_oid": "586",
+    "white_oid": "289",
+    "split_oid": "855"
   },
   {
     "oid": "490",
-    "red_oid": "0714",
-    "white_oid": "0392",
-    "split_oid": "1277"
+    "red_oid": "271",
+    "white_oid": "649",
+    "split_oid": "184"
   },
   {
     "oid": "491",
-    "red_oid": "1560",
-    "white_oid": "1317",
-    "split_oid": "0086"
+    "red_oid": "943",
+    "white_oid": "593",
+    "split_oid": "194"
   },
   {
     "oid": "492",
-    "red_oid": "1121",
-    "white_oid": "1118",
-    "split_oid": "0924"
+    "red_oid": "402",
+    "white_oid": "963",
+    "split_oid": "423"
   },
   {
     "oid": "493",
-    "red_oid": "0578",
-    "white_oid": "0906",
-    "split_oid": "1796"
+    "red_oid": "222",
+    "white_oid": "833",
+    "split_oid": "342"
   },
   {
     "oid": "494",
-    "red_oid": "0123",
-    "white_oid": "2087",
-    "split_oid": "2074"
+    "red_oid": "652",
+    "white_oid": "620",
+    "split_oid": "468"
   },
   {
     "oid": "495",
-    "red_oid": "1591",
-    "white_oid": "0756",
-    "split_oid": "1925"
+    "red_oid": "887",
+    "white_oid": "207",
+    "split_oid": "374"
   },
   {
     "oid": "496",
-    "red_oid": "0308",
-    "white_oid": "0124",
-    "split_oid": "0449"
+    "red_oid": "839",
+    "white_oid": "981",
+    "split_oid": "972"
   },
   {
     "oid": "497",
-    "red_oid": "1920",
-    "white_oid": "1174",
-    "split_oid": "1638"
+    "red_oid": "606",
+    "white_oid": "944",
+    "split_oid": "778"
   },
   {
     "oid": "498",
-    "red_oid": "1159",
-    "white_oid": "1588",
-    "split_oid": "0922"
+    "red_oid": "561",
+    "white_oid": "583",
+    "split_oid": "360"
   },
   {
     "oid": "499",
-    "red_oid": "1272",
-    "white_oid": "0473",
-    "split_oid": "0029"
+    "red_oid": "311",
+    "white_oid": "270",
+    "split_oid": "775"
   },
   {
     "oid": "500",
-    "red_oid": "0014",
-    "white_oid": "0389",
-    "split_oid": "0514"
+    "red_oid": "504",
+    "white_oid": "338",
+    "split_oid": "684"
   },
   {
     "oid": "501",
-    "red_oid": "0991",
-    "white_oid": "0109",
-    "split_oid": "0978"
+    "red_oid": "784",
+    "white_oid": "775",
+    "split_oid": "571"
   },
   {
     "oid": "502",
-    "red_oid": "1783",
-    "white_oid": "0312",
-    "split_oid": "1968"
+    "red_oid": "962",
+    "white_oid": "851",
+    "split_oid": "629"
   },
   {
     "oid": "503",
-    "red_oid": "0290",
-    "white_oid": "0016",
-    "split_oid": "0901"
+    "red_oid": "722",
+    "white_oid": "619",
+    "split_oid": "949"
   },
   {
     "oid": "504",
-    "red_oid": "1137",
-    "white_oid": "1086",
-    "split_oid": "0780"
+    "red_oid": "151",
+    "white_oid": "473",
+    "split_oid": "795"
   },
   {
     "oid": "505",
-    "red_oid": "0697",
-    "white_oid": "0694",
-    "split_oid": "1043"
-  },
-  {
-    "oid": "506",
-    "red_oid": "1320",
-    "white_oid": "0668",
-    "split_oid": "1373"
-  },
-  {
-    "oid": "507",
-    "red_oid": "0242",
-    "white_oid": "0681",
-    "split_oid": "0709"
-  },
-  {
-    "oid": "508",
-    "red_oid": "0590",
-    "white_oid": "0381",
-    "split_oid": "1550"
-  },
-  {
-    "oid": "509",
-    "red_oid": "1984",
-    "white_oid": "0910",
-    "split_oid": "0254"
-  },
-  {
-    "oid": "510",
-    "red_oid": "1538",
-    "white_oid": "0402",
-    "split_oid": "0517"
-  },
-  {
-    "oid": "511",
-    "red_oid": "1901",
-    "white_oid": "0274",
-    "split_oid": "1707"
-  },
-  {
-    "oid": "512",
-    "red_oid": "2059",
-    "white_oid": "0326",
-    "split_oid": "1981"
-  },
-  {
-    "oid": "513",
-    "red_oid": "1918",
-    "white_oid": "1224",
-    "split_oid": "1301"
-  },
-  {
-    "oid": "514",
-    "red_oid": "1776",
-    "white_oid": "0895",
-    "split_oid": "0782"
-  },
-  {
-    "oid": "515",
-    "red_oid": "0517",
-    "white_oid": "1291",
-    "split_oid": "1196"
-  },
-  {
-    "oid": "516",
-    "red_oid": "0095",
-    "white_oid": "0803",
-    "split_oid": "1687"
-  },
-  {
-    "oid": "517",
-    "red_oid": "0558",
-    "white_oid": "0939",
-    "split_oid": "1615"
-  },
-  {
-    "oid": "518",
-    "red_oid": "0500",
-    "white_oid": "1480",
-    "split_oid": "1830"
-  },
-  {
-    "oid": "519",
-    "red_oid": "0199",
-    "white_oid": "1454",
-    "split_oid": "1369"
-  },
-  {
-    "oid": "520",
-    "red_oid": "1077",
-    "white_oid": "1940",
-    "split_oid": "1495"
-  },
-  {
-    "oid": "521",
-    "red_oid": "0394",
-    "white_oid": "1167",
-    "split_oid": "0429"
-  },
-  {
-    "oid": "522",
-    "red_oid": "0670",
-    "white_oid": "1657",
-    "split_oid": "1978"
-  },
-  {
-    "oid": "523",
-    "red_oid": "1342",
-    "white_oid": "2078",
-    "split_oid": "0098"
-  },
-  {
-    "oid": "524",
-    "red_oid": "0588",
-    "white_oid": "0044",
-    "split_oid": "0301"
-  },
-  {
-    "oid": "525",
-    "red_oid": "1684",
-    "white_oid": "2003",
-    "split_oid": "0001"
+    "red_oid": "887",
+    "white_oid": "566",
+    "split_oid": "692"
   }
 ]
