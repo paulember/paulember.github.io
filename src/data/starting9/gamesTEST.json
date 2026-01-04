@@ -355,7 +355,6 @@
   },
   {
     "LinkSabrCheck": "https://sabr.org/gamesproj/game/september-1-1998-yankees-david-wells-flirts-with-second-perfect-game-of-the-season/",
-    "Author": "https://sabr.org/authors/harrison-golden/",
     "LinkBox": "https://www.baseball-reference.com/boxes/NYA/NYA199809010.shtml",
     "Date": "2026-01-26",
     "Series": "2026-01-26",
@@ -413,8 +412,7 @@
     "LinkSabr": "https://sabr.org/gamesproj/game/september-1-1998-yankees-david-wells-flirts-with-second-perfect-game-of-the-season/"
   },
   {
-    "LinkSabrCheck": "https://sabr.org/gamesproj/game/july-29-1951-player-manager-phil-cavarrettas-grand-slam-caps-cubs-doubleheader-sweep-of-phillies/",
-    "Author": "https://sabr.org/authors/steve-dunn/",
+     "Author": "https://sabr.org/authors/steve-dunn/",
     "LinkBox": "https://www.baseball-reference.com/boxes/CHN/CHN195107292.shtml",
     "Date": "2026-01-26",
     "Series": "2026-01-26",
@@ -468,13 +466,11 @@
     "H7_Pos": "1b",
     "H8_Pos": "c",
     "H9_Pos": "p",
-    "H10_Pos": "dh",
-    "LinkSabr": "https://sabr.org/gamesproj/game/july-29-1951-player-manager-phil-cavarrettas-grand-slam-caps-cubs-doubleheader-sweep-of-phillies/"
-  },
+    "H10_Pos": "dh"  },
   {
     "LinkSabrCheck": "https://sabr.org/gamesproj/game/april-29-2007-troy-tulowitzkis-unassisted-triple-play-and-matt-hollidays-walk-off-homer-lead-rockies-over-braves/",
     "Author": "https://sabr.org/authors/bill-marston/",
-    "LinkBox": "https://www.baseball-reference.com/boxes/COL/COL200704290.shtml",
+
     "Date": "2026-01-26",
     "Series": "2026-01-26",
     "id": "8",
