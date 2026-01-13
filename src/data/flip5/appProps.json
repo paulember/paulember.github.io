@@ -34,6 +34,8 @@
   "scoreTimeInterval" : 12,
   "scoreTimeBottom" : 600,
   "scoreMissPenalty" : 30,
+
+  "wordsAllowedURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/words_Allowed.json",
 	
   "wordLib0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
   "wordLib1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
