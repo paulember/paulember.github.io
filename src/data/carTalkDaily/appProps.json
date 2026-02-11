@@ -1,0 +1,86 @@
+[
+{
+  "appPropsKey": 0 ,
+  "dataLibrary": "carTalkDaily",
+  "appTxt": "CarTalkDaily",
+  "app_longText": "CarTalk Daily",
+  "targetType" : "Year",
+  "selectClass" : "Year",
+  "selectMessage" : "Select a Diagnosis",
+  "preNotesInstruction" : "Guess the Diagnosis based on these Symptoms",
+  "confirmMessage" : "Confirm Diagnosis", 
+  "resultsHeader" : "Stats",
+  "gamesHeader"	: "Vehicles:", 
+  "ratingsHeader"	: "Rating",
+  "sweepsHeader"	: "Sweeps",
+  "notesHeader"	: "Fixes",
+
+  "appURL" : "https://oscardaily.vercel.app/",	
+  "documentationURL" : "https://phungo.blogspot.com/2024/01/oscarpartydaily-oscar-film-trivia-game.html",	
+  "bestPickURL" : "https://www.oscars.org/oscars/ceremonies/",
+  "sourceURL" : "https://www.oscars.org/oscars/ceremonies/",
+  "qrCodeURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
+  
+  "goodTurn" : "🏆",
+  "badTurn" : "◻️",
+  
+  "feedbackShutouts": "Flops:",
+  "topTargetCalss": "Sweep Year:",
+  "gameLabel": "Scene",
+  "targetType": "Oscar Winners",
+  "gameTurn": "Selecting and Confirming",
+  "TargetClass": "Year",
+  "splashGreeting": "Enjoy the Popcorn!!!",  
+  "splashQuote": "I Lost It at the Movies - Pauline Kael",
+	
+  "turnHeader": "Years Selected",
+  "turnLabel" : "Take", 
+  "turn0Fer": 0,
+  "hiScore": 100,
+  "scoreFloors": [
+    [98, "★★★★"],
+    [90, "★★★½"],
+    [80, "★★★☆"],
+    [70, "★★☆☆"],
+	[60, "★☆☆☆"],
+	[0, "zero☆"]
+  ],
+
+ "baseScoresWin": [
+    [6, 79],
+    [5, 80],
+    [4, 86],
+    [3, 93],
+    [2, 96],
+	[1, 100],
+	[0, 100]
+  ],
+ "baseScoresLoss": [
+    [6, 80],
+    [5, 79],
+    [4, 76],
+    [3, 73],
+    [2, 71],
+	[1, 69],
+	[0, 50]
+  ],
+ "in7pick2_1": [
+	  [18, "6"],
+	  [15, "5"],
+	  [12, "4"],
+	  [9, "3"],
+	  [6, "2"],
+	  [3, "1"],
+	  [0, "0"]
+ ],
+"in7pick2_2": [
+	  [18, "13"],
+	  [15, "12"],
+	  [12, "11"],
+	  [9, "10"],
+	  [6, "9"],
+	  [3, "8"],
+	  [0, "7"]
+  ]
+}
+]
