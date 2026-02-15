@@ -302,7 +302,7 @@
     "Series": "2026-02-23",
     "id": "5",
     "baseballRefKey": "B05090IN41921",
-    "AwayTeam": "Columbus Buckeyes (NNL)",
+    "AwayTeam": "Columbus Buckeyes",
     "HomeTeam": "Indianapolis ABCs (1907-1926)",
     "AwayRunsScored": "0",
     "AwayHits": "3",
@@ -531,6 +531,7 @@
   },
   {
     "LinkSabrCheck": "https://sabr.org/gamesproj/game/october-12-1980-phillies-rally-to-clinch-nl-pennant-in-10-innings-at-astrodome/",
+    "Author": "https://sabr.org/authors/frederick-c-bush/",
     "LinkBox": "http://www.baseball-reference.com/boxes/HOU/HOU198010120.shtml",
     "Date": "2026-02-23",
     "Series": "2026-02-23",
