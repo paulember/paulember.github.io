@@ -9,6 +9,13 @@
     "o_word1": "MAGIC",
     "o_word2": "TRICK"
   },
+    {
+    "date": "0221",
+    "o_word1": "MEDAL",
+    "o_word2": "COUNT",
+     "postgameMsg": "❄️🇺🇸⛸️ LINK: Olympic Medal Table 🏒🇺🇸❄️",
+    "postgameLink": "https://www.olympics.com/en/milano-cortina-2026/medals"
+  },
   {
     "date": "0409",
     "o_word1": "COURT",
