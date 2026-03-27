@@ -473,8 +473,6 @@
   {
     "LinkSabrCheck": "https://sabr.org/gamesproj/game/april-11-2005-in-home-opener-as-reigning-world-series-champions-red-sox-rout-yankees/",
     "Author": "https://sabr.org/authors/bill-nowlin/",
-    "gameMessage": "Try our DAILY WORD GAME FLIP5",
-    "gameMessageLink": "https://flip5.vercel.app/",
     "LinkBox": "https://www.baseball-reference.com/boxes/BOS/BOS200504110.shtml",
     "Date": "2026-03-23",
     "Series": "2026-03-23",
@@ -534,6 +532,8 @@
   {
     "LinkSabrCheck": "https://sabr.org/gamesproj/game/october-5-1920-coveleski-goes-the-distance-to-give-indians-1-0-lead-in-world-series/",
     "Author": "https://sabr.org/authors/joseph-wancho/",
+     "gameMessage": "Try our DAILY WORD GAME FLIP5",
+    "gameMessageLink": "https://flip5.vercel.app/",
     "LinkBox": "http://www.baseball-reference.com/boxes/BRO/BRO192010050.shtml",
     "Date": "2026-03-23",
     "Series": "2026-03-23",
