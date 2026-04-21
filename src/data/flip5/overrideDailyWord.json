@@ -42,15 +42,33 @@
     "o_word1": "DEATH",
     "o_word2": "TAXES"
   },
+    {
+    "date": "0422",
+    "o_word1": "MADAM",
+    "o_word2": "EARTH",
+      "postgameMsg": "🌍🌳🌏 (LINK) EARTH DAY 🌏♻️🌍",
+    "postgameLink": "https://www.earthday.org/earth-day-2026"
+  },
+      {
+    "date": "0504",
+    "o_word1": "LIGHT",
+    "o_word2": "SABER",
+      "postgameMsg": "✨🤖🚀 (LINK) Star Wars Day 🚀🤖✨",
+    "postgameLink": "https://swapi.info"
+  },
   {
     "date": "0515",
     "o_word1": "SNACK",
     "o_word2": "HOUND"
+ "postgameMsg": "🎵 (LINK) Young People 🎵",
+    "postgameLink": "https://www.youtube.com/watch?v=lBD5IvAimIs"
   },
   {
     "date": "0620",
     "o_word1": "BRICK",
-    "o_word2": "HOUSE"
+    "o_word2": "HOUSE",
+    "postgameMsg": "🎉 (LINK) Lionel Richie Birthday 🎉",
+       "postgameLink": "https://en.wikipedia.org/wiki/Lionel_Richie"
   },
   {
     "date": "1030",
