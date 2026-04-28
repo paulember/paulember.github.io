@@ -1,0 +1,1337 @@
+[
+  {
+    "id": 0,
+    "style": "☆1936☆",
+    "tastingNote": [
+      "Muni",
+      "Brennan",
+      "Rainer",
+      "Sondergaard",
+      "The Great Ziegfeld",
+      "Gibney",
+      "",
+      "Capra"
+    ],
+    "bestPicture": "The Great Ziegfeld"
+  },
+  {
+    "id": 1,
+    "style": "☆1937☆",
+    "tastingNote": [
+      "Tracy",
+      "Schildkraut",
+      "Rainer",
+      "Brady",
+      "The Life of Emile Zola",
+      "Raine",
+      "",
+      "McCarey"
+    ],
+    "bestPicture": "The Life of Emile Zola"
+  },
+  {
+    "id": 2,
+    "style": "☆1938☆",
+    "tastingNote": [
+      "Tracy",
+      "Brennan",
+      "Davis",
+      "Bainter",
+      "You Can't Take It with You",
+      "Shaw",
+      "",
+      "Capra"
+    ],
+    "bestPicture": "You Can't Take It with You"
+  },
+  {
+    "id": 3,
+    "style": "☆1939☆",
+    "tastingNote": [
+      "Donat",
+      "Mitchell",
+      "Leigh",
+      "McDaniel",
+      "Gone with the Wind",
+      "Howard",
+      "",
+      "Fleming"
+    ],
+    "bestPicture": "Gone with the Wind"
+  },
+  {
+    "id": 4,
+    "style": "☆1940☆",
+    "tastingNote": [
+      "Stewart",
+      "Brennan",
+      "Rogers",
+      "Darwell",
+      "Rebecca",
+      "Stewart",
+      "Sturges",
+      "Ford"
+    ],
+    "bestPicture": "Rebecca"
+  },
+  {
+    "id": 5,
+    "style": "☆1941☆",
+    "tastingNote": [
+      "Cooper",
+      "Crisp",
+      "Fontaine",
+      "Astor",
+      "How Green Was My Valley",
+      "Buchman",
+      "Welles",
+      "Ford"
+    ],
+    "bestPicture": "How Green Was My Valley"
+  },
+  {
+    "id": 6,
+    "style": "☆1942☆",
+    "tastingNote": [
+      "Cagney",
+      "Heflin",
+      "Garson",
+      "Wright",
+      "Mrs. Miniver",
+      "Hilton",
+      "Lardner Jr.",
+      "Wyler"
+    ],
+    "bestPicture": "Mrs. Miniver"
+  },
+  {
+    "id": 7,
+    "style": "☆1943☆",
+    "tastingNote": [
+      "Lukas",
+      "Coburn",
+      "Jones",
+      "Paxinou",
+      "Casablanca",
+      "Epstein",
+      "Krasna",
+      "Curtiz"
+    ],
+    "bestPicture": "Casablanca"
+  },
+  {
+    "id": 8,
+    "style": "☆1944☆",
+    "tastingNote": [
+      "Crosby",
+      "Fitzgerald",
+      "Bergman",
+      "Barrymore",
+      "Going My Way",
+      "Butler",
+      "Trotti",
+      "McCarey"
+    ],
+    "bestPicture": "Going My Way"
+  },
+  {
+    "id": 9,
+    "style": "☆1945☆",
+    "tastingNote": [
+      "Milland",
+      "Dunn",
+      "Crawford",
+      "Revere",
+      "The Lost Weekend",
+      "Wilder",
+      "Schweizer",
+      "Wilder"
+    ],
+    "bestPicture": "The Lost Weekend"
+  },
+  {
+    "id": 10,
+    "style": "☆1946☆",
+    "tastingNote": [
+      "March",
+      "Russell",
+      "de Havilland",
+      "Baxter",
+      "The Best Years of Our Lives",
+      "Sherwood",
+      "Box",
+      "Wyler"
+    ],
+    "bestPicture": "The Best Years of Our Lives"
+  },
+  {
+    "id": 11,
+    "style": "☆1947☆",
+    "tastingNote": [
+      "Colman",
+      "Gwenn",
+      "Young",
+      "Holm",
+      "Gentleman's Agreement",
+      "Seaton",
+      "Sheldon",
+      "Kazan"
+    ],
+    "bestPicture": "Gentleman's Agreement"
+  },
+  {
+    "id": 12,
+    "style": "☆1948☆",
+    "tastingNote": [
+      "Olivier",
+      "Huston",
+      "Wyman",
+      "Trevor",
+      "Hamlet",
+      "Huston",
+      "",
+      "Huston"
+    ],
+    "bestPicture": "Hamlet"
+  },
+  {
+    "id": 13,
+    "style": "☆1949☆",
+    "tastingNote": [
+      "Crawford",
+      "Jagger",
+      "de Havilland",
+      "McCambridge",
+      "All the King's Men",
+      "Mankiewicz",
+      "Pirosh",
+      "Mankiewicz"
+    ],
+    "bestPicture": "All the King's Men"
+  },
+  {
+    "id": 14,
+    "style": "☆1950☆",
+    "tastingNote": [
+      "Ferrer",
+      "Sanders",
+      "Holliday",
+      "Hull",
+      "All about Eve",
+      "Mankiewicz",
+      "Wilder",
+      "Mankiewicz"
+    ],
+    "bestPicture": "All about Eve"
+  },
+  {
+    "id": 15,
+    "style": "☆1951☆",
+    "tastingNote": [
+      "Bogart",
+      "Malden",
+      "Leigh",
+      "Hunter",
+      "An American in Paris",
+      "Wilson",
+      "Jay Lerner",
+      "Stevens"
+    ],
+    "bestPicture": "An American in Paris"
+  },
+  {
+    "id": 16,
+    "style": "☆1952☆",
+    "tastingNote": [
+      "Cooper",
+      "Quinn",
+      "Booth",
+      "Grahame",
+      "The Greatest Show on Earth",
+      "Schnee",
+      "Clarke",
+      "Ford"
+    ],
+    "bestPicture": "The Greatest Show on Earth"
+  },
+  {
+    "id": 17,
+    "style": "☆1953☆",
+    "tastingNote": [
+      "Holden",
+      "Sinatra",
+      "Hepburn",
+      "Reed",
+      "From Here to Eternity",
+      "Taradash",
+      "Reisch",
+      "Zinnemann"
+    ],
+    "bestPicture": "From Here to Eternity"
+  },
+  {
+    "id": 18,
+    "style": "☆1954☆",
+    "tastingNote": [
+      "Brando",
+      "O'Brien",
+      "Kelly",
+      "Marie Saint",
+      "On the Waterfront",
+      "Seaton",
+      "Schulberg",
+      "Kazan"
+    ],
+    "bestPicture": "On the Waterfront"
+  },
+  {
+    "id": 19,
+    "style": "☆1955☆",
+    "tastingNote": [
+      "Borgnine",
+      "Lemmon",
+      "Magnani",
+      "Van Fleet",
+      "Marty",
+      "Chayefsky",
+      "Levien",
+      "Mann"
+    ],
+    "bestPicture": "Marty"
+  },
+  {
+    "id": 20,
+    "style": "☆1956☆",
+    "tastingNote": [
+      "Brynner",
+      "Quinn",
+      "Bergman",
+      "Malone",
+      "Around the World in 80 Days",
+      "Farrow",
+      "Lamorisse",
+      "Stevens"
+    ],
+    "bestPicture": "Around the World in 80 Days"
+  },
+  {
+    "id": 21,
+    "style": "☆1957☆",
+    "tastingNote": [
+      "Guinness",
+      "Buttons",
+      "Woodward",
+      "Umeki",
+      "The Bridge on the River Kwai",
+      "Wilson",
+      "Wells",
+      "Lean"
+    ],
+    "bestPicture": "The Bridge on the River Kwai"
+  },
+  {
+    "id": 22,
+    "style": "☆1958☆",
+    "tastingNote": [
+      "Niven",
+      "Ives",
+      "Hayward",
+      "Hiller",
+      "Gigi",
+      "Jay Lerner",
+      "Young/Harold Jacob Smith",
+      "Minnelli"
+    ],
+    "bestPicture": "Gigi"
+  },
+  {
+    "id": 23,
+    "style": "☆1959☆",
+    "tastingNote": [
+      "Heston",
+      "Griffith",
+      "Signoret",
+      "Winters",
+      "Ben-Hur",
+      "Paterson",
+      "Rouse/Clarence Greene/Stanley Shapiro/Maurice Richlin",
+      "Wyler"
+    ],
+    "bestPicture": "Ben-Hur"
+  },
+  {
+    "id": 24,
+    "style": "☆1960☆",
+    "tastingNote": [
+      "Lancaster",
+      "Ustinov",
+      "Taylor",
+      "Jones",
+      "The Apartment",
+      "Brooks",
+      "Wilder/I. A. L. Diamond",
+      "Wilder"
+    ],
+    "bestPicture": "The Apartment"
+  },
+  {
+    "id": 25,
+    "style": "☆1961☆",
+    "tastingNote": [
+      "Schell",
+      "Chakiris",
+      "Loren",
+      "Moreno",
+      "West Side Story",
+      "Mann",
+      "Inge",
+      "Wise/Jerome Robbins"
+    ],
+    "bestPicture": "West Side Story"
+  },
+  {
+    "id": 26,
+    "style": "☆1962☆",
+    "tastingNote": [
+      "Peck",
+      "Begley",
+      "Bancroft",
+      "Duke",
+      "Lawrence of Arabia",
+      "Foote",
+      "de Concini/Alfredo Giannetti/Pietro Germi",
+      "Lean"
+    ],
+    "bestPicture": "Lawrence of Arabia"
+  },
+  {
+    "id": 27,
+    "style": "☆1963☆",
+    "tastingNote": [
+      "Poitier",
+      "Douglas",
+      "Neal",
+      "Rutherford",
+      "Tom Jones",
+      "Osborne",
+      "R. Webb",
+      "Richardson"
+    ],
+    "bestPicture": "Tom Jones"
+  },
+  {
+    "id": 28,
+    "style": "☆1964☆",
+    "tastingNote": [
+      "Harrison",
+      "Ustinov",
+      "Andrews",
+      "Kedrova",
+      "My Fair Lady",
+      "Anhalt",
+      "H. Barnett/Peter Stone/Frank Tarloff",
+      "Cukor"
+    ],
+    "bestPicture": "My Fair Lady"
+  },
+  {
+    "id": 29,
+    "style": "☆1965☆",
+    "tastingNote": [
+      "Marvin",
+      "Balsam",
+      "Christie",
+      "Winters",
+      "The Sound of Music",
+      "Bolt",
+      "Raphael",
+      "Wise"
+    ],
+    "bestPicture": "The Sound of Music"
+  },
+  {
+    "id": 30,
+    "style": "☆1966☆",
+    "tastingNote": [
+      "Scofield",
+      "Matthau",
+      "Taylor",
+      "Dennis",
+      "A Man for All Seasons",
+      "Bolt",
+      "Lelouch/Pierre Uytterhoeven",
+      "Zinnemann"
+    ],
+    "bestPicture": "A Man for All Seasons"
+  },
+  {
+    "id": 31,
+    "style": "☆1967☆",
+    "tastingNote": [
+      "Steiger",
+      "Kennedy",
+      "Hepburn",
+      "Parsons",
+      "In the Heat of the Night",
+      "Silliphant",
+      "Rose",
+      "Nichols"
+    ],
+    "bestPicture": "In the Heat of the Night"
+  },
+  {
+    "id": 32,
+    "style": "☆1968☆",
+    "tastingNote": [
+      "Robertson",
+      "Albertson",
+      "Streisand",
+      "Gordon",
+      "Oliver!",
+      "Goldman",
+      "Brooks",
+      "Reed"
+    ],
+    "bestPicture": "Oliver!"
+  },
+  {
+    "id": 33,
+    "style": "☆1969☆",
+    "tastingNote": [
+      "Wayne",
+      "Young",
+      "Smith",
+      "Hawn",
+      "Midnight Cowboy",
+      "Salt",
+      "Goldman",
+      "Schlesinger"
+    ],
+    "bestPicture": "Midnight Cowboy"
+  },
+  {
+    "id": 34,
+    "style": "☆1970☆",
+    "tastingNote": [
+      "C. Scott",
+      "Mills",
+      "Jackson",
+      "Hayes",
+      "Patton",
+      "Lardner Jr.",
+      "Ford Coppola/Edmund H. North",
+      "J. Schaffner"
+    ],
+    "bestPicture": "Patton"
+  },
+  {
+    "id": 35,
+    "style": "☆1971☆",
+    "tastingNote": [
+      "Hackman",
+      "Johnson",
+      "Fonda",
+      "Leachman",
+      "The French Connection",
+      "Tidyman",
+      "Chayefsky",
+      "Friedkin"
+    ],
+    "bestPicture": "The French Connection"
+  },
+  {
+    "id": 36,
+    "style": "☆1972☆",
+    "tastingNote": [
+      "Brando",
+      "Grey",
+      "Minnelli",
+      "Heckart",
+      "The Godfather",
+      "Puzo/Francis Ford Coppola",
+      "Larner",
+      "Fosse"
+    ],
+    "bestPicture": "The Godfather"
+  },
+  {
+    "id": 37,
+    "style": "☆1973☆",
+    "tastingNote": [
+      "Lemmon",
+      "Houseman",
+      "Jackson",
+      "O'Neal",
+      "The Sting",
+      "Peter Blatty",
+      "S. Ward",
+      "Roy Hill"
+    ],
+    "bestPicture": "The Sting"
+  },
+  {
+    "id": 38,
+    "style": "☆1974☆",
+    "tastingNote": [
+      "Carney",
+      "De Niro",
+      "Burstyn",
+      "Bergman",
+      "The Godfather Part II",
+      "Ford Coppola/Mario Puzo",
+      "Towne",
+      "Coppola"
+    ],
+    "bestPicture": "The Godfather Part II"
+  },
+  {
+    "id": 39,
+    "style": "☆1975☆",
+    "tastingNote": [
+      "Nicholson",
+      "Burns",
+      "Fletcher",
+      "Grant",
+      "One Flew over the Cuckoo's Nest",
+      "Hauben/Bo Goldman",
+      "Pierson",
+      "Forman"
+    ],
+    "bestPicture": "One Flew over the Cuckoo's Nest"
+  },
+  {
+    "id": 40,
+    "style": "☆1976☆",
+    "tastingNote": [
+      "Finch",
+      "Robards",
+      "Dunaway",
+      "Straight",
+      "Rocky",
+      "Goldman",
+      "Chayefsky",
+      "Avildsen"
+    ],
+    "bestPicture": "Rocky"
+  },
+  {
+    "id": 41,
+    "style": "☆1977☆",
+    "tastingNote": [
+      "Dreyfuss",
+      "Robards",
+      "Keaton",
+      "Redgrave",
+      "Annie Hall",
+      "Sargent",
+      "Allen/Marshall Brickman",
+      "Allen"
+    ],
+    "bestPicture": "Annie Hall"
+  },
+  {
+    "id": 42,
+    "style": "☆1978☆",
+    "tastingNote": [
+      "Voight",
+      "Walken",
+      "Fonda",
+      "Smith",
+      "The Deer Hunter",
+      "Stone",
+      "Dowd/Waldo Salt/Robert C. Jones",
+      "Cimino"
+    ],
+    "bestPicture": "The Deer Hunter"
+  },
+  {
+    "id": 43,
+    "style": "☆1979☆",
+    "tastingNote": [
+      "Hoffman",
+      "Douglas",
+      "Field",
+      "Streep",
+      "Kramer vs. Kramer",
+      "Benton",
+      "Tesich",
+      "Benton"
+    ],
+    "bestPicture": "Kramer vs. Kramer"
+  },
+  {
+    "id": 44,
+    "style": "☆1980☆",
+    "tastingNote": [
+      "De Niro",
+      "Hutton",
+      "Spacek",
+      "Steenburgen",
+      "Ordinary People",
+      "Sargent",
+      "Goldman",
+      "Redford"
+    ],
+    "bestPicture": "Ordinary People"
+  },
+  {
+    "id": 45,
+    "style": "☆1981☆",
+    "tastingNote": [
+      "Fonda",
+      "Gielgud",
+      "Hepburn",
+      "Stapleton",
+      "Chariots of Fire",
+      "Thompson",
+      "Welland",
+      "Beatty"
+    ],
+    "bestPicture": "Chariots of Fire"
+  },
+  {
+    "id": 46,
+    "style": "☆1982☆",
+    "tastingNote": [
+      "Kingsley",
+      "Gossett Jr.",
+      "Streep",
+      "Lange",
+      "Gandhi",
+      "Stewart",
+      "Briley",
+      "Attenborough"
+    ],
+    "bestPicture": "Gandhi"
+  },
+  {
+    "id": 47,
+    "style": "☆1983☆",
+    "tastingNote": [
+      "Duvall",
+      "Nicholson",
+      "MacLaine",
+      "Hunt",
+      "Terms of Endearment",
+      "Brooks",
+      "Foote",
+      "Brooks"
+    ],
+    "bestPicture": "Terms of Endearment"
+  },
+  {
+    "id": 48,
+    "style": "☆1984☆",
+    "tastingNote": [
+      "Abraham",
+      "Ngor",
+      "Field",
+      "Ashcroft",
+      "Amadeus",
+      "Shaffer",
+      "Benton",
+      "Forman"
+    ],
+    "bestPicture": "Amadeus"
+  },
+  {
+    "id": 49,
+    "style": "☆1985☆",
+    "tastingNote": [
+      "Hurt",
+      "Ameche",
+      "Page",
+      "Huston",
+      "Out of Africa",
+      "Luedtke",
+      "W. Wallace/William Kelley/Pamela Wallace",
+      "Pollack"
+    ],
+    "bestPicture": "Out of Africa"
+  },
+  {
+    "id": 50,
+    "style": "☆1986☆",
+    "tastingNote": [
+      "Newman",
+      "Caine",
+      "Matlin",
+      "Wiest",
+      "Platoon",
+      "Prawer Jhabvala",
+      "Allen",
+      "Stone"
+    ],
+    "bestPicture": "Platoon"
+  },
+  {
+    "id": 51,
+    "style": "☆1987☆",
+    "tastingNote": [
+      "Douglas",
+      "Connery",
+      "Cher",
+      "Dukakis",
+      "The Last Emperor",
+      "Peploe/Bernardo Bertolucci",
+      "Patrick Shanley",
+      "Bertolucci"
+    ],
+    "bestPicture": "The Last Emperor"
+  },
+  {
+    "id": 52,
+    "style": "☆1988☆",
+    "tastingNote": [
+      "Hoffman",
+      "Kline",
+      "Foster",
+      "Davis",
+      "Rain Man",
+      "Hampton",
+      "Bass/Barry Morrow",
+      "Levinson"
+    ],
+    "bestPicture": "Rain Man"
+  },
+  {
+    "id": 53,
+    "style": "☆1989☆",
+    "tastingNote": [
+      "Day Lewis",
+      "Washington",
+      "Tandy",
+      "Fricker",
+      "Driving Miss Daisy",
+      "Uhry",
+      "Schulman",
+      "Stone"
+    ],
+    "bestPicture": "Driving Miss Daisy"
+  },
+  {
+    "id": 54,
+    "style": "☆1990☆",
+    "tastingNote": [
+      "Irons",
+      "Pesci",
+      "Bates",
+      "Goldberg",
+      "Dances With Wolves",
+      "Blake",
+      "Joel Rubin",
+      "Costner"
+    ],
+    "bestPicture": "Dances With Wolves"
+  },
+  {
+    "id": 55,
+    "style": "☆1991☆",
+    "tastingNote": [
+      "Hopkins",
+      "Palance",
+      "Foster",
+      "Ruehl",
+      "The Silence of the Lambs",
+      "Tally",
+      "Khouri",
+      "Demme"
+    ],
+    "bestPicture": "The Silence of the Lambs"
+  },
+  {
+    "id": 56,
+    "style": "☆1992☆",
+    "tastingNote": [
+      "Pacino",
+      "Hackman",
+      "Thompson",
+      "Tomei",
+      "Unforgiven",
+      "Prawer Jhabvala",
+      "Jordan",
+      "Eastwood"
+    ],
+    "bestPicture": "Unforgiven"
+  },
+  {
+    "id": 57,
+    "style": "☆1993☆",
+    "tastingNote": [
+      "Hanks",
+      "Lee Jones",
+      "Hunter",
+      "Paquin",
+      "Schindler's List",
+      "Zaillian",
+      "Campion",
+      "Spielberg"
+    ],
+    "bestPicture": "Schindler's List"
+  },
+  {
+    "id": 58,
+    "style": "☆1994☆",
+    "tastingNote": [
+      "Hanks",
+      "Landau",
+      "Lange",
+      "Wiest",
+      "Forrest Gump",
+      "Roth",
+      "Tarantino/Roger Avary",
+      "Zemeckis"
+    ],
+    "bestPicture": "Forrest Gump"
+  },
+  {
+    "id": 59,
+    "style": "☆1995☆",
+    "tastingNote": [
+      "Cage",
+      "Spacey",
+      "Sarandon",
+      "Sorvino",
+      "Braveheart",
+      "Thompson",
+      "McQuarrie",
+      "Gibson"
+    ],
+    "bestPicture": "Braveheart"
+  },
+  {
+    "id": 60,
+    "style": "☆1996☆",
+    "tastingNote": [
+      "Rush",
+      "Gooding Jr.",
+      "McDormand",
+      "Binoche",
+      "The English Patient",
+      "Bob Thornton",
+      "Coen/Joel Coen",
+      "Minghella"
+    ],
+    "bestPicture": "The English Patient"
+  },
+  {
+    "id": 61,
+    "style": "☆1997☆",
+    "tastingNote": [
+      "Nicholson",
+      "Williams",
+      "Hunt",
+      "Basinger",
+      "Titanic",
+      "Helgeland/Curtis Hanson",
+      "Affleck/Matt Damon",
+      "Cameron"
+    ],
+    "bestPicture": "Titanic"
+  },
+  {
+    "id": 62,
+    "style": "☆1998☆",
+    "tastingNote": [
+      "Benigni",
+      "Coburn",
+      "Paltrow",
+      "Dench",
+      "Shakespeare in Love",
+      "Condon",
+      "Norman/Tom Stoppard",
+      "Spielberg"
+    ],
+    "bestPicture": "Shakespeare in Love"
+  },
+  {
+    "id": 63,
+    "style": "☆1999☆",
+    "tastingNote": [
+      "Spacey",
+      "Caine",
+      "Swank",
+      "Jolie",
+      "American Beauty",
+      "Irving",
+      "Ball",
+      "Mendes"
+    ],
+    "bestPicture": "American Beauty"
+  },
+  {
+    "id": 64,
+    "style": "☆2000☆",
+    "tastingNote": [
+      "Crowe",
+      "Del Toro",
+      "Roberts",
+      "Harden",
+      "Gladiator",
+      "Gaghan",
+      "Crowe",
+      "Soderbergh"
+    ],
+    "bestPicture": "Gladiator"
+  },
+  {
+    "id": 65,
+    "style": "☆2001☆",
+    "tastingNote": [
+      "Washington",
+      "Broadbent",
+      "Berry",
+      "Connelly",
+      "A Beautiful Mind",
+      "Goldsman",
+      "Fellowes",
+      "Howard"
+    ],
+    "bestPicture": "A Beautiful Mind"
+  },
+  {
+    "id": 66,
+    "style": "☆2002☆",
+    "tastingNote": [
+      "Brody",
+      "Cooper",
+      "Kidman",
+      "Zeta-Jones",
+      "Chicago",
+      "Harwood",
+      "Almodóvar",
+      "Polanski"
+    ],
+    "bestPicture": "Chicago"
+  },
+  {
+    "id": 67,
+    "style": "☆2003☆",
+    "tastingNote": [
+      "Penn",
+      "Robbins",
+      "Theron",
+      "Zellweger",
+      "The Lord of the Rings: The Return of the King",
+      "Walsh/Philippa Boyens/Peter Jackson",
+      "Coppola",
+      "Jackson"
+    ],
+    "bestPicture": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "id": 68,
+    "style": "☆2004☆",
+    "tastingNote": [
+      "Foxx",
+      "Freeman",
+      "Swank",
+      "Blanchett",
+      "Million Dollar Baby",
+      "Payne/Jim Taylor",
+      "Kaufman/Michel Gondry/Pierre Bismuth",
+      "Eastwood"
+    ],
+    "bestPicture": "Million Dollar Baby"
+  },
+  {
+    "id": 69,
+    "style": "☆2005☆",
+    "tastingNote": [
+      "Hoffman",
+      "Clooney",
+      "Witherspoon",
+      "Weisz",
+      "Crash",
+      "McMurtry/Diana Ossana",
+      "Haggis/Bobby Moresco",
+      "Lee"
+    ],
+    "bestPicture": "Crash"
+  },
+  {
+    "id": 70,
+    "style": "☆2006☆",
+    "tastingNote": [
+      "Whitaker",
+      "Arkin",
+      "Mirren",
+      "Hudson",
+      "The Departed",
+      "Monahan",
+      "Arndt",
+      "Scorsese"
+    ],
+    "bestPicture": "The Departed"
+  },
+  {
+    "id": 71,
+    "style": "☆2007☆",
+    "tastingNote": [
+      "Day-Lewis",
+      "Bardem",
+      "Cotillard",
+      "Swinton",
+      "No Country for Old Men",
+      "Coen/Ethan Coen",
+      "Cody",
+      "Coen/Ethan Coen"
+    ],
+    "bestPicture": "No Country for Old Men"
+  },
+  {
+    "id": 72,
+    "style": "☆2008☆",
+    "tastingNote": [
+      "Penn",
+      "Ledger",
+      "Winslet",
+      "Cruz",
+      "Slumdog Millionaire",
+      "Beaufoy",
+      "Lance Black",
+      "Boyle"
+    ],
+    "bestPicture": "Slumdog Millionaire"
+  },
+  {
+    "id": 73,
+    "style": "☆2009☆",
+    "tastingNote": [
+      "Bridges",
+      "Waltz",
+      "Bullock",
+      "Mo'Nique",
+      "The Hurt Locker",
+      "Fletcher",
+      "Boal",
+      "Bigelow"
+    ],
+    "bestPicture": "The Hurt Locker"
+  },
+  {
+    "id": 74,
+    "style": "☆2010☆",
+    "tastingNote": [
+      "Firth",
+      "Bale",
+      "Portman",
+      "Leo",
+      "The King's Speech",
+      "Sorkin",
+      "Seidler",
+      "Hooper"
+    ],
+    "bestPicture": "The King's Speech"
+  },
+  {
+    "id": 75,
+    "style": "☆2011☆",
+    "tastingNote": [
+      "Dujardin",
+      "Plummer",
+      "Streep",
+      "Spencer",
+      "The Artist",
+      "Payne/Nat Faxon/Jim Rash",
+      "Allen",
+      "Hazanavicius"
+    ],
+    "bestPicture": "The Artist"
+  },
+  {
+    "id": 76,
+    "style": "☆2012☆",
+    "tastingNote": [
+      "Day-Lewis",
+      "Waltz",
+      "Lawrence",
+      "Hathaway",
+      "Argo",
+      "Terrio",
+      "Tarantino",
+      "Lee"
+    ],
+    "bestPicture": "Argo"
+  },
+  {
+    "id": 77,
+    "style": "☆2013☆",
+    "tastingNote": [
+      "McConaughey",
+      "Leto",
+      "Blanchett",
+      "Nyong'o",
+      "12 Years a Slave",
+      "Ridley",
+      "Jonze",
+      "Cuarón"
+    ],
+    "bestPicture": "12 Years a Slave"
+  },
+  {
+    "id": 78,
+    "style": "☆2014☆",
+    "tastingNote": [
+      "Redmayne",
+      "Simmons",
+      "Moore",
+      "Arquette",
+      "Birdman or (The Unexpected Virtue of Ignorance)",
+      "Moore",
+      "G. Iñárritu/Nicolás Giacobone/Alexander Dinelaris Jr./Armando Bo",
+      "G. Iñárritu"
+    ],
+    "bestPicture": "Birdman or (The Unexpected Virtue of Ignorance)"
+  },
+  {
+    "id": 79,
+    "style": "☆2015☆",
+    "tastingNote": [
+      "DiCaprio",
+      "Rylance",
+      "Larson",
+      "Vikander",
+      "Spotlight",
+      "Randolph/Adam McKay",
+      "Singer/Tom McCarthy",
+      "G. Iñárritu"
+    ],
+    "bestPicture": "Spotlight"
+  },
+  {
+    "id": 80,
+    "style": "☆2016☆",
+    "tastingNote": [
+      "Affleck",
+      "Ali",
+      "Stone",
+      "Davis",
+      "Moonlight",
+      "Jenkins/Tarell Alvin McCraney",
+      "Lonergan",
+      "Chazelle"
+    ],
+    "bestPicture": "Moonlight"
+  },
+  {
+    "id": 81,
+    "style": "☆2017☆",
+    "tastingNote": [
+      "Oldman",
+      "Rockwell",
+      "McDormand",
+      "Janney",
+      "The Shape of Water",
+      "Ivory",
+      "Peele",
+      "del Toro"
+    ],
+    "bestPicture": "The Shape of Water"
+  },
+  {
+    "id": 82,
+    "style": "☆2018☆",
+    "tastingNote": [
+      "Malek",
+      "Ali",
+      "Colman",
+      "King",
+      "Green Book",
+      "Wachtel/David Rabinowitz/Kevin Willmott/Spike Lee",
+      "Vallelonga/Brian Currie/Peter Farrelly",
+      "Cuarón"
+    ],
+    "bestPicture": "Green Book"
+  },
+  {
+    "id": 83,
+    "style": "☆2019☆",
+    "tastingNote": [
+      "Phoenix",
+      "Pitt",
+      "Zellweger",
+      "Dern",
+      "Parasite",
+      "Waititi",
+      "Joon Ho/Han Jin Won",
+      "Joon Ho"
+    ],
+    "bestPicture": "Parasite"
+  },
+  {
+    "id": 84,
+    "style": "☆2020☆",
+    "tastingNote": [
+      "Hopkins",
+      "Kaluuya",
+      "McDormand",
+      "Youn",
+      "Nomadland",
+      "Hampton/Florian Zeller",
+      "Fennell",
+      "Zhao"
+    ],
+    "bestPicture": "Nomadland"
+  },
+  {
+    "id": 85,
+    "style": "☆2021☆",
+    "tastingNote": [
+      "Smith",
+      "Kotsur",
+      "Chastain",
+      "DeBose",
+      "CODA",
+      "Heder",
+      "Branagh",
+      "Campion"
+    ],
+    "bestPicture": "CODA"
+  },
+  {
+    "id": 86,
+    "style": "☆2022☆",
+    "tastingNote": [
+      "Fraser",
+      "Huy Quan",
+      "Yeoh",
+      "Lee Curtis",
+      "Everything Everywhere All at Once",
+      "Polley",
+      "Kwan/Daniel Scheinert",
+      "Kwan/Daniel Scheinert"
+    ],
+    "bestPicture": "Everything Everywhere All at Once"
+  },
+  {
+    "id": 87,
+    "style": "☆2023☆",
+    "tastingNote": [
+      "Murphy",
+      "Downey Jr.",
+      "Stone",
+      "Randolph",
+      "Oppenheimer",
+      "Jefferson",
+      "- Justine Triet/Arthur Harari",
+      "Nolan"
+    ],
+    "bestPicture": "Oppenheimer"
+  },
+  {
+    "id": 88,
+    "style": "☆2024☆",
+    "tastingNote": [
+      "Brody",
+      "Culkin",
+      "Madison",
+      "Saldaña",
+      "Anora",
+      "Straughan",
+      "Baker",
+      "Baker"
+    ],
+    "bestPicture": "Anora"
+  }
+]
