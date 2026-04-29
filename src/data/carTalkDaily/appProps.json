@@ -21,13 +21,13 @@
   "sourceURL" : "https://www.oscars.org/oscars/ceremonies/",
   "qrCodeURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
   
-  "goodTurn" : "🏆",
-  "badTurn" : "◻️",
+  "goodTurn" : "🔧",
+  "badTurn" : "⚠️",
   
   "feedbackShutouts": "Lemons:",
   "topTargetCalss": "Best Repair:",
   "gameLabel": "Vehicle",
-  "targetType": "Oscar Winners",
+  "targetType": "Fixes",
   "gameTurn": "Selecting and Confirming",
   "TargetClass": "Diagnosis",
   "splashGreeting": "Enjoy the Popcorn!!!",  
