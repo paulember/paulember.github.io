@@ -30,20 +30,20 @@
   "targetType": "Fixes",
   "gameTurn": "Selecting and Confirming",
   "TargetClass": "Diagnosis",
-  "splashGreeting": "Three New Puzzles Daily",  
-  "splashQuote": "Lousy Car Advice Since 1977",
+  "splashGreeting": "Lousy Car Advice Since 1977",  
+  "splashQuote": "Don't Drive Like My Brother",
 	
   "turnHeader": "Diagnoses Selected",
   "turnLabel" : "Fix", 
   "turn0Fer": 0,
   "hiScore": 100,
   "scoreFloors": [
-    [98, "★★★★"],
-    [90, "★★★½"],
-    [80, "★★★☆"],
-    [70, "★★☆☆"],
-	[60, "★☆☆☆"],
-	[0, "zero☆"]
+    [98, "🔧🔧🔧🔧"],
+    [90, "🔧🔧🔧½"],
+    [80, "🔧🔧🔧⚠️"],
+    [70, "🔧🔧⚠️⚠️"],
+	[60, "🔧⚠️⚠️⚠️"],
+	[0, "lem🍋n"]
   ],
 
  "baseScoresWin": [
