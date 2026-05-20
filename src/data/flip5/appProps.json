@@ -12,9 +12,9 @@
   "confirmMessage" : "Submit Guess", 
   "resultsHeader" : "Lexicography",
   "gamesHeader"	: "Games:", 
-  "ratingsHeader"	: "Rating",
+  "ratingsHeader"	: "Daily Rating",
   "sweepsHeader"	: "Time",
-  "notesHeader"	: "Words Found",
+  "notesHeader"	: "Daily Words",
 	
   "appURL" : "https://flip5.vercel.app/",	          
   "documentationURL" : "https://phungo.blogspot.com/2024/01/flip5.html",	
