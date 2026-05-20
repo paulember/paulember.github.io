@@ -14,7 +14,7 @@
   "gamesHeader"	: "Games:", 
   "ratingsHeader"	: "Daily Rating",
   "sweepsHeader"	: "Time",
-  "notesHeader"	: "Daily Words",
+  "notesHeader"	: "Words",
 	
   "appURL" : "https://flip5.vercel.app/",	          
   "documentationURL" : "https://phungo.blogspot.com/2024/01/flip5.html",	
