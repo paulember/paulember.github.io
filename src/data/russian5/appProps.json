@@ -1,0 +1,126 @@
+[
+{
+  "appPropsKey": 0 ,
+  "appVersion": "v2604♦️",
+  "dataLibrary": "flip5",
+  "appTxt": "flip5",
+  "app_longText": "flip5",
+  "targetType" : "Words Picked",
+  "selectClass" : "Words",
+  "selectMessage" : "Submit Words",
+  "preNotesInstruction" : "Arrange the letters to form two words",
+  "confirmMessage" : "Submit Guess", 
+  "resultsHeader" : "Lexicography",
+  "gamesHeader"	: "Games:", 
+  "ratingsHeader"	: "Daily Rating",
+  "sweepsHeader"	: "Time",
+  "notesHeader"	: "Words",
+	
+  "appURL" : "https://flip5.vercel.app/",	          
+  "documentationURL" : "https://phungo.blogspot.com/2024/01/flip5.html",	
+  "bestPickURL" : "https://www.oscars.org/oscars/ceremonies/",
+  "sourceURL" : "https://www.fiveforks.com/wordle/",
+  
+  "qrCodeURL" :"https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/flip5/qrFlip5.png",
+  "qrCodeURL2" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
+
+  "dictionaryURL" :"https://www.dictionaryapi.com/api/v3/references/collegiate/json/",
+
+  "wordLength0" : 5,
+  "wordLength1" : 5,
+  "wordLength2" : 5,
+
+  "scoreTime100" : 60,
+  "scoreTimeInterval" : 12,
+  "scoreTimeBottom" : 600,
+  "scoreMissPenalty" : 30,
+
+  "wordsAllowedURL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/words_Allowed.json",
+	
+  "wordLib0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib2URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib3URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib4URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib5URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib6URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib7URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib8URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  "wordLib9URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/wordList999.json",
+  
+  "randomOid0URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid1URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid2URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid3URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid4URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid5URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid6URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid7URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid8URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+  "randomOid9URL" : "https://raw.githubusercontent.com/paulember/paulember.github.io/refs/heads/main/src/data/flip5/datedWineOIDs",
+
+  "goodTurn" : "☑",
+  "badTurn" : "❌",
+  "unknownTurn" : "◻️",	
+  
+  "feedbackShutouts": "Flops:",
+  "topTargetClass": "Sweep Year:",
+  "gameLabel": "Game",
+  "targetType": "Words",
+  "gameTurn": "Selecting and Confirming",
+  "TargetClass": "Year",
+  "splashGreeting": "Shuffle Wisely!!!",  
+  "splashQuote": "...‘trashmouth’ that’s an interesting word. - Will Shortz",
+  "splashQuote2": "Big Words Seldom Accompany Good Deeds - Charlotte Witton",
+	
+  "turnHeader": "Words Guessed",
+  "turnLabel" : "Word: ", 
+  "turn0Fer": 5,
+  "hiScore": 100,
+  "scoreFloors": [
+    [95, "WordFreak!!!"],
+    [80, "Polyglot"],
+    [65, "Linguist"],
+    [50, "Scribe"],
+	[20, "Typist"],
+	[0, "Rando"]
+  ],
+
+ "baseScoresWin": [
+    [6, 79],
+    [5, 80],
+    [4, 86],
+    [3, 93],
+    [2, 96],
+	[1, 100],
+	[0, 100]
+  ],
+ "baseScoresLoss": [
+    [6, 80],
+    [5, 79],
+    [4, 76],
+    [3, 73],
+    [2, 71],
+	[1, 69],
+	[0, 50]
+  ],
+ "in7pick2_1": [
+	  [18, "6"],
+	  [15, "5"],
+	  [12, "4"],
+	  [9, "3"],
+	  [6, "2"],
+	  [3, "1"],
+	  [0, "0"]
+ ],
+"in7pick2_2": [
+	  [18, "13"],
+	  [15, "12"],
+	  [12, "11"],
+	  [9, "10"],
+	  [6, "9"],
+	  [3, "8"],
+	  [0, "7"]
+  ]
+}
+]
