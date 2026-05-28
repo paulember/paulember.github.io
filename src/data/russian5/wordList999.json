@@ -1,0 +1,4494 @@
+[
+  {
+    "oid": "000",
+    "value": "CIGAR"
+  },
+  {
+    "oid": "001",
+    "value": "REBUT"
+  },
+  {
+    "oid": "002",
+    "value": "SISSY"
+  },
+  {
+    "oid": "003",
+    "value": "HUMPH"
+  },
+  {
+    "oid": "004",
+    "value": "AWAKE"
+  },
+  {
+    "oid": "005",
+    "value": "BLUSH"
+  },
+  {
+    "oid": "006",
+    "value": "FOCAL"
+  },
+  {
+    "oid": "007",
+    "value": "EVADE"
+  },
+  {
+    "oid": "008",
+    "value": "NAVAL"
+  },
+  {
+    "oid": "009",
+    "value": "SERVE"
+  },
+  {
+    "oid": "010",
+    "value": "HEATH"
+  },
+  {
+    "oid": "011",
+    "value": "DWARF"
+  },
+  {
+    "oid": "012",
+    "value": "MODEL"
+  },
+  {
+    "oid": "013",
+    "value": "KARMA"
+  },
+  {
+    "oid": "014",
+    "value": "STINK"
+  },
+  {
+    "oid": "015",
+    "value": "GRADE"
+  },
+  {
+    "oid": "016",
+    "value": "QUIET"
+  },
+  {
+    "oid": "017",
+    "value": "BENCH"
+  },
+  {
+    "oid": "018",
+    "value": "ABATE"
+  },
+  {
+    "oid": "019",
+    "value": "FEIGN"
+  },
+  {
+    "oid": "020",
+    "value": "MAJOR"
+  },
+  {
+    "oid": "021",
+    "value": "DEATH"
+  },
+  {
+    "oid": "022",
+    "value": "FRESH"
+  },
+  {
+    "oid": "023",
+    "value": "CRUST"
+  },
+  {
+    "oid": "024",
+    "value": "STOOL"
+  },
+  {
+    "oid": "025",
+    "value": "COLON"
+  },
+  {
+    "oid": "026",
+    "value": "ABASE"
+  },
+  {
+    "oid": "027",
+    "value": "MARRY"
+  },
+  {
+    "oid": "028",
+    "value": "REACT"
+  },
+  {
+    "oid": "029",
+    "value": "BATTY"
+  },
+  {
+    "oid": "030",
+    "value": "PRIDE"
+  },
+  {
+    "oid": "031",
+    "value": "FLOSS"
+  },
+  {
+    "oid": "032",
+    "value": "HELIX"
+  },
+  {
+    "oid": "033",
+    "value": "CROAK"
+  },
+  {
+    "oid": "034",
+    "value": "STAFF"
+  },
+  {
+    "oid": "035",
+    "value": "PAPER"
+  },
+  {
+    "oid": "036",
+    "value": "UNFED"
+  },
+  {
+    "oid": "037",
+    "value": "WHELP"
+  },
+  {
+    "oid": "038",
+    "value": "TRAWL"
+  },
+  {
+    "oid": "039",
+    "value": "OUTDO"
+  },
+  {
+    "oid": "040",
+    "value": "ADOBE"
+  },
+  {
+    "oid": "041",
+    "value": "CRAZY"
+  },
+  {
+    "oid": "042",
+    "value": "SOWER"
+  },
+  {
+    "oid": "043",
+    "value": "REPAY"
+  },
+  {
+    "oid": "044",
+    "value": "DIGIT"
+  },
+  {
+    "oid": "045",
+    "value": "CRATE"
+  },
+  {
+    "oid": "046",
+    "value": "CLUCK"
+  },
+  {
+    "oid": "047",
+    "value": "SPIKE"
+  },
+  {
+    "oid": "048",
+    "value": "MIMIC"
+  },
+  {
+    "oid": "049",
+    "value": "POUND"
+  },
+  {
+    "oid": "050",
+    "value": "MAXIM"
+  },
+  {
+    "oid": "051",
+    "value": "LINEN"
+  },
+  {
+    "oid": "052",
+    "value": "UNMET"
+  },
+  {
+    "oid": "053",
+    "value": "FLESH"
+  },
+  {
+    "oid": "054",
+    "value": "BOOBY"
+  },
+  {
+    "oid": "055",
+    "value": "FORTH"
+  },
+  {
+    "oid": "056",
+    "value": "FIRST"
+  },
+  {
+    "oid": "057",
+    "value": "STAND"
+  },
+  {
+    "oid": "058",
+    "value": "BELLY"
+  },
+  {
+    "oid": "059",
+    "value": "IVORY"
+  },
+  {
+    "oid": "060",
+    "value": "SEEDY"
+  },
+  {
+    "oid": "061",
+    "value": "PRINT"
+  },
+  {
+    "oid": "062",
+    "value": "YEARN"
+  },
+  {
+    "oid": "063",
+    "value": "DRAIN"
+  },
+  {
+    "oid": "064",
+    "value": "BRIBE"
+  },
+  {
+    "oid": "065",
+    "value": "STOUT"
+  },
+  {
+    "oid": "066",
+    "value": "PANEL"
+  },
+  {
+    "oid": "067",
+    "value": "CRASS"
+  },
+  {
+    "oid": "068",
+    "value": "FLUME"
+  },
+  {
+    "oid": "069",
+    "value": "OFFAL"
+  },
+  {
+    "oid": "070",
+    "value": "AGREE"
+  },
+  {
+    "oid": "071",
+    "value": "ERROR"
+  },
+  {
+    "oid": "072",
+    "value": "SWIRL"
+  },
+  {
+    "oid": "073",
+    "value": "ARGUE"
+  },
+  {
+    "oid": "074",
+    "value": "BLEED"
+  },
+  {
+    "oid": "075",
+    "value": "DELTA"
+  },
+  {
+    "oid": "076",
+    "value": "FLICK"
+  },
+  {
+    "oid": "077",
+    "value": "TOTEM"
+  },
+  {
+    "oid": "078",
+    "value": "WOOER"
+  },
+  {
+    "oid": "079",
+    "value": "FRONT"
+  },
+  {
+    "oid": "080",
+    "value": "SHRUB"
+  },
+  {
+    "oid": "081",
+    "value": "PARRY"
+  },
+  {
+    "oid": "082",
+    "value": "BIOME"
+  },
+  {
+    "oid": "083",
+    "value": "LAPEL"
+  },
+  {
+    "oid": "084",
+    "value": "START"
+  },
+  {
+    "oid": "085",
+    "value": "GREET"
+  },
+  {
+    "oid": "086",
+    "value": "GONER"
+  },
+  {
+    "oid": "087",
+    "value": "GOLEM"
+  },
+  {
+    "oid": "088",
+    "value": "LUSTY"
+  },
+  {
+    "oid": "089",
+    "value": "LOOPY"
+  },
+  {
+    "oid": "090",
+    "value": "ROUND"
+  },
+  {
+    "oid": "091",
+    "value": "AUDIT"
+  },
+  {
+    "oid": "092",
+    "value": "LYING"
+  },
+  {
+    "oid": "093",
+    "value": "GAMMA"
+  },
+  {
+    "oid": "094",
+    "value": "LABOR"
+  },
+  {
+    "oid": "095",
+    "value": "ISLET"
+  },
+  {
+    "oid": "096",
+    "value": "CIVIC"
+  },
+  {
+    "oid": "097",
+    "value": "FORGE"
+  },
+  {
+    "oid": "098",
+    "value": "CORNY"
+  },
+  {
+    "oid": "099",
+    "value": "MOULT"
+  },
+  {
+    "oid": "100",
+    "value": "BASIC"
+  },
+  {
+    "oid": "101",
+    "value": "SALAD"
+  },
+  {
+    "oid": "102",
+    "value": "AGATE"
+  },
+  {
+    "oid": "103",
+    "value": "SPICY"
+  },
+  {
+    "oid": "104",
+    "value": "SPRAY"
+  },
+  {
+    "oid": "105",
+    "value": "ESSAY"
+  },
+  {
+    "oid": "106",
+    "value": "FJORD"
+  },
+  {
+    "oid": "107",
+    "value": "SPEND"
+  },
+  {
+    "oid": "108",
+    "value": "KEBAB"
+  },
+  {
+    "oid": "109",
+    "value": "GUILD"
+  },
+  {
+    "oid": "110",
+    "value": "ABACK"
+  },
+  {
+    "oid": "111",
+    "value": "MOTOR"
+  },
+  {
+    "oid": "112",
+    "value": "ALONE"
+  },
+  {
+    "oid": "113",
+    "value": "HATCH"
+  },
+  {
+    "oid": "114",
+    "value": "HYPER"
+  },
+  {
+    "oid": "115",
+    "value": "THUMB"
+  },
+  {
+    "oid": "116",
+    "value": "DOWRY"
+  },
+  {
+    "oid": "117",
+    "value": "OUGHT"
+  },
+  {
+    "oid": "118",
+    "value": "BELCH"
+  },
+  {
+    "oid": "119",
+    "value": "DUTCH"
+  },
+  {
+    "oid": "120",
+    "value": "PILOT"
+  },
+  {
+    "oid": "121",
+    "value": "TWEED"
+  },
+  {
+    "oid": "122",
+    "value": "COMET"
+  },
+  {
+    "oid": "123",
+    "value": "JAUNT"
+  },
+  {
+    "oid": "124",
+    "value": "ENEMA"
+  },
+  {
+    "oid": "125",
+    "value": "STEED"
+  },
+  {
+    "oid": "126",
+    "value": "ABYSS"
+  },
+  {
+    "oid": "127",
+    "value": "GROWL"
+  },
+  {
+    "oid": "128",
+    "value": "FLING"
+  },
+  {
+    "oid": "129",
+    "value": "DOZEN"
+  },
+  {
+    "oid": "130",
+    "value": "BOOZY"
+  },
+  {
+    "oid": "131",
+    "value": "ERODE"
+  },
+  {
+    "oid": "132",
+    "value": "WORLD"
+  },
+  {
+    "oid": "133",
+    "value": "GOUGE"
+  },
+  {
+    "oid": "134",
+    "value": "CLICK"
+  },
+  {
+    "oid": "135",
+    "value": "BRIAR"
+  },
+  {
+    "oid": "136",
+    "value": "GREAT"
+  },
+  {
+    "oid": "137",
+    "value": "ALTAR"
+  },
+  {
+    "oid": "138",
+    "value": "PULPY"
+  },
+  {
+    "oid": "139",
+    "value": "BLURT"
+  },
+  {
+    "oid": "140",
+    "value": "COAST"
+  },
+  {
+    "oid": "141",
+    "value": "DUCHY"
+  },
+  {
+    "oid": "142",
+    "value": "GROIN"
+  },
+  {
+    "oid": "143",
+    "value": "FIXER"
+  },
+  {
+    "oid": "144",
+    "value": "GROUP"
+  },
+  {
+    "oid": "145",
+    "value": "ROGUE"
+  },
+  {
+    "oid": "146",
+    "value": "BADLY"
+  },
+  {
+    "oid": "147",
+    "value": "SMART"
+  },
+  {
+    "oid": "148",
+    "value": "PITHY"
+  },
+  {
+    "oid": "149",
+    "value": "GAUDY"
+  },
+  {
+    "oid": "150",
+    "value": "CHILL"
+  },
+  {
+    "oid": "151",
+    "value": "HERON"
+  },
+  {
+    "oid": "152",
+    "value": "VODKA"
+  },
+  {
+    "oid": "153",
+    "value": "FINER"
+  },
+  {
+    "oid": "154",
+    "value": "SURER"
+  },
+  {
+    "oid": "155",
+    "value": "RADIO"
+  },
+  {
+    "oid": "156",
+    "value": "ROUGE"
+  },
+  {
+    "oid": "157",
+    "value": "PERCH"
+  },
+  {
+    "oid": "158",
+    "value": "RETCH"
+  },
+  {
+    "oid": "159",
+    "value": "WROTE"
+  },
+  {
+    "oid": "160",
+    "value": "CLOCK"
+  },
+  {
+    "oid": "161",
+    "value": "TILDE"
+  },
+  {
+    "oid": "162",
+    "value": "STORE"
+  },
+  {
+    "oid": "163",
+    "value": "PROVE"
+  },
+  {
+    "oid": "164",
+    "value": "BRING"
+  },
+  {
+    "oid": "165",
+    "value": "SOLVE"
+  },
+  {
+    "oid": "166",
+    "value": "CHEAT"
+  },
+  {
+    "oid": "167",
+    "value": "GRIME"
+  },
+  {
+    "oid": "168",
+    "value": "EXULT"
+  },
+  {
+    "oid": "169",
+    "value": "USHER"
+  },
+  {
+    "oid": "170",
+    "value": "EPOCH"
+  },
+  {
+    "oid": "171",
+    "value": "TRIAD"
+  },
+  {
+    "oid": "172",
+    "value": "BREAK"
+  },
+  {
+    "oid": "173",
+    "value": "RHINO"
+  },
+  {
+    "oid": "174",
+    "value": "VIRAL"
+  },
+  {
+    "oid": "175",
+    "value": "CONIC"
+  },
+  {
+    "oid": "176",
+    "value": "MASSE"
+  },
+  {
+    "oid": "177",
+    "value": "SONIC"
+  },
+  {
+    "oid": "178",
+    "value": "VITAL"
+  },
+  {
+    "oid": "179",
+    "value": "TRACE"
+  },
+  {
+    "oid": "180",
+    "value": "USING"
+  },
+  {
+    "oid": "181",
+    "value": "PEACH"
+  },
+  {
+    "oid": "182",
+    "value": "CHAMP"
+  },
+  {
+    "oid": "183",
+    "value": "BATON"
+  },
+  {
+    "oid": "184",
+    "value": "BRAKE"
+  },
+  {
+    "oid": "185",
+    "value": "PLUCK"
+  },
+  {
+    "oid": "186",
+    "value": "CRAZE"
+  },
+  {
+    "oid": "187",
+    "value": "GRIPE"
+  },
+  {
+    "oid": "188",
+    "value": "WEARY"
+  },
+  {
+    "oid": "189",
+    "value": "PICKY"
+  },
+  {
+    "oid": "190",
+    "value": "ACUTE"
+  },
+  {
+    "oid": "191",
+    "value": "FERRY"
+  },
+  {
+    "oid": "192",
+    "value": "ASIDE"
+  },
+  {
+    "oid": "193",
+    "value": "TAPIR"
+  },
+  {
+    "oid": "194",
+    "value": "TROLL"
+  },
+  {
+    "oid": "195",
+    "value": "UNIFY"
+  },
+  {
+    "oid": "196",
+    "value": "REBUS"
+  },
+  {
+    "oid": "197",
+    "value": "BOOST"
+  },
+  {
+    "oid": "198",
+    "value": "TRUSS"
+  },
+  {
+    "oid": "199",
+    "value": "SIEGE"
+  },
+  {
+    "oid": "200",
+    "value": "TIGER"
+  },
+  {
+    "oid": "201",
+    "value": "BANAL"
+  },
+  {
+    "oid": "202",
+    "value": "SLUMP"
+  },
+  {
+    "oid": "203",
+    "value": "CRANK"
+  },
+  {
+    "oid": "204",
+    "value": "GORGE"
+  },
+  {
+    "oid": "205",
+    "value": "QUERY"
+  },
+  {
+    "oid": "206",
+    "value": "DRINK"
+  },
+  {
+    "oid": "207",
+    "value": "FAVOR"
+  },
+  {
+    "oid": "208",
+    "value": "ABBEY"
+  },
+  {
+    "oid": "209",
+    "value": "TANGY"
+  },
+  {
+    "oid": "210",
+    "value": "PANIC"
+  },
+  {
+    "oid": "211",
+    "value": "SOLAR"
+  },
+  {
+    "oid": "212",
+    "value": "SHIRE"
+  },
+  {
+    "oid": "213",
+    "value": "PROXY"
+  },
+  {
+    "oid": "214",
+    "value": "POINT"
+  },
+  {
+    "oid": "215",
+    "value": "ROBOT"
+  },
+  {
+    "oid": "216",
+    "value": "PRICK"
+  },
+  {
+    "oid": "217",
+    "value": "WINCE"
+  },
+  {
+    "oid": "218",
+    "value": "CRIMP"
+  },
+  {
+    "oid": "219",
+    "value": "KNOLL"
+  },
+  {
+    "oid": "220",
+    "value": "SUGAR"
+  },
+  {
+    "oid": "221",
+    "value": "WHACK"
+  },
+  {
+    "oid": "222",
+    "value": "MOUNT"
+  },
+  {
+    "oid": "223",
+    "value": "PERKY"
+  },
+  {
+    "oid": "224",
+    "value": "COULD"
+  },
+  {
+    "oid": "225",
+    "value": "WRUNG"
+  },
+  {
+    "oid": "226",
+    "value": "LIGHT"
+  },
+  {
+    "oid": "227",
+    "value": "THOSE"
+  },
+  {
+    "oid": "228",
+    "value": "MOIST"
+  },
+  {
+    "oid": "229",
+    "value": "SHARD"
+  },
+  {
+    "oid": "230",
+    "value": "PLEAT"
+  },
+  {
+    "oid": "231",
+    "value": "ALOFT"
+  },
+  {
+    "oid": "232",
+    "value": "SKILL"
+  },
+  {
+    "oid": "233",
+    "value": "ELDER"
+  },
+  {
+    "oid": "234",
+    "value": "FRAME"
+  },
+  {
+    "oid": "235",
+    "value": "HUMOR"
+  },
+  {
+    "oid": "236",
+    "value": "PAUSE"
+  },
+  {
+    "oid": "237",
+    "value": "ULCER"
+  },
+  {
+    "oid": "238",
+    "value": "ULTRA"
+  },
+  {
+    "oid": "239",
+    "value": "ROBIN"
+  },
+  {
+    "oid": "240",
+    "value": "CYNIC"
+  },
+  {
+    "oid": "241",
+    "value": "AROMA"
+  },
+  {
+    "oid": "242",
+    "value": "CAULK"
+  },
+  {
+    "oid": "243",
+    "value": "SHAKE"
+  },
+  {
+    "oid": "244",
+    "value": "DODGE"
+  },
+  {
+    "oid": "245",
+    "value": "SWILL"
+  },
+  {
+    "oid": "246",
+    "value": "TACIT"
+  },
+  {
+    "oid": "247",
+    "value": "OTHER"
+  },
+  {
+    "oid": "248",
+    "value": "THORN"
+  },
+  {
+    "oid": "249",
+    "value": "TROVE"
+  },
+  {
+    "oid": "250",
+    "value": "BLOKE"
+  },
+  {
+    "oid": "251",
+    "value": "VIVID"
+  },
+  {
+    "oid": "252",
+    "value": "SPILL"
+  },
+  {
+    "oid": "253",
+    "value": "CHANT"
+  },
+  {
+    "oid": "254",
+    "value": "CHOKE"
+  },
+  {
+    "oid": "255",
+    "value": "RUPEE"
+  },
+  {
+    "oid": "256",
+    "value": "NASTY"
+  },
+  {
+    "oid": "257",
+    "value": "MOURN"
+  },
+  {
+    "oid": "258",
+    "value": "AHEAD"
+  },
+  {
+    "oid": "259",
+    "value": "BRINE"
+  },
+  {
+    "oid": "260",
+    "value": "CLOTH"
+  },
+  {
+    "oid": "261",
+    "value": "HOARD"
+  },
+  {
+    "oid": "262",
+    "value": "SWEET"
+  },
+  {
+    "oid": "263",
+    "value": "MONTH"
+  },
+  {
+    "oid": "264",
+    "value": "LAPSE"
+  },
+  {
+    "oid": "265",
+    "value": "WATCH"
+  },
+  {
+    "oid": "266",
+    "value": "TODAY"
+  },
+  {
+    "oid": "267",
+    "value": "FOCUS"
+  },
+  {
+    "oid": "268",
+    "value": "SMELT"
+  },
+  {
+    "oid": "269",
+    "value": "TEASE"
+  },
+  {
+    "oid": "270",
+    "value": "CATER"
+  },
+  {
+    "oid": "271",
+    "value": "MOVIE"
+  },
+  {
+    "oid": "272",
+    "value": "SAUTE"
+  },
+  {
+    "oid": "273",
+    "value": "ALLOW"
+  },
+  {
+    "oid": "274",
+    "value": "RENEW"
+  },
+  {
+    "oid": "275",
+    "value": "THEIR"
+  },
+  {
+    "oid": "276",
+    "value": "SLOSH"
+  },
+  {
+    "oid": "277",
+    "value": "PURGE"
+  },
+  {
+    "oid": "278",
+    "value": "CHEST"
+  },
+  {
+    "oid": "279",
+    "value": "DEPOT"
+  },
+  {
+    "oid": "280",
+    "value": "EPOXY"
+  },
+  {
+    "oid": "281",
+    "value": "NYMPH"
+  },
+  {
+    "oid": "282",
+    "value": "FOUND"
+  },
+  {
+    "oid": "283",
+    "value": "SHALL"
+  },
+  {
+    "oid": "284",
+    "value": "STOVE"
+  },
+  {
+    "oid": "285",
+    "value": "LOWLY"
+  },
+  {
+    "oid": "286",
+    "value": "SNOUT"
+  },
+  {
+    "oid": "287",
+    "value": "TROPE"
+  },
+  {
+    "oid": "288",
+    "value": "FEWER"
+  },
+  {
+    "oid": "289",
+    "value": "SHAWL"
+  },
+  {
+    "oid": "290",
+    "value": "NATAL"
+  },
+  {
+    "oid": "291",
+    "value": "COMMA"
+  },
+  {
+    "oid": "292",
+    "value": "FORAY"
+  },
+  {
+    "oid": "293",
+    "value": "SCARE"
+  },
+  {
+    "oid": "294",
+    "value": "STAIR"
+  },
+  {
+    "oid": "295",
+    "value": "BLACK"
+  },
+  {
+    "oid": "296",
+    "value": "SQUAD"
+  },
+  {
+    "oid": "297",
+    "value": "ROYAL"
+  },
+  {
+    "oid": "298",
+    "value": "CHUNK"
+  },
+  {
+    "oid": "299",
+    "value": "MINCE"
+  },
+  {
+    "oid": "300",
+    "value": "SHAME"
+  },
+  {
+    "oid": "301",
+    "value": "CHEEK"
+  },
+  {
+    "oid": "302",
+    "value": "AMPLE"
+  },
+  {
+    "oid": "303",
+    "value": "FLAIR"
+  },
+  {
+    "oid": "304",
+    "value": "FOYER"
+  },
+  {
+    "oid": "305",
+    "value": "CARGO"
+  },
+  {
+    "oid": "306",
+    "value": "OXIDE"
+  },
+  {
+    "oid": "307",
+    "value": "PLANT"
+  },
+  {
+    "oid": "308",
+    "value": "OLIVE"
+  },
+  {
+    "oid": "309",
+    "value": "INERT"
+  },
+  {
+    "oid": "310",
+    "value": "ASKEW"
+  },
+  {
+    "oid": "311",
+    "value": "HEIST"
+  },
+  {
+    "oid": "312",
+    "value": "SHOWN"
+  },
+  {
+    "oid": "313",
+    "value": "ZESTY"
+  },
+  {
+    "oid": "314",
+    "value": "TRASH"
+  },
+  {
+    "oid": "315",
+    "value": "LARVA"
+  },
+  {
+    "oid": "316",
+    "value": "STORY"
+  },
+  {
+    "oid": "317",
+    "value": "GEESE"
+  },
+  {
+    "oid": "318",
+    "value": "CIVIL"
+  },
+  {
+    "oid": "319",
+    "value": "GOOEY"
+  },
+  {
+    "oid": "320",
+    "value": "FRITZ"
+  },
+  {
+    "oid": "321",
+    "value": "DALLY"
+  },
+  {
+    "oid": "322",
+    "value": "DRAPE"
+  },
+  {
+    "oid": "323",
+    "value": "BLUNT"
+  },
+  {
+    "oid": "324",
+    "value": "MOUTH"
+  },
+  {
+    "oid": "325",
+    "value": "QUILL"
+  },
+  {
+    "oid": "326",
+    "value": "COVEN"
+  },
+  {
+    "oid": "327",
+    "value": "DEFER"
+  },
+  {
+    "oid": "328",
+    "value": "LATER"
+  },
+  {
+    "oid": "329",
+    "value": "KNIFE"
+  },
+  {
+    "oid": "330",
+    "value": "TEETH"
+  },
+  {
+    "oid": "331",
+    "value": "LEFTY"
+  },
+  {
+    "oid": "332",
+    "value": "ALONG"
+  },
+  {
+    "oid": "333",
+    "value": "NOISY"
+  },
+  {
+    "oid": "334",
+    "value": "NADIR"
+  },
+  {
+    "oid": "335",
+    "value": "THROB"
+  },
+  {
+    "oid": "336",
+    "value": "CHAIR"
+  },
+  {
+    "oid": "337",
+    "value": "POUTY"
+  },
+  {
+    "oid": "338",
+    "value": "TRICK"
+  },
+  {
+    "oid": "339",
+    "value": "CHIRP"
+  },
+  {
+    "oid": "340",
+    "value": "TENOR"
+  },
+  {
+    "oid": "341",
+    "value": "BULGE"
+  },
+  {
+    "oid": "342",
+    "value": "DRIFT"
+  },
+  {
+    "oid": "343",
+    "value": "BLEND"
+  },
+  {
+    "oid": "344",
+    "value": "FETCH"
+  },
+  {
+    "oid": "345",
+    "value": "MIGHT"
+  },
+  {
+    "oid": "346",
+    "value": "LEAST"
+  },
+  {
+    "oid": "347",
+    "value": "PETAL"
+  },
+  {
+    "oid": "348",
+    "value": "ELATE"
+  },
+  {
+    "oid": "349",
+    "value": "GRAFT"
+  },
+  {
+    "oid": "350",
+    "value": "SPLIT"
+  },
+  {
+    "oid": "351",
+    "value": "TOWER"
+  },
+  {
+    "oid": "352",
+    "value": "ANNEX"
+  },
+  {
+    "oid": "353",
+    "value": "MIRTH"
+  },
+  {
+    "oid": "354",
+    "value": "SPORE"
+  },
+  {
+    "oid": "355",
+    "value": "UNION"
+  },
+  {
+    "oid": "356",
+    "value": "RATTY"
+  },
+  {
+    "oid": "357",
+    "value": "EXTOL"
+  },
+  {
+    "oid": "358",
+    "value": "LLAMA"
+  },
+  {
+    "oid": "359",
+    "value": "ROWDY"
+  },
+  {
+    "oid": "360",
+    "value": "ISSUE"
+  },
+  {
+    "oid": "361",
+    "value": "LOUSY"
+  },
+  {
+    "oid": "362",
+    "value": "MATTE"
+  },
+  {
+    "oid": "363",
+    "value": "LEVEL"
+  },
+  {
+    "oid": "364",
+    "value": "KNELL"
+  },
+  {
+    "oid": "365",
+    "value": "KEFIR"
+  },
+  {
+    "oid": "366",
+    "value": "NOMAD"
+  },
+  {
+    "oid": "367",
+    "value": "SOUTH"
+  },
+  {
+    "oid": "368",
+    "value": "MINTY"
+  },
+  {
+    "oid": "369",
+    "value": "NASAL"
+  },
+  {
+    "oid": "370",
+    "value": "IMBUE"
+  },
+  {
+    "oid": "371",
+    "value": "CORAL"
+  },
+  {
+    "oid": "372",
+    "value": "GROAN"
+  },
+  {
+    "oid": "373",
+    "value": "STORK"
+  },
+  {
+    "oid": "374",
+    "value": "RIGID"
+  },
+  {
+    "oid": "375",
+    "value": "LUMPY"
+  },
+  {
+    "oid": "376",
+    "value": "DAUNT"
+  },
+  {
+    "oid": "377",
+    "value": "BANJO"
+  },
+  {
+    "oid": "378",
+    "value": "FRILL"
+  },
+  {
+    "oid": "379",
+    "value": "ASSAY"
+  },
+  {
+    "oid": "380",
+    "value": "OMEGA"
+  },
+  {
+    "oid": "381",
+    "value": "SAVVY"
+  },
+  {
+    "oid": "382",
+    "value": "WHOLE"
+  },
+  {
+    "oid": "383",
+    "value": "HAUNT"
+  },
+  {
+    "oid": "384",
+    "value": "GOFER"
+  },
+  {
+    "oid": "385",
+    "value": "QUAKE"
+  },
+  {
+    "oid": "386",
+    "value": "WATER"
+  },
+  {
+    "oid": "387",
+    "value": "BURNT"
+  },
+  {
+    "oid": "388",
+    "value": "TIZZY"
+  },
+  {
+    "oid": "389",
+    "value": "BLANK"
+  },
+  {
+    "oid": "390",
+    "value": "SWORD"
+  },
+  {
+    "oid": "391",
+    "value": "LORIS"
+  },
+  {
+    "oid": "392",
+    "value": "MODAL"
+  },
+  {
+    "oid": "393",
+    "value": "NERVY"
+  },
+  {
+    "oid": "394",
+    "value": "FOIST"
+  },
+  {
+    "oid": "395",
+    "value": "UNDID"
+  },
+  {
+    "oid": "396",
+    "value": "GNOME"
+  },
+  {
+    "oid": "397",
+    "value": "EXILE"
+  },
+  {
+    "oid": "398",
+    "value": "BRAND"
+  },
+  {
+    "oid": "399",
+    "value": "JUMPY"
+  },
+  {
+    "oid": "400",
+    "value": "NOVEL"
+  },
+  {
+    "oid": "401",
+    "value": "DREAD"
+  },
+  {
+    "oid": "402",
+    "value": "STILT"
+  },
+  {
+    "oid": "403",
+    "value": "ATRIA"
+  },
+  {
+    "oid": "404",
+    "value": "BALER"
+  },
+  {
+    "oid": "405",
+    "value": "CURVE"
+  },
+  {
+    "oid": "406",
+    "value": "POPPY"
+  },
+  {
+    "oid": "407",
+    "value": "INCUR"
+  },
+  {
+    "oid": "408",
+    "value": "MOLDY"
+  },
+  {
+    "oid": "409",
+    "value": "BLINK"
+  },
+  {
+    "oid": "410",
+    "value": "WITTY"
+  },
+  {
+    "oid": "411",
+    "value": "STUMP"
+  },
+  {
+    "oid": "412",
+    "value": "PLAIN"
+  },
+  {
+    "oid": "413",
+    "value": "OFFER"
+  },
+  {
+    "oid": "414",
+    "value": "COMFY"
+  },
+  {
+    "oid": "415",
+    "value": "ELITE"
+  },
+  {
+    "oid": "416",
+    "value": "ODDLY"
+  },
+  {
+    "oid": "417",
+    "value": "THRUM"
+  },
+  {
+    "oid": "418",
+    "value": "GLADE"
+  },
+  {
+    "oid": "419",
+    "value": "TAUPE"
+  },
+  {
+    "oid": "420",
+    "value": "CURIO"
+  },
+  {
+    "oid": "421",
+    "value": "MUNCH"
+  },
+  {
+    "oid": "422",
+    "value": "PRANK"
+  },
+  {
+    "oid": "423",
+    "value": "PETTY"
+  },
+  {
+    "oid": "424",
+    "value": "QUAIL"
+  },
+  {
+    "oid": "425",
+    "value": "GHOST"
+  },
+  {
+    "oid": "426",
+    "value": "BILGE"
+  },
+  {
+    "oid": "427",
+    "value": "VIXEN"
+  },
+  {
+    "oid": "428",
+    "value": "PLAID"
+  },
+  {
+    "oid": "429",
+    "value": "TAFFY"
+  },
+  {
+    "oid": "430",
+    "value": "BOARD"
+  },
+  {
+    "oid": "431",
+    "value": "LEASE"
+  },
+  {
+    "oid": "432",
+    "value": "REUSE"
+  },
+  {
+    "oid": "433",
+    "value": "EDIFY"
+  },
+  {
+    "oid": "434",
+    "value": "DATUM"
+  },
+  {
+    "oid": "435",
+    "value": "CEASE"
+  },
+  {
+    "oid": "436",
+    "value": "ADMIN"
+  },
+  {
+    "oid": "437",
+    "value": "PREEN"
+  },
+  {
+    "oid": "438",
+    "value": "ROUGH"
+  },
+  {
+    "oid": "439",
+    "value": "HABIT"
+  },
+  {
+    "oid": "440",
+    "value": "IDIOM"
+  },
+  {
+    "oid": "441",
+    "value": "QUASH"
+  },
+  {
+    "oid": "442",
+    "value": "POLAR"
+  },
+  {
+    "oid": "443",
+    "value": "SPORT"
+  },
+  {
+    "oid": "444",
+    "value": "DRONE"
+  },
+  {
+    "oid": "445",
+    "value": "GRIFT"
+  },
+  {
+    "oid": "446",
+    "value": "SUEDE"
+  },
+  {
+    "oid": "447",
+    "value": "SHUCK"
+  },
+  {
+    "oid": "448",
+    "value": "FOLIO"
+  },
+  {
+    "oid": "449",
+    "value": "ALARM"
+  },
+  {
+    "oid": "450",
+    "value": "BORNE"
+  },
+  {
+    "oid": "451",
+    "value": "PITCH"
+  },
+  {
+    "oid": "452",
+    "value": "LIVID"
+  },
+  {
+    "oid": "453",
+    "value": "GROWN"
+  },
+  {
+    "oid": "454",
+    "value": "FIFTH"
+  },
+  {
+    "oid": "455",
+    "value": "EAGER"
+  },
+  {
+    "oid": "456",
+    "value": "BONGO"
+  },
+  {
+    "oid": "457",
+    "value": "AWARE"
+  },
+  {
+    "oid": "458",
+    "value": "BICEP"
+  },
+  {
+    "oid": "459",
+    "value": "DOWEL"
+  },
+  {
+    "oid": "460",
+    "value": "YEAST"
+  },
+  {
+    "oid": "461",
+    "value": "TRIPE"
+  },
+  {
+    "oid": "462",
+    "value": "BALMY"
+  },
+  {
+    "oid": "463",
+    "value": "MACHO"
+  },
+  {
+    "oid": "464",
+    "value": "SUITE"
+  },
+  {
+    "oid": "465",
+    "value": "SHUSH"
+  },
+  {
+    "oid": "466",
+    "value": "TROUT"
+  },
+  {
+    "oid": "467",
+    "value": "PATSY"
+  },
+  {
+    "oid": "468",
+    "value": "WHOSE"
+  },
+  {
+    "oid": "469",
+    "value": "ADEPT"
+  },
+  {
+    "oid": "470",
+    "value": "IDLER"
+  },
+  {
+    "oid": "471",
+    "value": "BLISS"
+  },
+  {
+    "oid": "472",
+    "value": "DUMMY"
+  },
+  {
+    "oid": "473",
+    "value": "WEEDY"
+  },
+  {
+    "oid": "474",
+    "value": "CLASH"
+  },
+  {
+    "oid": "475",
+    "value": "KNOWN"
+  },
+  {
+    "oid": "476",
+    "value": "GENIE"
+  },
+  {
+    "oid": "477",
+    "value": "OZONE"
+  },
+  {
+    "oid": "478",
+    "value": "ARTSY"
+  },
+  {
+    "oid": "479",
+    "value": "SPATE"
+  },
+  {
+    "oid": "480",
+    "value": "PATCH"
+  },
+  {
+    "oid": "481",
+    "value": "INBOX"
+  },
+  {
+    "oid": "482",
+    "value": "DIRGE"
+  },
+  {
+    "oid": "483",
+    "value": "STOOD"
+  },
+  {
+    "oid": "484",
+    "value": "MORAL"
+  },
+  {
+    "oid": "485",
+    "value": "ASHEN"
+  },
+  {
+    "oid": "486",
+    "value": "CREST"
+  },
+  {
+    "oid": "487",
+    "value": "LAUGH"
+  },
+  {
+    "oid": "488",
+    "value": "NURSE"
+  },
+  {
+    "oid": "489",
+    "value": "ARROW"
+  },
+  {
+    "oid": "490",
+    "value": "TURBO"
+  },
+  {
+    "oid": "491",
+    "value": "WHEAT"
+  },
+  {
+    "oid": "492",
+    "value": "SPARE"
+  },
+  {
+    "oid": "493",
+    "value": "HAZEL"
+  },
+  {
+    "oid": "494",
+    "value": "VILLA"
+  },
+  {
+    "oid": "495",
+    "value": "FOAMY"
+  },
+  {
+    "oid": "496",
+    "value": "KRILL"
+  },
+  {
+    "oid": "497",
+    "value": "SHEAR"
+  },
+  {
+    "oid": "498",
+    "value": "CURSE"
+  },
+  {
+    "oid": "499",
+    "value": "JEWEL"
+  },
+  {
+    "oid": "500",
+    "value": "BOOTY"
+  },
+  {
+    "oid": "501",
+    "value": "QUOTA"
+  },
+  {
+    "oid": "502",
+    "value": "SORRY"
+  },
+  {
+    "oid": "503",
+    "value": "VERSE"
+  },
+  {
+    "oid": "504",
+    "value": "SHEET"
+  },
+  {
+    "oid": "505",
+    "value": "ELBOW"
+  },
+  {
+    "oid": "506",
+    "value": "SHELF"
+  },
+  {
+    "oid": "507",
+    "value": "ANGLE"
+  },
+  {
+    "oid": "508",
+    "value": "DOPEY"
+  },
+  {
+    "oid": "509",
+    "value": "AMBLE"
+  },
+  {
+    "oid": "510",
+    "value": "NUDGE"
+  },
+  {
+    "oid": "511",
+    "value": "BASTE"
+  },
+  {
+    "oid": "512",
+    "value": "SPARK"
+  },
+  {
+    "oid": "513",
+    "value": "TIMER"
+  },
+  {
+    "oid": "514",
+    "value": "LASSO"
+  },
+  {
+    "oid": "515",
+    "value": "STAMP"
+  },
+  {
+    "oid": "516",
+    "value": "LADLE"
+  },
+  {
+    "oid": "517",
+    "value": "PIECE"
+  },
+  {
+    "oid": "518",
+    "value": "CHASE"
+  },
+  {
+    "oid": "519",
+    "value": "MANGO"
+  },
+  {
+    "oid": "520",
+    "value": "TRACK"
+  },
+  {
+    "oid": "521",
+    "value": "SPITE"
+  },
+  {
+    "oid": "522",
+    "value": "GREED"
+  },
+  {
+    "oid": "523",
+    "value": "NAVEL"
+  },
+  {
+    "oid": "524",
+    "value": "TROOP"
+  },
+  {
+    "oid": "525",
+    "value": "ALERT"
+  },
+  {
+    "oid": "526",
+    "value": "SCRUM"
+  },
+  {
+    "oid": "527",
+    "value": "CHECK"
+  },
+  {
+    "oid": "528",
+    "value": "SPEAR"
+  },
+  {
+    "oid": "529",
+    "value": "DEITY"
+  },
+  {
+    "oid": "530",
+    "value": "HOVER"
+  },
+  {
+    "oid": "531",
+    "value": "FUZZY"
+  },
+  {
+    "oid": "532",
+    "value": "LODGE"
+  },
+  {
+    "oid": "533",
+    "value": "AWARD"
+  },
+  {
+    "oid": "534",
+    "value": "DRYER"
+  },
+  {
+    "oid": "535",
+    "value": "GLAND"
+  },
+  {
+    "oid": "536",
+    "value": "OTTER"
+  },
+  {
+    "oid": "537",
+    "value": "CREAM"
+  },
+  {
+    "oid": "538",
+    "value": "CLOVE"
+  },
+  {
+    "oid": "539",
+    "value": "ROACH"
+  },
+  {
+    "oid": "540",
+    "value": "MADLY"
+  },
+  {
+    "oid": "541",
+    "value": "INDIE"
+  },
+  {
+    "oid": "542",
+    "value": "TRAIL"
+  },
+  {
+    "oid": "543",
+    "value": "SUAVE"
+  },
+  {
+    "oid": "544",
+    "value": "CROOK"
+  },
+  {
+    "oid": "545",
+    "value": "DITTY"
+  },
+  {
+    "oid": "546",
+    "value": "RUMBA"
+  },
+  {
+    "oid": "547",
+    "value": "RAPID"
+  },
+  {
+    "oid": "548",
+    "value": "SCORE"
+  },
+  {
+    "oid": "549",
+    "value": "GOODY"
+  },
+  {
+    "oid": "550",
+    "value": "BONUS"
+  },
+  {
+    "oid": "551",
+    "value": "STEEP"
+  },
+  {
+    "oid": "552",
+    "value": "SWATH"
+  },
+  {
+    "oid": "553",
+    "value": "PUPIL"
+  },
+  {
+    "oid": "554",
+    "value": "PEDAL"
+  },
+  {
+    "oid": "555",
+    "value": "TOOTH"
+  },
+  {
+    "oid": "556",
+    "value": "REVUE"
+  },
+  {
+    "oid": "557",
+    "value": "CHORE"
+  },
+  {
+    "oid": "558",
+    "value": "RIVET"
+  },
+  {
+    "oid": "559",
+    "value": "TOAST"
+  },
+  {
+    "oid": "560",
+    "value": "FALSE"
+  },
+  {
+    "oid": "561",
+    "value": "UDDER"
+  },
+  {
+    "oid": "562",
+    "value": "FEVER"
+  },
+  {
+    "oid": "563",
+    "value": "SHUNT"
+  },
+  {
+    "oid": "564",
+    "value": "SUNNY"
+  },
+  {
+    "oid": "565",
+    "value": "CRISP"
+  },
+  {
+    "oid": "566",
+    "value": "CREPE"
+  },
+  {
+    "oid": "567",
+    "value": "UPPER"
+  },
+  {
+    "oid": "568",
+    "value": "REACH"
+  },
+  {
+    "oid": "569",
+    "value": "ICING"
+  },
+  {
+    "oid": "570",
+    "value": "SQUID"
+  },
+  {
+    "oid": "571",
+    "value": "ROWER"
+  },
+  {
+    "oid": "572",
+    "value": "SILLY"
+  },
+  {
+    "oid": "573",
+    "value": "PROSE"
+  },
+  {
+    "oid": "574",
+    "value": "FLINT"
+  },
+  {
+    "oid": "575",
+    "value": "KNACK"
+  },
+  {
+    "oid": "576",
+    "value": "FANCY"
+  },
+  {
+    "oid": "577",
+    "value": "CLOAK"
+  },
+  {
+    "oid": "578",
+    "value": "TOTAL"
+  },
+  {
+    "oid": "579",
+    "value": "DINGY"
+  },
+  {
+    "oid": "580",
+    "value": "CRAWL"
+  },
+  {
+    "oid": "581",
+    "value": "WAFER"
+  },
+  {
+    "oid": "582",
+    "value": "DRAFT"
+  },
+  {
+    "oid": "583",
+    "value": "ATLAS"
+  },
+  {
+    "oid": "584",
+    "value": "SPRIG"
+  },
+  {
+    "oid": "585",
+    "value": "CYBER"
+  },
+  {
+    "oid": "586",
+    "value": "RELAX"
+  },
+  {
+    "oid": "587",
+    "value": "CHEAP"
+  },
+  {
+    "oid": "588",
+    "value": "CHOSE"
+  },
+  {
+    "oid": "589",
+    "value": "NERVE"
+  },
+  {
+    "oid": "590",
+    "value": "LEMUR"
+  },
+  {
+    "oid": "591",
+    "value": "STARE"
+  },
+  {
+    "oid": "592",
+    "value": "MAMBO"
+  },
+  {
+    "oid": "593",
+    "value": "DECRY"
+  },
+  {
+    "oid": "594",
+    "value": "GRAIN"
+  },
+  {
+    "oid": "595",
+    "value": "AFFIX"
+  },
+  {
+    "oid": "596",
+    "value": "SHARE"
+  },
+  {
+    "oid": "597",
+    "value": "EAGLE"
+  },
+  {
+    "oid": "598",
+    "value": "SAUNA"
+  },
+  {
+    "oid": "599",
+    "value": "BRAWN"
+  },
+  {
+    "oid": "600",
+    "value": "BLADE"
+  },
+  {
+    "oid": "601",
+    "value": "FLASH"
+  },
+  {
+    "oid": "602",
+    "value": "STRAY"
+  },
+  {
+    "oid": "603",
+    "value": "HEFTY"
+  },
+  {
+    "oid": "604",
+    "value": "SCOWL"
+  },
+  {
+    "oid": "605",
+    "value": "BOAST"
+  },
+  {
+    "oid": "606",
+    "value": "FUNKY"
+  },
+  {
+    "oid": "607",
+    "value": "DROOL"
+  },
+  {
+    "oid": "608",
+    "value": "BOXER"
+  },
+  {
+    "oid": "609",
+    "value": "VYING"
+  },
+  {
+    "oid": "610",
+    "value": "PLUMB"
+  },
+  {
+    "oid": "611",
+    "value": "PATIO"
+  },
+  {
+    "oid": "612",
+    "value": "FLUNG"
+  },
+  {
+    "oid": "613",
+    "value": "HYENA"
+  },
+  {
+    "oid": "614",
+    "value": "HILLY"
+  },
+  {
+    "oid": "615",
+    "value": "SHOVE"
+  },
+  {
+    "oid": "616",
+    "value": "ENDOW"
+  },
+  {
+    "oid": "617",
+    "value": "CRYPT"
+  },
+  {
+    "oid": "618",
+    "value": "SHAKY"
+  },
+  {
+    "oid": "619",
+    "value": "GUILE"
+  },
+  {
+    "oid": "620",
+    "value": "MAUVE"
+  },
+  {
+    "oid": "621",
+    "value": "DOGMA"
+  },
+  {
+    "oid": "622",
+    "value": "HIPPO"
+  },
+  {
+    "oid": "623",
+    "value": "CHOCK"
+  },
+  {
+    "oid": "624",
+    "value": "SLANG"
+  },
+  {
+    "oid": "625",
+    "value": "WITCH"
+  },
+  {
+    "oid": "626",
+    "value": "BROWN"
+  },
+  {
+    "oid": "627",
+    "value": "TWIST"
+  },
+  {
+    "oid": "628",
+    "value": "JELLY"
+  },
+  {
+    "oid": "629",
+    "value": "PEARL"
+  },
+  {
+    "oid": "630",
+    "value": "SPINE"
+  },
+  {
+    "oid": "631",
+    "value": "NICHE"
+  },
+  {
+    "oid": "632",
+    "value": "GOING"
+  },
+  {
+    "oid": "633",
+    "value": "FRAIL"
+  },
+  {
+    "oid": "634",
+    "value": "TALLY"
+  },
+  {
+    "oid": "635",
+    "value": "VISOR"
+  },
+  {
+    "oid": "636",
+    "value": "TACKY"
+  },
+  {
+    "oid": "637",
+    "value": "UVULA"
+  },
+  {
+    "oid": "638",
+    "value": "PRIMP"
+  },
+  {
+    "oid": "639",
+    "value": "FLOWN"
+  },
+  {
+    "oid": "640",
+    "value": "STOIC"
+  },
+  {
+    "oid": "641",
+    "value": "INNER"
+  },
+  {
+    "oid": "642",
+    "value": "SWELL"
+  },
+  {
+    "oid": "643",
+    "value": "READY"
+  },
+  {
+    "oid": "644",
+    "value": "EVENT"
+  },
+  {
+    "oid": "645",
+    "value": "TRULY"
+  },
+  {
+    "oid": "646",
+    "value": "OCTET"
+  },
+  {
+    "oid": "647",
+    "value": "VINYL"
+  },
+  {
+    "oid": "648",
+    "value": "BLAZE"
+  },
+  {
+    "oid": "649",
+    "value": "SNOOP"
+  },
+  {
+    "oid": "650",
+    "value": "SIXTH"
+  },
+  {
+    "oid": "651",
+    "value": "WEIRD"
+  },
+  {
+    "oid": "652",
+    "value": "EASEL"
+  },
+  {
+    "oid": "653",
+    "value": "TUNIC"
+  },
+  {
+    "oid": "654",
+    "value": "BAWDY"
+  },
+  {
+    "oid": "655",
+    "value": "SANDY"
+  },
+  {
+    "oid": "656",
+    "value": "WREAK"
+  },
+  {
+    "oid": "657",
+    "value": "FROWN"
+  },
+  {
+    "oid": "658",
+    "value": "BOSSY"
+  },
+  {
+    "oid": "659",
+    "value": "GOOFY"
+  },
+  {
+    "oid": "660",
+    "value": "SHOUT"
+  },
+  {
+    "oid": "661",
+    "value": "SPOON"
+  },
+  {
+    "oid": "662",
+    "value": "DICEY"
+  },
+  {
+    "oid": "663",
+    "value": "FIBER"
+  },
+  {
+    "oid": "664",
+    "value": "STINT"
+  },
+  {
+    "oid": "665",
+    "value": "HALVE"
+  },
+  {
+    "oid": "666",
+    "value": "GRANT"
+  },
+  {
+    "oid": "667",
+    "value": "CORER"
+  },
+  {
+    "oid": "668",
+    "value": "GAMUT"
+  },
+  {
+    "oid": "669",
+    "value": "PRONE"
+  },
+  {
+    "oid": "670",
+    "value": "STAIN"
+  },
+  {
+    "oid": "671",
+    "value": "GUSTY"
+  },
+  {
+    "oid": "672",
+    "value": "CARVE"
+  },
+  {
+    "oid": "673",
+    "value": "MOMMY"
+  },
+  {
+    "oid": "674",
+    "value": "JOINT"
+  },
+  {
+    "oid": "675",
+    "value": "FLOUR"
+  },
+  {
+    "oid": "676",
+    "value": "LAGER"
+  },
+  {
+    "oid": "677",
+    "value": "MINER"
+  },
+  {
+    "oid": "678",
+    "value": "TITLE"
+  },
+  {
+    "oid": "679",
+    "value": "WAGON"
+  },
+  {
+    "oid": "680",
+    "value": "SHELL"
+  },
+  {
+    "oid": "681",
+    "value": "MODEM"
+  },
+  {
+    "oid": "682",
+    "value": "CLOUD"
+  },
+  {
+    "oid": "683",
+    "value": "RIDER"
+  },
+  {
+    "oid": "684",
+    "value": "BRAIN"
+  },
+  {
+    "oid": "685",
+    "value": "FAITH"
+  },
+  {
+    "oid": "686",
+    "value": "THANK"
+  },
+  {
+    "oid": "687",
+    "value": "TORCH"
+  },
+  {
+    "oid": "688",
+    "value": "HANDY"
+  },
+  {
+    "oid": "689",
+    "value": "STEAM"
+  },
+  {
+    "oid": "690",
+    "value": "TEACH"
+  },
+  {
+    "oid": "691",
+    "value": "SEVEN"
+  },
+  {
+    "oid": "692",
+    "value": "SMOKE"
+  },
+  {
+    "oid": "693",
+    "value": "PRESS"
+  },
+  {
+    "oid": "694",
+    "value": "FULLY"
+  },
+  {
+    "oid": "695",
+    "value": "BEAUT"
+  },
+  {
+    "oid": "696",
+    "value": "HONEY"
+  },
+  {
+    "oid": "697",
+    "value": "RECUR"
+  },
+  {
+    "oid": "698",
+    "value": "BROAD"
+  },
+  {
+    "oid": "699",
+    "value": "HARSH"
+  },
+  {
+    "oid": "700",
+    "value": "BRASS"
+  },
+  {
+    "oid": "701",
+    "value": "AISLE"
+  },
+  {
+    "oid": "702",
+    "value": "REBEL"
+  },
+  {
+    "oid": "703",
+    "value": "DEBIT"
+  },
+  {
+    "oid": "704",
+    "value": "DRAWN"
+  },
+  {
+    "oid": "705",
+    "value": "OWNER"
+  },
+  {
+    "oid": "706",
+    "value": "RERUN"
+  },
+  {
+    "oid": "707",
+    "value": "WIDEN"
+  },
+  {
+    "oid": "708",
+    "value": "STERN"
+  },
+  {
+    "oid": "709",
+    "value": "FAINT"
+  },
+  {
+    "oid": "710",
+    "value": "CAMEL"
+  },
+  {
+    "oid": "711",
+    "value": "MUSHY"
+  },
+  {
+    "oid": "712",
+    "value": "SPOUT"
+  },
+  {
+    "oid": "713",
+    "value": "KNAVE"
+  },
+  {
+    "oid": "714",
+    "value": "FLUNK"
+  },
+  {
+    "oid": "715",
+    "value": "LITHE"
+  },
+  {
+    "oid": "716",
+    "value": "CROWN"
+  },
+  {
+    "oid": "717",
+    "value": "STAKE"
+  },
+  {
+    "oid": "718",
+    "value": "SKATE"
+  },
+  {
+    "oid": "719",
+    "value": "FILET"
+  },
+  {
+    "oid": "720",
+    "value": "LEECH"
+  },
+  {
+    "oid": "721",
+    "value": "BRUTE"
+  },
+  {
+    "oid": "722",
+    "value": "MULCH"
+  },
+  {
+    "oid": "723",
+    "value": "DELAY"
+  },
+  {
+    "oid": "724",
+    "value": "METER"
+  },
+  {
+    "oid": "725",
+    "value": "LANKY"
+  },
+  {
+    "oid": "726",
+    "value": "STORM"
+  },
+  {
+    "oid": "727",
+    "value": "BRACE"
+  },
+  {
+    "oid": "728",
+    "value": "ACORN"
+  },
+  {
+    "oid": "729",
+    "value": "SHORE"
+  },
+  {
+    "oid": "730",
+    "value": "NEIGH"
+  },
+  {
+    "oid": "731",
+    "value": "SKIFF"
+  },
+  {
+    "oid": "732",
+    "value": "SCONE"
+  },
+  {
+    "oid": "733",
+    "value": "MEDIC"
+  },
+  {
+    "oid": "734",
+    "value": "OUNCE"
+  },
+  {
+    "oid": "735",
+    "value": "SAUCY"
+  },
+  {
+    "oid": "736",
+    "value": "MACAW"
+  },
+  {
+    "oid": "737",
+    "value": "ANVIL"
+  },
+  {
+    "oid": "738",
+    "value": "ENSUE"
+  },
+  {
+    "oid": "739",
+    "value": "LOWER"
+  },
+  {
+    "oid": "740",
+    "value": "SCALE"
+  },
+  {
+    "oid": "741",
+    "value": "FLAKE"
+  },
+  {
+    "oid": "742",
+    "value": "CHALK"
+  },
+  {
+    "oid": "743",
+    "value": "PENNE"
+  },
+  {
+    "oid": "744",
+    "value": "FERAL"
+  },
+  {
+    "oid": "745",
+    "value": "SUPER"
+  },
+  {
+    "oid": "746",
+    "value": "SMOCK"
+  },
+  {
+    "oid": "747",
+    "value": "JUICE"
+  },
+  {
+    "oid": "748",
+    "value": "AWASH"
+  },
+  {
+    "oid": "749",
+    "value": "PORCH"
+  },
+  {
+    "oid": "750",
+    "value": "FORTE"
+  },
+  {
+    "oid": "751",
+    "value": "PRONG"
+  },
+  {
+    "oid": "752",
+    "value": "CADET"
+  },
+  {
+    "oid": "753",
+    "value": "SPECK"
+  },
+  {
+    "oid": "754",
+    "value": "SHAFT"
+  },
+  {
+    "oid": "755",
+    "value": "REFER"
+  },
+  {
+    "oid": "756",
+    "value": "NERDY"
+  },
+  {
+    "oid": "757",
+    "value": "QUITE"
+  },
+  {
+    "oid": "758",
+    "value": "DECOY"
+  },
+  {
+    "oid": "759",
+    "value": "SWOON"
+  },
+  {
+    "oid": "760",
+    "value": "VIDEO"
+  },
+  {
+    "oid": "761",
+    "value": "ENACT"
+  },
+  {
+    "oid": "762",
+    "value": "JIFFY"
+  },
+  {
+    "oid": "763",
+    "value": "CAMEO"
+  },
+  {
+    "oid": "764",
+    "value": "GAUNT"
+  },
+  {
+    "oid": "765",
+    "value": "BLARE"
+  },
+  {
+    "oid": "766",
+    "value": "SHAPE"
+  },
+  {
+    "oid": "767",
+    "value": "CANON"
+  },
+  {
+    "oid": "768",
+    "value": "SCOFF"
+  },
+  {
+    "oid": "769",
+    "value": "CRUSH"
+  },
+  {
+    "oid": "770",
+    "value": "DEBUT"
+  },
+  {
+    "oid": "771",
+    "value": "THIGH"
+  },
+  {
+    "oid": "772",
+    "value": "INLAY"
+  },
+  {
+    "oid": "773",
+    "value": "ADAGE"
+  },
+  {
+    "oid": "774",
+    "value": "BUDDY"
+  },
+  {
+    "oid": "775",
+    "value": "ZEBRA"
+  },
+  {
+    "oid": "776",
+    "value": "DROVE"
+  },
+  {
+    "oid": "777",
+    "value": "ORDER"
+  },
+  {
+    "oid": "778",
+    "value": "KNEAD"
+  },
+  {
+    "oid": "779",
+    "value": "SAVOR"
+  },
+  {
+    "oid": "780",
+    "value": "DOLLY"
+  },
+  {
+    "oid": "781",
+    "value": "BUGLE"
+  },
+  {
+    "oid": "782",
+    "value": "EDICT"
+  },
+  {
+    "oid": "783",
+    "value": "PAINT"
+  },
+  {
+    "oid": "784",
+    "value": "SCENT"
+  },
+  {
+    "oid": "785",
+    "value": "TERSE"
+  },
+  {
+    "oid": "786",
+    "value": "COVER"
+  },
+  {
+    "oid": "787",
+    "value": "PRIOR"
+  },
+  {
+    "oid": "788",
+    "value": "GRIND"
+  },
+  {
+    "oid": "789",
+    "value": "PROUD"
+  },
+  {
+    "oid": "790",
+    "value": "VAULT"
+  },
+  {
+    "oid": "791",
+    "value": "ANGST"
+  },
+  {
+    "oid": "792",
+    "value": "DETER"
+  },
+  {
+    "oid": "793",
+    "value": "SWUNG"
+  },
+  {
+    "oid": "794",
+    "value": "MANGA"
+  },
+  {
+    "oid": "795",
+    "value": "CROWD"
+  },
+  {
+    "oid": "796",
+    "value": "HENCE"
+  },
+  {
+    "oid": "797",
+    "value": "MELON"
+  },
+  {
+    "oid": "798",
+    "value": "ETHER"
+  },
+  {
+    "oid": "799",
+    "value": "ORGAN"
+  },
+  {
+    "oid": "800",
+    "value": "GROOM"
+  },
+  {
+    "oid": "801",
+    "value": "STARK"
+  },
+  {
+    "oid": "802",
+    "value": "BRAVO"
+  },
+  {
+    "oid": "803",
+    "value": "BASIN"
+  },
+  {
+    "oid": "804",
+    "value": "CHAOS"
+  },
+  {
+    "oid": "805",
+    "value": "GUMMY"
+  },
+  {
+    "oid": "806",
+    "value": "PAPAL"
+  },
+  {
+    "oid": "807",
+    "value": "MINUS"
+  },
+  {
+    "oid": "808",
+    "value": "SKIER"
+  },
+  {
+    "oid": "809",
+    "value": "BEVEL"
+  },
+  {
+    "oid": "810",
+    "value": "TITAN"
+  },
+  {
+    "oid": "811",
+    "value": "GLIDE"
+  },
+  {
+    "oid": "812",
+    "value": "SWISH"
+  },
+  {
+    "oid": "813",
+    "value": "EXALT"
+  },
+  {
+    "oid": "814",
+    "value": "DINGO"
+  },
+  {
+    "oid": "815",
+    "value": "NICER"
+  },
+  {
+    "oid": "816",
+    "value": "HITCH"
+  },
+  {
+    "oid": "817",
+    "value": "BRINY"
+  },
+  {
+    "oid": "818",
+    "value": "TUTOR"
+  },
+  {
+    "oid": "819",
+    "value": "STALL"
+  },
+  {
+    "oid": "820",
+    "value": "PINCH"
+  },
+  {
+    "oid": "821",
+    "value": "AMASS"
+  },
+  {
+    "oid": "822",
+    "value": "CUMIN"
+  },
+  {
+    "oid": "823",
+    "value": "OUTER"
+  },
+  {
+    "oid": "824",
+    "value": "TIDAL"
+  },
+  {
+    "oid": "825",
+    "value": "MEDIA"
+  },
+  {
+    "oid": "826",
+    "value": "JERKY"
+  },
+  {
+    "oid": "827",
+    "value": "PIOUS"
+  },
+  {
+    "oid": "828",
+    "value": "MUSTY"
+  },
+  {
+    "oid": "829",
+    "value": "SHAVE"
+  },
+  {
+    "oid": "830",
+    "value": "DECAL"
+  },
+  {
+    "oid": "831",
+    "value": "VALUE"
+  },
+  {
+    "oid": "832",
+    "value": "EBONY"
+  },
+  {
+    "oid": "833",
+    "value": "SLICE"
+  },
+  {
+    "oid": "834",
+    "value": "DIARY"
+  },
+  {
+    "oid": "835",
+    "value": "PROWL"
+  },
+  {
+    "oid": "836",
+    "value": "CRAFT"
+  },
+  {
+    "oid": "837",
+    "value": "PRUNE"
+  },
+  {
+    "oid": "838",
+    "value": "GLEAM"
+  },
+  {
+    "oid": "839",
+    "value": "VAPID"
+  },
+  {
+    "oid": "840",
+    "value": "INTRO"
+  },
+  {
+    "oid": "841",
+    "value": "OVERT"
+  },
+  {
+    "oid": "842",
+    "value": "ROVER"
+  },
+  {
+    "oid": "843",
+    "value": "LASER"
+  },
+  {
+    "oid": "844",
+    "value": "JOLLY"
+  },
+  {
+    "oid": "845",
+    "value": "LUCID"
+  },
+  {
+    "oid": "846",
+    "value": "RAISE"
+  },
+  {
+    "oid": "847",
+    "value": "FACET"
+  },
+  {
+    "oid": "848",
+    "value": "TITHE"
+  },
+  {
+    "oid": "849",
+    "value": "SHANK"
+  },
+  {
+    "oid": "850",
+    "value": "EQUIP"
+  },
+  {
+    "oid": "851",
+    "value": "BLIMP"
+  },
+  {
+    "oid": "852",
+    "value": "STEEL"
+  },
+  {
+    "oid": "853",
+    "value": "WHINY"
+  },
+  {
+    "oid": "854",
+    "value": "LOUSE"
+  },
+  {
+    "oid": "855",
+    "value": "BROTH"
+  },
+  {
+    "oid": "856",
+    "value": "MERGE"
+  },
+  {
+    "oid": "857",
+    "value": "BREED"
+  },
+  {
+    "oid": "858",
+    "value": "VOILA"
+  },
+  {
+    "oid": "859",
+    "value": "FINCH"
+  },
+  {
+    "oid": "860",
+    "value": "WRIST"
+  },
+  {
+    "oid": "861",
+    "value": "CLIMB"
+  },
+  {
+    "oid": "862",
+    "value": "PLAIT"
+  },
+  {
+    "oid": "863",
+    "value": "SERUM"
+  },
+  {
+    "oid": "864",
+    "value": "FROND"
+  },
+  {
+    "oid": "865",
+    "value": "TABOO"
+  },
+  {
+    "oid": "866",
+    "value": "FORCE"
+  },
+  {
+    "oid": "867",
+    "value": "REALM"
+  },
+  {
+    "oid": "868",
+    "value": "SPEAK"
+  },
+  {
+    "oid": "869",
+    "value": "STUNG"
+  },
+  {
+    "oid": "870",
+    "value": "MAYOR"
+  },
+  {
+    "oid": "871",
+    "value": "SALLY"
+  },
+  {
+    "oid": "872",
+    "value": "TOWEL"
+  },
+  {
+    "oid": "873",
+    "value": "RISEN"
+  },
+  {
+    "oid": "874",
+    "value": "DECAY"
+  },
+  {
+    "oid": "875",
+    "value": "SHADE"
+  },
+  {
+    "oid": "876",
+    "value": "LINGO"
+  },
+  {
+    "oid": "877",
+    "value": "ABIDE"
+  },
+  {
+    "oid": "878",
+    "value": "SPELT"
+  },
+  {
+    "oid": "879",
+    "value": "SNORT"
+  },
+  {
+    "oid": "880",
+    "value": "TOXIN"
+  },
+  {
+    "oid": "881",
+    "value": "ERUPT"
+  },
+  {
+    "oid": "882",
+    "value": "SINCE"
+  },
+  {
+    "oid": "883",
+    "value": "LOCAL"
+  },
+  {
+    "oid": "884",
+    "value": "HEAVE"
+  },
+  {
+    "oid": "885",
+    "value": "PESKY"
+  },
+  {
+    "oid": "886",
+    "value": "GRASP"
+  },
+  {
+    "oid": "887",
+    "value": "CHEER"
+  },
+  {
+    "oid": "888",
+    "value": "EARLY"
+  },
+  {
+    "oid": "889",
+    "value": "CLONE"
+  },
+  {
+    "oid": "890",
+    "value": "TEARY"
+  },
+  {
+    "oid": "891",
+    "value": "HUNCH"
+  },
+  {
+    "oid": "892",
+    "value": "FLAME"
+  },
+  {
+    "oid": "893",
+    "value": "STATE"
+  },
+  {
+    "oid": "894",
+    "value": "URBAN"
+  },
+  {
+    "oid": "895",
+    "value": "FORTY"
+  },
+  {
+    "oid": "896",
+    "value": "IMAGE"
+  },
+  {
+    "oid": "897",
+    "value": "DEVIL"
+  },
+  {
+    "oid": "898",
+    "value": "SENSE"
+  },
+  {
+    "oid": "899",
+    "value": "OFTEN"
+  },
+  {
+    "oid": "900",
+    "value": "SMITH"
+  },
+  {
+    "oid": "901",
+    "value": "PIPER"
+  },
+  {
+    "oid": "902",
+    "value": "APART"
+  },
+  {
+    "oid": "903",
+    "value": "HEAVY"
+  },
+  {
+    "oid": "904",
+    "value": "BUILD"
+  },
+  {
+    "oid": "905",
+    "value": "MATCH"
+  },
+  {
+    "oid": "906",
+    "value": "PRICE"
+  },
+  {
+    "oid": "907",
+    "value": "RIDGE"
+  },
+  {
+    "oid": "908",
+    "value": "PSALM"
+  },
+  {
+    "oid": "909",
+    "value": "STASH"
+  },
+  {
+    "oid": "910",
+    "value": "ASCOT"
+  },
+  {
+    "oid": "911",
+    "value": "TALON"
+  },
+  {
+    "oid": "912",
+    "value": "SCRAM"
+  },
+  {
+    "oid": "913",
+    "value": "PASTA"
+  },
+  {
+    "oid": "914",
+    "value": "NEVER"
+  },
+  {
+    "oid": "915",
+    "value": "FRIED"
+  },
+  {
+    "oid": "916",
+    "value": "STIFF"
+  },
+  {
+    "oid": "917",
+    "value": "PLACE"
+  },
+  {
+    "oid": "918",
+    "value": "AFTER"
+  },
+  {
+    "oid": "919",
+    "value": "WHICH"
+  },
+  {
+    "oid": "920",
+    "value": "REPEL"
+  },
+  {
+    "oid": "921",
+    "value": "VERGE"
+  },
+  {
+    "oid": "922",
+    "value": "MICRO"
+  },
+  {
+    "oid": "923",
+    "value": "CLEFT"
+  },
+  {
+    "oid": "924",
+    "value": "ALIVE"
+  },
+  {
+    "oid": "925",
+    "value": "BULKY"
+  },
+  {
+    "oid": "926",
+    "value": "EXPEL"
+  },
+  {
+    "oid": "927",
+    "value": "LEGGY"
+  },
+  {
+    "oid": "928",
+    "value": "EMBER"
+  },
+  {
+    "oid": "929",
+    "value": "SNAKE"
+  },
+  {
+    "oid": "930",
+    "value": "ALOOF"
+  },
+  {
+    "oid": "931",
+    "value": "BLOCK"
+  },
+  {
+    "oid": "932",
+    "value": "RELIC"
+  },
+  {
+    "oid": "933",
+    "value": "STILL"
+  },
+  {
+    "oid": "934",
+    "value": "TWEAK"
+  },
+  {
+    "oid": "935",
+    "value": "NORTH"
+  },
+  {
+    "oid": "936",
+    "value": "LARGE"
+  },
+  {
+    "oid": "937",
+    "value": "THING"
+  },
+  {
+    "oid": "938",
+    "value": "STOLE"
+  },
+  {
+    "oid": "939",
+    "value": "COURT"
+  },
+  {
+    "oid": "940",
+    "value": "BLOND"
+  },
+  {
+    "oid": "941",
+    "value": "LUNCH"
+  },
+  {
+    "oid": "942",
+    "value": "DOING"
+  },
+  {
+    "oid": "943",
+    "value": "HEARD"
+  },
+  {
+    "oid": "944",
+    "value": "ROUTE"
+  },
+  {
+    "oid": "945",
+    "value": "BRIEF"
+  },
+  {
+    "oid": "946",
+    "value": "THREW"
+  },
+  {
+    "oid": "947",
+    "value": "LINER"
+  },
+  {
+    "oid": "948",
+    "value": "FINAL"
+  },
+  {
+    "oid": "949",
+    "value": "STONY"
+  },
+  {
+    "oid": "950",
+    "value": "CABLE"
+  },
+  {
+    "oid": "951",
+    "value": "LUNGE"
+  },
+  {
+    "oid": "952",
+    "value": "SCANT"
+  },
+  {
+    "oid": "953",
+    "value": "TWIRL"
+  },
+  {
+    "oid": "954",
+    "value": "AGING"
+  },
+  {
+    "oid": "955",
+    "value": "MURAL"
+  },
+  {
+    "oid": "956",
+    "value": "SALTY"
+  },
+  {
+    "oid": "957",
+    "value": "THREE"
+  },
+  {
+    "oid": "958",
+    "value": "CHILD"
+  },
+  {
+    "oid": "959",
+    "value": "LEARN"
+  },
+  {
+    "oid": "960",
+    "value": "DAISY"
+  },
+  {
+    "oid": "961",
+    "value": "PHONE"
+  },
+  {
+    "oid": "962",
+    "value": "EVOKE"
+  },
+  {
+    "oid": "963",
+    "value": "GRACE"
+  },
+  {
+    "oid": "964",
+    "value": "SLOPE"
+  },
+  {
+    "oid": "965",
+    "value": "TOUCH"
+  },
+  {
+    "oid": "966",
+    "value": "BUILT"
+  },
+  {
+    "oid": "967",
+    "value": "SMALL"
+  },
+  {
+    "oid": "968",
+    "value": "TABLE"
+  },
+  {
+    "oid": "969",
+    "value": "FUNNY"
+  },
+  {
+    "oid": "970",
+    "value": "BACON"
+  },
+  {
+    "oid": "971",
+    "value": "GLOBE"
+  },
+  {
+    "oid": "972",
+    "value": "TOPIC"
+  },
+  {
+    "oid": "973",
+    "value": "WOULD"
+  },
+  {
+    "oid": "974",
+    "value": "SPENT"
+  },
+  {
+    "oid": "975",
+    "value": "THESE"
+  },
+  {
+    "oid": "976",
+    "value": "HOUSE"
+  },
+  {
+    "oid": "977",
+    "value": "CHAIN"
+  },
+  {
+    "oid": "978",
+    "value": "SHIFT"
+  },
+  {
+    "oid": "979",
+    "value": "SHARP"
+  },
+  {
+    "oid": "980",
+    "value": "SLEEP"
+  },
+  {
+    "oid": "981",
+    "value": "WOMAN"
+  },
+  {
+    "oid": "982",
+    "value": "YOUNG"
+  },
+  {
+    "oid": "983",
+    "value": "WORST"
+  },
+  {
+    "oid": "984",
+    "value": "ADAPT"
+  },
+  {
+    "oid": "985",
+    "value": "GENRE"
+  },
+  {
+    "oid": "986",
+    "value": "TAKEN"
+  },
+  {
+    "oid": "987",
+    "value": "RESIN"
+  },
+  {
+    "oid": "988",
+    "value": "SUSHI"
+  },
+  {
+    "oid": "989",
+    "value": "SCOPE"
+  },
+  {
+    "oid": "990",
+    "value": "TAWNY"
+  },
+  {
+    "oid": "991",
+    "value": "SOLID"
+  },
+  {
+    "oid": "992",
+    "value": "GUIDE"
+  },
+  {
+    "oid": "993",
+    "value": "THROW"
+  },
+  {
+    "oid": "994",
+    "value": "QUEEN"
+  },
+  {
+    "oid": "995",
+    "value": "PIXEL"
+  },
+  {
+    "oid": "996",
+    "value": "PIANO"
+  },
+  {
+    "oid": "997",
+    "value": "CANDY"
+  },
+  {
+    "oid": "998",
+    "value": "QUEUE"
+  },
+  {
+    "oid": "999",
+    "value": "THINK"
+  },
+  {
+    "oid": "1000",
+    "value": "TARDY"
+  },
+  {
+    "oid": "1001",
+    "value": "TRUST"
+  },
+  {
+    "oid": "1002",
+    "value": "SIGHT"
+  },
+  {
+    "oid": "1003",
+    "value": "SASSY"
+  },
+  {
+    "oid": "1004",
+    "value": "GREEN"
+  },
+  {
+    "oid": "1005",
+    "value": "MEANT"
+  },
+  {
+    "oid": "1006",
+    "value": "ACTOR"
+  },
+  {
+    "oid": "1007",
+    "value": "LEASH"
+  },
+  {
+    "oid": "1008",
+    "value": "GLAZE"
+  },
+  {
+    "oid": "1009",
+    "value": "NINJA"
+  },
+  {
+    "oid": "1010",
+    "value": "LIMIT"
+  },
+  {
+    "oid": "1011",
+    "value": "TRADE"
+  },
+  {
+    "oid": "1012",
+    "value": "FLARE"
+  },
+  {
+    "oid": "1013",
+    "value": "MANIA"
+  },
+  {
+    "oid": "1014",
+    "value": "ARDOR"
+  },
+  {
+    "oid": "1015",
+    "value": "UNTIL"
+  },
+  {
+    "oid": "1016",
+    "value": "NOISE"
+  },
+  {
+    "oid": "1017",
+    "value": "BLEAK"
+  },
+  {
+    "oid": "1018",
+    "value": "GRAIL"
+  },
+  {
+    "oid": "1019",
+    "value": "PHONY"
+  },
+  {
+    "oid": "1020",
+    "value": "MASON"
+  },
+  {
+    "oid": "1021",
+    "value": "NOBLE"
+  },
+  {
+    "oid": "1022",
+    "value": "PIQUE"
+  },
+  {
+    "oid": "1023",
+    "value": "RETRY"
+  },
+  {
+    "oid": "1024",
+    "value": "CAUSE"
+  },
+  {
+    "oid": "1025",
+    "value": "TEMPO"
+  },
+  {
+    "oid": "1026",
+    "value": "GIVEN"
+  },
+  {
+    "oid": "1027",
+    "value": "SMIRK"
+  },
+  {
+    "oid": "1028",
+    "value": "OCCUR"
+  },
+  {
+    "oid": "1029",
+    "value": "SPLAT"
+  },
+  {
+    "oid": "1030",
+    "value": "MERCY"
+  },
+  {
+    "oid": "1031",
+    "value": "ADULT"
+  },
+  {
+    "oid": "1032",
+    "value": "GRAPH"
+  },
+  {
+    "oid": "1033",
+    "value": "LEAKY"
+  },
+  {
+    "oid": "1034",
+    "value": "AGENT"
+  },
+  {
+    "oid": "1035",
+    "value": "UNCLE"
+  },
+  {
+    "oid": "1036",
+    "value": "KNELT"
+  },
+  {
+    "oid": "1037",
+    "value": "SKUNK"
+  },
+  {
+    "oid": "1038",
+    "value": "SNAIL"
+  },
+  {
+    "oid": "1039",
+    "value": "TRUTH"
+  },
+  {
+    "oid": "1040",
+    "value": "BINGE"
+  },
+  {
+    "oid": "1041",
+    "value": "VIOLA"
+  },
+  {
+    "oid": "1042",
+    "value": "CHIME"
+  },
+  {
+    "oid": "1043",
+    "value": "BUNCH"
+  },
+  {
+    "oid": "1044",
+    "value": "SPURT"
+  },
+  {
+    "oid": "1045",
+    "value": "WHILE"
+  },
+  {
+    "oid": "1046",
+    "value": "MERRY"
+  },
+  {
+    "oid": "1047",
+    "value": "BERET"
+  },
+  {
+    "oid": "1048",
+    "value": "DADDY"
+  },
+  {
+    "oid": "1049",
+    "value": "AZURE"
+  },
+  {
+    "oid": "1050",
+    "value": "COACH"
+  },
+  {
+    "oid": "1051",
+    "value": "SMILE"
+  },
+  {
+    "oid": "1052",
+    "value": "LOYAL"
+  },
+  {
+    "oid": "1053",
+    "value": "ROCKY"
+  },
+  {
+    "oid": "1054",
+    "value": "RIGHT"
+  },
+  {
+    "oid": "1055",
+    "value": "CAROL"
+  },
+  {
+    "oid": "1056",
+    "value": "BRUSH"
+  },
+  {
+    "oid": "1057",
+    "value": "STONE"
+  },
+  {
+    "oid": "1058",
+    "value": "SNARE"
+  },
+  {
+    "oid": "1059",
+    "value": "CLOSE"
+  },
+  {
+    "oid": "1060",
+    "value": "FRANK"
+  },
+  {
+    "oid": "1061",
+    "value": "MUSIC"
+  },
+  {
+    "oid": "1062",
+    "value": "ANGEL"
+  },
+  {
+    "oid": "1063",
+    "value": "EXERT"
+  },
+  {
+    "oid": "1064",
+    "value": "RAYON"
+  },
+  {
+    "oid": "1065",
+    "value": "CLEAR"
+  },
+  {
+    "oid": "1066",
+    "value": "WHISK"
+  },
+  {
+    "oid": "1067",
+    "value": "OLDER"
+  },
+  {
+    "oid": "1068",
+    "value": "QUOTE"
+  },
+  {
+    "oid": "1069",
+    "value": "LUCKY"
+  },
+  {
+    "oid": "1070",
+    "value": "ROUSE"
+  },
+  {
+    "oid": "1071",
+    "value": "DWELL"
+  },
+  {
+    "oid": "1072",
+    "value": "GNASH"
+  },
+  {
+    "oid": "1073",
+    "value": "BIRCH"
+  },
+  {
+    "oid": "1074",
+    "value": "GIDDY"
+  },
+  {
+    "oid": "1075",
+    "value": "AWAIT"
+  },
+  {
+    "oid": "1076",
+    "value": "ONION"
+  },
+  {
+    "oid": "1077",
+    "value": "SPACE"
+  },
+  {
+    "oid": "1078",
+    "value": "LURID"
+  },
+  {
+    "oid": "1079",
+    "value": "TINGE"
+  },
+  {
+    "oid": "1080",
+    "value": "DEUCE"
+  },
+  {
+    "oid": "1081",
+    "value": "GIZMO"
+  },
+  {
+    "oid": "1082",
+    "value": "TABBY"
+  },
+  {
+    "oid": "1083",
+    "value": "FUGUE"
+  },
+  {
+    "oid": "1084",
+    "value": "ARISE"
+  },
+  {
+    "oid": "1085",
+    "value": "PERIL"
+  },
+  {
+    "oid": "1086",
+    "value": "GUISE"
+  },
+  {
+    "oid": "1087",
+    "value": "SHORT"
+  },
+  {
+    "oid": "1088",
+    "value": "VENUE"
+  },
+  {
+    "oid": "1089",
+    "value": "AWOKE"
+  },
+  {
+    "oid": "1090",
+    "value": "RABID"
+  },
+  {
+    "oid": "1091",
+    "value": "MOTEL"
+  },
+  {
+    "oid": "1092",
+    "value": "ABHOR"
+  },
+  {
+    "oid": "1093",
+    "value": "LATHE"
+  },
+  {
+    "oid": "1094",
+    "value": "GLARE"
+  },
+  {
+    "oid": "1095",
+    "value": "HOLLY"
+  },
+  {
+    "oid": "1096",
+    "value": "FETID"
+  },
+  {
+    "oid": "1097",
+    "value": "PLUMP"
+  },
+  {
+    "oid": "1098",
+    "value": "GAUGE"
+  },
+  {
+    "oid": "1099",
+    "value": "TUBER"
+  },
+  {
+    "oid": "1100",
+    "value": "DRILL"
+  },
+  {
+    "oid": "1101",
+    "value": "STUNT"
+  },
+  {
+    "oid": "1102",
+    "value": "DETOX"
+  },
+  {
+    "oid": "1103",
+    "value": "LIMBO"
+  },
+  {
+    "oid": "1104",
+    "value": "IDEAL"
+  },
+  {
+    "oid": "1105",
+    "value": "HAVEN"
+  },
+  {
+    "oid": "1106",
+    "value": "GROSS"
+  },
+  {
+    "oid": "1107",
+    "value": "CATTY"
+  },
+  {
+    "oid": "1108",
+    "value": "SPOOF"
+  },
+  {
+    "oid": "1109",
+    "value": "FORUM"
+  },
+  {
+    "oid": "1110",
+    "value": "BEARD"
+  },
+  {
+    "oid": "1111",
+    "value": "WOUND"
+  },
+  {
+    "oid": "1112",
+    "value": "STACK"
+  },
+  {
+    "oid": "1113",
+    "value": "LEVER"
+  },
+  {
+    "oid": "1114",
+    "value": "HARDY"
+  },
+  {
+    "oid": "1115",
+    "value": "ANNOY"
+  },
+  {
+    "oid": "1116",
+    "value": "NYLON"
+  },
+  {
+    "oid": "1117",
+    "value": "AMUSE"
+  },
+  {
+    "oid": "1118",
+    "value": "PLANE"
+  },
+  {
+    "oid": "1119",
+    "value": "RELAY"
+  },
+  {
+    "oid": "1120",
+    "value": "SPASM"
+  },
+  {
+    "oid": "1121",
+    "value": "WIDTH"
+  },
+  {
+    "oid": "1122",
+    "value": "SPOIL"
+  }
+]

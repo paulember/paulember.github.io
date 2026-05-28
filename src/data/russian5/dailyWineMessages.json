@@ -1,0 +1,79 @@
+[
+  {
+    "date": "AAA00",
+    "openingMessage": "🍺🍻🍷🥂🍸🍹🍾🥃🧃🧋☕🫖🥤"
+  },
+  {
+    "date": "Jul21",
+    "openingMessage": "stupid munday 😞😢🥺😤"
+  },
+  {
+    "date": "Jul24",
+    "openingMessage": "National Tequila Day 🍸"
+  },
+  {
+    "date": "Jul25",
+    "openingMessage": "Happy Wine and Cheese Day 🧀"
+  },
+  {
+    "date": "Jul27",
+    "openingMessage": "National Scotch Day🥃"
+  },
+  {
+    "date": "Jul29",
+    "redPostgameMsg": "R"
+  },
+  {
+    "date": "Aug01",
+    "whitePostgameMsg": "Happy Albarino Day"
+  },
+  {
+    "date": "Aug07",
+    "openingMessage": "National IPA Day",
+    "comboPostgameMsg": "Go Eagles 🦅🏈"
+  },
+  {
+    "date": "Aug08",
+    "openingMessage": "International Beer Day"
+  },
+  {
+    "date": "Aug11",
+    "openingMessage": "M💩NDAY"
+  },
+  {
+    "date": "Aug13",
+    "whitePostgameMsg": "Happy Prosecco Day",
+    "oRideWhite": "3153"
+  },
+  {
+    "date": "Aug15",
+    "openingMessage": "HAPPY FRIDA🍸"
+  },
+  {
+    "date": "Aug16",
+    "openingMessage": "National Rum Day"
+  },
+  {
+    "date": "Aug18",
+    "redPostgameMsg": "Happy Pinot Noir Day 🍷",
+    "oRideRED": "9469"
+  },
+  {
+    "date": "Aug25",
+    "openingMessage": "Whiskey Sour Day"
+  },
+  {
+    "date": "Aug30",
+    "redPostgameMsg": "International Cabernet Sauvignon Day 🍷",
+    "oRideRED": "0057",
+    "notes": "oRideRed Does not work for redWineMajor5.json"
+  },
+  {
+    "date": "Aug31",
+    "openingMessage": "Sunday FUNDAY🥂🥂🥂"
+  },
+  {
+    "date": "Sep04",
+    "openingMessage": "Go Eagles 🦅🏈"
+  }
+]

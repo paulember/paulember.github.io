@@ -1,0 +1,171 @@
+[
+  {
+    "date": "0102",
+    "o_word1": "FROST",
+    "o_word2": "CHILL"
+  },
+  {
+    "date": "0109",
+    "o_word1": "MAGIC",
+    "o_word2": "TRICK"
+  },
+    {
+    "date": "0317",
+    "o_word1": "SAINT",
+    "o_word2": "PADDY",
+     "postgameMsg": "🎉🇮🇪☘️ Happy Saint Patrick's Day ☘️🇮🇪🎉",
+    "postgameLink": "https://stpatricksfestival.ie/"
+  },
+      {
+    "date": "0326",
+    "o_word1": "DANCE",
+    "o_word2": "BEARS",
+     "postgameMsg": "🎉🎵 Happy Birthday Dave 🎵🎉",
+    "postgameLink": "https://www.discogs.com/master/18481-Grateful-Dead-History-Of-The-Grateful-Dead-Vol-1-Bears-Choice/image/SW1hZ2U6MTA1ODkwNjU=?srsltid=AfmBOorLGjgX878tcX1WEvonMkNq2r1OrfcI7ZwZRKyAkCxaMtgPDssy"
+  },
+        {
+    "date": "0328",
+    "o_word1": "RIGHT",
+    "o_word2": "BOWER",
+     "postgameMsg": "🎉♠️♥️ (LINK) Happy Birthday Z-Boy ♦️♣️🎉",
+    "postgameLink": "https://bicyclecards.com/how-to-play/euchre"
+  },
+  {
+    "date": "0409",
+    "o_word1": "VINYL",
+    "o_word2": "ALBUM",
+      "postgameMsg": "🎉🎵  (LINK) Happy Birthday Stove 🎵🎉",
+    "postgameLink": "https://xpn.org/wxpn-is-spinning-24-hours-of-vinyl-on-april-9"
+  },
+  {
+    "date": "0415",
+    "o_word1": "DEATH",
+    "o_word2": "TAXES"
+  },
+    {
+    "date": "0422",
+    "o_word1": "MADAM",
+    "o_word2": "EARTH",
+      "postgameMsg": "🌍🌳🌏 (LINK) EARTH DAY 🌏♻️🌍",
+    "postgameLink": "https://www.earthday.org/earth-day-2026"
+  },
+      {
+    "date": "0504",
+    "o_word1": "LIGHT",
+    "o_word2": "SABER",
+      "postgameMsg": "✨🤖🚀 (LINK) Star Wars Day 🚀🤖✨",
+    "postgameLink": "https://swapi.info"
+  },
+  {
+    "date": "0515",
+    "o_word1": "SNACK",
+    "o_word2": "HOUND",
+ "postgameMsg": "🎵 (LINK) Young People 🎵",
+    "postgameLink": "https://www.youtube.com/watch?v=lBD5IvAimIs"
+  },
+  {
+    "date": "0620",
+    "o_word1": "BRICK",
+    "o_word2": "HOUSE",
+    "postgameMsg": "🎉 (LINK) Lionel Richie Birthday 🎉",
+       "postgameLink": "https://en.wikipedia.org/wiki/Lionel_Richie"
+  },
+  {
+    "date": "1030",
+    "o_word1": "GRACE",
+    "o_word2": "SLICK"
+  },
+  {
+    "date": "1031",
+    "o_word1": "TRICK",
+    "o_word2": "TREAT"
+  },
+  {
+    "date": "1104",
+    "o_word1": "EARLY",
+    "o_word2": "OFTEN"
+  },
+  {
+    "date": "1107",
+    "o_word1": "FRANK",
+    "o_word2": "STEIN"
+  },
+  {
+    "date": "1111",
+    "o_word1": "HONOR",
+    "o_word2": "SERVE",
+    "postgameMsg": "🌺 Thank You Veterans 🌺"
+  },
+    {
+    "date": "1112",
+    "o_word1": "KNEEL",
+    "o_word2": "YOUNG",
+    "postgameMsg": "🎵 HAPPY 80th BIRTHDAY NEIL YOUNG 🎵"
+  },
+  {
+    "date": "1114",
+    "o_word1": "PEDAL",
+    "o_word2": "STEEL"
+  },
+  {
+    "date": "1120",
+    "postgameMsg": "🎵 TestMessage_WithLink 🎵",
+    "postgameLink": "https://www.merriam-webster.com/"
+  },
+  {
+    "date": "1121",
+    "o_word1": "TRAIL",
+    "o_word2": "TEARS",
+     "postgameMsg": "😔 LINK: Trail of Tears 😔",
+    "postgameLink": "https://www.history.com/articles/trail-of-tears"
+  },
+    {
+    "date": "1125",
+    "o_word1": "JIMMY",
+    "o_word2": "CLIFF",
+     "postgameMsg": "🎵😔 LINK: Jimmy Cliff (1944-2025) 😔🎵",
+    "postgameLink": "https://www.bbc.com/news/articles/cj4qdren425o"
+  },
+  {
+    "date": "1127",
+    "o_word1": "GRAVY",
+    "o_word2": "LADLE",
+    "postgameMsg": "🦃 Happy Thanksgiving 🦃"
+  },
+  {
+    "date": "1205",
+    "o_word1": "MAGIC",
+    "o_word2": "TRICK"
+  },
+  {
+    "date": "1212",
+    "o_word1": "HAPPY",
+    "o_word2": "FIFTY",
+    "postgameMsg": "🎂🥂🎉HAPPY BIRTHDAY BILLIE JO🎉🥂🎂"
+  },
+  {
+    "date": "1219",
+    "o_word1": "SCRAP",
+    "o_word2": "METAL"
+  },
+  {
+    "date": "1224",
+    "o_word1": "COMET",
+    "o_word2": "VIXEN"
+  },
+  {
+    "date": "1225",
+    "o_word1": "PEACE",
+    "o_word2": "EARTH"
+  },
+  {
+    "date": "1230",
+    "o_word1": "PATTY",
+    "o_word2": "SMITH"
+  },
+  {
+    "date": "1231",
+    "o_word1": "CHEER",
+    "o_word2": "TOAST"
+  }
+]
