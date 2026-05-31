@@ -1,4494 +1,4994 @@
 [
   {
     "oid": "000",
-    "value": "CIGAR"
+    "value": "ТАКОЙ"
   },
   {
     "oid": "001",
-    "value": "REBUT"
+    "value": "КАКОЙ"
   },
   {
     "oid": "002",
-    "value": "SISSY"
+    "value": "КОГДА"
   },
   {
     "oid": "003",
-    "value": "HUMPH"
+    "value": "ЗНАТЬ"
   },
   {
     "oid": "004",
-    "value": "AWAKE"
+    "value": "ВРЕМЯ"
   },
   {
     "oid": "005",
-    "value": "BLUSH"
+    "value": "САМЫЙ"
   },
   {
     "oid": "006",
-    "value": "FOCAL"
+    "value": "СТАТЬ"
   },
   {
     "oid": "007",
-    "value": "EVADE"
+    "value": "ЧТОБЫ"
   },
   {
     "oid": "008",
-    "value": "NAVAL"
+    "value": "ЖИЗНЬ"
   },
   {
     "oid": "009",
-    "value": "SERVE"
+    "value": "НИЧТО"
   },
   {
     "oid": "010",
-    "value": "HEATH"
+    "value": "ПОТОМ"
   },
   {
     "oid": "011",
-    "value": "DWARF"
+    "value": "ОЧЕНЬ"
   },
   {
     "oid": "012",
-    "value": "MODEL"
+    "value": "МОЖНО"
   },
   {
     "oid": "013",
-    "value": "KARMA"
+    "value": "ПОСЛЕ"
   },
   {
     "oid": "014",
-    "value": "STINK"
+    "value": "СЛОВО"
   },
   {
     "oid": "015",
-    "value": "GRADE"
+    "value": "ЗДЕСЬ"
   },
   {
     "oid": "016",
-    "value": "QUIET"
+    "value": "МЕСТО"
   },
   {
     "oid": "017",
-    "value": "BENCH"
+    "value": "ЧЕРЕЗ"
   },
   {
     "oid": "018",
-    "value": "ABATE"
+    "value": "ТОГДА"
   },
   {
     "oid": "019",
-    "value": "FEIGN"
+    "value": "НОВЫЙ"
   },
   {
     "oid": "020",
-    "value": "MAJOR"
+    "value": "ИМЕТЬ"
   },
   {
     "oid": "021",
-    "value": "DEATH"
+    "value": "ВДРУГ"
   },
   {
     "oid": "022",
-    "value": "FRESH"
+    "value": "ВЗЯТЬ"
   },
   {
     "oid": "023",
-    "value": "CRUST"
+    "value": "НИКТО"
   },
   {
     "oid": "024",
-    "value": "STOOL"
+    "value": "ДВЕРЬ"
   },
   {
     "oid": "025",
-    "value": "COLON"
+    "value": "ПЕРЕД"
   },
   {
     "oid": "026",
-    "value": "ABASE"
+    "value": "ЗЕМЛЯ"
   },
   {
     "oid": "027",
-    "value": "MARRY"
+    "value": "КОНЕЦ"
   },
   {
     "oid": "028",
-    "value": "REACT"
+    "value": "ГОЛОС"
   },
   {
     "oid": "029",
-    "value": "BATTY"
+    "value": "ГОРОД"
   },
   {
     "oid": "030",
-    "value": "PRIDE"
+    "value": "БОЛЕЕ"
   },
   {
     "oid": "031",
-    "value": "FLOSS"
+    "value": "ПОЙТИ"
   },
   {
     "oid": "032",
-    "value": "HELIX"
+    "value": "СРАЗУ"
   },
   {
     "oid": "033",
-    "value": "CROAK"
+    "value": "ВЫЙТИ"
   },
   {
     "oid": "034",
-    "value": "STAFF"
+    "value": "ПОЧТИ"
   },
   {
     "oid": "035",
-    "value": "PAPER"
+    "value": "МНОГО"
   },
   {
     "oid": "036",
-    "value": "UNFED"
+    "value": "ВОЙНА"
   },
   {
     "oid": "037",
-    "value": "WHELP"
+    "value": "СНОВА"
   },
   {
     "oid": "038",
-    "value": "TRAWL"
+    "value": "МЕЖДУ"
   },
   {
     "oid": "039",
-    "value": "OUTDO"
+    "value": "ОПЯТЬ"
   },
   {
     "oid": "040",
-    "value": "ADOBE"
+    "value": "БЕЛЫЙ"
   },
   {
     "oid": "041",
-    "value": "CRAZY"
+    "value": "ЖДАТЬ"
   },
   {
     "oid": "042",
-    "value": "SOWER"
+    "value": "БУДТО"
   },
   {
     "oid": "043",
-    "value": "REPAY"
+    "value": "НАЙТИ"
   },
   {
     "oid": "044",
-    "value": "DIGIT"
+    "value": "ЧАСТЬ"
   },
   {
     "oid": "045",
-    "value": "CRATE"
+    "value": "КНИГА"
   },
   {
     "oid": "046",
-    "value": "CLUCK"
+    "value": "УЛИЦА"
   },
   {
     "oid": "047",
-    "value": "SPIKE"
+    "value": "ВЕЧЕР"
   },
   {
     "oid": "048",
-    "value": "MIMIC"
+    "value": "НАРОД"
   },
   {
     "oid": "049",
-    "value": "POUND"
+    "value": "ПЛЕЧО"
   },
   {
     "oid": "050",
-    "value": "MAXIM"
+    "value": "ЗАЧЕМ"
   },
   {
     "oid": "051",
-    "value": "LINEN"
+    "value": "ПАЛЕЦ"
   },
   {
     "oid": "052",
-    "value": "UNMET"
+    "value": "ЛЮБОЙ"
   },
   {
     "oid": "053",
-    "value": "FLESH"
+    "value": "МЫСЛЬ"
   },
   {
     "oid": "054",
-    "value": "BOOBY"
+    "value": "НАЗАД"
   },
   {
     "oid": "055",
-    "value": "FORTH"
+    "value": "ОБЩИЙ"
   },
   {
     "oid": "056",
-    "value": "FIRST"
+    "value": "ДАВНО"
   },
   {
     "oid": "057",
-    "value": "STAND"
+    "value": "ПРЯМО"
   },
   {
     "oid": "058",
-    "value": "BELLY"
+    "value": "ДОЛГО"
   },
   {
     "oid": "059",
-    "value": "IVORY"
+    "value": "СЕСТЬ"
   },
   {
     "oid": "060",
-    "value": "SEEDY"
+    "value": "СТЕНА"
   },
   {
     "oid": "061",
-    "value": "PRINT"
+    "value": "ПРАВО"
   },
   {
     "oid": "062",
-    "value": "YEARN"
+    "value": "КРОМЕ"
   },
   {
     "oid": "063",
-    "value": "DRAIN"
+    "value": "МЕСЯЦ"
   },
   {
     "oid": "064",
-    "value": "BRIBE"
+    "value": "БРАТЬ"
   },
   {
     "oid": "065",
-    "value": "STOUT"
+    "value": "ЦЕЛЫЙ"
   },
   {
     "oid": "066",
-    "value": "PANEL"
+    "value": "СПИНА"
   },
   {
     "oid": "067",
-    "value": "CRASS"
+    "value": "ПУСТЬ"
   },
   {
     "oid": "068",
-    "value": "FLUME"
+    "value": "ТОЧНО"
   },
   {
     "oid": "069",
-    "value": "OFFAL"
+    "value": "СРЕДИ"
   },
   {
     "oid": "070",
-    "value": "AGREE"
+    "value": "ВЕСТИ"
   },
   {
     "oid": "071",
-    "value": "ERROR"
+    "value": "ЖИВОЙ"
   },
   {
     "oid": "072",
-    "value": "SWIRL"
+    "value": "ОБРАЗ"
   },
   {
     "oid": "073",
-    "value": "ARGUE"
+    "value": "ЗАТЕМ"
   },
   {
     "oid": "074",
-    "value": "BLEED"
+    "value": "ТАКЖЕ"
   },
   {
     "oid": "075",
-    "value": "DELTA"
+    "value": "ВРОДЕ"
   },
   {
     "oid": "076",
-    "value": "FLICK"
+    "value": "ШКОЛА"
   },
   {
     "oid": "077",
-    "value": "TOTEM"
+    "value": "КРОВЬ"
   },
   {
     "oid": "078",
-    "value": "WOOER"
+    "value": "РАВНО"
   },
   {
     "oid": "079",
-    "value": "FRONT"
+    "value": "СПАТЬ"
   },
   {
     "oid": "080",
-    "value": "SHRUB"
+    "value": "ВОЙТИ"
   },
   {
     "oid": "081",
-    "value": "PARRY"
+    "value": "БЕРЕГ"
   },
   {
     "oid": "082",
-    "value": "BIOME"
+    "value": "СЕМЬЯ"
   },
   {
     "oid": "083",
-    "value": "LAPEL"
+    "value": "ВИДНО"
   },
   {
     "oid": "084",
-    "value": "START"
+    "value": "РАЗВЕ"
   },
   {
     "oid": "085",
-    "value": "GREET"
+    "value": "ОТВЕТ"
   },
   {
     "oid": "086",
-    "value": "GONER"
+    "value": "СМЫСЛ"
   },
   {
     "oid": "087",
-    "value": "GOLEM"
+    "value": "СМОЧЬ"
   },
   {
     "oid": "088",
-    "value": "LUSTY"
+    "value": "ФОРМА"
   },
   {
     "oid": "089",
-    "value": "LOOPY"
+    "value": "ГРУДЬ"
   },
   {
     "oid": "090",
-    "value": "ROUND"
+    "value": "ЛАДНО"
   },
   {
     "oid": "091",
-    "value": "AUDIT"
+    "value": "ЕХАТЬ"
   },
   {
     "oid": "092",
-    "value": "LYING"
+    "value": "НЕМЕЦ"
   },
   {
     "oid": "093",
-    "value": "GAMMA"
+    "value": "ЧАСТО"
   },
   {
     "oid": "094",
-    "value": "LABOR"
+    "value": "ДОМОЙ"
   },
   {
     "oid": "095",
-    "value": "ISLET"
+    "value": "ОГОНЬ"
   },
   {
     "oid": "096",
-    "value": "CIVIC"
+    "value": "АРМИЯ"
   },
   {
     "oid": "097",
-    "value": "FORGE"
+    "value": "ГОСТЬ"
   },
   {
     "oid": "098",
-    "value": "CORNY"
+    "value": "ВЕТЕР"
   },
   {
     "oid": "099",
-    "value": "MOULT"
+    "value": "УМЕТЬ"
   },
   {
     "oid": "100",
-    "value": "BASIC"
+    "value": "ЗАКОН"
   },
   {
     "oid": "101",
-    "value": "SALAD"
+    "value": "ЗВАТЬ"
   },
   {
     "oid": "102",
-    "value": "AGATE"
+    "value": "ВОЗЛЕ"
   },
   {
     "oid": "103",
-    "value": "SPICY"
+    "value": "НИКАК"
   },
   {
     "oid": "104",
-    "value": "SPRAY"
+    "value": "ЧЕРТА"
   },
   {
     "oid": "105",
-    "value": "ESSAY"
+    "value": "ВОЛОС"
   },
   {
     "oid": "106",
-    "value": "FJORD"
+    "value": "НОМЕР"
   },
   {
     "oid": "107",
-    "value": "SPEND"
+    "value": "ПЛОХО"
   },
   {
     "oid": "108",
-    "value": "KEBAB"
+    "value": "ГЛАВА"
   },
   {
     "oid": "109",
-    "value": "GUILD"
+    "value": "СЕРЫЙ"
   },
   {
     "oid": "110",
-    "value": "ABACK"
+    "value": "СТРАХ"
   },
   {
     "oid": "111",
-    "value": "MOTOR"
+    "value": "СНЯТЬ"
   },
   {
     "oid": "112",
-    "value": "ALONE"
+    "value": "ГЕРОЙ"
   },
   {
     "oid": "113",
-    "value": "HATCH"
+    "value": "СВЯЗЬ"
   },
   {
     "oid": "114",
-    "value": "HYPER"
+    "value": "СКОРО"
   },
   {
     "oid": "115",
-    "value": "THUMB"
+    "value": "ИНАЧЕ"
   },
   {
     "oid": "116",
-    "value": "DOWRY"
+    "value": "КЛАСС"
   },
   {
     "oid": "117",
-    "value": "OUGHT"
+    "value": "ЗНАТЬ"
   },
   {
     "oid": "118",
-    "value": "BELCH"
+    "value": "ХУДОЙ"
   },
   {
     "oid": "119",
-    "value": "DUTCH"
+    "value": "ЧУЖОЙ"
   },
   {
     "oid": "120",
-    "value": "PILOT"
+    "value": "ЛЕГКО"
   },
   {
     "oid": "121",
-    "value": "TWEED"
+    "value": "ЦЕНТР"
   },
   {
     "oid": "122",
-    "value": "COMET"
+    "value": "ОКОЛО"
   },
   {
     "oid": "123",
-    "value": "JAUNT"
+    "value": "ЧИСЛО"
   },
   {
     "oid": "124",
-    "value": "ENEMA"
+    "value": "РУБЛЬ"
   },
   {
     "oid": "125",
-    "value": "STEED"
+    "value": "ВОВСЕ"
   },
   {
     "oid": "126",
-    "value": "ABYSS"
+    "value": "МУЖИК"
   },
   {
     "oid": "127",
-    "value": "GROWL"
+    "value": "АВТОР"
   },
   {
     "oid": "128",
-    "value": "FLING"
+    "value": "УБИТЬ"
   },
   {
     "oid": "129",
-    "value": "DOZEN"
+    "value": "МЕНЕЕ"
   },
   {
     "oid": "130",
-    "value": "BOOZY"
+    "value": "НАУКА"
   },
   {
     "oid": "131",
-    "value": "ERODE"
+    "value": "СОРОК"
   },
   {
     "oid": "132",
-    "value": "WORLD"
+    "value": "КУХНЯ"
   },
   {
     "oid": "133",
-    "value": "GOUGE"
+    "value": "РОМАН"
   },
   {
     "oid": "134",
-    "value": "CLICK"
+    "value": "СИНИЙ"
   },
   {
     "oid": "135",
-    "value": "BRIAR"
+    "value": "ШЕСТЬ"
   },
   {
     "oid": "136",
-    "value": "GREAT"
+    "value": "ТРАВА"
   },
   {
     "oid": "137",
-    "value": "ALTAR"
+    "value": "СЛАТЬ"
   },
   {
     "oid": "138",
-    "value": "PULPY"
+    "value": "СЛЕЗА"
   },
   {
     "oid": "139",
-    "value": "BLURT"
+    "value": "МОЛЧА"
   },
   {
     "oid": "140",
-    "value": "COAST"
+    "value": "ЗАПАХ"
   },
   {
     "oid": "141",
-    "value": "DUCHY"
+    "value": "ВЧЕРА"
   },
   {
     "oid": "142",
-    "value": "GROIN"
+    "value": "ТОЧКА"
   },
   {
     "oid": "143",
-    "value": "FIXER"
+    "value": "ТОЛПА"
   },
   {
     "oid": "144",
-    "value": "GROUP"
+    "value": "ТИХИЙ"
   },
   {
     "oid": "145",
-    "value": "ROGUE"
+    "value": "САПОГ"
   },
   {
     "oid": "146",
-    "value": "BADLY"
+    "value": "ДОЖДЬ"
   },
   {
     "oid": "147",
-    "value": "SMART"
+    "value": "МНОГО"
   },
   {
     "oid": "148",
-    "value": "PITHY"
+    "value": "ВОРОТ"
   },
   {
     "oid": "149",
-    "value": "GAUDY"
+    "value": "ВНОВЬ"
   },
   {
     "oid": "150",
-    "value": "CHILL"
+    "value": "СОСЕД"
   },
   {
     "oid": "151",
-    "value": "HERON"
+    "value": "ВЫХОД"
   },
   {
     "oid": "152",
-    "value": "VODKA"
+    "value": "СОВЕТ"
   },
   {
     "oid": "153",
-    "value": "FINER"
+    "value": "ДУРАК"
   },
   {
     "oid": "154",
-    "value": "SURER"
+    "value": "ПОЕЗД"
   },
   {
     "oid": "155",
-    "value": "RADIO"
+    "value": "ЛЕВЫЙ"
   },
   {
     "oid": "156",
-    "value": "ROUGE"
+    "value": "ОРГАН"
   },
   {
     "oid": "157",
-    "value": "PERCH"
+    "value": "КАРТА"
   },
   {
     "oid": "158",
-    "value": "RETCH"
+    "value": "СЛАВА"
   },
   {
     "oid": "159",
-    "value": "WROTE"
+    "value": "КРЫША"
   },
   {
     "oid": "160",
-    "value": "CLOCK"
+    "value": "НЕСТИ"
   },
   {
     "oid": "161",
-    "value": "TILDE"
+    "value": "МИЛЫЙ"
   },
   {
     "oid": "162",
-    "value": "STORE"
+    "value": "ПОВОД"
   },
   {
     "oid": "163",
-    "value": "PROVE"
+    "value": "ПТИЦА"
   },
   {
     "oid": "164",
-    "value": "BRING"
+    "value": "СУХОЙ"
   },
   {
     "oid": "165",
-    "value": "SOLVE"
+    "value": "ВВЕРХ"
   },
   {
     "oid": "166",
-    "value": "CHEAT"
+    "value": "СТОЛЬ"
   },
   {
     "oid": "167",
-    "value": "GRIME"
+    "value": "ВОДКА"
   },
   {
     "oid": "168",
-    "value": "EXULT"
+    "value": "ЖИВОТ"
   },
   {
     "oid": "169",
-    "value": "USHER"
+    "value": "ФРОНТ"
   },
   {
     "oid": "170",
-    "value": "EPOCH"
+    "value": "РАЙОН"
   },
   {
     "oid": "171",
-    "value": "TRIAD"
+    "value": "МЕШОК"
   },
   {
     "oid": "172",
-    "value": "BREAK"
+    "value": "ЗАВОД"
   },
   {
     "oid": "173",
-    "value": "RHINO"
+    "value": "КУЛАК"
   },
   {
     "oid": "174",
-    "value": "VIRAL"
+    "value": "БЛИНЫ"
   },
   {
     "oid": "175",
-    "value": "CONIC"
+    "value": "МЕТРО"
   },
   {
     "oid": "176",
-    "value": "MASSE"
+    "value": "ПУШОК"
   },
   {
     "oid": "177",
-    "value": "SONIC"
+    "value": "ШКОЛА"
   },
   {
     "oid": "178",
-    "value": "VITAL"
+    "value": "ШКОЛЫ"
   },
   {
     "oid": "179",
-    "value": "TRACE"
+    "value": "УРОКИ"
   },
   {
     "oid": "180",
-    "value": "USING"
+    "value": "ОВОЩИ"
   },
   {
     "oid": "181",
-    "value": "PEACH"
+    "value": "САНКТ"
   },
   {
     "oid": "182",
-    "value": "CHAMP"
+    "value": "СУМКA"
   },
   {
     "oid": "183",
-    "value": "BATON"
+    "value": "ТЕПЕР"
   },
   {
     "oid": "184",
-    "value": "BRAKE"
+    "value": "БИЛЕТ"
   },
   {
     "oid": "185",
-    "value": "PLUCK"
+    "value": "ВАЖНO"
   },
   {
     "oid": "186",
-    "value": "CRAZE"
+    "value": "КОНЦЕ"
   },
   {
     "oid": "187",
-    "value": "GRIPE"
+    "value": "СПОРТ"
   },
   {
     "oid": "188",
-    "value": "WEARY"
+    "value": "ТЕАТР"
   },
   {
     "oid": "189",
-    "value": "PICKY"
+    "value": "ЛАТТЕ"
   },
   {
     "oid": "190",
-    "value": "ACUTE"
+    "value": "БАНАН"
   },
   {
     "oid": "191",
-    "value": "FERRY"
+    "value": "АРБУЗ"
   },
   {
     "oid": "192",
-    "value": "ASIDE"
+    "value": "МАНГО"
   },
   {
     "oid": "193",
-    "value": "TAPIR"
+    "value": "ВИШНЯ"
   },
   {
     "oid": "194",
-    "value": "TROLL"
+    "value": "СЛИВЫ"
   },
   {
     "oid": "195",
-    "value": "UNIFY"
+    "value": "ЛИМОН"
   },
   {
     "oid": "196",
-    "value": "REBUS"
+    "value": "ИНЖИР"
   },
   {
     "oid": "197",
-    "value": "BOOST"
+    "value": "ТАКСИ"
   },
   {
     "oid": "198",
-    "value": "TRUSS"
+    "value": "НОСОК"
   },
   {
     "oid": "199",
-    "value": "SIEGE"
+    "value": "ЖАРКО"
   },
   {
     "oid": "200",
-    "value": "TIGER"
+    "value": "СУПЕР"
   },
   {
     "oid": "201",
-    "value": "BANAL"
+    "value": "УЖАСЫ"
   },
   {
     "oid": "202",
-    "value": "SLUMP"
+    "value": "ПРОЗА"
   },
   {
     "oid": "203",
-    "value": "CRANK"
+    "value": "ГЕРОИ"
   },
   {
     "oid": "204",
-    "value": "GORGE"
+    "value": "ФИНАЛ"
   },
   {
     "oid": "205",
-    "value": "QUERY"
+    "value": "ПРИЁМ"
   },
   {
     "oid": "206",
-    "value": "DRINK"
+    "value": "КОШКА"
   },
   {
     "oid": "207",
-    "value": "FAVOR"
+    "value": "МАСЛО"
   },
   {
     "oid": "208",
-    "value": "ABBEY"
+    "value": "ТАКОЙ"
   },
   {
     "oid": "209",
-    "value": "TANGY"
+    "value": "КОГДА"
   },
   {
     "oid": "210",
-    "value": "PANIC"
+    "value": "ВРЕМЯ"
   },
   {
     "oid": "211",
-    "value": "SOLAR"
+    "value": "СТАТЬ"
   },
   {
     "oid": "212",
-    "value": "SHIRE"
+    "value": "ЖИЗНЬ"
   },
   {
     "oid": "213",
-    "value": "PROXY"
+    "value": "ПОТОМ"
   },
   {
     "oid": "214",
-    "value": "POINT"
+    "value": "МОЖНО"
   },
   {
     "oid": "215",
-    "value": "ROBOT"
+    "value": "СЛОВО"
   },
   {
     "oid": "216",
-    "value": "PRICK"
+    "value": "МЕСТО"
   },
   {
     "oid": "217",
-    "value": "WINCE"
+    "value": "ТОГДА"
   },
   {
     "oid": "218",
-    "value": "CRIMP"
+    "value": "ИМЕТЬ"
   },
   {
     "oid": "219",
-    "value": "KNOLL"
+    "value": "ВЗЯТЬ"
   },
   {
     "oid": "220",
-    "value": "SUGAR"
+    "value": "ДВЕРЬ"
   },
   {
     "oid": "221",
-    "value": "WHACK"
+    "value": "ЗЕМЛЯ"
   },
   {
     "oid": "222",
-    "value": "MOUNT"
+    "value": "ГОЛОС"
   },
   {
     "oid": "223",
-    "value": "PERKY"
+    "value": "БОЛЕЕ"
   },
   {
     "oid": "224",
-    "value": "COULD"
+    "value": "СРАЗУ"
   },
   {
     "oid": "225",
-    "value": "WRUNG"
+    "value": "ПОЧТИ"
   },
   {
     "oid": "226",
-    "value": "LIGHT"
+    "value": "ВОЙНА"
   },
   {
     "oid": "227",
-    "value": "THOSE"
+    "value": "МЕЖДУ"
   },
   {
     "oid": "228",
-    "value": "MOIST"
+    "value": "БЕЛЫЙ"
   },
   {
     "oid": "229",
-    "value": "SHARD"
+    "value": "БУДТО"
   },
   {
     "oid": "230",
-    "value": "PLEAT"
+    "value": "ЧАСТЬ"
   },
   {
     "oid": "231",
-    "value": "ALOFT"
+    "value": "УЛИЦА"
   },
   {
     "oid": "232",
-    "value": "SKILL"
+    "value": "НАРОД"
   },
   {
     "oid": "233",
-    "value": "ELDER"
+    "value": "ЗАЧЕМ"
   },
   {
     "oid": "234",
-    "value": "FRAME"
+    "value": "ЛЮБОЙ"
   },
   {
     "oid": "235",
-    "value": "HUMOR"
+    "value": "НАЗАД"
   },
   {
     "oid": "236",
-    "value": "PAUSE"
+    "value": "ДАВНО"
   },
   {
     "oid": "237",
-    "value": "ULCER"
+    "value": "ДОЛГО"
   },
   {
     "oid": "238",
-    "value": "ULTRA"
+    "value": "СТЕНА"
   },
   {
     "oid": "239",
-    "value": "ROBIN"
+    "value": "КРОМЕ"
   },
   {
     "oid": "240",
-    "value": "CYNIC"
+    "value": "БРАТЬ"
   },
   {
     "oid": "241",
-    "value": "AROMA"
+    "value": "СПИНА"
   },
   {
     "oid": "242",
-    "value": "CAULK"
+    "value": "ТОЧНО"
   },
   {
     "oid": "243",
-    "value": "SHAKE"
+    "value": "ВЕСТИ"
   },
   {
     "oid": "244",
-    "value": "DODGE"
+    "value": "ОБРАЗ"
   },
   {
     "oid": "245",
-    "value": "SWILL"
+    "value": "ТАКЖЕ"
   },
   {
     "oid": "246",
-    "value": "TACIT"
+    "value": "ШКОЛА"
   },
   {
     "oid": "247",
-    "value": "OTHER"
+    "value": "РАВНО"
   },
   {
     "oid": "248",
-    "value": "THORN"
+    "value": "ВОЙТИ"
   },
   {
     "oid": "249",
-    "value": "TROVE"
+    "value": "СЕМЬЯ"
   },
   {
     "oid": "250",
-    "value": "BLOKE"
+    "value": "РАЗВЕ"
   },
   {
     "oid": "251",
-    "value": "VIVID"
+    "value": "СМЫСЛ"
   },
   {
     "oid": "252",
-    "value": "SPILL"
+    "value": "ФОРМА"
   },
   {
     "oid": "253",
-    "value": "CHANT"
+    "value": "ЛАДНО"
   },
   {
     "oid": "254",
-    "value": "CHOKE"
+    "value": "НЕМЕЦ"
   },
   {
     "oid": "255",
-    "value": "RUPEE"
+    "value": "ДОМОЙ"
   },
   {
     "oid": "256",
-    "value": "NASTY"
+    "value": "АРМИЯ"
   },
   {
     "oid": "257",
-    "value": "MOURN"
+    "value": "ВЕТЕР"
   },
   {
     "oid": "258",
-    "value": "AHEAD"
+    "value": "ЗАКОН"
   },
   {
     "oid": "259",
-    "value": "BRINE"
+    "value": "ВОЗЛЕ"
   },
   {
     "oid": "260",
-    "value": "CLOTH"
+    "value": "ЧЕРТА"
   },
   {
     "oid": "261",
-    "value": "HOARD"
+    "value": "НОМЕР"
   },
   {
     "oid": "262",
-    "value": "SWEET"
+    "value": "ГЛАВА"
   },
   {
     "oid": "263",
-    "value": "MONTH"
+    "value": "СТРАХ"
   },
   {
     "oid": "264",
-    "value": "LAPSE"
+    "value": "ГЕРОЙ"
   },
   {
     "oid": "265",
-    "value": "WATCH"
+    "value": "СКОРО"
   },
   {
     "oid": "266",
-    "value": "TODAY"
+    "value": "КЛАСС"
   },
   {
     "oid": "267",
-    "value": "FOCUS"
+    "value": "ХУДОЙ"
   },
   {
     "oid": "268",
-    "value": "SMELT"
+    "value": "ЛЕГКО"
   },
   {
     "oid": "269",
-    "value": "TEASE"
+    "value": "ОКОЛО"
   },
   {
     "oid": "270",
-    "value": "CATER"
+    "value": "РУБЛЬ"
   },
   {
     "oid": "271",
-    "value": "MOVIE"
+    "value": "МУЖИК"
   },
   {
     "oid": "272",
-    "value": "SAUTE"
+    "value": "УБИТЬ"
   },
   {
     "oid": "273",
-    "value": "ALLOW"
+    "value": "НАУКА"
   },
   {
     "oid": "274",
-    "value": "RENEW"
+    "value": "КУХНЯ"
   },
   {
     "oid": "275",
-    "value": "THEIR"
+    "value": "СИНИЙ"
   },
   {
     "oid": "276",
-    "value": "SLOSH"
+    "value": "ТРАВА"
   },
   {
     "oid": "277",
-    "value": "PURGE"
+    "value": "СЛЕЗА"
   },
   {
     "oid": "278",
-    "value": "CHEST"
+    "value": "ЗАПАХ"
   },
   {
     "oid": "279",
-    "value": "DEPOT"
+    "value": "ТОЧКА"
   },
   {
     "oid": "280",
-    "value": "EPOXY"
+    "value": "ТИХИЙ"
   },
   {
     "oid": "281",
-    "value": "NYMPH"
+    "value": "ДОЖДЬ"
   },
   {
     "oid": "282",
-    "value": "FOUND"
+    "value": "ВОРОТ"
   },
   {
     "oid": "283",
-    "value": "SHALL"
+    "value": "СОСЕД"
   },
   {
     "oid": "284",
-    "value": "STOVE"
+    "value": "СОВЕТ"
   },
   {
     "oid": "285",
-    "value": "LOWLY"
+    "value": "ПОЕЗД"
   },
   {
     "oid": "286",
-    "value": "SNOUT"
+    "value": "ОРГАН"
   },
   {
     "oid": "287",
-    "value": "TROPE"
+    "value": "СЛАВА"
   },
   {
     "oid": "288",
-    "value": "FEWER"
+    "value": "НЕСТИ"
   },
   {
     "oid": "289",
-    "value": "SHAWL"
+    "value": "ПОВОД"
   },
   {
     "oid": "290",
-    "value": "NATAL"
+    "value": "СУХОЙ"
   },
   {
     "oid": "291",
-    "value": "COMMA"
+    "value": "СТОЛЬ"
   },
   {
     "oid": "292",
-    "value": "FORAY"
+    "value": "ЖИВОТ"
   },
   {
     "oid": "293",
-    "value": "SCARE"
+    "value": "РАЙОН"
   },
   {
     "oid": "294",
-    "value": "STAIR"
+    "value": "ЗАВОД"
   },
   {
     "oid": "295",
-    "value": "BLACK"
+    "value": "БЛИНЫ"
   },
   {
     "oid": "296",
-    "value": "SQUAD"
+    "value": "ПУШОК"
   },
   {
     "oid": "297",
-    "value": "ROYAL"
+    "value": "ШКОЛЫ"
   },
   {
     "oid": "298",
-    "value": "CHUNK"
+    "value": "ОВОЩИ"
   },
   {
     "oid": "299",
-    "value": "MINCE"
+    "value": "СУМКA"
   },
   {
     "oid": "300",
-    "value": "SHAME"
+    "value": "БИЛЕТ"
   },
   {
     "oid": "301",
-    "value": "CHEEK"
+    "value": "КОНЦЕ"
   },
   {
     "oid": "302",
-    "value": "AMPLE"
+    "value": "ТЕАТР"
   },
   {
     "oid": "303",
-    "value": "FLAIR"
+    "value": "БАНАН"
   },
   {
     "oid": "304",
-    "value": "FOYER"
+    "value": "МАНГО"
   },
   {
     "oid": "305",
-    "value": "CARGO"
+    "value": "СЛИВЫ"
   },
   {
     "oid": "306",
-    "value": "OXIDE"
+    "value": "ИНЖИР"
   },
   {
     "oid": "307",
-    "value": "PLANT"
+    "value": "НОСОК"
   },
   {
     "oid": "308",
-    "value": "OLIVE"
+    "value": "СУПЕР"
   },
   {
     "oid": "309",
-    "value": "INERT"
+    "value": "ПРОЗА"
   },
   {
     "oid": "310",
-    "value": "ASKEW"
+    "value": "ФИНАЛ"
   },
   {
     "oid": "311",
-    "value": "HEIST"
+    "value": "КОШКА"
   },
   {
     "oid": "312",
-    "value": "SHOWN"
+    "value": "КАКОЙ"
   },
   {
     "oid": "313",
-    "value": "ZESTY"
+    "value": "ЗНАТЬ"
   },
   {
     "oid": "314",
-    "value": "TRASH"
+    "value": "САМЫЙ"
   },
   {
     "oid": "315",
-    "value": "LARVA"
+    "value": "ЧТОБЫ"
   },
   {
     "oid": "316",
-    "value": "STORY"
+    "value": "НИЧТО"
   },
   {
     "oid": "317",
-    "value": "GEESE"
+    "value": "ОЧЕНЬ"
   },
   {
     "oid": "318",
-    "value": "CIVIL"
+    "value": "ПОСЛЕ"
   },
   {
     "oid": "319",
-    "value": "GOOEY"
+    "value": "ЗДЕСЬ"
   },
   {
     "oid": "320",
-    "value": "FRITZ"
+    "value": "ЧЕРЕЗ"
   },
   {
     "oid": "321",
-    "value": "DALLY"
+    "value": "НОВЫЙ"
   },
   {
     "oid": "322",
-    "value": "DRAPE"
+    "value": "ВДРУГ"
   },
   {
     "oid": "323",
-    "value": "BLUNT"
+    "value": "НИКТО"
   },
   {
     "oid": "324",
-    "value": "MOUTH"
+    "value": "ПЕРЕД"
   },
   {
     "oid": "325",
-    "value": "QUILL"
+    "value": "КОНЕЦ"
   },
   {
     "oid": "326",
-    "value": "COVEN"
+    "value": "ГОРОД"
   },
   {
     "oid": "327",
-    "value": "DEFER"
+    "value": "ПОЙТИ"
   },
   {
     "oid": "328",
-    "value": "LATER"
+    "value": "ВЫЙТИ"
   },
   {
     "oid": "329",
-    "value": "KNIFE"
+    "value": "МНОГО"
   },
   {
     "oid": "330",
-    "value": "TEETH"
+    "value": "СНОВА"
   },
   {
     "oid": "331",
-    "value": "LEFTY"
+    "value": "ОПЯТЬ"
   },
   {
     "oid": "332",
-    "value": "ALONG"
+    "value": "ЖДАТЬ"
   },
   {
     "oid": "333",
-    "value": "NOISY"
+    "value": "НАЙТИ"
   },
   {
     "oid": "334",
-    "value": "NADIR"
+    "value": "КНИГА"
   },
   {
     "oid": "335",
-    "value": "THROB"
+    "value": "ВЕЧЕР"
   },
   {
     "oid": "336",
-    "value": "CHAIR"
+    "value": "ПЛЕЧО"
   },
   {
     "oid": "337",
-    "value": "POUTY"
+    "value": "ПАЛЕЦ"
   },
   {
     "oid": "338",
-    "value": "TRICK"
+    "value": "МЫСЛЬ"
   },
   {
     "oid": "339",
-    "value": "CHIRP"
+    "value": "ОБЩИЙ"
   },
   {
     "oid": "340",
-    "value": "TENOR"
+    "value": "ПРЯМО"
   },
   {
     "oid": "341",
-    "value": "BULGE"
+    "value": "СЕСТЬ"
   },
   {
     "oid": "342",
-    "value": "DRIFT"
+    "value": "ПРАВО"
   },
   {
     "oid": "343",
-    "value": "BLEND"
+    "value": "МЕСЯЦ"
   },
   {
     "oid": "344",
-    "value": "FETCH"
+    "value": "ЦЕЛЫЙ"
   },
   {
     "oid": "345",
-    "value": "MIGHT"
+    "value": "ПУСТЬ"
   },
   {
     "oid": "346",
-    "value": "LEAST"
+    "value": "СРЕДИ"
   },
   {
     "oid": "347",
-    "value": "PETAL"
+    "value": "ЖИВОЙ"
   },
   {
     "oid": "348",
-    "value": "ELATE"
+    "value": "ЗАТЕМ"
   },
   {
     "oid": "349",
-    "value": "GRAFT"
+    "value": "ВРОДЕ"
   },
   {
     "oid": "350",
-    "value": "SPLIT"
+    "value": "КРОВЬ"
   },
   {
     "oid": "351",
-    "value": "TOWER"
+    "value": "СПАТЬ"
   },
   {
     "oid": "352",
-    "value": "ANNEX"
+    "value": "БЕРЕГ"
   },
   {
     "oid": "353",
-    "value": "MIRTH"
+    "value": "ВИДНО"
   },
   {
     "oid": "354",
-    "value": "SPORE"
+    "value": "ОТВЕТ"
   },
   {
     "oid": "355",
-    "value": "UNION"
+    "value": "СМОЧЬ"
   },
   {
     "oid": "356",
-    "value": "RATTY"
+    "value": "ГРУДЬ"
   },
   {
     "oid": "357",
-    "value": "EXTOL"
+    "value": "ЕХАТЬ"
   },
   {
     "oid": "358",
-    "value": "LLAMA"
+    "value": "ЧАСТО"
   },
   {
     "oid": "359",
-    "value": "ROWDY"
+    "value": "ОГОНЬ"
   },
   {
     "oid": "360",
-    "value": "ISSUE"
+    "value": "ГОСТЬ"
   },
   {
     "oid": "361",
-    "value": "LOUSY"
+    "value": "УМЕТЬ"
   },
   {
     "oid": "362",
-    "value": "MATTE"
+    "value": "ЗВАТЬ"
   },
   {
     "oid": "363",
-    "value": "LEVEL"
+    "value": "НИКАК"
   },
   {
     "oid": "364",
-    "value": "KNELL"
+    "value": "ВОЛОС"
   },
   {
     "oid": "365",
-    "value": "KEFIR"
+    "value": "ПЛОХО"
   },
   {
     "oid": "366",
-    "value": "NOMAD"
+    "value": "СЕРЫЙ"
   },
   {
     "oid": "367",
-    "value": "SOUTH"
+    "value": "СНЯТЬ"
   },
   {
     "oid": "368",
-    "value": "MINTY"
+    "value": "СВЯЗЬ"
   },
   {
     "oid": "369",
-    "value": "NASAL"
+    "value": "ИНАЧЕ"
   },
   {
     "oid": "370",
-    "value": "IMBUE"
+    "value": "ЗНАТЬ"
   },
   {
     "oid": "371",
-    "value": "CORAL"
+    "value": "ЧУЖОЙ"
   },
   {
     "oid": "372",
-    "value": "GROAN"
+    "value": "ЦЕНТР"
   },
   {
     "oid": "373",
-    "value": "STORK"
+    "value": "ЧИСЛО"
   },
   {
     "oid": "374",
-    "value": "RIGID"
+    "value": "ВОВСЕ"
   },
   {
     "oid": "375",
-    "value": "LUMPY"
+    "value": "АВТОР"
   },
   {
     "oid": "376",
-    "value": "DAUNT"
+    "value": "МЕНЕЕ"
   },
   {
     "oid": "377",
-    "value": "BANJO"
+    "value": "СОРОК"
   },
   {
     "oid": "378",
-    "value": "FRILL"
+    "value": "РОМАН"
   },
   {
     "oid": "379",
-    "value": "ASSAY"
+    "value": "ШЕСТЬ"
   },
   {
     "oid": "380",
-    "value": "OMEGA"
+    "value": "СЛАТЬ"
   },
   {
     "oid": "381",
-    "value": "SAVVY"
+    "value": "МОЛЧА"
   },
   {
     "oid": "382",
-    "value": "WHOLE"
+    "value": "ВЧЕРА"
   },
   {
     "oid": "383",
-    "value": "СТАЯЛ"
+    "value": "ТОЛПА"
   },
   {
     "oid": "384",
-    "value": "GOFER"
+    "value": "САПОГ"
   },
   {
     "oid": "385",
-    "value": "QUAKE"
+    "value": "МНОГО"
   },
   {
     "oid": "386",
-    "value": "WATER"
+    "value": "ВНОВЬ"
   },
   {
     "oid": "387",
-    "value": "BURNT"
+    "value": "ВЫХОД"
   },
   {
     "oid": "388",
-    "value": "TIZZY"
+    "value": "ДУРАК"
   },
   {
     "oid": "389",
-    "value": "BLANK"
+    "value": "ЛЕВЫЙ"
   },
   {
     "oid": "390",
-    "value": "SWORD"
+    "value": "КАРТА"
   },
   {
     "oid": "391",
-    "value": "LORIS"
+    "value": "КРЫША"
   },
   {
     "oid": "392",
-    "value": "MODAL"
+    "value": "МИЛЫЙ"
   },
   {
     "oid": "393",
-    "value": "NERVY"
+    "value": "ПТИЦА"
   },
   {
     "oid": "394",
-    "value": "FOIST"
+    "value": "ВВЕРХ"
   },
   {
     "oid": "395",
-    "value": "UNDID"
+    "value": "ВОДКА"
   },
   {
     "oid": "396",
-    "value": "GNOME"
+    "value": "ФРОНТ"
   },
   {
     "oid": "397",
-    "value": "EXILE"
+    "value": "МЕШОК"
   },
   {
     "oid": "398",
-    "value": "BRAND"
+    "value": "КУЛАК"
   },
   {
     "oid": "399",
-    "value": "JUMPY"
+    "value": "МЕТРО"
   },
   {
     "oid": "400",
-    "value": "NOVEL"
+    "value": "ШКОЛА"
   },
   {
     "oid": "401",
-    "value": "СПОРТ"
+    "value": "УРОКИ"
   },
   {
     "oid": "402",
-    "value": "STILT"
+    "value": "САНКТ"
   },
   {
     "oid": "403",
-    "value": "ATRIA"
+    "value": "ТЕПЕР"
   },
   {
     "oid": "404",
-    "value": "BALER"
+    "value": "ВАЖНO"
   },
   {
     "oid": "405",
-    "value": "CURVE"
-  },
-  {
-    "oid": "406",
-    "value": "POPPY"
-  },
-  {
-    "oid": "407",
-    "value": "INCUR"
-  },
-  {
-    "oid": "408",
-    "value": "MOLDY"
-  },
-  {
-    "oid": "409",
-    "value": "BLINK"
-  },
-  {
-    "oid": "410",
-    "value": "WITTY"
-  },
-  {
-    "oid": "411",
-    "value": "STUMP"
-  },
-  {
-    "oid": "412",
-    "value": "PLAIN"
-  },
-  {
-    "oid": "413",
-    "value": "OFFER"
-  },
-  {
-    "oid": "414",
-    "value": "COMFY"
-  },
-  {
-    "oid": "415",
-    "value": "ELITE"
-  },
-  {
-    "oid": "416",
-    "value": "ODDLY"
-  },
-  {
-    "oid": "417",
-    "value": "THRUM"
-  },
-  {
-    "oid": "418",
-    "value": "GLADE"
-  },
-  {
-    "oid": "419",
-    "value": "TAUPE"
-  },
-  {
-    "oid": "420",
-    "value": "CURIO"
-  },
-  {
-    "oid": "421",
-    "value": "MUNCH"
-  },
-  {
-    "oid": "422",
-    "value": "PRANK"
-  },
-  {
-    "oid": "423",
-    "value": "PETTY"
-  },
-  {
-    "oid": "424",
-    "value": "QUAIL"
-  },
-  {
-    "oid": "425",
-    "value": "GHOST"
-  },
-  {
-    "oid": "426",
-    "value": "BILGE"
-  },
-  {
-    "oid": "427",
-    "value": "VIXEN"
-  },
-  {
-    "oid": "428",
-    "value": "PLAID"
-  },
-  {
-    "oid": "429",
-    "value": "TAFFY"
-  },
-  {
-    "oid": "430",
-    "value": "BOARD"
-  },
-  {
-    "oid": "431",
-    "value": "LEASE"
-  },
-  {
-    "oid": "432",
-    "value": "REUSE"
-  },
-  {
-    "oid": "433",
-    "value": "EDIFY"
-  },
-  {
-    "oid": "434",
-    "value": "DATUM"
-  },
-  {
-    "oid": "435",
-    "value": "CEASE"
-  },
-  {
-    "oid": "436",
-    "value": "ADMIN"
-  },
-  {
-    "oid": "437",
-    "value": "PREEN"
-  },
-  {
-    "oid": "438",
-    "value": "ROUGH"
-  },
-  {
-    "oid": "439",
-    "value": "HABIT"
-  },
-  {
-    "oid": "440",
-    "value": "IDIOM"
-  },
-  {
-    "oid": "441",
-    "value": "QUASH"
-  },
-  {
-    "oid": "442",
-    "value": "POLAR"
-  },
-  {
-    "oid": "443",
-    "value": "SPORT"
-  },
-  {
-    "oid": "444",
-    "value": "DRONE"
-  },
-  {
-    "oid": "445",
-    "value": "GRIFT"
-  },
-  {
-    "oid": "446",
-    "value": "SUEDE"
-  },
-  {
-    "oid": "447",
-    "value": "SHUCK"
-  },
-  {
-    "oid": "448",
-    "value": "FOLIO"
-  },
-  {
-    "oid": "449",
-    "value": "ALARM"
-  },
-  {
-    "oid": "450",
-    "value": "BORNE"
-  },
-  {
-    "oid": "451",
-    "value": "PITCH"
-  },
-  {
-    "oid": "452",
-    "value": "LIVID"
-  },
-  {
-    "oid": "453",
-    "value": "GROWN"
-  },
-  {
-    "oid": "454",
-    "value": "FIFTH"
-  },
-  {
-    "oid": "455",
-    "value": "EAGER"
-  },
-  {
-    "oid": "456",
-    "value": "BONGO"
-  },
-  {
-    "oid": "457",
-    "value": "AWARE"
-  },
-  {
-    "oid": "458",
-    "value": "BICEP"
-  },
-  {
-    "oid": "459",
-    "value": "DOWEL"
-  },
-  {
-    "oid": "460",
-    "value": "YEAST"
-  },
-  {
-    "oid": "461",
-    "value": "TRIPE"
-  },
-  {
-    "oid": "462",
-    "value": "BALMY"
-  },
-  {
-    "oid": "463",
-    "value": "MACHO"
-  },
-  {
-    "oid": "464",
-    "value": "SUITE"
-  },
-  {
-    "oid": "465",
-    "value": "SHUSH"
-  },
-  {
-    "oid": "466",
-    "value": "TROUT"
-  },
-  {
-    "oid": "467",
-    "value": "PATSY"
-  },
-  {
-    "oid": "468",
-    "value": "WHOSE"
-  },
-  {
-    "oid": "469",
-    "value": "ADEPT"
-  },
-  {
-    "oid": "470",
-    "value": "IDLER"
-  },
-  {
-    "oid": "471",
-    "value": "BLISS"
-  },
-  {
-    "oid": "472",
-    "value": "DUMMY"
-  },
-  {
-    "oid": "473",
-    "value": "WEEDY"
-  },
-  {
-    "oid": "474",
-    "value": "CLASH"
-  },
-  {
-    "oid": "475",
-    "value": "KNOWN"
-  },
-  {
-    "oid": "476",
-    "value": "GENIE"
-  },
-  {
-    "oid": "477",
-    "value": "OZONE"
-  },
-  {
-    "oid": "478",
-    "value": "ARTSY"
-  },
-  {
-    "oid": "479",
-    "value": "SPATE"
-  },
-  {
-    "oid": "480",
-    "value": "PATCH"
-  },
-  {
-    "oid": "481",
-    "value": "INBOX"
-  },
-  {
-    "oid": "482",
-    "value": "DIRGE"
-  },
-  {
-    "oid": "483",
-    "value": "STOOD"
-  },
-  {
-    "oid": "484",
-    "value": "MORAL"
-  },
-  {
-    "oid": "485",
-    "value": "ASHEN"
-  },
-  {
-    "oid": "486",
-    "value": "CREST"
-  },
-  {
-    "oid": "487",
-    "value": "LAUGH"
-  },
-  {
-    "oid": "488",
-    "value": "NURSE"
-  },
-  {
-    "oid": "489",
-    "value": "ARROW"
-  },
-  {
-    "oid": "490",
-    "value": "TURBO"
-  },
-  {
-    "oid": "491",
-    "value": "WHEAT"
-  },
-  {
-    "oid": "492",
-    "value": "SPARE"
-  },
-  {
-    "oid": "493",
-    "value": "HAZEL"
-  },
-  {
-    "oid": "494",
-    "value": "VILLA"
-  },
-  {
-    "oid": "495",
-    "value": "FOAMY"
-  },
-  {
-    "oid": "496",
-    "value": "KRILL"
-  },
-  {
-    "oid": "497",
-    "value": "SHEAR"
-  },
-  {
-    "oid": "498",
-    "value": "CURSE"
-  },
-  {
-    "oid": "499",
-    "value": "JEWEL"
-  },
-  {
-    "oid": "500",
-    "value": "BOOTY"
-  },
-  {
-    "oid": "501",
-    "value": "QUOTA"
-  },
-  {
-    "oid": "502",
-    "value": "SORRY"
-  },
-  {
-    "oid": "503",
-    "value": "VERSE"
-  },
-  {
-    "oid": "504",
-    "value": "SHEET"
-  },
-  {
-    "oid": "505",
-    "value": "ELBOW"
-  },
-  {
-    "oid": "506",
-    "value": "SHELF"
-  },
-  {
-    "oid": "507",
-    "value": "ANGLE"
-  },
-  {
-    "oid": "508",
-    "value": "DOPEY"
-  },
-  {
-    "oid": "509",
-    "value": "AMBLE"
-  },
-  {
-    "oid": "510",
-    "value": "NUDGE"
-  },
-  {
-    "oid": "511",
-    "value": "BASTE"
-  },
-  {
-    "oid": "512",
-    "value": "SPARK"
-  },
-  {
-    "oid": "513",
-    "value": "TIMER"
-  },
-  {
-    "oid": "514",
-    "value": "LASSO"
-  },
-  {
-    "oid": "515",
-    "value": "STAMP"
-  },
-  {
-    "oid": "516",
-    "value": "LADLE"
-  },
-  {
-    "oid": "517",
-    "value": "PIECE"
-  },
-  {
-    "oid": "518",
-    "value": "CHASE"
-  },
-  {
-    "oid": "519",
-    "value": "MANGO"
-  },
-  {
-    "oid": "520",
-    "value": "TRACK"
-  },
-  {
-    "oid": "521",
-    "value": "SPITE"
-  },
-  {
-    "oid": "522",
-    "value": "GREED"
-  },
-  {
-    "oid": "523",
-    "value": "NAVEL"
-  },
-  {
-    "oid": "524",
-    "value": "TROOP"
-  },
-  {
-    "oid": "525",
-    "value": "ALERT"
-  },
-  {
-    "oid": "526",
-    "value": "SCRUM"
-  },
-  {
-    "oid": "527",
-    "value": "CHECK"
-  },
-  {
-    "oid": "528",
-    "value": "SPEAR"
-  },
-  {
-    "oid": "529",
-    "value": "DEITY"
-  },
-  {
-    "oid": "530",
-    "value": "HOVER"
-  },
-  {
-    "oid": "531",
-    "value": "FUZZY"
-  },
-  {
-    "oid": "532",
-    "value": "LODGE"
-  },
-  {
-    "oid": "533",
-    "value": "AWARD"
-  },
-  {
-    "oid": "534",
-    "value": "DRYER"
-  },
-  {
-    "oid": "535",
-    "value": "GLAND"
-  },
-  {
-    "oid": "536",
-    "value": "OTTER"
-  },
-  {
-    "oid": "537",
-    "value": "CREAM"
-  },
-  {
-    "oid": "538",
-    "value": "CLOVE"
-  },
-  {
-    "oid": "539",
-    "value": "ROACH"
-  },
-  {
-    "oid": "540",
-    "value": "MADLY"
-  },
-  {
-    "oid": "541",
-    "value": "INDIE"
-  },
-  {
-    "oid": "542",
-    "value": "TRAIL"
-  },
-  {
-    "oid": "543",
-    "value": "SUAVE"
-  },
-  {
-    "oid": "544",
-    "value": "CROOK"
-  },
-  {
-    "oid": "545",
-    "value": "DITTY"
-  },
-  {
-    "oid": "546",
-    "value": "RUMBA"
-  },
-  {
-    "oid": "547",
-    "value": "RAPID"
-  },
-  {
-    "oid": "548",
-    "value": "SCORE"
-  },
-  {
-    "oid": "549",
-    "value": "GOODY"
-  },
-  {
-    "oid": "550",
-    "value": "BONUS"
-  },
-  {
-    "oid": "551",
-    "value": "STEEP"
-  },
-  {
-    "oid": "552",
-    "value": "SWATH"
-  },
-  {
-    "oid": "553",
-    "value": "PUPIL"
-  },
-  {
-    "oid": "554",
-    "value": "PEDAL"
-  },
-  {
-    "oid": "555",
-    "value": "TOOTH"
-  },
-  {
-    "oid": "556",
-    "value": "REVUE"
-  },
-  {
-    "oid": "557",
-    "value": "CHORE"
-  },
-  {
-    "oid": "558",
-    "value": "RIVET"
-  },
-  {
-    "oid": "559",
-    "value": "TOAST"
-  },
-  {
-    "oid": "560",
-    "value": "FALSE"
-  },
-  {
-    "oid": "561",
-    "value": "UDDER"
-  },
-  {
-    "oid": "562",
-    "value": "FEVER"
-  },
-  {
-    "oid": "563",
-    "value": "SHUNT"
-  },
-  {
-    "oid": "564",
-    "value": "SUNNY"
-  },
-  {
-    "oid": "565",
-    "value": "CRISP"
-  },
-  {
-    "oid": "566",
-    "value": "CREPE"
-  },
-  {
-    "oid": "567",
-    "value": "UPPER"
-  },
-  {
-    "oid": "568",
-    "value": "REACH"
-  },
-  {
-    "oid": "569",
-    "value": "ICING"
-  },
-  {
-    "oid": "570",
-    "value": "SQUID"
-  },
-  {
-    "oid": "571",
-    "value": "ROWER"
-  },
-  {
-    "oid": "572",
-    "value": "SILLY"
-  },
-  {
-    "oid": "573",
-    "value": "PROSE"
-  },
-  {
-    "oid": "574",
-    "value": "FLINT"
-  },
-  {
-    "oid": "575",
-    "value": "KNACK"
-  },
-  {
-    "oid": "576",
-    "value": "FANCY"
-  },
-  {
-    "oid": "577",
-    "value": "CLOAK"
-  },
-  {
-    "oid": "578",
-    "value": "TOTAL"
-  },
-  {
-    "oid": "579",
-    "value": "DINGY"
-  },
-  {
-    "oid": "580",
-    "value": "CRAWL"
-  },
-  {
-    "oid": "581",
-    "value": "WAFER"
-  },
-  {
-    "oid": "582",
-    "value": "DRAFT"
-  },
-  {
-    "oid": "583",
-    "value": "ATLAS"
-  },
-  {
-    "oid": "584",
-    "value": "SPRIG"
-  },
-  {
-    "oid": "585",
-    "value": "CYBER"
-  },
-  {
-    "oid": "586",
-    "value": "RELAX"
-  },
-  {
-    "oid": "587",
-    "value": "CHEAP"
-  },
-  {
-    "oid": "588",
-    "value": "CHOSE"
-  },
-  {
-    "oid": "589",
-    "value": "NERVE"
-  },
-  {
-    "oid": "590",
-    "value": "LEMUR"
-  },
-  {
-    "oid": "591",
-    "value": "STARE"
-  },
-  {
-    "oid": "592",
-    "value": "MAMBO"
-  },
-  {
-    "oid": "593",
-    "value": "DECRY"
-  },
-  {
-    "oid": "594",
-    "value": "GRAIN"
-  },
-  {
-    "oid": "595",
-    "value": "AFFIX"
-  },
-  {
-    "oid": "596",
-    "value": "SHARE"
-  },
-  {
-    "oid": "597",
-    "value": "EAGLE"
-  },
-  {
-    "oid": "598",
-    "value": "SAUNA"
-  },
-  {
-    "oid": "599",
-    "value": "BRAWN"
-  },
-  {
-    "oid": "600",
-    "value": "BLADE"
-  },
-  {
-    "oid": "601",
-    "value": "FLASH"
-  },
-  {
-    "oid": "602",
-    "value": "STRAY"
-  },
-  {
-    "oid": "603",
-    "value": "HEFTY"
-  },
-  {
-    "oid": "604",
-    "value": "SCOWL"
-  },
-  {
-    "oid": "605",
-    "value": "BOAST"
-  },
-  {
-    "oid": "606",
-    "value": "FUNKY"
-  },
-  {
-    "oid": "607",
-    "value": "DROOL"
-  },
-  {
-    "oid": "608",
-    "value": "BOXER"
-  },
-  {
-    "oid": "609",
-    "value": "VYING"
-  },
-  {
-    "oid": "610",
-    "value": "PLUMB"
-  },
-  {
-    "oid": "611",
-    "value": "PATIO"
-  },
-  {
-    "oid": "612",
-    "value": "FLUNG"
-  },
-  {
-    "oid": "613",
-    "value": "HYENA"
-  },
-  {
-    "oid": "614",
-    "value": "HILLY"
-  },
-  {
-    "oid": "615",
-    "value": "SHOVE"
-  },
-  {
-    "oid": "616",
-    "value": "ENDOW"
-  },
-  {
-    "oid": "617",
-    "value": "CRYPT"
-  },
-  {
-    "oid": "618",
-    "value": "SHAKY"
-  },
-  {
-    "oid": "619",
-    "value": "GUILE"
-  },
-  {
-    "oid": "620",
-    "value": "MAUVE"
-  },
-  {
-    "oid": "621",
-    "value": "DOGMA"
-  },
-  {
-    "oid": "622",
-    "value": "HIPPO"
-  },
-  {
-    "oid": "623",
-    "value": "CHOCK"
-  },
-  {
-    "oid": "624",
-    "value": "SLANG"
-  },
-  {
-    "oid": "625",
-    "value": "WITCH"
-  },
-  {
-    "oid": "626",
-    "value": "BROWN"
-  },
-  {
-    "oid": "627",
-    "value": "TWIST"
-  },
-  {
-    "oid": "628",
-    "value": "JELLY"
-  },
-  {
-    "oid": "629",
-    "value": "PEARL"
-  },
-  {
-    "oid": "630",
-    "value": "SPINE"
-  },
-  {
-    "oid": "631",
-    "value": "NICHE"
-  },
-  {
-    "oid": "632",
-    "value": "GOING"
-  },
-  {
-    "oid": "633",
-    "value": "FRAIL"
-  },
-  {
-    "oid": "634",
-    "value": "TALLY"
-  },
-  {
-    "oid": "635",
-    "value": "VISOR"
-  },
-  {
-    "oid": "636",
-    "value": "TACKY"
-  },
-  {
-    "oid": "637",
-    "value": "UVULA"
-  },
-  {
-    "oid": "638",
-    "value": "PRIMP"
-  },
-  {
-    "oid": "639",
-    "value": "FLOWN"
-  },
-  {
-    "oid": "640",
-    "value": "STOIC"
-  },
-  {
-    "oid": "641",
-    "value": "INNER"
-  },
-  {
-    "oid": "642",
-    "value": "SWELL"
-  },
-  {
-    "oid": "643",
-    "value": "READY"
-  },
-  {
-    "oid": "644",
-    "value": "EVENT"
-  },
-  {
-    "oid": "645",
-    "value": "TRULY"
-  },
-  {
-    "oid": "646",
-    "value": "OCTET"
-  },
-  {
-    "oid": "647",
-    "value": "VINYL"
-  },
-  {
-    "oid": "648",
-    "value": "BLAZE"
-  },
-  {
-    "oid": "649",
-    "value": "SNOOP"
-  },
-  {
-    "oid": "650",
-    "value": "SIXTH"
-  },
-  {
-    "oid": "651",
-    "value": "WEIRD"
-  },
-  {
-    "oid": "652",
-    "value": "EASEL"
-  },
-  {
-    "oid": "653",
-    "value": "TUNIC"
-  },
-  {
-    "oid": "654",
-    "value": "BAWDY"
-  },
-  {
-    "oid": "655",
-    "value": "SANDY"
-  },
-  {
-    "oid": "656",
-    "value": "WREAK"
-  },
-  {
-    "oid": "657",
-    "value": "FROWN"
-  },
-  {
-    "oid": "658",
-    "value": "BOSSY"
-  },
-  {
-    "oid": "659",
-    "value": "GOOFY"
-  },
-  {
-    "oid": "660",
-    "value": "SHOUT"
-  },
-  {
-    "oid": "661",
-    "value": "SPOON"
-  },
-  {
-    "oid": "662",
-    "value": "DICEY"
-  },
-  {
-    "oid": "663",
-    "value": "FIBER"
-  },
-  {
-    "oid": "664",
-    "value": "STINT"
-  },
-  {
-    "oid": "665",
-    "value": "HALVE"
-  },
-  {
-    "oid": "666",
-    "value": "GRANT"
-  },
-  {
-    "oid": "667",
-    "value": "CORER"
-  },
-  {
-    "oid": "668",
-    "value": "GAMUT"
-  },
-  {
-    "oid": "669",
-    "value": "PRONE"
-  },
-  {
-    "oid": "670",
-    "value": "STAIN"
-  },
-  {
-    "oid": "671",
-    "value": "GUSTY"
-  },
-  {
-    "oid": "672",
-    "value": "CARVE"
-  },
-  {
-    "oid": "673",
-    "value": "MOMMY"
-  },
-  {
-    "oid": "674",
-    "value": "JOINT"
-  },
-  {
-    "oid": "675",
-    "value": "FLOUR"
-  },
-  {
-    "oid": "676",
-    "value": "LAGER"
-  },
-  {
-    "oid": "677",
-    "value": "MINER"
-  },
-  {
-    "oid": "678",
-    "value": "TITLE"
-  },
-  {
-    "oid": "679",
-    "value": "WAGON"
-  },
-  {
-    "oid": "680",
-    "value": "SHELL"
-  },
-  {
-    "oid": "681",
-    "value": "MODEM"
-  },
-  {
-    "oid": "682",
-    "value": "CLOUD"
-  },
-  {
-    "oid": "683",
-    "value": "RIDER"
-  },
-  {
-    "oid": "684",
-    "value": "BRAIN"
-  },
-  {
-    "oid": "685",
-    "value": "FAITH"
-  },
-  {
-    "oid": "686",
-    "value": "THANK"
-  },
-  {
-    "oid": "687",
-    "value": "TORCH"
-  },
-  {
-    "oid": "688",
-    "value": "HANDY"
-  },
-  {
-    "oid": "689",
-    "value": "STEAM"
-  },
-  {
-    "oid": "690",
-    "value": "TEACH"
-  },
-  {
-    "oid": "691",
-    "value": "SEVEN"
-  },
-  {
-    "oid": "692",
-    "value": "SMOKE"
-  },
-  {
-    "oid": "693",
-    "value": "PRESS"
-  },
-  {
-    "oid": "694",
-    "value": "FULLY"
-  },
-  {
-    "oid": "695",
-    "value": "BEAUT"
-  },
-  {
-    "oid": "696",
-    "value": "HONEY"
-  },
-  {
-    "oid": "697",
-    "value": "RECUR"
-  },
-  {
-    "oid": "698",
-    "value": "BROAD"
-  },
-  {
-    "oid": "699",
-    "value": "HARSH"
-  },
-  {
-    "oid": "700",
-    "value": "BRASS"
-  },
-  {
-    "oid": "701",
-    "value": "AISLE"
-  },
-  {
-    "oid": "702",
-    "value": "REBEL"
-  },
-  {
-    "oid": "703",
-    "value": "DEBIT"
-  },
-  {
-    "oid": "704",
-    "value": "DRAWN"
-  },
-  {
-    "oid": "705",
-    "value": "OWNER"
-  },
-  {
-    "oid": "706",
-    "value": "RERUN"
-  },
-  {
-    "oid": "707",
-    "value": "WIDEN"
-  },
-  {
-    "oid": "708",
-    "value": "STERN"
-  },
-  {
-    "oid": "709",
-    "value": "FAINT"
-  },
-  {
-    "oid": "710",
-    "value": "CAMEL"
-  },
-  {
-    "oid": "711",
-    "value": "MUSHY"
-  },
-  {
-    "oid": "712",
-    "value": "SPOUT"
-  },
-  {
-    "oid": "713",
-    "value": "KNAVE"
-  },
-  {
-    "oid": "714",
-    "value": "FLUNK"
-  },
-  {
-    "oid": "715",
-    "value": "LITHE"
-  },
-  {
-    "oid": "716",
-    "value": "CROWN"
-  },
-  {
-    "oid": "717",
-    "value": "STAKE"
-  },
-  {
-    "oid": "718",
-    "value": "SKATE"
-  },
-  {
-    "oid": "719",
-    "value": "FILET"
-  },
-  {
-    "oid": "720",
-    "value": "LEECH"
-  },
-  {
-    "oid": "721",
-    "value": "BRUTE"
-  },
-  {
-    "oid": "722",
-    "value": "MULCH"
-  },
-  {
-    "oid": "723",
-    "value": "DELAY"
-  },
-  {
-    "oid": "724",
-    "value": "METER"
-  },
-  {
-    "oid": "725",
-    "value": "LANKY"
-  },
-  {
-    "oid": "726",
-    "value": "STORM"
-  },
-  {
-    "oid": "727",
-    "value": "BRACE"
-  },
-  {
-    "oid": "728",
-    "value": "ACORN"
-  },
-  {
-    "oid": "729",
-    "value": "SHORE"
-  },
-  {
-    "oid": "730",
-    "value": "NEIGH"
-  },
-  {
-    "oid": "731",
-    "value": "SKIFF"
-  },
-  {
-    "oid": "732",
-    "value": "SCONE"
-  },
-  {
-    "oid": "733",
-    "value": "MEDIC"
-  },
-  {
-    "oid": "734",
-    "value": "OUNCE"
-  },
-  {
-    "oid": "735",
-    "value": "SAUCY"
-  },
-  {
-    "oid": "736",
-    "value": "MACAW"
-  },
-  {
-    "oid": "737",
-    "value": "ANVIL"
-  },
-  {
-    "oid": "738",
-    "value": "ENSUE"
-  },
-  {
-    "oid": "739",
-    "value": "LOWER"
-  },
-  {
-    "oid": "740",
-    "value": "SCALE"
-  },
-  {
-    "oid": "741",
-    "value": "FLAKE"
-  },
-  {
-    "oid": "742",
-    "value": "CHALK"
-  },
-  {
-    "oid": "743",
-    "value": "PENNE"
-  },
-  {
-    "oid": "744",
-    "value": "FERAL"
-  },
-  {
-    "oid": "745",
-    "value": "SUPER"
-  },
-  {
-    "oid": "746",
-    "value": "SMOCK"
-  },
-  {
-    "oid": "747",
-    "value": "JUICE"
-  },
-  {
-    "oid": "748",
-    "value": "AWASH"
-  },
-  {
-    "oid": "749",
-    "value": "PORCH"
-  },
-  {
-    "oid": "750",
-    "value": "FORTE"
-  },
-  {
-    "oid": "751",
-    "value": "PRONG"
-  },
-  {
-    "oid": "752",
-    "value": "CADET"
-  },
-  {
-    "oid": "753",
-    "value": "SPECK"
-  },
-  {
-    "oid": "754",
-    "value": "SHAFT"
-  },
-  {
-    "oid": "755",
-    "value": "REFER"
-  },
-  {
-    "oid": "756",
-    "value": "NERDY"
-  },
-  {
-    "oid": "757",
-    "value": "QUITE"
-  },
-  {
-    "oid": "758",
-    "value": "DECOY"
-  },
-  {
-    "oid": "759",
-    "value": "SWOON"
-  },
-  {
-    "oid": "760",
-    "value": "VIDEO"
-  },
-  {
-    "oid": "761",
-    "value": "ENACT"
-  },
-  {
-    "oid": "762",
-    "value": "JIFFY"
-  },
-  {
-    "oid": "763",
-    "value": "CAMEO"
-  },
-  {
-    "oid": "764",
-    "value": "GAUNT"
-  },
-  {
-    "oid": "765",
-    "value": "BLARE"
-  },
-  {
-    "oid": "766",
-    "value": "SHAPE"
-  },
-  {
-    "oid": "767",
-    "value": "CANON"
-  },
-  {
-    "oid": "768",
-    "value": "SCOFF"
-  },
-  {
-    "oid": "769",
-    "value": "CRUSH"
-  },
-  {
-    "oid": "770",
-    "value": "DEBUT"
-  },
-  {
-    "oid": "771",
-    "value": "THIGH"
-  },
-  {
-    "oid": "772",
-    "value": "INLAY"
-  },
-  {
-    "oid": "773",
-    "value": "ADAGE"
-  },
-  {
-    "oid": "774",
-    "value": "BUDDY"
-  },
-  {
-    "oid": "775",
-    "value": "ZEBRA"
-  },
-  {
-    "oid": "776",
-    "value": "DROVE"
-  },
-  {
-    "oid": "777",
-    "value": "ORDER"
-  },
-  {
-    "oid": "778",
-    "value": "KNEAD"
-  },
-  {
-    "oid": "779",
-    "value": "SAVOR"
-  },
-  {
-    "oid": "780",
-    "value": "DOLLY"
-  },
-  {
-    "oid": "781",
-    "value": "BUGLE"
-  },
-  {
-    "oid": "782",
-    "value": "EDICT"
-  },
-  {
-    "oid": "783",
-    "value": "PAINT"
-  },
-  {
-    "oid": "784",
-    "value": "SCENT"
-  },
-  {
-    "oid": "785",
-    "value": "TERSE"
-  },
-  {
-    "oid": "786",
-    "value": "COVER"
-  },
-  {
-    "oid": "787",
-    "value": "PRIOR"
-  },
-  {
-    "oid": "788",
-    "value": "GRIND"
-  },
-  {
-    "oid": "789",
-    "value": "PROUD"
-  },
-  {
-    "oid": "790",
-    "value": "VAULT"
-  },
-  {
-    "oid": "791",
-    "value": "ANGST"
-  },
-  {
-    "oid": "792",
-    "value": "DETER"
-  },
-  {
-    "oid": "793",
-    "value": "SWUNG"
-  },
-  {
-    "oid": "794",
-    "value": "MANGA"
-  },
-  {
-    "oid": "795",
-    "value": "CROWD"
-  },
-  {
-    "oid": "796",
-    "value": "HENCE"
-  },
-  {
-    "oid": "797",
-    "value": "MELON"
-  },
-  {
-    "oid": "798",
-    "value": "ETHER"
-  },
-  {
-    "oid": "799",
-    "value": "ORGAN"
-  },
-  {
-    "oid": "800",
-    "value": "GROOM"
-  },
-  {
-    "oid": "801",
-    "value": "STARK"
-  },
-  {
-    "oid": "802",
-    "value": "BRAVO"
-  },
-  {
-    "oid": "803",
-    "value": "BASIN"
-  },
-  {
-    "oid": "804",
-    "value": "CHAOS"
-  },
-  {
-    "oid": "805",
-    "value": "GUMMY"
-  },
-  {
-    "oid": "806",
-    "value": "PAPAL"
-  },
-  {
-    "oid": "807",
-    "value": "MINUS"
-  },
-  {
-    "oid": "808",
-    "value": "SKIER"
-  },
-  {
-    "oid": "809",
-    "value": "BEVEL"
-  },
-  {
-    "oid": "810",
-    "value": "TITAN"
-  },
-  {
-    "oid": "811",
-    "value": "GLIDE"
-  },
-  {
-    "oid": "812",
-    "value": "SWISH"
-  },
-  {
-    "oid": "813",
-    "value": "EXALT"
-  },
-  {
-    "oid": "814",
-    "value": "DINGO"
-  },
-  {
-    "oid": "815",
-    "value": "NICER"
-  },
-  {
-    "oid": "816",
-    "value": "HITCH"
-  },
-  {
-    "oid": "817",
-    "value": "BRINY"
-  },
-  {
-    "oid": "818",
-    "value": "TUTOR"
-  },
-  {
-    "oid": "819",
-    "value": "STALL"
-  },
-  {
-    "oid": "820",
-    "value": "PINCH"
-  },
-  {
-    "oid": "821",
-    "value": "AMASS"
-  },
-  {
-    "oid": "822",
-    "value": "CUMIN"
-  },
-  {
-    "oid": "823",
-    "value": "OUTER"
-  },
-  {
-    "oid": "824",
-    "value": "TIDAL"
-  },
-  {
-    "oid": "825",
-    "value": "MEDIA"
-  },
-  {
-    "oid": "826",
-    "value": "JERKY"
-  },
-  {
-    "oid": "827",
-    "value": "PIOUS"
-  },
-  {
-    "oid": "828",
-    "value": "MUSTY"
-  },
-  {
-    "oid": "829",
-    "value": "SHAVE"
-  },
-  {
-    "oid": "830",
-    "value": "DECAL"
-  },
-  {
-    "oid": "831",
-    "value": "VALUE"
-  },
-  {
-    "oid": "832",
-    "value": "EBONY"
-  },
-  {
-    "oid": "833",
-    "value": "SLICE"
-  },
-  {
-    "oid": "834",
-    "value": "DIARY"
-  },
-  {
-    "oid": "835",
-    "value": "PROWL"
-  },
-  {
-    "oid": "836",
-    "value": "CRAFT"
-  },
-  {
-    "oid": "837",
-    "value": "PRUNE"
-  },
-  {
-    "oid": "838",
-    "value": "GLEAM"
-  },
-  {
-    "oid": "839",
-    "value": "VAPID"
-  },
-  {
-    "oid": "840",
-    "value": "INTRO"
-  },
-  {
-    "oid": "841",
-    "value": "OVERT"
-  },
-  {
-    "oid": "842",
-    "value": "ROVER"
-  },
-  {
-    "oid": "843",
-    "value": "LASER"
-  },
-  {
-    "oid": "844",
-    "value": "JOLLY"
-  },
-  {
-    "oid": "845",
-    "value": "LUCID"
-  },
-  {
-    "oid": "846",
-    "value": "RAISE"
-  },
-  {
-    "oid": "847",
-    "value": "FACET"
-  },
-  {
-    "oid": "848",
-    "value": "TITHE"
-  },
-  {
-    "oid": "849",
-    "value": "SHANK"
-  },
-  {
-    "oid": "850",
-    "value": "EQUIP"
-  },
-  {
-    "oid": "851",
-    "value": "BLIMP"
-  },
-  {
-    "oid": "852",
-    "value": "STEEL"
-  },
-  {
-    "oid": "853",
-    "value": "WHINY"
-  },
-  {
-    "oid": "854",
-    "value": "LOUSE"
-  },
-  {
-    "oid": "855",
-    "value": "BROTH"
-  },
-  {
-    "oid": "856",
-    "value": "MERGE"
-  },
-  {
-    "oid": "857",
-    "value": "BREED"
-  },
-  {
-    "oid": "858",
-    "value": "VOILA"
-  },
-  {
-    "oid": "859",
-    "value": "FINCH"
-  },
-  {
-    "oid": "860",
-    "value": "WRIST"
-  },
-  {
-    "oid": "861",
-    "value": "CLIMB"
-  },
-  {
-    "oid": "862",
-    "value": "PLAIT"
-  },
-  {
-    "oid": "863",
-    "value": "SERUM"
-  },
-  {
-    "oid": "864",
-    "value": "FROND"
-  },
-  {
-    "oid": "865",
-    "value": "TABOO"
-  },
-  {
-    "oid": "866",
-    "value": "FORCE"
-  },
-  {
-    "oid": "867",
-    "value": "REALM"
-  },
-  {
-    "oid": "868",
-    "value": "SPEAK"
-  },
-  {
-    "oid": "869",
-    "value": "STUNG"
-  },
-  {
-    "oid": "870",
-    "value": "MAYOR"
-  },
-  {
-    "oid": "871",
-    "value": "SALLY"
-  },
-  {
-    "oid": "872",
-    "value": "TOWEL"
-  },
-  {
-    "oid": "873",
-    "value": "RISEN"
-  },
-  {
-    "oid": "874",
-    "value": "DECAY"
-  },
-  {
-    "oid": "875",
-    "value": "SHADE"
-  },
-  {
-    "oid": "876",
-    "value": "LINGO"
-  },
-  {
-    "oid": "877",
-    "value": "ABIDE"
-  },
-  {
-    "oid": "878",
-    "value": "SPELT"
-  },
-  {
-    "oid": "879",
-    "value": "SNORT"
-  },
-  {
-    "oid": "880",
-    "value": "TOXIN"
-  },
-  {
-    "oid": "881",
-    "value": "ERUPT"
-  },
-  {
-    "oid": "882",
-    "value": "SINCE"
-  },
-  {
-    "oid": "883",
-    "value": "LOCAL"
-  },
-  {
-    "oid": "884",
-    "value": "HEAVE"
-  },
-  {
-    "oid": "885",
-    "value": "PESKY"
-  },
-  {
-    "oid": "886",
-    "value": "GRASP"
-  },
-  {
-    "oid": "887",
-    "value": "CHEER"
-  },
-  {
-    "oid": "888",
-    "value": "EARLY"
-  },
-  {
-    "oid": "889",
-    "value": "CLONE"
-  },
-  {
-    "oid": "890",
-    "value": "TEARY"
-  },
-  {
-    "oid": "891",
-    "value": "HUNCH"
-  },
-  {
-    "oid": "892",
-    "value": "FLAME"
-  },
-  {
-    "oid": "893",
-    "value": "STATE"
-  },
-  {
-    "oid": "894",
-    "value": "URBAN"
-  },
-  {
-    "oid": "895",
-    "value": "FORTY"
-  },
-  {
-    "oid": "896",
-    "value": "IMAGE"
-  },
-  {
-    "oid": "897",
-    "value": "DEVIL"
-  },
-  {
-    "oid": "898",
-    "value": "SENSE"
-  },
-  {
-    "oid": "899",
-    "value": "OFTEN"
-  },
-  {
-    "oid": "900",
-    "value": "SMITH"
-  },
-  {
-    "oid": "901",
-    "value": "PIPER"
-  },
-  {
-    "oid": "902",
-    "value": "APART"
-  },
-  {
-    "oid": "903",
-    "value": "HEAVY"
-  },
-  {
-    "oid": "904",
-    "value": "BUILD"
-  },
-  {
-    "oid": "905",
-    "value": "MATCH"
-  },
-  {
-    "oid": "906",
-    "value": "PRICE"
-  },
-  {
-    "oid": "907",
-    "value": "RIDGE"
-  },
-  {
-    "oid": "908",
-    "value": "PSALM"
-  },
-  {
-    "oid": "909",
-    "value": "STASH"
-  },
-  {
-    "oid": "910",
-    "value": "ASCOT"
-  },
-  {
-    "oid": "911",
-    "value": "TALON"
-  },
-  {
-    "oid": "912",
-    "value": "SCRAM"
-  },
-  {
-    "oid": "913",
-    "value": "PASTA"
-  },
-  {
-    "oid": "914",
-    "value": "NEVER"
-  },
-  {
-    "oid": "915",
-    "value": "FRIED"
-  },
-  {
-    "oid": "916",
-    "value": "STIFF"
-  },
-  {
-    "oid": "917",
-    "value": "PLACE"
-  },
-  {
-    "oid": "918",
-    "value": "AFTER"
-  },
-  {
-    "oid": "919",
-    "value": "WHICH"
-  },
-  {
-    "oid": "920",
-    "value": "REPEL"
-  },
-  {
-    "oid": "921",
-    "value": "VERGE"
-  },
-  {
-    "oid": "922",
-    "value": "MICRO"
-  },
-  {
-    "oid": "923",
-    "value": "CLEFT"
-  },
-  {
-    "oid": "924",
-    "value": "ALIVE"
-  },
-  {
-    "oid": "925",
-    "value": "BULKY"
-  },
-  {
-    "oid": "926",
-    "value": "EXPEL"
-  },
-  {
-    "oid": "927",
     "value": "СПОРТ"
   },
   {
+    "oid": "406",
+    "value": "ЛАТТЕ"
+  },
+  {
+    "oid": "407",
+    "value": "АРБУЗ"
+  },
+  {
+    "oid": "408",
+    "value": "ВИШНЯ"
+  },
+  {
+    "oid": "409",
+    "value": "ЛИМОН"
+  },
+  {
+    "oid": "410",
+    "value": "ТАКСИ"
+  },
+  {
+    "oid": "411",
+    "value": "ЖАРКО"
+  },
+  {
+    "oid": "412",
+    "value": "УЖАСЫ"
+  },
+  {
+    "oid": "413",
+    "value": "ГЕРОИ"
+  },
+  {
+    "oid": "414",
+    "value": "ПРИЁМ"
+  },
+  {
+    "oid": "415",
+    "value": "МАСЛО"
+  },
+  {
+    "oid": "416",
+    "value": "ТАКОЙ"
+  },
+  {
+    "oid": "417",
+    "value": "ВРЕМЯ"
+  },
+  {
+    "oid": "418",
+    "value": "ЖИЗНЬ"
+  },
+  {
+    "oid": "419",
+    "value": "МОЖНО"
+  },
+  {
+    "oid": "420",
+    "value": "МЕСТО"
+  },
+  {
+    "oid": "421",
+    "value": "ИМЕТЬ"
+  },
+  {
+    "oid": "422",
+    "value": "ДВЕРЬ"
+  },
+  {
+    "oid": "423",
+    "value": "ГОЛОС"
+  },
+  {
+    "oid": "424",
+    "value": "СРАЗУ"
+  },
+  {
+    "oid": "425",
+    "value": "ВОЙНА"
+  },
+  {
+    "oid": "426",
+    "value": "БЕЛЫЙ"
+  },
+  {
+    "oid": "427",
+    "value": "ЧАСТЬ"
+  },
+  {
+    "oid": "428",
+    "value": "НАРОД"
+  },
+  {
+    "oid": "429",
+    "value": "ЛЮБОЙ"
+  },
+  {
+    "oid": "430",
+    "value": "ДАВНО"
+  },
+  {
+    "oid": "431",
+    "value": "СТЕНА"
+  },
+  {
+    "oid": "432",
+    "value": "БРАТЬ"
+  },
+  {
+    "oid": "433",
+    "value": "ТОЧНО"
+  },
+  {
+    "oid": "434",
+    "value": "ОБРАЗ"
+  },
+  {
+    "oid": "435",
+    "value": "ШКОЛА"
+  },
+  {
+    "oid": "436",
+    "value": "ВОЙТИ"
+  },
+  {
+    "oid": "437",
+    "value": "РАЗВЕ"
+  },
+  {
+    "oid": "438",
+    "value": "ФОРМА"
+  },
+  {
+    "oid": "439",
+    "value": "НЕМЕЦ"
+  },
+  {
+    "oid": "440",
+    "value": "АРМИЯ"
+  },
+  {
+    "oid": "441",
+    "value": "ЗАКОН"
+  },
+  {
+    "oid": "442",
+    "value": "ЧЕРТА"
+  },
+  {
+    "oid": "443",
+    "value": "ГЛАВА"
+  },
+  {
+    "oid": "444",
+    "value": "ГЕРОЙ"
+  },
+  {
+    "oid": "445",
+    "value": "КЛАСС"
+  },
+  {
+    "oid": "446",
+    "value": "ЛЕГКО"
+  },
+  {
+    "oid": "447",
+    "value": "РУБЛЬ"
+  },
+  {
+    "oid": "448",
+    "value": "УБИТЬ"
+  },
+  {
+    "oid": "449",
+    "value": "КУХНЯ"
+  },
+  {
+    "oid": "450",
+    "value": "ТРАВА"
+  },
+  {
+    "oid": "451",
+    "value": "ЗАПАХ"
+  },
+  {
+    "oid": "452",
+    "value": "ТИХИЙ"
+  },
+  {
+    "oid": "453",
+    "value": "ВОРОТ"
+  },
+  {
+    "oid": "454",
+    "value": "СОВЕТ"
+  },
+  {
+    "oid": "455",
+    "value": "ОРГАН"
+  },
+  {
+    "oid": "456",
+    "value": "НЕСТИ"
+  },
+  {
+    "oid": "457",
+    "value": "СУХОЙ"
+  },
+  {
+    "oid": "458",
+    "value": "ЖИВОТ"
+  },
+  {
+    "oid": "459",
+    "value": "ЗАВОД"
+  },
+  {
+    "oid": "460",
+    "value": "ПУШОК"
+  },
+  {
+    "oid": "461",
+    "value": "ОВОЩИ"
+  },
+  {
+    "oid": "462",
+    "value": "БИЛЕТ"
+  },
+  {
+    "oid": "463",
+    "value": "ТЕАТР"
+  },
+  {
+    "oid": "464",
+    "value": "МАНГО"
+  },
+  {
+    "oid": "465",
+    "value": "ИНЖИР"
+  },
+  {
+    "oid": "466",
+    "value": "СУПЕР"
+  },
+  {
+    "oid": "467",
+    "value": "ФИНАЛ"
+  },
+  {
+    "oid": "468",
+    "value": "КАКОЙ"
+  },
+  {
+    "oid": "469",
+    "value": "САМЫЙ"
+  },
+  {
+    "oid": "470",
+    "value": "НИЧТО"
+  },
+  {
+    "oid": "471",
+    "value": "ПОСЛЕ"
+  },
+  {
+    "oid": "472",
+    "value": "ЧЕРЕЗ"
+  },
+  {
+    "oid": "473",
+    "value": "ВДРУГ"
+  },
+  {
+    "oid": "474",
+    "value": "ПЕРЕД"
+  },
+  {
+    "oid": "475",
+    "value": "ГОРОД"
+  },
+  {
+    "oid": "476",
+    "value": "ВЫЙТИ"
+  },
+  {
+    "oid": "477",
+    "value": "СНОВА"
+  },
+  {
+    "oid": "478",
+    "value": "ЖДАТЬ"
+  },
+  {
+    "oid": "479",
+    "value": "КНИГА"
+  },
+  {
+    "oid": "480",
+    "value": "ПЛЕЧО"
+  },
+  {
+    "oid": "481",
+    "value": "МЫСЛЬ"
+  },
+  {
+    "oid": "482",
+    "value": "ПРЯМО"
+  },
+  {
+    "oid": "483",
+    "value": "ПРАВО"
+  },
+  {
+    "oid": "484",
+    "value": "ЦЕЛЫЙ"
+  },
+  {
+    "oid": "485",
+    "value": "СРЕДИ"
+  },
+  {
+    "oid": "486",
+    "value": "ЗАТЕМ"
+  },
+  {
+    "oid": "487",
+    "value": "КРОВЬ"
+  },
+  {
+    "oid": "488",
+    "value": "БЕРЕГ"
+  },
+  {
+    "oid": "489",
+    "value": "ОТВЕТ"
+  },
+  {
+    "oid": "490",
+    "value": "ГРУДЬ"
+  },
+  {
+    "oid": "491",
+    "value": "ЧАСТО"
+  },
+  {
+    "oid": "492",
+    "value": "ГОСТЬ"
+  },
+  {
+    "oid": "493",
+    "value": "ЗВАТЬ"
+  },
+  {
+    "oid": "494",
+    "value": "ВОЛОС"
+  },
+  {
+    "oid": "495",
+    "value": "СЕРЫЙ"
+  },
+  {
+    "oid": "496",
+    "value": "СВЯЗЬ"
+  },
+  {
+    "oid": "497",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "498",
+    "value": "ЦЕНТР"
+  },
+  {
+    "oid": "499",
+    "value": "ВОВСЕ"
+  },
+  {
+    "oid": "500",
+    "value": "МЕНЕЕ"
+  },
+  {
+    "oid": "501",
+    "value": "РОМАН"
+  },
+  {
+    "oid": "502",
+    "value": "СЛАТЬ"
+  },
+  {
+    "oid": "503",
+    "value": "ВЧЕРА"
+  },
+  {
+    "oid": "504",
+    "value": "САПОГ"
+  },
+  {
+    "oid": "505",
+    "value": "ВНОВЬ"
+  },
+  {
+    "oid": "506",
+    "value": "ДУРАК"
+  },
+  {
+    "oid": "507",
+    "value": "КАРТА"
+  },
+  {
+    "oid": "508",
+    "value": "МИЛЫЙ"
+  },
+  {
+    "oid": "509",
+    "value": "ВВЕРХ"
+  },
+  {
+    "oid": "510",
+    "value": "ФРОНТ"
+  },
+  {
+    "oid": "511",
+    "value": "КУЛАК"
+  },
+  {
+    "oid": "512",
+    "value": "ШКОЛА"
+  },
+  {
+    "oid": "513",
+    "value": "САНКТ"
+  },
+  {
+    "oid": "514",
+    "value": "ВАЖНO"
+  },
+  {
+    "oid": "515",
+    "value": "ЛАТТЕ"
+  },
+  {
+    "oid": "516",
+    "value": "ВИШНЯ"
+  },
+  {
+    "oid": "517",
+    "value": "ТАКСИ"
+  },
+  {
+    "oid": "518",
+    "value": "УЖАСЫ"
+  },
+  {
+    "oid": "519",
+    "value": "ПРИЁМ"
+  },
+  {
+    "oid": "520",
+    "value": "КОГДА"
+  },
+  {
+    "oid": "521",
+    "value": "СТАТЬ"
+  },
+  {
+    "oid": "522",
+    "value": "ПОТОМ"
+  },
+  {
+    "oid": "523",
+    "value": "СЛОВО"
+  },
+  {
+    "oid": "524",
+    "value": "ТОГДА"
+  },
+  {
+    "oid": "525",
+    "value": "ВЗЯТЬ"
+  },
+  {
+    "oid": "526",
+    "value": "ЗЕМЛЯ"
+  },
+  {
+    "oid": "527",
+    "value": "БОЛЕЕ"
+  },
+  {
+    "oid": "528",
+    "value": "ПОЧТИ"
+  },
+  {
+    "oid": "529",
+    "value": "МЕЖДУ"
+  },
+  {
+    "oid": "530",
+    "value": "БУДТО"
+  },
+  {
+    "oid": "531",
+    "value": "УЛИЦА"
+  },
+  {
+    "oid": "532",
+    "value": "ЗАЧЕМ"
+  },
+  {
+    "oid": "533",
+    "value": "НАЗАД"
+  },
+  {
+    "oid": "534",
+    "value": "ДОЛГО"
+  },
+  {
+    "oid": "535",
+    "value": "КРОМЕ"
+  },
+  {
+    "oid": "536",
+    "value": "СПИНА"
+  },
+  {
+    "oid": "537",
+    "value": "ВЕСТИ"
+  },
+  {
+    "oid": "538",
+    "value": "ТАКЖЕ"
+  },
+  {
+    "oid": "539",
+    "value": "РАВНО"
+  },
+  {
+    "oid": "540",
+    "value": "СЕМЬЯ"
+  },
+  {
+    "oid": "541",
+    "value": "СМЫСЛ"
+  },
+  {
+    "oid": "542",
+    "value": "ЛАДНО"
+  },
+  {
+    "oid": "543",
+    "value": "ДОМОЙ"
+  },
+  {
+    "oid": "544",
+    "value": "ВЕТЕР"
+  },
+  {
+    "oid": "545",
+    "value": "ВОЗЛЕ"
+  },
+  {
+    "oid": "546",
+    "value": "НОМЕР"
+  },
+  {
+    "oid": "547",
+    "value": "СТРАХ"
+  },
+  {
+    "oid": "548",
+    "value": "СКОРО"
+  },
+  {
+    "oid": "549",
+    "value": "ХУДОЙ"
+  },
+  {
+    "oid": "550",
+    "value": "ОКОЛО"
+  },
+  {
+    "oid": "551",
+    "value": "МУЖИК"
+  },
+  {
+    "oid": "552",
+    "value": "НАУКА"
+  },
+  {
+    "oid": "553",
+    "value": "СИНИЙ"
+  },
+  {
+    "oid": "554",
+    "value": "СЛЕЗА"
+  },
+  {
+    "oid": "555",
+    "value": "ТОЧКА"
+  },
+  {
+    "oid": "556",
+    "value": "ДОЖДЬ"
+  },
+  {
+    "oid": "557",
+    "value": "СОСЕД"
+  },
+  {
+    "oid": "558",
+    "value": "ПОЕЗД"
+  },
+  {
+    "oid": "559",
+    "value": "СЛАВА"
+  },
+  {
+    "oid": "560",
+    "value": "ПОВОД"
+  },
+  {
+    "oid": "561",
+    "value": "СТОЛЬ"
+  },
+  {
+    "oid": "562",
+    "value": "РАЙОН"
+  },
+  {
+    "oid": "563",
+    "value": "БЛИНЫ"
+  },
+  {
+    "oid": "564",
+    "value": "ШКОЛЫ"
+  },
+  {
+    "oid": "565",
+    "value": "СУМКA"
+  },
+  {
+    "oid": "566",
+    "value": "КОНЦЕ"
+  },
+  {
+    "oid": "567",
+    "value": "БАНАН"
+  },
+  {
+    "oid": "568",
+    "value": "СЛИВЫ"
+  },
+  {
+    "oid": "569",
+    "value": "НОСОК"
+  },
+  {
+    "oid": "570",
+    "value": "ПРОЗА"
+  },
+  {
+    "oid": "571",
+    "value": "КОШКА"
+  },
+  {
+    "oid": "572",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "573",
+    "value": "ЧТОБЫ"
+  },
+  {
+    "oid": "574",
+    "value": "ОЧЕНЬ"
+  },
+  {
+    "oid": "575",
+    "value": "ЗДЕСЬ"
+  },
+  {
+    "oid": "576",
+    "value": "НОВЫЙ"
+  },
+  {
+    "oid": "577",
+    "value": "НИКТО"
+  },
+  {
+    "oid": "578",
+    "value": "КОНЕЦ"
+  },
+  {
+    "oid": "579",
+    "value": "ПОЙТИ"
+  },
+  {
+    "oid": "580",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "581",
+    "value": "ОПЯТЬ"
+  },
+  {
+    "oid": "582",
+    "value": "НАЙТИ"
+  },
+  {
+    "oid": "583",
+    "value": "ВЕЧЕР"
+  },
+  {
+    "oid": "584",
+    "value": "ПАЛЕЦ"
+  },
+  {
+    "oid": "585",
+    "value": "ОБЩИЙ"
+  },
+  {
+    "oid": "586",
+    "value": "СЕСТЬ"
+  },
+  {
+    "oid": "587",
+    "value": "МЕСЯЦ"
+  },
+  {
+    "oid": "588",
+    "value": "ПУСТЬ"
+  },
+  {
+    "oid": "589",
+    "value": "ЖИВОЙ"
+  },
+  {
+    "oid": "590",
+    "value": "ВРОДЕ"
+  },
+  {
+    "oid": "591",
+    "value": "СПАТЬ"
+  },
+  {
+    "oid": "592",
+    "value": "ВИДНО"
+  },
+  {
+    "oid": "593",
+    "value": "СМОЧЬ"
+  },
+  {
+    "oid": "594",
+    "value": "ЕХАТЬ"
+  },
+  {
+    "oid": "595",
+    "value": "ОГОНЬ"
+  },
+  {
+    "oid": "596",
+    "value": "УМЕТЬ"
+  },
+  {
+    "oid": "597",
+    "value": "НИКАК"
+  },
+  {
+    "oid": "598",
+    "value": "ПЛОХО"
+  },
+  {
+    "oid": "599",
+    "value": "СНЯТЬ"
+  },
+  {
+    "oid": "600",
+    "value": "ИНАЧЕ"
+  },
+  {
+    "oid": "601",
+    "value": "ЧУЖОЙ"
+  },
+  {
+    "oid": "602",
+    "value": "ЧИСЛО"
+  },
+  {
+    "oid": "603",
+    "value": "АВТОР"
+  },
+  {
+    "oid": "604",
+    "value": "СОРОК"
+  },
+  {
+    "oid": "605",
+    "value": "ШЕСТЬ"
+  },
+  {
+    "oid": "606",
+    "value": "МОЛЧА"
+  },
+  {
+    "oid": "607",
+    "value": "ТОЛПА"
+  },
+  {
+    "oid": "608",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "609",
+    "value": "ВЫХОД"
+  },
+  {
+    "oid": "610",
+    "value": "ЛЕВЫЙ"
+  },
+  {
+    "oid": "611",
+    "value": "КРЫША"
+  },
+  {
+    "oid": "612",
+    "value": "ПТИЦА"
+  },
+  {
+    "oid": "613",
+    "value": "ВОДКА"
+  },
+  {
+    "oid": "614",
+    "value": "МЕШОК"
+  },
+  {
+    "oid": "615",
+    "value": "МЕТРО"
+  },
+  {
+    "oid": "616",
+    "value": "УРОКИ"
+  },
+  {
+    "oid": "617",
+    "value": "ТЕПЕР"
+  },
+  {
+    "oid": "618",
+    "value": "СПОРТ"
+  },
+  {
+    "oid": "619",
+    "value": "АРБУЗ"
+  },
+  {
+    "oid": "620",
+    "value": "ЛИМОН"
+  },
+  {
+    "oid": "621",
+    "value": "ЖАРКО"
+  },
+  {
+    "oid": "622",
+    "value": "ГЕРОИ"
+  },
+  {
+    "oid": "623",
+    "value": "МАСЛО"
+  },
+  {
+    "oid": "624",
+    "value": "ТАКОЙ"
+  },
+  {
+    "oid": "625",
+    "value": "ЖИЗНЬ"
+  },
+  {
+    "oid": "626",
+    "value": "МЕСТО"
+  },
+  {
+    "oid": "627",
+    "value": "ДВЕРЬ"
+  },
+  {
+    "oid": "628",
+    "value": "СРАЗУ"
+  },
+  {
+    "oid": "629",
+    "value": "БЕЛЫЙ"
+  },
+  {
+    "oid": "630",
+    "value": "НАРОД"
+  },
+  {
+    "oid": "631",
+    "value": "ДАВНО"
+  },
+  {
+    "oid": "632",
+    "value": "БРАТЬ"
+  },
+  {
+    "oid": "633",
+    "value": "ОБРАЗ"
+  },
+  {
+    "oid": "634",
+    "value": "ВОЙТИ"
+  },
+  {
+    "oid": "635",
+    "value": "ФОРМА"
+  },
+  {
+    "oid": "636",
+    "value": "АРМИЯ"
+  },
+  {
+    "oid": "637",
+    "value": "ЧЕРТА"
+  },
+  {
+    "oid": "638",
+    "value": "ГЕРОЙ"
+  },
+  {
+    "oid": "639",
+    "value": "ЛЕГКО"
+  },
+  {
+    "oid": "640",
+    "value": "УБИТЬ"
+  },
+  {
+    "oid": "641",
+    "value": "ТРАВА"
+  },
+  {
+    "oid": "642",
+    "value": "ТИХИЙ"
+  },
+  {
+    "oid": "643",
+    "value": "СОВЕТ"
+  },
+  {
+    "oid": "644",
+    "value": "НЕСТИ"
+  },
+  {
+    "oid": "645",
+    "value": "ЖИВОТ"
+  },
+  {
+    "oid": "646",
+    "value": "ПУШОК"
+  },
+  {
+    "oid": "647",
+    "value": "БИЛЕТ"
+  },
+  {
+    "oid": "648",
+    "value": "МАНГО"
+  },
+  {
+    "oid": "649",
+    "value": "СУПЕР"
+  },
+  {
+    "oid": "650",
+    "value": "КАКОЙ"
+  },
+  {
+    "oid": "651",
+    "value": "НИЧТО"
+  },
+  {
+    "oid": "652",
+    "value": "ЧЕРЕЗ"
+  },
+  {
+    "oid": "653",
+    "value": "ПЕРЕД"
+  },
+  {
+    "oid": "654",
+    "value": "ВЫЙТИ"
+  },
+  {
+    "oid": "655",
+    "value": "ЖДАТЬ"
+  },
+  {
+    "oid": "656",
+    "value": "ПЛЕЧО"
+  },
+  {
+    "oid": "657",
+    "value": "ПРЯМО"
+  },
+  {
+    "oid": "658",
+    "value": "ЦЕЛЫЙ"
+  },
+  {
+    "oid": "659",
+    "value": "ЗАТЕМ"
+  },
+  {
+    "oid": "660",
+    "value": "БЕРЕГ"
+  },
+  {
+    "oid": "661",
+    "value": "ГРУДЬ"
+  },
+  {
+    "oid": "662",
+    "value": "ГОСТЬ"
+  },
+  {
+    "oid": "663",
+    "value": "ВОЛОС"
+  },
+  {
+    "oid": "664",
+    "value": "СВЯЗЬ"
+  },
+  {
+    "oid": "665",
+    "value": "ЦЕНТР"
+  },
+  {
+    "oid": "666",
+    "value": "МЕНЕЕ"
+  },
+  {
+    "oid": "667",
+    "value": "СЛАТЬ"
+  },
+  {
+    "oid": "668",
+    "value": "САПОГ"
+  },
+  {
+    "oid": "669",
+    "value": "ДУРАК"
+  },
+  {
+    "oid": "670",
+    "value": "МИЛЫЙ"
+  },
+  {
+    "oid": "671",
+    "value": "ФРОНТ"
+  },
+  {
+    "oid": "672",
+    "value": "ШКОЛА"
+  },
+  {
+    "oid": "673",
+    "value": "ВАЖНO"
+  },
+  {
+    "oid": "674",
+    "value": "ВИШНЯ"
+  },
+  {
+    "oid": "675",
+    "value": "УЖАСЫ"
+  },
+  {
+    "oid": "676",
+    "value": "КОГДА"
+  },
+  {
+    "oid": "677",
+    "value": "ПОТОМ"
+  },
+  {
+    "oid": "678",
+    "value": "ТОГДА"
+  },
+  {
+    "oid": "679",
+    "value": "ЗЕМЛЯ"
+  },
+  {
+    "oid": "680",
+    "value": "ПОЧТИ"
+  },
+  {
+    "oid": "681",
+    "value": "БУДТО"
+  },
+  {
+    "oid": "682",
+    "value": "ЗАЧЕМ"
+  },
+  {
+    "oid": "683",
+    "value": "ДОЛГО"
+  },
+  {
+    "oid": "684",
+    "value": "СПИНА"
+  },
+  {
+    "oid": "685",
+    "value": "ТАКЖЕ"
+  },
+  {
+    "oid": "686",
+    "value": "СЕМЬЯ"
+  },
+  {
+    "oid": "687",
+    "value": "ЛАДНО"
+  },
+  {
+    "oid": "688",
+    "value": "ВЕТЕР"
+  },
+  {
+    "oid": "689",
+    "value": "НОМЕР"
+  },
+  {
+    "oid": "690",
+    "value": "СКОРО"
+  },
+  {
+    "oid": "691",
+    "value": "ОКОЛО"
+  },
+  {
+    "oid": "692",
+    "value": "НАУКА"
+  },
+  {
+    "oid": "693",
+    "value": "СЛЕЗА"
+  },
+  {
+    "oid": "694",
+    "value": "ДОЖДЬ"
+  },
+  {
+    "oid": "695",
+    "value": "ПОЕЗД"
+  },
+  {
+    "oid": "696",
+    "value": "ПОВОД"
+  },
+  {
+    "oid": "697",
+    "value": "РАЙОН"
+  },
+  {
+    "oid": "698",
+    "value": "ШКОЛЫ"
+  },
+  {
+    "oid": "699",
+    "value": "КОНЦЕ"
+  },
+  {
+    "oid": "700",
+    "value": "СЛИВЫ"
+  },
+  {
+    "oid": "701",
+    "value": "ПРОЗА"
+  },
+  {
+    "oid": "702",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "703",
+    "value": "ОЧЕНЬ"
+  },
+  {
+    "oid": "704",
+    "value": "НОВЫЙ"
+  },
+  {
+    "oid": "705",
+    "value": "КОНЕЦ"
+  },
+  {
+    "oid": "706",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "707",
+    "value": "НАЙТИ"
+  },
+  {
+    "oid": "708",
+    "value": "ПАЛЕЦ"
+  },
+  {
+    "oid": "709",
+    "value": "СЕСТЬ"
+  },
+  {
+    "oid": "710",
+    "value": "ПУСТЬ"
+  },
+  {
+    "oid": "711",
+    "value": "ВРОДЕ"
+  },
+  {
+    "oid": "712",
+    "value": "ВИДНО"
+  },
+  {
+    "oid": "713",
+    "value": "ЕХАТЬ"
+  },
+  {
+    "oid": "714",
+    "value": "УМЕТЬ"
+  },
+  {
+    "oid": "715",
+    "value": "ПЛОХО"
+  },
+  {
+    "oid": "716",
+    "value": "ИНАЧЕ"
+  },
+  {
+    "oid": "717",
+    "value": "ЧИСЛО"
+  },
+  {
+    "oid": "718",
+    "value": "СОРОК"
+  },
+  {
+    "oid": "719",
+    "value": "МОЛЧА"
+  },
+  {
+    "oid": "720",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "721",
+    "value": "ЛЕВЫЙ"
+  },
+  {
+    "oid": "722",
+    "value": "ПТИЦА"
+  },
+  {
+    "oid": "723",
+    "value": "МЕШОК"
+  },
+  {
+    "oid": "724",
+    "value": "УРОКИ"
+  },
+  {
+    "oid": "725",
+    "value": "СПОРТ"
+  },
+  {
+    "oid": "726",
+    "value": "ЛИМОН"
+  },
+  {
+    "oid": "727",
+    "value": "ГЕРОИ"
+  },
+  {
+    "oid": "728",
+    "value": "ВРЕМЯ"
+  },
+  {
+    "oid": "729",
+    "value": "МОЖНО"
+  },
+  {
+    "oid": "730",
+    "value": "ИМЕТЬ"
+  },
+  {
+    "oid": "731",
+    "value": "ГОЛОС"
+  },
+  {
+    "oid": "732",
+    "value": "ВОЙНА"
+  },
+  {
+    "oid": "733",
+    "value": "ЧАСТЬ"
+  },
+  {
+    "oid": "734",
+    "value": "ЛЮБОЙ"
+  },
+  {
+    "oid": "735",
+    "value": "СТЕНА"
+  },
+  {
+    "oid": "736",
+    "value": "ТОЧНО"
+  },
+  {
+    "oid": "737",
+    "value": "ШКОЛА"
+  },
+  {
+    "oid": "738",
+    "value": "РАЗВЕ"
+  },
+  {
+    "oid": "739",
+    "value": "НЕМЕЦ"
+  },
+  {
+    "oid": "740",
+    "value": "ЗАКОН"
+  },
+  {
+    "oid": "741",
+    "value": "ГЛАВА"
+  },
+  {
+    "oid": "742",
+    "value": "КЛАСС"
+  },
+  {
+    "oid": "743",
+    "value": "РУБЛЬ"
+  },
+  {
+    "oid": "744",
+    "value": "КУХНЯ"
+  },
+  {
+    "oid": "745",
+    "value": "ЗАПАХ"
+  },
+  {
+    "oid": "746",
+    "value": "ВОРОТ"
+  },
+  {
+    "oid": "747",
+    "value": "ОРГАН"
+  },
+  {
+    "oid": "748",
+    "value": "СУХОЙ"
+  },
+  {
+    "oid": "749",
+    "value": "ЗАВОД"
+  },
+  {
+    "oid": "750",
+    "value": "ОВОЩИ"
+  },
+  {
+    "oid": "751",
+    "value": "ТЕАТР"
+  },
+  {
+    "oid": "752",
+    "value": "ИНЖИР"
+  },
+  {
+    "oid": "753",
+    "value": "ФИНАЛ"
+  },
+  {
+    "oid": "754",
+    "value": "САМЫЙ"
+  },
+  {
+    "oid": "755",
+    "value": "ПОСЛЕ"
+  },
+  {
+    "oid": "756",
+    "value": "ВДРУГ"
+  },
+  {
+    "oid": "757",
+    "value": "ГОРОД"
+  },
+  {
+    "oid": "758",
+    "value": "СНОВА"
+  },
+  {
+    "oid": "759",
+    "value": "КНИГА"
+  },
+  {
+    "oid": "760",
+    "value": "МЫСЛЬ"
+  },
+  {
+    "oid": "761",
+    "value": "ПРАВО"
+  },
+  {
+    "oid": "762",
+    "value": "СРЕДИ"
+  },
+  {
+    "oid": "763",
+    "value": "КРОВЬ"
+  },
+  {
+    "oid": "764",
+    "value": "ОТВЕТ"
+  },
+  {
+    "oid": "765",
+    "value": "ЧАСТО"
+  },
+  {
+    "oid": "766",
+    "value": "ЗВАТЬ"
+  },
+  {
+    "oid": "767",
+    "value": "СЕРЫЙ"
+  },
+  {
+    "oid": "768",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "769",
+    "value": "ВОВСЕ"
+  },
+  {
+    "oid": "770",
+    "value": "РОМАН"
+  },
+  {
+    "oid": "771",
+    "value": "ВЧЕРА"
+  },
+  {
+    "oid": "772",
+    "value": "ВНОВЬ"
+  },
+  {
+    "oid": "773",
+    "value": "КАРТА"
+  },
+  {
+    "oid": "774",
+    "value": "ВВЕРХ"
+  },
+  {
+    "oid": "775",
+    "value": "КУЛАК"
+  },
+  {
+    "oid": "776",
+    "value": "САНКТ"
+  },
+  {
+    "oid": "777",
+    "value": "ЛАТТЕ"
+  },
+  {
+    "oid": "778",
+    "value": "ТАКСИ"
+  },
+  {
+    "oid": "779",
+    "value": "ПРИЁМ"
+  },
+  {
+    "oid": "780",
+    "value": "СТАТЬ"
+  },
+  {
+    "oid": "781",
+    "value": "СЛОВО"
+  },
+  {
+    "oid": "782",
+    "value": "ВЗЯТЬ"
+  },
+  {
+    "oid": "783",
+    "value": "БОЛЕЕ"
+  },
+  {
+    "oid": "784",
+    "value": "МЕЖДУ"
+  },
+  {
+    "oid": "785",
+    "value": "УЛИЦА"
+  },
+  {
+    "oid": "786",
+    "value": "НАЗАД"
+  },
+  {
+    "oid": "787",
+    "value": "КРОМЕ"
+  },
+  {
+    "oid": "788",
+    "value": "ВЕСТИ"
+  },
+  {
+    "oid": "789",
+    "value": "РАВНО"
+  },
+  {
+    "oid": "790",
+    "value": "СМЫСЛ"
+  },
+  {
+    "oid": "791",
+    "value": "ДОМОЙ"
+  },
+  {
+    "oid": "792",
+    "value": "ВОЗЛЕ"
+  },
+  {
+    "oid": "793",
+    "value": "СТРАХ"
+  },
+  {
+    "oid": "794",
+    "value": "ХУДОЙ"
+  },
+  {
+    "oid": "795",
+    "value": "МУЖИК"
+  },
+  {
+    "oid": "796",
+    "value": "СИНИЙ"
+  },
+  {
+    "oid": "797",
+    "value": "ТОЧКА"
+  },
+  {
+    "oid": "798",
+    "value": "СОСЕД"
+  },
+  {
+    "oid": "799",
+    "value": "СЛАВА"
+  },
+  {
+    "oid": "800",
+    "value": "СТОЛЬ"
+  },
+  {
+    "oid": "801",
+    "value": "БЛИНЫ"
+  },
+  {
+    "oid": "802",
+    "value": "СУМКA"
+  },
+  {
+    "oid": "803",
+    "value": "БАНАН"
+  },
+  {
+    "oid": "804",
+    "value": "НОСОК"
+  },
+  {
+    "oid": "805",
+    "value": "КОШКА"
+  },
+  {
+    "oid": "806",
+    "value": "ЧТОБЫ"
+  },
+  {
+    "oid": "807",
+    "value": "ЗДЕСЬ"
+  },
+  {
+    "oid": "808",
+    "value": "НИКТО"
+  },
+  {
+    "oid": "809",
+    "value": "ПОЙТИ"
+  },
+  {
+    "oid": "810",
+    "value": "ОПЯТЬ"
+  },
+  {
+    "oid": "811",
+    "value": "ВЕЧЕР"
+  },
+  {
+    "oid": "812",
+    "value": "ОБЩИЙ"
+  },
+  {
+    "oid": "813",
+    "value": "МЕСЯЦ"
+  },
+  {
+    "oid": "814",
+    "value": "ЖИВОЙ"
+  },
+  {
+    "oid": "815",
+    "value": "СПАТЬ"
+  },
+  {
+    "oid": "816",
+    "value": "СМОЧЬ"
+  },
+  {
+    "oid": "817",
+    "value": "ОГОНЬ"
+  },
+  {
+    "oid": "818",
+    "value": "НИКАК"
+  },
+  {
+    "oid": "819",
+    "value": "СНЯТЬ"
+  },
+  {
+    "oid": "820",
+    "value": "ЧУЖОЙ"
+  },
+  {
+    "oid": "821",
+    "value": "АВТОР"
+  },
+  {
+    "oid": "822",
+    "value": "ШЕСТЬ"
+  },
+  {
+    "oid": "823",
+    "value": "ТОЛПА"
+  },
+  {
+    "oid": "824",
+    "value": "ВЫХОД"
+  },
+  {
+    "oid": "825",
+    "value": "КРЫША"
+  },
+  {
+    "oid": "826",
+    "value": "ВОДКА"
+  },
+  {
+    "oid": "827",
+    "value": "МЕТРО"
+  },
+  {
+    "oid": "828",
+    "value": "ТЕПЕР"
+  },
+  {
+    "oid": "829",
+    "value": "АРБУЗ"
+  },
+  {
+    "oid": "830",
+    "value": "ЖАРКО"
+  },
+  {
+    "oid": "831",
+    "value": "МАСЛО"
+  },
+  {
+    "oid": "832",
+    "value": "ТАКОЙ"
+  },
+  {
+    "oid": "833",
+    "value": "МЕСТО"
+  },
+  {
+    "oid": "834",
+    "value": "СРАЗУ"
+  },
+  {
+    "oid": "835",
+    "value": "НАРОД"
+  },
+  {
+    "oid": "836",
+    "value": "БРАТЬ"
+  },
+  {
+    "oid": "837",
+    "value": "ВОЙТИ"
+  },
+  {
+    "oid": "838",
+    "value": "АРМИЯ"
+  },
+  {
+    "oid": "839",
+    "value": "ГЕРОЙ"
+  },
+  {
+    "oid": "840",
+    "value": "УБИТЬ"
+  },
+  {
+    "oid": "841",
+    "value": "ТИХИЙ"
+  },
+  {
+    "oid": "842",
+    "value": "НЕСТИ"
+  },
+  {
+    "oid": "843",
+    "value": "ПУШОК"
+  },
+  {
+    "oid": "844",
+    "value": "МАНГО"
+  },
+  {
+    "oid": "845",
+    "value": "КАКОЙ"
+  },
+  {
+    "oid": "846",
+    "value": "ЧЕРЕЗ"
+  },
+  {
+    "oid": "847",
+    "value": "ВЫЙТИ"
+  },
+  {
+    "oid": "848",
+    "value": "ПЛЕЧО"
+  },
+  {
+    "oid": "849",
+    "value": "ЦЕЛЫЙ"
+  },
+  {
+    "oid": "850",
+    "value": "БЕРЕГ"
+  },
+  {
+    "oid": "851",
+    "value": "ГОСТЬ"
+  },
+  {
+    "oid": "852",
+    "value": "СВЯЗЬ"
+  },
+  {
+    "oid": "853",
+    "value": "МЕНЕЕ"
+  },
+  {
+    "oid": "854",
+    "value": "САПОГ"
+  },
+  {
+    "oid": "855",
+    "value": "МИЛЫЙ"
+  },
+  {
+    "oid": "856",
+    "value": "ШКОЛА"
+  },
+  {
+    "oid": "857",
+    "value": "ВИШНЯ"
+  },
+  {
+    "oid": "858",
+    "value": "КОГДА"
+  },
+  {
+    "oid": "859",
+    "value": "ТОГДА"
+  },
+  {
+    "oid": "860",
+    "value": "ПОЧТИ"
+  },
+  {
+    "oid": "861",
+    "value": "ЗАЧЕМ"
+  },
+  {
+    "oid": "862",
+    "value": "СПИНА"
+  },
+  {
+    "oid": "863",
+    "value": "СЕМЬЯ"
+  },
+  {
+    "oid": "864",
+    "value": "ВЕТЕР"
+  },
+  {
+    "oid": "865",
+    "value": "СКОРО"
+  },
+  {
+    "oid": "866",
+    "value": "НАУКА"
+  },
+  {
+    "oid": "867",
+    "value": "ДОЖДЬ"
+  },
+  {
+    "oid": "868",
+    "value": "ПОВОД"
+  },
+  {
+    "oid": "869",
+    "value": "ШКОЛЫ"
+  },
+  {
+    "oid": "870",
+    "value": "СЛИВЫ"
+  },
+  {
+    "oid": "871",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "872",
+    "value": "НОВЫЙ"
+  },
+  {
+    "oid": "873",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "874",
+    "value": "ПАЛЕЦ"
+  },
+  {
+    "oid": "875",
+    "value": "ПУСТЬ"
+  },
+  {
+    "oid": "876",
+    "value": "ВИДНО"
+  },
+  {
+    "oid": "877",
+    "value": "УМЕТЬ"
+  },
+  {
+    "oid": "878",
+    "value": "ИНАЧЕ"
+  },
+  {
+    "oid": "879",
+    "value": "СОРОК"
+  },
+  {
+    "oid": "880",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "881",
+    "value": "ПТИЦА"
+  },
+  {
+    "oid": "882",
+    "value": "УРОКИ"
+  },
+  {
+    "oid": "883",
+    "value": "ЛИМОН"
+  },
+  {
+    "oid": "884",
+    "value": "ВРЕМЯ"
+  },
+  {
+    "oid": "885",
+    "value": "ИМЕТЬ"
+  },
+  {
+    "oid": "886",
+    "value": "ВОЙНА"
+  },
+  {
+    "oid": "887",
+    "value": "ЛЮБОЙ"
+  },
+  {
+    "oid": "888",
+    "value": "ТОЧНО"
+  },
+  {
+    "oid": "889",
+    "value": "РАЗВЕ"
+  },
+  {
+    "oid": "890",
+    "value": "ЗАКОН"
+  },
+  {
+    "oid": "891",
+    "value": "КЛАСС"
+  },
+  {
+    "oid": "892",
+    "value": "КУХНЯ"
+  },
+  {
+    "oid": "893",
+    "value": "ВОРОТ"
+  },
+  {
+    "oid": "894",
+    "value": "СУХОЙ"
+  },
+  {
+    "oid": "895",
+    "value": "ОВОЩИ"
+  },
+  {
+    "oid": "896",
+    "value": "ИНЖИР"
+  },
+  {
+    "oid": "897",
+    "value": "САМЫЙ"
+  },
+  {
+    "oid": "898",
+    "value": "ВДРУГ"
+  },
+  {
+    "oid": "899",
+    "value": "СНОВА"
+  },
+  {
+    "oid": "900",
+    "value": "МЫСЛЬ"
+  },
+  {
+    "oid": "901",
+    "value": "СРЕДИ"
+  },
+  {
+    "oid": "902",
+    "value": "ОТВЕТ"
+  },
+  {
+    "oid": "903",
+    "value": "ЗВАТЬ"
+  },
+  {
+    "oid": "904",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "905",
+    "value": "РОМАН"
+  },
+  {
+    "oid": "906",
+    "value": "ВНОВЬ"
+  },
+  {
+    "oid": "907",
+    "value": "ВВЕРХ"
+  },
+  {
+    "oid": "908",
+    "value": "САНКТ"
+  },
+  {
+    "oid": "909",
+    "value": "ТАКСИ"
+  },
+  {
+    "oid": "910",
+    "value": "СТАТЬ"
+  },
+  {
+    "oid": "911",
+    "value": "ВЗЯТЬ"
+  },
+  {
+    "oid": "912",
+    "value": "МЕЖДУ"
+  },
+  {
+    "oid": "913",
+    "value": "НАЗАД"
+  },
+  {
+    "oid": "914",
+    "value": "ВЕСТИ"
+  },
+  {
+    "oid": "915",
+    "value": "СМЫСЛ"
+  },
+  {
+    "oid": "916",
+    "value": "ВОЗЛЕ"
+  },
+  {
+    "oid": "917",
+    "value": "ХУДОЙ"
+  },
+  {
+    "oid": "918",
+    "value": "СИНИЙ"
+  },
+  {
+    "oid": "919",
+    "value": "СОСЕД"
+  },
+  {
+    "oid": "920",
+    "value": "СТОЛЬ"
+  },
+  {
+    "oid": "921",
+    "value": "СУМКA"
+  },
+  {
+    "oid": "922",
+    "value": "НОСОК"
+  },
+  {
+    "oid": "923",
+    "value": "ЧТОБЫ"
+  },
+  {
+    "oid": "924",
+    "value": "НИКТО"
+  },
+  {
+    "oid": "925",
+    "value": "ОПЯТЬ"
+  },
+  {
+    "oid": "926",
+    "value": "ОБЩИЙ"
+  },
+  {
+    "oid": "927",
+    "value": "ЖИВОЙ"
+  },
+  {
     "oid": "928",
-    "value": "EMBER"
+    "value": "СМОЧЬ"
   },
   {
     "oid": "929",
-    "value": "SNAKE"
+    "value": "НИКАК"
   },
   {
     "oid": "930",
-    "value": "ALOOF"
+    "value": "ЧУЖОЙ"
   },
   {
     "oid": "931",
-    "value": "BLOCK"
+    "value": "ШЕСТЬ"
   },
   {
     "oid": "932",
-    "value": "RELIC"
+    "value": "ВЫХОД"
   },
   {
     "oid": "933",
-    "value": "STILL"
+    "value": "ВОДКА"
   },
   {
     "oid": "934",
-    "value": "TWEAK"
+    "value": "ТЕПЕР"
   },
   {
     "oid": "935",
-    "value": "NORTH"
+    "value": "ЖАРКО"
   },
   {
     "oid": "936",
-    "value": "LARGE"
+    "value": "ЖИЗНЬ"
   },
   {
     "oid": "937",
-    "value": "THING"
+    "value": "ДВЕРЬ"
   },
   {
     "oid": "938",
-    "value": "STOLE"
+    "value": "БЕЛЫЙ"
   },
   {
     "oid": "939",
-    "value": "COURT"
+    "value": "ДАВНО"
   },
   {
     "oid": "940",
-    "value": "BLOND"
+    "value": "ОБРАЗ"
   },
   {
     "oid": "941",
-    "value": "LUNCH"
+    "value": "ФОРМА"
   },
   {
     "oid": "942",
-    "value": "DOING"
+    "value": "ЧЕРТА"
   },
   {
     "oid": "943",
-    "value": "HEARD"
+    "value": "ЛЕГКО"
   },
   {
     "oid": "944",
-    "value": "ROUTE"
+    "value": "ТРАВА"
   },
   {
     "oid": "945",
-    "value": "СТАЯЛ"
+    "value": "СОВЕТ"
   },
   {
     "oid": "946",
-    "value": "THREW"
+    "value": "ЖИВОТ"
   },
   {
     "oid": "947",
-    "value": "LINER"
+    "value": "БИЛЕТ"
   },
   {
     "oid": "948",
-    "value": "FINAL"
+    "value": "СУПЕР"
   },
   {
     "oid": "949",
-    "value": "STONY"
+    "value": "НИЧТО"
   },
   {
     "oid": "950",
-    "value": "CABLE"
+    "value": "ПЕРЕД"
   },
   {
     "oid": "951",
-    "value": "LUNGE"
+    "value": "ЖДАТЬ"
   },
   {
     "oid": "952",
-    "value": "SCANT"
+    "value": "ПРЯМО"
   },
   {
     "oid": "953",
-    "value": "TWIRL"
+    "value": "ЗАТЕМ"
   },
   {
     "oid": "954",
-    "value": "AGING"
+    "value": "ГРУДЬ"
   },
   {
     "oid": "955",
-    "value": "MURAL"
+    "value": "ВОЛОС"
   },
   {
     "oid": "956",
-    "value": "SALTY"
+    "value": "ЦЕНТР"
   },
   {
     "oid": "957",
-    "value": "THREE"
+    "value": "СЛАТЬ"
   },
   {
     "oid": "958",
-    "value": "CHILD"
+    "value": "ДУРАК"
   },
   {
     "oid": "959",
-    "value": "LEARN"
+    "value": "ФРОНТ"
   },
   {
     "oid": "960",
-    "value": "DAISY"
+    "value": "ВАЖНO"
   },
   {
     "oid": "961",
-    "value": "PHONE"
+    "value": "УЖАСЫ"
   },
   {
     "oid": "962",
-    "value": "EVOKE"
+    "value": "ПОТОМ"
   },
   {
     "oid": "963",
-    "value": "GRACE"
+    "value": "ЗЕМЛЯ"
   },
   {
     "oid": "964",
-    "value": "SLOPE"
+    "value": "БУДТО"
   },
   {
     "oid": "965",
-    "value": "TOUCH"
+    "value": "ДОЛГО"
   },
   {
     "oid": "966",
-    "value": "BUILT"
+    "value": "ТАКЖЕ"
   },
   {
     "oid": "967",
-    "value": "SMALL"
+    "value": "ЛАДНО"
   },
   {
     "oid": "968",
-    "value": "TABLE"
+    "value": "НОМЕР"
   },
   {
     "oid": "969",
-    "value": "FUNNY"
+    "value": "ОКОЛО"
   },
   {
     "oid": "970",
-    "value": "BACON"
+    "value": "СЛЕЗА"
   },
   {
     "oid": "971",
-    "value": "GLOBE"
+    "value": "ПОЕЗД"
   },
   {
     "oid": "972",
-    "value": "TOPIC"
+    "value": "РАЙОН"
   },
   {
     "oid": "973",
-    "value": "WOULD"
+    "value": "КОНЦЕ"
   },
   {
     "oid": "974",
-    "value": "SPENT"
+    "value": "ПРОЗА"
   },
   {
     "oid": "975",
-    "value": "THESE"
+    "value": "ОЧЕНЬ"
   },
   {
     "oid": "976",
-    "value": "HOUSE"
+    "value": "КОНЕЦ"
   },
   {
     "oid": "977",
-    "value": "CHAIN"
+    "value": "НАЙТИ"
   },
   {
     "oid": "978",
-    "value": "SHIFT"
+    "value": "СЕСТЬ"
   },
   {
     "oid": "979",
-    "value": "SHARP"
+    "value": "ВРОДЕ"
   },
   {
     "oid": "980",
-    "value": "SLEEP"
+    "value": "ЕХАТЬ"
   },
   {
     "oid": "981",
-    "value": "WOMAN"
+    "value": "ПЛОХО"
   },
   {
     "oid": "982",
-    "value": "YOUNG"
+    "value": "ЧИСЛО"
   },
   {
     "oid": "983",
-    "value": "WORST"
+    "value": "МОЛЧА"
   },
   {
     "oid": "984",
-    "value": "ADAPT"
+    "value": "ЛЕВЫЙ"
   },
   {
     "oid": "985",
-    "value": "GENRE"
+    "value": "МЕШОК"
   },
   {
     "oid": "986",
-    "value": "TAKEN"
+    "value": "СПОРТ"
   },
   {
     "oid": "987",
-    "value": "RESIN"
+    "value": "ГЕРОИ"
   },
   {
     "oid": "988",
-    "value": "SUSHI"
+    "value": "МОЖНО"
   },
   {
     "oid": "989",
-    "value": "SCOPE"
+    "value": "ГОЛОС"
   },
   {
     "oid": "990",
-    "value": "TAWNY"
+    "value": "ЧАСТЬ"
   },
   {
     "oid": "991",
-    "value": "SOLID"
+    "value": "СТЕНА"
   },
   {
     "oid": "992",
-    "value": "GUIDE"
+    "value": "ШКОЛА"
   },
   {
     "oid": "993",
-    "value": "THROW"
+    "value": "НЕМЕЦ"
   },
   {
     "oid": "994",
-    "value": "QUEEN"
+    "value": "ГЛАВА"
   },
   {
     "oid": "995",
-    "value": "PIXEL"
+    "value": "РУБЛЬ"
   },
   {
     "oid": "996",
-    "value": "PIANO"
+    "value": "ЗАПАХ"
   },
   {
     "oid": "997",
-    "value": "CANDY"
+    "value": "ОРГАН"
   },
   {
     "oid": "998",
-    "value": "QUEUE"
+    "value": "ЗАВОД"
   },
   {
     "oid": "999",
-    "value": "THINK"
+    "value": "ТЕАТР"
   },
   {
     "oid": "1000",
-    "value": "TARDY"
+    "value": "ФИНАЛ"
   },
   {
     "oid": "1001",
-    "value": "TRUST"
+    "value": "ПОСЛЕ"
   },
   {
     "oid": "1002",
-    "value": "SIGHT"
+    "value": "ГОРОД"
   },
   {
     "oid": "1003",
-    "value": "SASSY"
+    "value": "КНИГА"
   },
   {
     "oid": "1004",
-    "value": "GREEN"
+    "value": "ПРАВО"
   },
   {
     "oid": "1005",
-    "value": "MEANT"
+    "value": "КРОВЬ"
   },
   {
     "oid": "1006",
-    "value": "ACTOR"
+    "value": "ЧАСТО"
   },
   {
     "oid": "1007",
-    "value": "LEASH"
+    "value": "СЕРЫЙ"
   },
   {
     "oid": "1008",
-    "value": "GLAZE"
+    "value": "ВОВСЕ"
   },
   {
     "oid": "1009",
-    "value": "NINJA"
+    "value": "ВЧЕРА"
   },
   {
     "oid": "1010",
-    "value": "LIMIT"
+    "value": "КАРТА"
   },
   {
     "oid": "1011",
-    "value": "TRADE"
+    "value": "КУЛАК"
   },
   {
     "oid": "1012",
-    "value": "FLARE"
+    "value": "ЛАТТЕ"
   },
   {
     "oid": "1013",
-    "value": "MANIA"
+    "value": "ПРИЁМ"
   },
   {
     "oid": "1014",
-    "value": "ARDOR"
+    "value": "СЛОВО"
   },
   {
     "oid": "1015",
-    "value": "UNTIL"
+    "value": "БОЛЕЕ"
   },
   {
     "oid": "1016",
-    "value": "NOISE"
+    "value": "УЛИЦА"
   },
   {
     "oid": "1017",
-    "value": "BLEAK"
+    "value": "КРОМЕ"
   },
   {
     "oid": "1018",
-    "value": "GRAIL"
+    "value": "РАВНО"
   },
   {
     "oid": "1019",
-    "value": "PHONY"
+    "value": "ДОМОЙ"
   },
   {
     "oid": "1020",
-    "value": "MASON"
+    "value": "СТРАХ"
   },
   {
     "oid": "1021",
-    "value": "NOBLE"
+    "value": "МУЖИК"
   },
   {
     "oid": "1022",
-    "value": "PIQUE"
+    "value": "ТОЧКА"
   },
   {
     "oid": "1023",
-    "value": "RETRY"
+    "value": "СЛАВА"
   },
   {
     "oid": "1024",
-    "value": "CAUSE"
+    "value": "БЛИНЫ"
   },
   {
     "oid": "1025",
-    "value": "TEMPO"
+    "value": "БАНАН"
   },
   {
     "oid": "1026",
-    "value": "GIVEN"
+    "value": "КОШКА"
   },
   {
     "oid": "1027",
-    "value": "SMIRK"
+    "value": "ЗДЕСЬ"
   },
   {
     "oid": "1028",
-    "value": "OCCUR"
+    "value": "ПОЙТИ"
   },
   {
     "oid": "1029",
-    "value": "SPLAT"
+    "value": "ВЕЧЕР"
   },
   {
     "oid": "1030",
-    "value": "MERCY"
+    "value": "МЕСЯЦ"
   },
   {
     "oid": "1031",
-    "value": "ADULT"
+    "value": "СПАТЬ"
   },
   {
     "oid": "1032",
-    "value": "GRAPH"
+    "value": "ОГОНЬ"
   },
   {
     "oid": "1033",
-    "value": "LEAKY"
+    "value": "СНЯТЬ"
   },
   {
     "oid": "1034",
-    "value": "AGENT"
+    "value": "АВТОР"
   },
   {
     "oid": "1035",
-    "value": "UNCLE"
+    "value": "ТОЛПА"
   },
   {
     "oid": "1036",
-    "value": "KNELT"
+    "value": "КРЫША"
   },
   {
     "oid": "1037",
-    "value": "SKUNK"
+    "value": "МЕТРО"
   },
   {
     "oid": "1038",
-    "value": "SNAIL"
+    "value": "АРБУЗ"
   },
   {
     "oid": "1039",
-    "value": "TRUTH"
+    "value": "МАСЛО"
   },
   {
     "oid": "1040",
-    "value": "BINGE"
+    "value": "ТАКОЙ"
   },
   {
     "oid": "1041",
-    "value": "VIOLA"
+    "value": "СРАЗУ"
   },
   {
     "oid": "1042",
-    "value": "CHIME"
+    "value": "БРАТЬ"
   },
   {
     "oid": "1043",
-    "value": "BUNCH"
+    "value": "АРМИЯ"
   },
   {
     "oid": "1044",
-    "value": "SPURT"
+    "value": "УБИТЬ"
   },
   {
     "oid": "1045",
-    "value": "WHILE"
+    "value": "НЕСТИ"
   },
   {
     "oid": "1046",
-    "value": "MERRY"
+    "value": "МАНГО"
   },
   {
     "oid": "1047",
-    "value": "BERET"
+    "value": "ЧЕРЕЗ"
   },
   {
     "oid": "1048",
-    "value": "DADDY"
+    "value": "ПЛЕЧО"
   },
   {
     "oid": "1049",
-    "value": "AZURE"
+    "value": "БЕРЕГ"
   },
   {
     "oid": "1050",
-    "value": "COACH"
+    "value": "СВЯЗЬ"
   },
   {
     "oid": "1051",
-    "value": "SMILE"
+    "value": "САПОГ"
   },
   {
     "oid": "1052",
-    "value": "LOYAL"
+    "value": "ШКОЛА"
   },
   {
     "oid": "1053",
-    "value": "ROCKY"
+    "value": "КОГДА"
   },
   {
     "oid": "1054",
-    "value": "RIGHT"
+    "value": "ПОЧТИ"
   },
   {
     "oid": "1055",
-    "value": "CAROL"
+    "value": "СПИНА"
   },
   {
     "oid": "1056",
-    "value": "BRUSH"
+    "value": "ВЕТЕР"
   },
   {
     "oid": "1057",
-    "value": "STONE"
+    "value": "НАУКА"
   },
   {
     "oid": "1058",
-    "value": "SNARE"
+    "value": "ПОВОД"
   },
   {
     "oid": "1059",
-    "value": "CLOSE"
+    "value": "СЛИВЫ"
   },
   {
     "oid": "1060",
-    "value": "FRANK"
+    "value": "НОВЫЙ"
   },
   {
     "oid": "1061",
-    "value": "MUSIC"
+    "value": "ПАЛЕЦ"
   },
   {
     "oid": "1062",
-    "value": "ANGEL"
+    "value": "ВИДНО"
   },
   {
     "oid": "1063",
-    "value": "EXERT"
+    "value": "ИНАЧЕ"
   },
   {
     "oid": "1064",
-    "value": "RAYON"
+    "value": "МНОГО"
   },
   {
     "oid": "1065",
-    "value": "CLEAR"
+    "value": "УРОКИ"
   },
   {
     "oid": "1066",
-    "value": "WHISK"
+    "value": "ВРЕМЯ"
   },
   {
     "oid": "1067",
-    "value": "OLDER"
+    "value": "ВОЙНА"
   },
   {
     "oid": "1068",
-    "value": "QUOTE"
+    "value": "ТОЧНО"
   },
   {
     "oid": "1069",
-    "value": "LUCKY"
+    "value": "ЗАКОН"
   },
   {
     "oid": "1070",
-    "value": "ROUSE"
+    "value": "КУХНЯ"
   },
   {
     "oid": "1071",
-    "value": "DWELL"
+    "value": "СУХОЙ"
   },
   {
     "oid": "1072",
-    "value": "GNASH"
+    "value": "ИНЖИР"
   },
   {
     "oid": "1073",
-    "value": "BIRCH"
+    "value": "ВДРУГ"
   },
   {
     "oid": "1074",
-    "value": "GIDDY"
+    "value": "МЫСЛЬ"
   },
   {
     "oid": "1075",
-    "value": "AWAIT"
+    "value": "ОТВЕТ"
   },
   {
     "oid": "1076",
-    "value": "ONION"
+    "value": "ЗНАТЬ"
   },
   {
     "oid": "1077",
-    "value": "SPACE"
+    "value": "ВНОВЬ"
   },
   {
     "oid": "1078",
-    "value": "LURID"
+    "value": "САНКТ"
   },
   {
     "oid": "1079",
-    "value": "TINGE"
+    "value": "СТАТЬ"
   },
   {
     "oid": "1080",
-    "value": "DEUCE"
+    "value": "МЕЖДУ"
   },
   {
     "oid": "1081",
-    "value": "GIZMO"
+    "value": "ВЕСТИ"
   },
   {
     "oid": "1082",
-    "value": "TABBY"
+    "value": "ВОЗЛЕ"
   },
   {
     "oid": "1083",
-    "value": "FUGUE"
+    "value": "СИНИЙ"
   },
   {
     "oid": "1084",
-    "value": "ARISE"
+    "value": "СТОЛЬ"
   },
   {
     "oid": "1085",
-    "value": "PERIL"
+    "value": "НОСОК"
   },
   {
     "oid": "1086",
-    "value": "GUISE"
+    "value": "НИКТО"
   },
   {
     "oid": "1087",
-    "value": "SHORT"
+    "value": "ОБЩИЙ"
   },
   {
     "oid": "1088",
-    "value": "VENUE"
+    "value": "СМОЧЬ"
   },
   {
     "oid": "1089",
-    "value": "AWOKE"
+    "value": "ЧУЖОЙ"
   },
   {
     "oid": "1090",
-    "value": "RABID"
+    "value": "ВЫХОД"
   },
   {
     "oid": "1091",
-    "value": "MOTEL"
+    "value": "ТЕПЕР"
   },
   {
     "oid": "1092",
-    "value": "ABHOR"
+    "value": "ЖИЗНЬ"
   },
   {
     "oid": "1093",
-    "value": "LATHE"
+    "value": "БЕЛЫЙ"
   },
   {
     "oid": "1094",
-    "value": "GLARE"
+    "value": "ОБРАЗ"
   },
   {
     "oid": "1095",
-    "value": "HOLLY"
+    "value": "ЧЕРТА"
   },
   {
     "oid": "1096",
-    "value": "FETID"
+    "value": "ТРАВА"
   },
   {
     "oid": "1097",
-    "value": "PLUMP"
+    "value": "ЖИВОТ"
   },
   {
     "oid": "1098",
-    "value": "GAUGE"
+    "value": "СУПЕР"
   },
   {
     "oid": "1099",
-    "value": "TUBER"
+    "value": "ПЕРЕД"
   },
   {
     "oid": "1100",
-    "value": "DRILL"
+    "value": "ПРЯМО"
   },
   {
     "oid": "1101",
-    "value": "STUNT"
+    "value": "ГРУДЬ"
   },
   {
     "oid": "1102",
-    "value": "DETOX"
+    "value": "ЦЕНТР"
   },
   {
     "oid": "1103",
-    "value": "LIMBO"
+    "value": "ДУРАК"
   },
   {
     "oid": "1104",
-    "value": "IDEAL"
+    "value": "ВАЖНO"
   },
   {
     "oid": "1105",
-    "value": "HAVEN"
+    "value": "ПОТОМ"
   },
   {
     "oid": "1106",
-    "value": "GROSS"
+    "value": "БУДТО"
   },
   {
     "oid": "1107",
-    "value": "CATTY"
+    "value": "ТАКЖЕ"
   },
   {
     "oid": "1108",
-    "value": "SPOOF"
+    "value": "НОМЕР"
   },
   {
     "oid": "1109",
-    "value": "FORUM"
+    "value": "СЛЕЗА"
   },
   {
     "oid": "1110",
-    "value": "BEARD"
+    "value": "РАЙОН"
   },
   {
     "oid": "1111",
-    "value": "WOUND"
+    "value": "ПРОЗА"
   },
   {
     "oid": "1112",
-    "value": "STACK"
+    "value": "КОНЕЦ"
   },
   {
     "oid": "1113",
-    "value": "LEVER"
+    "value": "СЕСТЬ"
   },
   {
     "oid": "1114",
-    "value": "HARDY"
+    "value": "ЕХАТЬ"
   },
   {
     "oid": "1115",
-    "value": "ANNOY"
+    "value": "ЧИСЛО"
   },
   {
     "oid": "1116",
-    "value": "NYLON"
+    "value": "ЛЕВЫЙ"
   },
   {
     "oid": "1117",
-    "value": "AMUSE"
+    "value": "СПОРТ"
   },
   {
     "oid": "1118",
-    "value": "PLANE"
+    "value": "МОЖНО"
   },
   {
     "oid": "1119",
-    "value": "RELAY"
+    "value": "ЧАСТЬ"
   },
   {
     "oid": "1120",
-    "value": "SPASM"
+    "value": "ШКОЛА"
   },
   {
     "oid": "1121",
-    "value": "WIDTH"
+    "value": "ГЛАВА"
   },
   {
     "oid": "1122",
-    "value": "SPOIL"
+    "value": "ЗАПАХ"
+  },
+  {
+    "oid": "1123",
+    "value": "ЗАВОД"
+  },
+  {
+    "oid": "1124",
+    "value": "ФИНАЛ"
+  },
+  {
+    "oid": "1125",
+    "value": "ГОРОД"
+  },
+  {
+    "oid": "1126",
+    "value": "ПРАВО"
+  },
+  {
+    "oid": "1127",
+    "value": "ЧАСТО"
+  },
+  {
+    "oid": "1128",
+    "value": "ВОВСЕ"
+  },
+  {
+    "oid": "1129",
+    "value": "КАРТА"
+  },
+  {
+    "oid": "1130",
+    "value": "ЛАТТЕ"
+  },
+  {
+    "oid": "1131",
+    "value": "СЛОВО"
+  },
+  {
+    "oid": "1132",
+    "value": "УЛИЦА"
+  },
+  {
+    "oid": "1133",
+    "value": "РАВНО"
+  },
+  {
+    "oid": "1134",
+    "value": "СТРАХ"
+  },
+  {
+    "oid": "1135",
+    "value": "ТОЧКА"
+  },
+  {
+    "oid": "1136",
+    "value": "БЛИНЫ"
+  },
+  {
+    "oid": "1137",
+    "value": "КОШКА"
+  },
+  {
+    "oid": "1138",
+    "value": "ПОЙТИ"
+  },
+  {
+    "oid": "1139",
+    "value": "МЕСЯЦ"
+  },
+  {
+    "oid": "1140",
+    "value": "ОГОНЬ"
+  },
+  {
+    "oid": "1141",
+    "value": "АВТОР"
+  },
+  {
+    "oid": "1142",
+    "value": "КРЫША"
+  },
+  {
+    "oid": "1143",
+    "value": "АРБУЗ"
+  },
+  {
+    "oid": "1144",
+    "value": "МЕСТО"
+  },
+  {
+    "oid": "1145",
+    "value": "НАРОД"
+  },
+  {
+    "oid": "1146",
+    "value": "ВОЙТИ"
+  },
+  {
+    "oid": "1147",
+    "value": "ГЕРОЙ"
+  },
+  {
+    "oid": "1148",
+    "value": "ТИХИЙ"
+  },
+  {
+    "oid": "1149",
+    "value": "ПУШОК"
+  },
+  {
+    "oid": "1150",
+    "value": "КАКОЙ"
+  },
+  {
+    "oid": "1151",
+    "value": "ВЫЙТИ"
+  },
+  {
+    "oid": "1152",
+    "value": "ЦЕЛЫЙ"
+  },
+  {
+    "oid": "1153",
+    "value": "ГОСТЬ"
+  },
+  {
+    "oid": "1154",
+    "value": "МЕНЕЕ"
+  },
+  {
+    "oid": "1155",
+    "value": "МИЛЫЙ"
+  },
+  {
+    "oid": "1156",
+    "value": "ВИШНЯ"
+  },
+  {
+    "oid": "1157",
+    "value": "ТОГДА"
+  },
+  {
+    "oid": "1158",
+    "value": "ЗАЧЕМ"
+  },
+  {
+    "oid": "1159",
+    "value": "СЕМЬЯ"
+  },
+  {
+    "oid": "1160",
+    "value": "СКОРО"
+  },
+  {
+    "oid": "1161",
+    "value": "ДОЖДЬ"
+  },
+  {
+    "oid": "1162",
+    "value": "ШКОЛЫ"
+  },
+  {
+    "oid": "1163",
+    "value": "ЗНАТЬ"
+  },
+  {
+    "oid": "1164",
+    "value": "МНОГО"
+  },
+  {
+    "oid": "1165",
+    "value": "ПУСТЬ"
+  },
+  {
+    "oid": "1166",
+    "value": "УМЕТЬ"
+  },
+  {
+    "oid": "1167",
+    "value": "СОРОК"
+  },
+  {
+    "oid": "1168",
+    "value": "ПТИЦА"
+  },
+  {
+    "oid": "1169",
+    "value": "ЛИМОН"
+  },
+  {
+    "oid": "1170",
+    "value": "ИМЕТЬ"
+  },
+  {
+    "oid": "1171",
+    "value": "ЛЮБОЙ"
+  },
+  {
+    "oid": "1172",
+    "value": "РАЗВЕ"
+  },
+  {
+    "oid": "1173",
+    "value": "КЛАСС"
+  },
+  {
+    "oid": "1174",
+    "value": "ВОРОТ"
+  },
+  {
+    "oid": "1175",
+    "value": "ОВОЩИ"
+  },
+  {
+    "oid": "1176",
+    "value": "САМЫЙ"
+  },
+  {
+    "oid": "1177",
+    "value": "СНОВА"
+  },
+  {
+    "oid": "1178",
+    "value": "СРЕДИ"
+  },
+  {
+    "oid": "1179",
+    "value": "ЗВАТЬ"
+  },
+  {
+    "oid": "1180",
+    "value": "РОМАН"
+  },
+  {
+    "oid": "1181",
+    "value": "ВВЕРХ"
+  },
+  {
+    "oid": "1182",
+    "value": "ТАКСИ"
+  },
+  {
+    "oid": "1183",
+    "value": "ВЗЯТЬ"
+  },
+  {
+    "oid": "1184",
+    "value": "НАЗАД"
+  },
+  {
+    "oid": "1185",
+    "value": "СМЫСЛ"
+  },
+  {
+    "oid": "1186",
+    "value": "ХУДОЙ"
+  },
+  {
+    "oid": "1187",
+    "value": "СОСЕД"
+  },
+  {
+    "oid": "1188",
+    "value": "СУМКA"
+  },
+  {
+    "oid": "1189",
+    "value": "ЧТОБЫ"
+  },
+  {
+    "oid": "1190",
+    "value": "ОПЯТЬ"
+  },
+  {
+    "oid": "1191",
+    "value": "ЖИВОЙ"
+  },
+  {
+    "oid": "1192",
+    "value": "НИКАК"
+  },
+  {
+    "oid": "1193",
+    "value": "ШЕСТЬ"
+  },
+  {
+    "oid": "1194",
+    "value": "ВОДКА"
+  },
+  {
+    "oid": "1195",
+    "value": "ЖАРКО"
+  },
+  {
+    "oid": "1196",
+    "value": "ДВЕРЬ"
+  },
+  {
+    "oid": "1197",
+    "value": "ДАВНО"
+  },
+  {
+    "oid": "1198",
+    "value": "ФОРМА"
+  },
+  {
+    "oid": "1199",
+    "value": "ЛЕГКО"
+  },
+  {
+    "oid": "1200",
+    "value": "СОВЕТ"
+  },
+  {
+    "oid": "1201",
+    "value": "БИЛЕТ"
+  },
+  {
+    "oid": "1202",
+    "value": "НИЧТО"
+  },
+  {
+    "oid": "1203",
+    "value": "ЖДАТЬ"
+  },
+  {
+    "oid": "1204",
+    "value": "ЗАТЕМ"
+  },
+  {
+    "oid": "1205",
+    "value": "ВОЛОС"
+  },
+  {
+    "oid": "1206",
+    "value": "СЛАТЬ"
+  },
+  {
+    "oid": "1207",
+    "value": "ФРОНТ"
+  },
+  {
+    "oid": "1208",
+    "value": "УЖАСЫ"
+  },
+  {
+    "oid": "1209",
+    "value": "ЗЕМЛЯ"
+  },
+  {
+    "oid": "1210",
+    "value": "ДОЛГО"
+  },
+  {
+    "oid": "1211",
+    "value": "ЛАДНО"
+  },
+  {
+    "oid": "1212",
+    "value": "ОКОЛО"
+  },
+  {
+    "oid": "1213",
+    "value": "ПОЕЗД"
+  },
+  {
+    "oid": "1214",
+    "value": "КОНЦЕ"
+  },
+  {
+    "oid": "1215",
+    "value": "ОЧЕНЬ"
+  },
+  {
+    "oid": "1216",
+    "value": "НАЙТИ"
+  },
+  {
+    "oid": "1217",
+    "value": "ВРОДЕ"
+  },
+  {
+    "oid": "1218",
+    "value": "ПЛОХО"
+  },
+  {
+    "oid": "1219",
+    "value": "МОЛЧА"
+  },
+  {
+    "oid": "1220",
+    "value": "МЕШОК"
+  },
+  {
+    "oid": "1221",
+    "value": "ГЕРОИ"
+  },
+  {
+    "oid": "1222",
+    "value": "ГОЛОС"
+  },
+  {
+    "oid": "1223",
+    "value": "СТЕНА"
+  },
+  {
+    "oid": "1224",
+    "value": "НЕМЕЦ"
+  },
+  {
+    "oid": "1225",
+    "value": "РУБЛЬ"
+  },
+  {
+    "oid": "1226",
+    "value": "ОРГАН"
+  },
+  {
+    "oid": "1227",
+    "value": "ТЕАТР"
+  },
+  {
+    "oid": "1228",
+    "value": "ПОСЛЕ"
+  },
+  {
+    "oid": "1229",
+    "value": "КНИГА"
+  },
+  {
+    "oid": "1230",
+    "value": "КРОВЬ"
+  },
+  {
+    "oid": "1231",
+    "value": "СЕРЫЙ"
+  },
+  {
+    "oid": "1232",
+    "value": "ВЧЕРА"
+  },
+  {
+    "oid": "1233",
+    "value": "КУЛАК"
+  },
+  {
+    "oid": "1234",
+    "value": "ПРИЁМ"
+  },
+  {
+    "oid": "1235",
+    "value": "БОЛЕЕ"
+  },
+  {
+    "oid": "1236",
+    "value": "КРОМЕ"
+  },
+  {
+    "oid": "1237",
+    "value": "ДОМОЙ"
+  },
+  {
+    "oid": "1238",
+    "value": "МУЖИК"
+  },
+  {
+    "oid": "1239",
+    "value": "СЛАВА"
+  },
+  {
+    "oid": "1240",
+    "value": "БАНАН"
+  },
+  {
+    "oid": "1241",
+    "value": "ЗДЕСЬ"
+  },
+  {
+    "oid": "1242",
+    "value": "ВЕЧЕР"
+  },
+  {
+    "oid": "1243",
+    "value": "СПАТЬ"
+  },
+  {
+    "oid": "1244",
+    "value": "СНЯТЬ"
+  },
+  {
+    "oid": "1245",
+    "value": "ТОЛПА"
+  },
+  {
+    "oid": "1246",
+    "value": "МЕТРО"
+  },
+  {
+    "oid": "1247",
+    "value": "МАСЛО"
   }
 ]
