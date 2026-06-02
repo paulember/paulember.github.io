@@ -24,7 +24,7 @@
   "qrCodeURL" :"https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/flip5/qrFlip5.png",
   "qrCodeURL2" : "https://raw.githubusercontent.com/paulember/paulember.github.io/main/src/data/oscarParty/QROscarDaily.png",
 
-  "dictionaryURL" :"https://www.dictionaryapi.com/api/v3/references/collegiate/json/",
+  "dictionaryURL" :"https://context.reverso.net/translation/russian-english/",
 
   "wordLength0" : 5,
   "wordLength1" : 5,
