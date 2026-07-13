@@ -876,141 +876,141 @@
   },
   {
     "oID": "126",
+    "team": "St. Louis Giants/Stars (NNL 1920-31)",
+    "nickname": "Giants",
+    "team_2": "na",
+    "team_3": "na"
+  },
+  {
+    "oID": "127",
     "team": "St. Louis Terriers (FL 1914-1915)",
     "nickname": "Terriers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "127",
+    "oID": "128",
     "team": "Tampa Bay Rays (1998-present)",
     "nickname": "Rays",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "128",
+    "oID": "129",
     "team": "Texas Rangers (1961-present)",
     "nickname": "Rangers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "129",
+    "oID": "130",
     "team": "Toronto Blue Jays (1977-present)",
     "nickname": "Blue Jays",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "130",
+    "oID": "131",
     "team": "Troy Haymakers (1871-72)",
     "nickname": "Haymakers",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "131",
+    "oID": "132",
     "team": "Washington Nationals (1969-present)",
     "nickname": "Nationals",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "132",
+    "oID": "133",
     "team": "Washington Olympics (NA 1871-72)",
     "nickname": "Olympics",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "133",
+    "oID": "134",
     "team": "Washington Senators (1901-1960)",
     "nickname": "Senators (01-60)",
     "team_2": "na",
     "team_3": "Minnesota Twins (1901-present)"
   },
   {
-    "oID": "134",
+    "oID": "135",
     "team": "Washington Senators (1961-1971)",
     "nickname": "Senators (61-71)",
     "team_2": "na",
     "team_3": "Texas Rangers (1961-present)"
   },
   {
-    "oID": "135",
+    "oID": "136",
     "team": "WBC Cuba",
     "nickname": "WBC Cuba",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "136",
+    "oID": "137",
     "team": "WBC Dominican Republic",
     "nickname": "WBC Dominican Republic",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "137",
+    "oID": "138",
     "team": "WBC Japan",
     "nickname": "WBC Japan",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "138",
+    "oID": "139",
     "team": "WBC Mexico",
     "nickname": "WBC Mexico",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "139",
+    "oID": "140",
     "team": "WBC Netherlands",
     "nickname": "WBC Netherlands",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "140",
+    "oID": "141",
     "team": "WBC Puerto Rico",
     "nickname": "WBC Puerto Rico",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "141",
+    "oID": "142",
     "team": "WBC South Korea",
     "nickname": "WBC South Korea",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "142",
+    "oID": "143",
     "team": "WBC USA",
     "nickname": "WBC USA",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "143",
+    "oID": "144",
     "team": "WBC Venezuela",
     "nickname": "WBC Venezuela",
     "team_2": "na",
     "team_3": "na"
   },
   {
-    "oID": "144",
+    "oID": "145",
     "team": "Winston-Salem Twins (1908-1912)",
     "nickname": "W-S Twins",
-    "team_2": "na",
-    "team_3": "na"
-  },
-  {
-    "oID": "145",
-    "team": "St Louis Giants",
-    "nickname": "Giants",
     "team_2": "na",
     "team_3": "na"
   }
